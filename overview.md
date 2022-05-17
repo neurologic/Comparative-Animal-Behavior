@@ -37,7 +37,7 @@ Can I get a list of "all behaviors" from the literature?
 1. Phylogeny
 2. Evolutionary (Adaptive Selection)
 3. Neural and Genetic (essential building blocks)
-4. Hormonal and Developmental (flexibility, modulation, seasonality, etc)</li>
+4. Hormonal and Developmental (flexibility, modulation, seasonality, etc)
 
 [Reed Biol website examples](https://www.reed.edu/biology/courses/BIO342/2016_pages/Webs2016.html)
 
@@ -45,6 +45,14 @@ Can I get a list of "all behaviors" from the literature?
 
 > Working through select examples from behavioral diversity to practice thinking about all levels of explanation for behavior in a comparative approach. Examples of techniques implemented in Animal Behavior studies at all levels. 
 
+### Competition and Defense.
+- Conflict
+- Territoriality 
+
+	- [Game theory tutorials](http://pages.nbb.cornell.edu/Gamebug/): Hawk Dove and Resident Intruder
+
+- Escape behavior
+- Collective Defense
 
 ### Scales of sociality.
 - Solitary
@@ -64,18 +72,11 @@ Can I get a list of "all behaviors" from the literature?
 - Navigation (Migration and Foraging)
 - [Irrational behavior in C. elegans](https://doi.org/10.1038/s41467-019-11163-3)
 
-### Competition and Defense.
-- Territoriality 
-
-	- [Game theory tutorials](http://pages.nbb.cornell.edu/Gamebug/): Hawk Dove and Resident Intruder
-
-- Escape behavior
-- Collective Defense
-
 ### Family life.
 - Mating systems
 - Sexual Selection
 
+	- [Tamra Mendelson on The Animal Behavior Podcast: Signal Evolution and Processing Bias](https://theanimalbehaviorpodcast.buzzsprout.com/1540180/10615918-s2e2-tamra-mendelson-on-signal-evolution-and-processing-bias)
 	- [The Evolution of Animal Communication: Ch3 Signaling When Interests Diverge](https://www.jstor.org/stable/pdf/j.ctt7s9pr.7.pdf?refreqid=excelsior%3A216a95f1f8983fe112d617ce52c0fc64&ab_segments=&origin=&acceptTC=1)
 
 - Parental Care

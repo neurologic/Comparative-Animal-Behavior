@@ -9,8 +9,33 @@ parts:
     - file: overview
     - file: syllabus
     - file: standards
-  - caption: Weekly Chapters
+  - caption: Schedule
     chapters:
-    - file: week-1/week-1
+    - file: schedule
+    - file: assignments
+  - caption: Observation and Analysis
+    chapters:
+    - file: observation-and-analysis/observation-and-analysis
       sections:
-        - file: week-1/observation
+        - file: observation-and-analysis/observation
+        - file: observation-and-analysis/analysis
+  - caption: Levels of Analysis
+    chapters:
+    - file: levels-of-analysis/levels-of-analysis
+      sections:
+        - file: levels-of-analysis/phylogeny
+        - file: levels-of-analysis/adaptation
+        - file: levels-of-analysis/neural-hormonal-genetic
+        - file: levels-of-analysis/development
+  - caption: Understanding Behavior
+    chapters:
+    - file: understanding-behavior/competition-and-defense
+      sections:
+        - file: understanding-behavior/conflict
+        - file: understanding-behavior/territoriality
+        - file: understanding-behavior/escape
+        - file: understanding-behavior/collective-defense
+    - file: understanding-behavior/scales-of-sociality
+      sections:
+        - file: understanding-behavior/cooperation
+        - file: understanding-behavior/eusociality

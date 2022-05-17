@@ -115,12 +115,12 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
-  Weekly Chapters
+  Observation and Analysis
  </span>
 </p>
 <ul class="nav bd-sidenav">
  <li class="toctree-l1 has-children">
-  <a class="reference internal" href="../week-1/week-1.html">
+  <a class="reference internal" href="../observation-and-analysis/observation-and-analysis.html">
    The observation of behavior
   </a>
   <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
@@ -130,8 +130,91 @@ const thebe_selector_output = ".output, .cell_output"
   </label>
   <ul>
    <li class="toctree-l2">
-    <a class="reference internal" href="../week-1/observation.html">
+    <a class="reference internal" href="../observation-and-analysis/observation.html">
      Observation
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../observation-and-analysis/analysis.html">
+     Analysis
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Levels of Analysis
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../levels-of-analysis/levels-of-analysis.html">
+   Levels of Analysis
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/phylogeny.html">
+     Phylogeny
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/adaptation.html">
+     Adaptation
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/neural-hormonal-genetic.html">
+     Neural, Hormonal, and Genetic
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/development.html">
+     Development
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Understanding Behavior
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../understanding-behavior/competition-and-defense.html">
+   Competition and Defense
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/conflict.html">
+     Conflict
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/territoriality.html">
+     Territoriality
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/escape.html">
+     Escape
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/collective-defense.html">
+     Collective Defense
     </a>
    </li>
   </ul>
@@ -218,19 +301,6 @@ const thebe_selector_output = ".output, .cell_output"
         <!-- Table of contents -->
         <div class="d-none d-md-block col-md-2 bd-toc show noprint">
             
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#chemotaxis-neural-network-model">
-   Chemotaxis neural network model
-  </a>
- </li>
-</ul>
-
-            </nav>
         </div>
     </div>
 </div>
@@ -243,19 +313,6 @@ const thebe_selector_output = ".output, .cell_output"
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
-                        <div>
-                            <h2> Contents </h2>
-                        </div>
-                        <nav aria-label="Page">
-                            <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#chemotaxis-neural-network-model">
-   Chemotaxis neural network model
-  </a>
- </li>
-</ul>
-
-                        </nav>
                     </div>
                 </div>
             </div>
@@ -264,11 +321,6 @@ const thebe_selector_output = ".output, .cell_output"
                 
   <div class="tex2jax_ignore mathjax_ignore section" id="c-elegans">
 <h1>C. elegans<a class="headerlink" href="#c-elegans" title="Permalink to this headline">¶</a></h1>
-<div class="section" id="chemotaxis-neural-network-model">
-<h2><a class="reference external" href="https://doi.org/10.1109/IntelliSys.2015.7361212">Chemotaxis neural network model</a><a class="headerlink" href="#chemotaxis-neural-network-model" title="Permalink to this headline">¶</a></h2>
-<p>Abstract:
-The nematode Caenorhabditis elegans (C. elegans) is a simple multi-cellular organism consisting of around 1,000 cells including 302 neurons, and is the only creature whose connectome has been fully mapped. For these reasons, (C. elegans) is ideal for studying information-processing mechanisms embedded in the neural network. This paper proposes a neural network model of C. elegans with the actual neural structure preserved to simulate the organism’s attraction to sodium chloride (NaCl). To implement attractant behavior, the organism’s neural network must calculate the temporal and spatial gradients of NaCl concentration; however, the mechanism behind this complex information processing in the worm’s neural network has not yet been fully elucidated. As a first step to analyze the information processing mechanism, the parameters of the neural network model were adjusted using the backpropagation through time (BPTT) algorithm, and the neural network model was verified for its ability to generate temporal and spatial gradients. Simulation for neuron ablation experiment was then carried out, and the results exhibited same trends as the biological experiment indicating that our approach can be used to predict the results of biological experiments, and can therefore be used as a tool to provide guidelines for such experiments.)</p>
-</div>
 </div>
 
     <script type="text/x-thebe-config">
