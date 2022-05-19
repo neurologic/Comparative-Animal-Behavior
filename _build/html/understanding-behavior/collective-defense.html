@@ -76,6 +76,11 @@ const thebe_selector_output = ".output, .cell_output"
         <div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="../index.html">
       
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="../_static/ABcover.jpg" class="logo" alt="logo">
       
       
       <h1 class="site-logo" id="site-title">Comparative Animal Behavior</h1>
@@ -100,27 +105,10 @@ const thebe_selector_output = ".output, .cell_output"
 </p>
 <ul class="nav bd-sidenav">
  <li class="toctree-l1">
-  <a class="reference internal" href="../overview.html">
-   Overview
-  </a>
- </li>
- <li class="toctree-l1">
   <a class="reference internal" href="../syllabus.html">
    Syllabus
   </a>
  </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="../standards.html">
-   Standards
-  </a>
- </li>
-</ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Schedule
- </span>
-</p>
-<ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="../schedule.html">
    Schedule
@@ -134,31 +122,19 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
-  Observation and Analysis
+  Describing Behavior
  </span>
 </p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="../observation-and-analysis/observation-and-analysis.html">
-   The observation of behavior
+ <li class="toctree-l1">
+  <a class="reference internal" href="../observation-and-analysis/observation.html">
+   Observation
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
-  <label for="toctree-checkbox-1">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="../observation-and-analysis/observation.html">
-     Observation
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="../observation-and-analysis/analysis.html">
-     Analysis
-    </a>
-   </li>
-  </ul>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../observation-and-analysis/analysis.html">
+   Analysis
+  </a>
  </li>
 </ul>
 <p aria-level="2" class="caption" role="heading">
@@ -167,37 +143,25 @@ const thebe_selector_output = ".output, .cell_output"
  </span>
 </p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="../levels-of-analysis/levels-of-analysis.html">
-   Levels of Analysis
+ <li class="toctree-l1">
+  <a class="reference internal" href="../levels-of-analysis/phylogeny.html">
+   Phylogeny
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
-  <label for="toctree-checkbox-2">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="../levels-of-analysis/phylogeny.html">
-     Phylogeny
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="../levels-of-analysis/adaptation.html">
-     Adaptation
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="../levels-of-analysis/neural-hormonal-genetic.html">
-     Neural, Hormonal, and Genetic
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="../levels-of-analysis/development.html">
-     Development
-    </a>
-   </li>
-  </ul>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../levels-of-analysis/adaptation.html">
+   Adaptation
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../levels-of-analysis/neural-hormonal-genetic.html">
+   Neural, Hormonal, and Genetic
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../levels-of-analysis/development.html">
+   Development
+  </a>
  </li>
 </ul>
 <p aria-level="2" class="caption" role="heading">
@@ -210,8 +174,8 @@ const thebe_selector_output = ".output, .cell_output"
   <a class="reference internal" href="competition-and-defense.html">
    Competition and Defense
   </a>
-  <input checked="" class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
-  <label for="toctree-checkbox-3">
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -242,8 +206,8 @@ const thebe_selector_output = ".output, .cell_output"
   <a class="reference internal" href="scales-of-sociality.html">
    Scales of Sociality
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
-  <label for="toctree-checkbox-4">
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -256,6 +220,102 @@ const thebe_selector_output = ".output, .cell_output"
    <li class="toctree-l2">
     <a class="reference internal" href="eusociality.html">
      Eusociality
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="to-stay-or-go.html">
+   To Stay or Go
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="attractive-aversive.html">
+     Attraction and Aversion
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="locomotion.html">
+     Locomotion
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="cpg.html">
+     Central Pattern Generators
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="navigation.html">
+     Navigation
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="family-life.html">
+   Family Life
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <label for="toctree-checkbox-4">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="mating-systems.html">
+     Mating Systems
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="sexual-selection.html">
+     Sexual Selection
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="parental-care.html">
+     Parental Care
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="communication.html">
+   Communication
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
+  <label for="toctree-checkbox-5">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="communication-circuits.html">
+     Neural Circuits
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="communication-overlapping-interests.html">
+     Overlapping Interests
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="communication-mating.html">
+     Mating
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="communication-competition.html">
+     Competition
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="communication-eavesdropping.html">
+     Eavesdropping
     </a>
    </li>
   </ul>
@@ -352,6 +412,11 @@ const thebe_selector_output = ".output, .cell_output"
    Reading
   </a>
  </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#raw-data">
+   Raw Data
+  </a>
+ </li>
 </ul>
 
             </nav>
@@ -375,6 +440,11 @@ const thebe_selector_output = ".output, .cell_output"
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#reading">
    Reading
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#raw-data">
+   Raw Data
   </a>
  </li>
 </ul>
@@ -402,6 +472,30 @@ const thebe_selector_output = ".output, .cell_output"
 </li>
 <li><p><a class="reference external" href="https://bookdown.org/djc426/behaviouR-R-package-tutorials/field-lab-4-vigilance-behavior.html">vigilance behavior lab</a></p></li>
 </ul>
+<hr>
+<p>Do you think meerkats will be more or less vigilant in the presence of predators? Will their behavior vary depending on the type of predator?</p>
+<p>Videos for Meerkat analysis</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://vimeo.com/80600822">No Predator</a></p></li>
+<li><p><a class="reference external" href="https://vimeo.com/80600821">Simulated Aerial Predator</a></p></li>
+<li><p><a class="reference external" href="https://vimeo.com/71877438">Simulated Terrestrial Predator</a></p></li>
+</ul>
+<p>Set a timer to go off every 10 seconds, and at each interval record the number of meerkats performing each behavior. We will use a modified ethogram that includes only three categories: vigilant, not vigilant or out of site.</p>
+<p>Vigilant: Head raised at or above horizontal plain and eyes open (to include scanning /guarding / raised guarding). Not Vigilant: Eyes closed or head lower than horizontal plane (to include foraging, moving, sleeping, resting). Out of sight: Not visible by the researcher</p>
+<hr>
+</div>
+<div class="section" id="raw-data">
+<h2>Raw Data<a class="headerlink" href="#raw-data" title="Permalink to this headline">¶</a></h2>
+<p>From <a class="reference external" href="https://github.com/DenaJGibbon/behaviouR">behavioR package</a> with the following script to convert to csv:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>!pip install rdata
+import rdata
+import pandas as pd
+path = &#39;/content/MeerkatScanData.rda&#39;
+parsed = rdata.parser.parse_file(path)
+converted = rdata.conversion.convert(parsed)
+converted[&#39;MeerkatScanData&#39;].to_csv(&#39;MeerkatScanData.csv&#39;)
+</pre></div>
+</div>
 </div>
 </div>
 

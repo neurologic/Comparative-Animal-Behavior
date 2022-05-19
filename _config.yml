@@ -3,7 +3,7 @@
 
 title: Comparative Animal Behavior
 author: Dr. Krista Perks
-logo: images/ABcover.png
+logo: images/ABcover.jpg
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

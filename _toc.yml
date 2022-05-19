@@ -6,27 +6,19 @@ root: intro
 parts:
   - caption: General
     chapters:
-    - file: overview
     - file: syllabus
-    - file: standards
-  - caption: Schedule
-    chapters:
     - file: schedule
     - file: assignments
-  - caption: Observation and Analysis
+  - caption: Describing Behavior
     chapters:
-    - file: observation-and-analysis/observation-and-analysis
-      sections:
-        - file: observation-and-analysis/observation
-        - file: observation-and-analysis/analysis
+    - file: observation-and-analysis/observation
+    - file: observation-and-analysis/analysis
   - caption: Levels of Analysis
     chapters:
-    - file: levels-of-analysis/levels-of-analysis
-      sections:
-        - file: levels-of-analysis/phylogeny
-        - file: levels-of-analysis/adaptation
-        - file: levels-of-analysis/neural-hormonal-genetic
-        - file: levels-of-analysis/development
+    - file: levels-of-analysis/phylogeny
+    - file: levels-of-analysis/adaptation
+    - file: levels-of-analysis/neural-hormonal-genetic
+    - file: levels-of-analysis/development
   - caption: Understanding Behavior
     chapters:
     - file: understanding-behavior/competition-and-defense
@@ -39,3 +31,21 @@ parts:
       sections:
         - file: understanding-behavior/cooperation
         - file: understanding-behavior/eusociality
+    - file: understanding-behavior/to-stay-or-go
+      sections:
+        - file: understanding-behavior/attractive-aversive
+        - file: understanding-behavior/locomotion
+        - file: understanding-behavior/cpg
+        - file: understanding-behavior/navigation
+    - file: understanding-behavior/family-life
+      sections:
+        - file: understanding-behavior/mating-systems
+        - file: understanding-behavior/sexual-selection
+        - file: understanding-behavior/parental-care
+    - file: understanding-behavior/communication
+      sections:
+        - file: understanding-behavior/communication-circuits
+        - file: understanding-behavior/communication-overlapping-interests
+        - file: understanding-behavior/communication-mating
+        - file: understanding-behavior/communication-competition
+        - file: understanding-behavior/communication-eavesdropping
