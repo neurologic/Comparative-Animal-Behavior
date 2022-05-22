@@ -1,0 +1,2067 @@
+CLUSTAL multiple sequence alignment by MUSCLE (3.8)
+
+
+homo-sapien                GATCACAGGTCTATCACCCTATTAACCACTCACGGGAGCTCTCCATGCATTTGGTATTTT
+pan-troglodytes            ------------------------------------------------------------
+peromyscus-polionotus      ACAATAAGGTTAATGATTCTTAAGACA---------------------------------
+castor-canadensis          ------------------------------------------------------------
+fukomys-damarensis         ------------------------------------------------------------
+                                                                                       
+
+homo-sapien                CGTCTGGGGGGTATGCACGCGATAGCATTGCGAGACGCTGGAGCCGGAGCACCCTATGTC
+pan-troglodytes            ------------------------------------------------------------
+peromyscus-polionotus      ------------------------------------------------------------
+castor-canadensis          ------------------------------------------------------------
+fukomys-damarensis         ------------------------------------------------------------
+                                                                                       
+
+homo-sapien                GCAGTATCTGTCTTTGATTCCTGCCTCATCCTATTATTTATCGCACCTACGTTCAATATT
+pan-troglodytes            ------------------------------------------------------------
+peromyscus-polionotus      ------------------------------------------------------------
+castor-canadensis          ------------------------------------------------------------
+fukomys-damarensis         ------------------------------------------------------------
+                                                                                       
+
+homo-sapien                ACAGGCGAACATACTTACTAAAGTGTGTTAATTAATTAATGCTTGTAGGACATAATAATA
+pan-troglodytes            ------------------------------------------------------------
+peromyscus-polionotus      -----------------------------TATTAATTAATGTTTCTTAGACATAAATATT
+castor-canadensis          ------------------------------------------------------------
+fukomys-damarensis         ------------------------------------------------------------
+                                                                                       
+
+homo-sapien                ACAATTGAATGTCTGCACAGCCACTTTCCACACAGACATCATAACAAAAAATTTCCACCA
+pan-troglodytes            ------------------------------------------------------------
+peromyscus-polionotus      ACTGTTT----------------------------------CAACCTATACCCTTATCAA
+castor-canadensis          ------------------------------------------------------------
+fukomys-damarensis         ------------------------------------------------------------
+                                                                                       
+
+homo-sapien                AACCCCCCCTCCCCCGCTTCTGGCCACAGCACTTAAACACATCTCTGCCAAACCCCAAAA
+pan-troglodytes            ------------------------------------------------------------
+peromyscus-polionotus      ACCCCCCCCTTCCCC--------CCACCTAAATTTTCCTATTCCATGACAAACCCCAAAA
+castor-canadensis          ------------------------------------------------------------
+fukomys-damarensis         ------------------------------------------------------------
+                                                                                       
+
+homo-sapien                ACAAAGAACCCTAAC----------------------ACCAGCCTAACCAGATTTCAAAT
+pan-troglodytes            ------------------------------------------------------------
+peromyscus-polionotus      GCATGAAACTCAACTTAGGCTCCCACACATTCTAGTAATCTACAAAACAAGACTTCAAAT
+castor-canadensis          ------------------------------------------------------------
+fukomys-damarensis         ------------------------------------------------------------
+                                                                                       
+
+homo-sapien                TTTATCTTTTGGCGGTATGCACTTTTAACAGTCACCCCCCAACTAACACATTATTTTCCC
+pan-troglodytes            ------------------------------------------------------------
+peromyscus-polionotus      TTAGCATTGGGAAAATTTTTATACGTA---------------------------------
+castor-canadensis          ------------------------------------------------------------
+fukomys-damarensis         ------------------------------------------------------------
+                                                                                       
+
+homo-sapien                CTCCCACTCCCATACTACTAATCTCATCAATACAACCCCCGCCCATCCTACCCAGCACAC
+pan-troglodytes            ------------------------------------------------------------
+peromyscus-polionotus      -------------------------------------------------------CACCC
+castor-canadensis          ------------------------------------------------------------
+fukomys-damarensis         ------------------------------------------------------------
+                                                                                       
+
+homo-sapien                ACACACCGCTGCTAACCCCATACCCCGAACCAACCAAACCCCAAAGACACCCCCCACA--
+pan-troglodytes            ------------------------------------------------------------
+peromyscus-polionotus      CCTCAATGCTTTTTATTAATTAACATAAAATCGCTCAACATTAGTGGTACATTATACATA
+castor-canadensis          ------------------------------------------------------------
+fukomys-damarensis         ------------------------------------------------------------
+                                                                                       
+
+homo-sapien                --GTTTATGTAGCTTACCTCCTCAAAGCAATACACTGAAAATGTTTAGACGGGCTCACAT
+pan-troglodytes            --GTTTATGTAGCTTACCCCCTCAAAGCAATACACTGAAAATGTTTCGACGGGTTTACAT
+peromyscus-polionotus      CAGCTTATGTAGCTTA--TCAATAAAGCAAAGCACTGAAAATGCTTAGATGGA-TAGTAT
+castor-canadensis          --GTTAATGTAGCTTA-TATACCAAAGCAAGGCACTGAAAATGCCTAGATGGA-TTACAT
+fukomys-damarensis         --GTTGATGTAGCTTA--ACTTTAAAGCAAGGCACTGAAAATGCCTAGATGAA-TTAACC
+                             * * **********       *******  ***********  * ** *   *     
+
+homo-sapien                CACCCCATAAACAA--ATAGGTTTGGTCCTAGCCTTTCTATTAGCTCTTAGTAAGATTAC
+pan-troglodytes            CACCCCATAAACAA--ACAGGTTTGGTCCTAGCCTTTCTATTAGCTCTTAGTAAGATTAC
+peromyscus-polionotus      TATCCCATAAACACA-AAAGGTTTGGTCCTGGCCTTATAGTTAGTTAGAGGTAAAATTAC
+castor-canadensis          AATCCCATAAACAAGTAAAGGTTTGGTCCTAGCCTTTTTATTGGTTTTCAGTGAAATTAT
+fukomys-damarensis         AATTCCATAAACAC--AAATGCTTGGTCCTGGCTTTTTTATTAGTTTAGCGCAAAATTAT
+                            *  *********   * * * ******** ** **    ** * *    *  * **** 
+
+homo-sapien                ACATGCAAGCATCCCCGTTCCAGTGAGTTCACCCTCTAAATCACCAC--GATCAAAAGGA
+pan-troglodytes            ACATGCAAGCATCCCCGCCCC-GTGAGT-CACCCTCTAAATCGCCAT--GATCAAAAGGA
+peromyscus-polionotus      ACATGCAAAAATCCGTAAACCAGTGTCAAATCCCCTAAAGCTTTATTCAAAGCCTAGGGA
+castor-canadensis          ACATGCAAATATCCGTGCCCCAGTGAGTACGCCCTCTAAGTCT--AACAGACCAAAAGGA
+fukomys-damarensis         ACATGCAAGTCTCCCCCCGCCAGTGAGAATGCCCTTGAAATCTTAAACTGACAAAAAGGA
+                           ********   ***     ** ***      ***   **           *    * ***
+
+homo-sapien                ACAAGCATCAAGCACGCAGCAA-TGCAGCTCAAAACGCTTAGCCTAGCCACACCCCCACG
+pan-troglodytes            ACAAGTATCAAGCACGCAGCAA-TGCAGCTCAAAACGCTTAGCCTAGCCACACCCCCACG
+peromyscus-polionotus      GAGGGCATCAAGTACATACAA--TATAGCTAAAGACGTCTTGCCTAGCCACGCCCCCACG
+castor-canadensis          GCAAGCATCAAGCACACAAAACTTGTAGCTAATGACGCTTTGCCTTGCCACACCCCCACG
+fukomys-damarensis         GCGGGTATCAAGTACACTACCA-AGTAGCTCAAGACACCTTGCTTAGCCACACCCCCACG
+                               * ****** **           **** *  **   * ** * ***** ********
+
+homo-sapien                GGAAACAGCAGTGATTAACCTTTAGCAATAAACGAAAGTTTAACTAAGCTATACTAACCC
+pan-troglodytes            GGAGACAGCAGTGATAAACCTTTAGCAATAAACGAAAGTTTAACTAAGCCATACTAACCT
+peromyscus-polionotus      GGACTCAGCAGTGATAAAAATTAAGCAATGAACGAAAGTTTGACTAAGTTATACCTCTCA
+castor-canadensis          GGATACAGCAGTAATAAAAATTAAGCAATAAACGAAAGTTTGACTTAGTTACACTGACTA
+fukomys-damarensis         GGAAACAGCAGTAATTAATATTAAGCAATGAACGAAAGTTTGACTTAATTATGCAATCAA
+                           ***  ******* ** **  ** ****** *********** *** *   *  *      
+
+homo-sapien                --CAGGGTTGGTCAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAA-TA
+pan-troglodytes            --CAGGGTTGGTCAATTTCGTGCTAGCCACCGCGGTCATACGATTAACCCAAGTCAA-TA
+peromyscus-polionotus      ---AGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAATTAATTA
+castor-canadensis          --CAGGGTTGGTAAATATCGTGCCAGCCACCGCGGTCATACGATAGACCCAAACTAA-TA
+fukomys-damarensis         ACTAGGGTTGGTAAATATCGTGCCAGCCACCGCGGTTATACGATTAACCCAAATTAA-TA
+                              ********* *** ****** ************ * *****  ******   ** **
+
+homo-sapien                GAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTG
+pan-troglodytes            GAAACCGGCGTAAAGAGTGTTTTAGATCACCCCC-C---CATAAAGCTAAAATTCACCTG
+peromyscus-polionotus      TTATACGGCGTAAAACGTGTCCATAGGAAACAAC-C---AATAGAATTAAAAACCAACCA
+castor-canadensis          AACCCCGGCGTAAAGCGTGTTTAAGAATATCCAC-CCTCAATAAGGATAAACTTGACCTA
+fukomys-damarensis         AAACCCGGCGTAAAGGGTGTTTAGGGAAAATAAT-C-AGACTAAGATTAAATTCTATCTA
+                                *********  ****        *      *     **    ****    * *  
+
+homo-sapien                AGTTGTAAAAAACTCCAGTT-GACACAAA------ATAGACTACGAAAGTGGCTTT--AA
+pan-troglodytes            AGTTGTAAAAAACTCCAGCT-GATACAAA------ATAAACTACGAAAGTGGCTTT--AA
+peromyscus-polionotus      ATATGTGAAAATTCATCGTTGGAATTAAA------ACCAATAACGAAAGTAATTCT--AA
+castor-canadensis          AGCTGTAAAAAGCTATAGTTGAAGAAAAA------ATAACCCACGAAAGTGATCTTAAAA
+fukomys-damarensis         GGTCGTAAAAAACTTCAGAT-AAGACAAACCCACTACTATCTACGAAAGTAATCTT--AA
+                               ** ****      * *  *   ***      *      ********     *  **
+
+homo-sapien                CATATCTGAACACACAATAGCTAAGACCCAAACTGGGATTAGATACCCCACTATGCTTAG
+pan-troglodytes            CACATCTGAATACACAATAGCTAAGACCCAAACTGGGATTAGATACCCCACTATGCTTAG
+peromyscus-polionotus      TTAA-CTTAATACACGATAGCTAAGATCCAAACTGGGATTAGATACCCCACTATGCTTAG
+castor-canadensis          TAAATCTGATAACACGACAGCTAAGACCCAAACTGGGATTAGATACCCCACTATGCTTAG
+fukomys-damarensis         CAAACCTGAACACACGACAGCTATGGTTCAAACTGGGATTAGATACCCCACTATGCTTAG
+                              * ** *  **** * ***** *   ********************************
+
+homo-sapien                CCCTAAACCTCAACAGTTAAA-TCAACAAAACTGCTCGCCAGAACACTACGAGCCACAGC
+pan-troglodytes            CCCTAAACTTCAACAGTTAAA-TTAACAAAACTGCTCGCCAGAACACTACGAGCCACAGC
+peromyscus-polionotus      CCCTAAACCTTAAAGATTAAA--TAACAAAATCATTTGCCTGAGAACTACTGGCCATCGC
+castor-canadensis          CCGTAAACTTAGATATGTAAACCTAACAAACATATTCGCCAGAGAACTACTAGCAATTGC
+fukomys-damarensis         CCGTAAACATAAAATATTATA-ACAACAAAATATTTCGCCAGAGAACTACTAGCAACAGC
+                           ** ***** *  *    ** *   ******     * *** **  *****  ** *  **
+
+homo-sapien                TTAAAACTCAAAGGACCTGGCGGTGCTTCATATCCCTCTAGAGGAGCCTGTTCTGTAATC
+pan-troglodytes            TTAAAACTCAAAGGACCTGGCGGTGCTTCATATCCCTCTAGAGGAGCCTGTTCTGTAATC
+peromyscus-polionotus      TTAAAACTCAAAGGACTTGGCGGTACTTTATATCCGTCTAGAGGAGCCTGTTCTATAATC
+castor-canadensis          TTAAAACTCAAAGGACTTGGCGGTGCTTTATATCCATCTAGAGGAGCCTGTTCTATAATC
+fukomys-damarensis         TTAAAACTCAAAGGACTTGACGGTGCTTTAAACCCATCTAGAGGAGCCTGTTCTATAATC
+                           **************** ** **** *** * * ** ****************** *****
+
+homo-sapien                GATAAACCCCGATCAACCTCACCACCTCTTGC----TCAGCCTATATACCGCCATCTTCA
+pan-troglodytes            GATAAACCCCGATCAACCTCACCGCCTCTTGC----TCAGCCTATATACCGCCATCTTCA
+peromyscus-polionotus      GATAAACCCCGTTATACCTCACCACCCCTTGCTAATTCAGCCTATATACCGCCATCTTCA
+castor-canadensis          GATAAACCCCGATTCACCTCACCATCTCTTGCTAAGTCAGCCTATATACCGCCATCTTCA
+fukomys-damarensis         GATAAACCCCGTTAAACCTCACCATTTCTGGCTACTTCAGTCTATATACCGCCATCTTCA
+                           *********** *  ********    ** **    **** *******************
+
+homo-sapien                GCAAACCCTGATGAAGGCTACA-AAGTAAGCGCAAGTAC-CCACGTAAAGACGTTAGGTC
+pan-troglodytes            GCAAACCCTGATGAAGGTTACA-AAGTAAGCACAAGTAC-CCACGTAAAGACGTTAGGTC
+peromyscus-polionotus      GCAAACCTTAA--AAAGGAATAAAAGTAAGCAAGAGAAT-CTCCATAAAAACGTTAGGTC
+castor-canadensis          GCAAACCCTAATTAAGGCACTCTAAGTAAGCCAAAACATACAACATAAAAACGTTAGGTC
+fukomys-damarensis         GCGAACCTCTA--CAGGGGACAAAAGTAAGCTCAAGTAC-TATCATAAAAACGTTAGGTC
+                           ** ****   *   * *      ********   *  *     * **** **********
+
+homo-sapien                AAGGTGTAGCCCATGAGGTGGCAAGAAATGGGCTACATTTTCTACCCC--AGAAAACT-A
+pan-troglodytes            AAGGTGTAGCCTATGAGGTGGCAAGAAATGGGCTACATTTTCTACCCC--AGAAAATT-A
+peromyscus-polionotus      AAGGTGTAGCTTATGAGGTGGAAAGCAATGGGCTACATTTTCTTAAAA--AGAACATT-A
+castor-canadensis          AAGGTGTAGCCAATGAGGTGGGAAGAAATGGGCTACATTTTCTTGCCCTAAGAAAACTAA
+fukomys-damarensis         AAGGTGTAACCAATGAAATGGGAAGAAATGGGCTACATTTTCTTATCC-AAGAACATAAA
+                           ******** *  ****  *** *** *****************       **** *   *
+
+homo-sapien                CGATAGCCCTTATGAAACTTAAGGGTCGAAGGTGGATTTAGCAGTAAACTAAGAGTAGAG
+pan-troglodytes            CGATAACCCTTATGAAACCTAAGGGTCAAAGGTGGATTTAGCAGTAAACTAAGAGTAGAG
+peromyscus-polionotus      CGATACCCTTATTGAAACATAAGGACA-AAGGAGGATTTAGTAGTAAATTAAGAATAGAG
+castor-canadensis          CGGAAACTCTTATGAAACTGAAGAGGATAAGGAGGATTTAGCAGTAAATTGAACTTAGAA
+fukomys-damarensis         CGACAGTTACCATGAAATCTGATAACACAAGGTGGATTTAGTAGTAAAACAAGAATAGAG
+                           **  *       *****    *      **** ******** ******   *   **** 
+
+homo-sapien                TGCTTAGTTGAACAGGGCCCTGAAGCGCGTACACACCGCCCGTCACCCTCCTCAA-GTAT
+pan-troglodytes            TGCTTAGTTGAACAGGGCCCTGAAGCGCGTACACACCGCCCGTCACCCTCCTCAA-GTAT
+peromyscus-polionotus      AGCTTAATTGAATAGCGCAATGAAGTACGTACACACCGCCCGTCACCCTCCTCAAATTAA
+castor-canadensis          AGCTCAATTGAACTGAGCAATGAAGCACGCACACACCGCCCGTCACCCTCCTCAA--TAT
+fukomys-damarensis         AGCTTGTTTGAACATGGCCATGAAGCACGCACACACCGCCCGTCACCCTCCTTAAACTCT
+                            ***   *****    **  *****  ** ********************** **  *  
+
+homo-sapien                ACTTCAAAGGACATTTAACTAAAACC-CCTACGCATTTATATAGAGGAGACAAGTCGTAA
+pan-troglodytes            ACTTCAAAGGATACTTAACTTAAACCCCCTACGTATTTATATAGAGGAGATAAGTCGTAA
+peromyscus-polionotus      ATGATTAACTAAACCTATACATAATATTTAATATAGTTTATGAGAGGAGATAAGTCGTAA
+castor-canadensis          TTTTAATACTAAGCCTACAT-AAGCTGCCACCACAAAAATTAAGAGGAGATAAGTCGTAA
+fukomys-damarensis         AAAGACTAACAATACTATATTAAACAGTCAACATGG--AACTAAAGGAGACAAGTCGTAA
+                                  *  *    **     *                   * ****** *********
+
+homo-sapien                CATGGTAAGTGTACTGGAAAGTGCACTTGGACGAACCAGAGTGTAGCTTAA----CACAA
+pan-troglodytes            CATGGTAAGTGTACTGGAAAGTGCACTTGGACGAACCAGAGTGTAGCTTAA----CATAA
+peromyscus-polionotus      CAAGGTAAGCATACTGGAAAGTGTGCTTGGAACAACCACAGCGTAGCTTAACTCACATAA
+castor-canadensis          CAAGGTAAGCATACTGGAAAGTGTGCTTGGAAC-ATCAAAATGTAGCTTAGC---CACAA
+fukomys-damarensis         CAAGGTAAGCATACTGGAAAGTGTGCTTGGACAAA-CAAAACGTAGCTTAA-----GAAA
+                           ** ******  ************  ******   * ** *  ********        **
+
+homo-sapien                AGCACCCAACTTACACTTAGGAGATTTC-AACTTAACTTGACCGCTCTGAGC-------T
+pan-troglodytes            AGCACCCAACTTACACTTAGGAGATTTC-AACTCAACTTGACCACTCTGAGC-------C
+peromyscus-polionotus      AGCATCTGGCCTACACCCAGAAGACTCCTAAAATAA--AGGACGCTTTGAGCAATTATTC
+castor-canadensis          AGCATCTGGCCTACACCCAGAAGACTTC--ACACAA--TGAACATTTTGAGC-------C
+fukomys-damarensis         AGCATCTAGCTTACACCTAGAAGACATCATGATTA---TGATCGATTTGAAC-------T
+                           **** *   * *****  ** ***   *      *    *  *  * *** *        
+
+homo-sapien                AAACCTAGCCCCAAACCCACTCCACCTTACTACCAGACAACCTTAGCCAAACCATTTACC
+pan-troglodytes            AAACCTAGCCCCAAACCCCCTCCACCCTACTACCAAACAACCTTAACCAAACCATTTACC
+peromyscus-polionotus      AGCCCTAACCCAATA-----CAAACACAACTATTCCAGTTAATAAATTAAAACATTTACT
+castor-canadensis          AATTCTAGCCCAAAAACCAACAACCACAACTACATAAAACCAACAAATAAAACATTCACC
+fukomys-damarensis         AACGCTAGCCCAAACTATCGCCAATA-AACTAATTCACTATTTAAAATAAAACATTCACA
+                           *   *** *** *               ****    *       *   *** **** ** 
+
+homo-sapien                CAA--ATAAAGTATAGGCGATAGAAATTGAAACC-TGGCGCAATAGATA-TAGTACCGCA
+pan-troglodytes            CAA--ATAAAGTATAGGCGATAGAAATTGTAAAC-CGGCGCAATAGACA-TAGTACCGCA
+peromyscus-polionotus      GCA--TAGAAGTATTAGAGAAAGAAACTTTTAAT-AGGAGCTATAGAGATTAGTACCGCA
+castor-canadensis          AAATTGTAAAGTATAGGTGATAGAAATACATACCACGGAGCCATAGAGC-CAGTACCGCA
+fukomys-damarensis         CAG--AAAAAGTATAGGAGATAGAAATTTATCCA-CGGAGCCATAGAAA-AAGTACCGCA
+                                   ******  * ** *****          ** ** *****    *********
+
+homo-sapien                AGGGAAAGATGAAA-AATTATAACCAAGCATAATATAGCAAGGACTAACCCCTATACCTT
+pan-troglodytes            AGGGAAAGATGAAA-AATTATACCCAAGCATAATACAGCAAGGACTAACCCCTGTACCTT
+peromyscus-polionotus      AGGGAAGAATAAAACA--CAAGTAAAAGCACAAATAAGCAAAGATTAAACCTTGTACCTT
+castor-canadensis          AGGGAAAGATGAAA-GATTAACTCAAAGCACTAAAAAGCAAAGATTACACCTTGTACCTT
+fukomys-damarensis         AGGGAAAGATGAAATAATTAATTCACAGTACAACAAAGCATAGATTGACCCTATTACCTT
+                           ******  ** ***     *      ** *  *   ****  ** *   **   ******
+
+homo-sapien                CTGCATAATGAATTAACTAGAAATAACTTTGCAAGGAGAGCCAAAGCTAAGACCCCCGAA
+pan-troglodytes            TTGCATAATGAATTAACTAGAAATAACTTTGCAAAGAGAACCAAAGCTAAGACCCCCGAA
+peromyscus-polionotus      TTGCATAATGAATTAACTAGAAAACATCTAACTAAAAGAACTTCAGCTAGAAACCCCGAA
+castor-canadensis          TCGCATAATGATTTAACTAGAAAAAGCTTAACACAGAGAACTTC-GCTAAGCACCCCGAA
+fukomys-damarensis         TTGCATCATGAATTAACTAGAAACATATTTACAAAAAGCCCCTGTGTAAATAACCCCGAA
+                             **** **** ***********     *  *    **  *    *  *    *******
+
+homo-sapien                ACCAGACGAGCTACCTAAGAACAGCTA--AAAGAGCACACCCGTCTATGTAGCAAAATAG
+pan-troglodytes            ACCAGACGAGCTACCTAAGAACAGCTA--AAAGAGCACACCCGTCTATGTAGCAAAATAG
+peromyscus-polionotus      ACCAAACGAGCTACCTAAAAGCAATTT--TAAGAATGCACCCGTCTATGTAGCAAAATAG
+castor-canadensis          ATCAGACGAGCTACCTAAAGACAGTTATTTATGAACACACTCATCTATGTGGCAAAATAG
+fukomys-damarensis         ACCAAACGAGCTACTTTTGAGCAGCTAACAATGAGCAAACCCGTCTATGTAGCAAAATAG
+                           * ** ********* *     **  *    * **    ** * ******* *********
+
+homo-sapien                TGGGAAGATTTATAGGTAGAGGCGACAAACCTACCGAGCCTGGTGATAGCTGGTTGTCCA
+pan-troglodytes            TGGGAAGATTTATAGGTAGAGGCGACAAACCTACCGAGCCTGGTGATAGCTGGTTGTCCA
+peromyscus-polionotus      TGGGACGACTTTTAGGTAGAGGCGAAAAACCTAACGAGCTTGGTGATAGCTGGTTACCCA
+castor-canadensis          TGAGAAGATCTCTAGGTAGAGGTGAAAAGCCTACCGAGCCTGATGATAGCTGGTTACTCA
+fukomys-damarensis         TGGGAAGATTTAAAAGTAGAGGTGAAAAGCCTACCGAGTTTGGTGATAGCTGGTTGTCCA
+                           ** ** **  *  * ******* ** ** **** ****  ** ************   **
+
+homo-sapien                AGATAGAATCTTAGTTCAACTTTAA---ATTTGCCCACAGAACCCTCTA---AATCC-CC
+pan-troglodytes            AGATAGAATCTTAGTTCAACTTTAA---ATTTACCTACAGAACCCTCTA---AATCC-CC
+peromyscus-polionotus      ATAACGAATCTTAGTTCAACTTTAA---GTTTACCAATAAGAATACATATATAATCT-AA
+castor-canadensis          GAACCGAATCTCAGTTCCACTTAAA---ATTTACCACAAGAAATA-----ATAATCCACC
+fukomys-damarensis         AACAAGGATATCAGTTCAACTTTAAGCCATTTCCAAAGAAAAATA-------AATCT-TA
+                                * ** * ***** **** **    *** *    *  *          ****    
+
+homo-sapien                TTGTAAATTTAACTGTTAGTCCAAAGAGGAACAGCTCTTTGGACACTAGGAAAAAACCTT
+pan-troglodytes            TTGTAAACTTAACTGTTAGTCCAAAGAGGAACAGCTCTTTAGACACTAGGAAAAAACCTT
+peromyscus-polionotus      ATGTAAACTTAAAATATAGCCTAAAGAGGGACAGCTCTTTAGGAA--AGGA-AAACCCTT
+castor-canadensis          ATGTAAATTTTAATGTTAATCTAAAGAGGGACAGCCCTTTAGATA--CGGATACAACCTT
+fukomys-damarensis         ATAAAGACTTAAAAGCTAATCTATAGAGGGACAGCTCTATAAATA--AGGA-AAAACCTT
+                            *  * * ** *    **  * * ***** ***** ** *    *   *** * * ****
+
+homo-sapien                GTAGAGAGAGTAAAAAATTTA------ACACCCATAGTAGGCCTAAAAGCAGCCACCAAT
+pan-troglodytes            GTAAAGAGAGTAAAAAATTTA------ACACCCATAGTAGGCCTAAAAGCAGCCACCAAT
+peromyscus-polionotus      AAATAGTGAATAAGCCACTCTCATATTAAAACCATTGTTGGCCTAAAAGCAGCCACCAAT
+castor-canadensis          CAATAGAGAGTAAAATAATCCAC----ACAGCCATAGTTGGCCTAAAAGCAGCCATCAAT
+fukomys-damarensis         GCATAGAGGGTAAAGTAACAAC-----ACCACCACAGTAGGCCTAAGAGCAGCCATCAAT
+                             * ** *  ***   *          *   ***  ** ******* ******** ****
+
+homo-sapien                TAAGAAAGCGTTCAAGCTCAACACCCACTACCTAAA----AAATCCCAAACATA--TAAC
+pan-troglodytes            TAAGAAAGCGTTCAAGCTCAACACCCACAACCTTAA----AGATCCCAAACATA--CAAC
+peromyscus-polionotus      AAAGAAAGCGTTCAAGCTCAACATTTAAAATATAAT----AATACCAAAATTTACTTAAG
+castor-canadensis          TAAGAAAGCGTTCAAGCTCAACCACACTTACCTCTA----AATCACAAAAACTA--TCA-
+fukomys-damarensis         TAAGAAAGCGTTCAAGCTCAACA--AACCACATAAAACACAATACCAAAACTAA--GAAC
+                            *********************       *  *       *    * ***   *    * 
+
+homo-sapien                TGAACTCCT---CACACCCAATTGGACCAATCTATCACCCTATAGAAGAACTAATGTTAG
+pan-troglodytes            CGAACTCCT---TACACCCAATTGGACCAATCTATTACCCCATAGAAGAACTAATGTTAG
+peromyscus-polionotus      CAAATTCCTATGTATATATAATTGGGTTAATCTATTAATTTATAGATGAGACACTGTTAA
+castor-canadensis          TGACCTCCTA--TAACACAAACTGAGTTAATCTATTTACCAATAGATGTATTAATGTTAA
+fukomys-damarensis         TGACCCCCT---AAACTAAAATTGGACTAATCTATAAAAACATAGAAGAAATAATGTTAA
+                             *   ***    *     ** **    *******      ***** *    * ***** 
+
+homo-sapien                TATAAGTAACATGAA-AACATTCTCCTCCGCATAAGCCTGCGTCAGATTAAAACACTGAA
+pan-troglodytes            TATAAGTAACATGAA-AACATTCTCCTCCGCATAAGCCTACATCAGACCAAAATATTAAA
+peromyscus-polionotus      TATGAGTAACAAGAATTACATTCTCC-ATGCACAAAACTATAACAACCCGGATAACC--A
+castor-canadensis          TATTAGTAACAAGAA-AAAATTCTCC-AAGCACAAGCTTATATCAGACCGAATGAAT-CA
+fukomys-damarensis         TATTAGTAACAAGAA-ATTATTCTCC-GGGCACAAGTTTATATCTAACCGAATAATC--A
+                           *** ******* ***    *******   *** **   *    *       *  *    *
+
+homo-sapien                CTGACAATTAAC-AGCCCAATATCTACAATC-AACCAACAAGTCA--TTATTACCCTCAC
+pan-troglodytes            CTGACAATTAAC-AGCCTAATATCTACAATC-AACCAACAAGCCA--TTATTACCCCCGC
+peromyscus-polionotus      TTGTTAGTTAACAAACCAAAGGTGAATAATCTATACATAAAACCCACCTA--ACACAACA
+castor-canadensis          CTGATAGTTAAC-ATATATATAGGAAAAAAC-AAAAACAGGCCCAACCTATAAAACGCAA
+fukomys-damarensis         CTGATAGTTAAC-AATTATATAAAAACAAAC-ACATATTAA--CAACTTATTGATACAAC
+                            **  * ***** *     *     * ** * *   *      *    **          
+
+homo-sapien                TGTCAACCCAACACAGGCATGCTCATAAGGAAAGGTTAAAAAAAGTAAAAGGAACTCGGC
+pan-troglodytes            TGTTAACCCAACACAGGCATGCCCACAAGGAAAGGTTAAAAAAAGTAAAAGGAACTCGGC
+peromyscus-polionotus      TGTTAATCCAACACAGGGGTGCACA-ATGGAAAGATTAAAAGAAATAAAAGGAACTCGGC
+castor-canadensis          TGTTGACCCAACACAGGAGTGC-TATAAGGAAAGATTAAAAGAAGTAAAAGGAACTCGGC
+fukomys-damarensis         TGTTAACCCAACACAGGAGTGC-CGCAAGGAAAGACTAAAAAAAGTAAAAGGAATTCAGC
+                           ***  * **********  ***    * ******  ***** ** ********* ** **
+
+homo-sapien                AAAT-CTTACCCCGCCTGTTTACCAAAAACATCACCTCTAGCATCACCAGTATTAGAGGC
+pan-troglodytes            AAAT-CTTACCCCGCCTGTTTACCAAAAACATCACCTCTAGCATTACCAGTATTAGAGGC
+peromyscus-polionotus      AAACACGAACCCCGCCTGTTTACCAAAAACATCACCTCTAGCATTACAAGTATTAGAGGC
+castor-canadensis          AAACAAAAACCCCGCCTGTTTACCAAAAACATCACCTCTAGCATTACAATTATTAGAGGC
+fukomys-damarensis         AAACACAAATCTCGCCTGTTTACCAAAAACATCACCTCTAGCATGACGAGTATTAGAGGC
+                           ***     * * ******************************** ** * **********
+
+homo-sapien                ACCGCCTGCCCAGTGACA--CATGTTTAACGGCCGCGGTACCCTAACCGTGCAAAGGTAG
+pan-troglodytes            ACCGCCTGCCCGGTGACA--TATGTTTAACGGCCGCGGTACCCTAACCGTGCAAAGGTAG
+peromyscus-polionotus      ACTGCCTGCCCAGTGACT--AACGTTAAACGGCCGCGGTATCCTGACCGTGCAAAGGTAG
+castor-canadensis          ACCGCCTGCCCAGTGACA--ATTGTTAAACGGCCGCGGTATCCTGACCGTGCAAAGGTAG
+fukomys-damarensis         ACTGCCTGCCCAGTGACGCCAAAGTTCAACGGCCGCGGTATTCTGACCGTGCGAAGGTAG
+                           ** ******** *****      *** *************  ** ******* *******
+
+homo-sapien                CATAATCACTTGTTCCTTAAATAGGGACCTGTATGAATGGCTCCACGAGGGTTCAGCTGT
+pan-troglodytes            CATAATCACTTGTTCCTTAAATAGGGACTTGTATGAATGGCTCCACGAGGGTTTAGCTGT
+peromyscus-polionotus      CATAATCACTTGTTCCTTAATTAGGGACTAGAATGAATGGCTTAACGAGGGTTCAACTGT
+castor-canadensis          CATAATCACTTGTTCTCTAAATAGGGACTTGTATGAACGGCTTGACGAGGGTTTATCTGT
+fukomys-damarensis         CATAATCACTTGTTCTTTAAATAAGGACTTGTATGAATGGCCAAACGAAGATTTTTCTGT
+                           ***************  *** ** ****  * ***** ***   **** * **   ****
+
+homo-sapien                CTCTTACTTTTAACCAGTGAAATTGACCTGCCCGTGAAGAGGCGGGCATAACACAGCAAG
+pan-troglodytes            CTCTTACTTTCAACCAGTGAAATTGACCTACCCGTGAAGAGGCGGGCATAACATAACAAG
+peromyscus-polionotus      CTCTTATTTCCAATCAGTGAAATTGACCTTCCCGTGAAGAGGCGGGAATGAAAAAATAAG
+castor-canadensis          CTCTTACTTCCAATCAGTGAAATTGACCTTCCCGTGAAGAGGCGGGAATGAAAAAATAAG
+fukomys-damarensis         CTCTTACTTTCAGTCAGTGAAATTGACCTCCCCGTGAAGAGGCGGGGATAACAAAATAAG
+                           ****** **  *  *************** **************** ** * * *  ***
+
+homo-sapien                ACGAGAAGACCCTATGGAGCTTTAATTTATTAATGCAAACAGTACCTAACAA--------
+pan-troglodytes            ACGAGAAGACCCTATGGAGCTTTAATTCATTAATGCAAACAATACTTAACAA--------
+peromyscus-polionotus      ACGAGAAGACCCTATGGAGCTTTAATT----------AACA--ACTTAACATTTTAAACC
+castor-canadensis          ACGAGAAGACCCTATGGAGCTTTAATTTCTT----TAAACCACAATT-ATAATTTCTTTC
+fukomys-damarensis         ACGAAAAGACCCTTTGGAGCTTCAACTACCTAATTTATACA--GATTAACAATATCAA--
+                           **** ******** ******** ** *           **      * * *         
+
+homo-sapien                -----ACCCACAGGTCCTAAAC-TACCAAACCTGCATTAAAAATTTCGGTTGGGGCGACC
+pan-troglodytes            -----ACCTACAGGTCCTAAAC-TATTAAACCTGCATTAAAAATTTCGGTTGGGGCGACC
+peromyscus-polionotus      AAAACACCTACTGGATC-AAATATACAAAAACTTAAGTTAAAATTTCGGTTGGGGTGACC
+castor-canadensis          CCCCCCCCCCCGGGACCTAACCTCATAATTTCTGGTTTAATAATTTTGGTTGGGGTGACC
+fukomys-damarensis         ----------------CTAACTGTATCAA------ATTACACGTTTTGGTTGGGGTGACC
+                                           * **    *  *         *     *** ******** ****
+
+homo-sapien                TCGGAGCAGAACCCAACCTCCGAGCAGTACATGCTAAGACTTCACCAGTCAAAGCGAACT
+pan-troglodytes            TCGGAGCACAACCCAACCTCCGAGCAATACATGCTAAGACCTCACCAGTCAAAGCGAATT
+peromyscus-polionotus      TCGGAGAATAAAAAAACCTCCGAACGATTATAGCCAAGACA-CACAAGTCTAAGCA----
+castor-canadensis          TCGGAGCACAAAGCAACCTCCGAATGATTTAAATCTAGACC-TACAAGTCAAAATACAGA
+fukomys-damarensis         TCGGAGAACAACACAACCTCCGAATGATATTAACCTAGACTAAACAAGTCAAAGTA----
+                           ****** * **   *********    *        ****   ** **** **       
+
+homo-sapien                ACTATACTCAATTGATCCAAT--AACTTGACCAACGGAACAAGTTACCCTAGGGATAACA
+pan-troglodytes            ACTACATCCAATTGATCCAAT--GACTTGACCAACGGAACAAGTTACCCTAGGGATAACA
+peromyscus-polionotus      CCTGGATCCAATTGACCCAAT--CTTTTGATCAACGGACCAAGTTACCCTAGGGATAACA
+castor-canadensis          AAAATCATAAATTGACCCATC---ACTTGAGCAACGGACCAAGTTACCCTAGGGATAACA
+fukomys-damarensis         GTTATCATAAATTGACCCAATACAAATTGATCAACGAAACAAGTTACCCTAGGGATAACA
+                                    ****** ***       **** ***** * *********************
+
+homo-sapien                GCGCAATCCTATTCTAGAGTCCATATCAACAA-TAGGGTTTACGACCTCGATGTTGGATC
+pan-troglodytes            GCGCAATCCTATTCCAGAGTCCATATCAACAA-TAGGGTTTACGACCTCGATGTTGGATC
+peromyscus-polionotus      GCGCAATCCTATTCAAGAGTCCATATCGACAATTAGGGTTTACGACCTCGATGTTGGATC
+castor-canadensis          GCGCAATCCTATTTTAGAGTCCATATCGACAA-TAGGGTTTACGACCTCGATGTTGGATC
+fukomys-damarensis         GCGCAATCCTATTTTAGAGCCCCTATCGACAA-TAGGGTTTACGACCTCGATGTTGGATC
+                           *************  **** ** **** **** ***************************
+
+homo-sapien                AGGACATCCCGATGGTGCAGCCGCTATTAAAGGTTCGTTTGTTCAACGATTAAAGTCCTA
+pan-troglodytes            AGGACATCCCGATGGTGCAGCCGCTATTAAAGGTTCGTTTGTTCAACGATTAAAGTCCTA
+peromyscus-polionotus      AGGACATCCCAATGGTGTAGAAGCTATTAATGGTTCGTTTGTTCAACGATTAAAGTCCTA
+castor-canadensis          AGGACATCCCAATGGTGCAGCCGCTATTAAAGGTTCGTTTGTTCAACGATTAAAGTCCTA
+fukomys-damarensis         AGGACATCCTAATGGTGTAGACGCTATTAAGGGTTCGTTTGTTCAACGATGAAAGTCCTA
+                           *********  ****** **  ******** ******************* *********
+
+homo-sapien                CGTGATCTGAGTTCAGACCGGAGTAATCCAGGTCGGTTTCTATCTACNTTCAAATTCCTC
+pan-troglodytes            CGTGATCTGAGTTCAGACCGGAGTAATCCAGGTCGGTTTCTATCTGTTC-TAAATTTCTC
+peromyscus-polionotus      CGTGATCTGAGTTCAGACCGGAGTAATCCAGGTCGGTTTCTATCTATTCAC-GATTTCTC
+castor-canadensis          CGTGATCTGAGTTCAGACCGGAGTAATCCAGGTCGGTTTCTATCTATTTACAGGTTTCTC
+fukomys-damarensis         CGTGATCTGAGTTCAGACCGGAGCAATCCAGGTCGGTTTCTATCTATTTATATATTCCTC
+                           *********************** *********************         ** ***
+
+homo-sapien                CCTGTACGAAAGGACAAGAGAAATAAGGCCTACTTCACAA-AGCGCCTTC--CCCCGTA-
+pan-troglodytes            CCTGTACGAAAGGACAAGAGAAATGAGGCCTACTTCACAA-AGCGCCTTC--CCCAATA-
+peromyscus-polionotus      CCAGTACGAAAGGATAAGAGAAATGGAGCCCACTTAAAAA-AGAGCCCCTAAATCAATT-
+castor-canadensis          CCAGTACGAAAGGACAAGAGAAACAAGGCCAACTACCCACCAGCGCCTTAAGTCCAATA-
+fukomys-damarensis         CCAGTACGAAAGGACAAGAGTAATAGAGCCAATTAACCAATAACGCCCTCACAACAAAAG
+                           ** *********** ***** **    *** * *    *  *  ***       *     
+
+homo-sapien                AATGATATCATCTCAACTTAGTA--TTATACCCACACCCACCCAAGAACAGGGT-TTGTT
+pan-troglodytes            AATGATATTATCTCAATTTAGCG--CCATGCCAACACCCACTCAAGAACAGAGT-TTGTT
+peromyscus-polionotus      CATGAAATAATATCAACGTTGTAAATTCGTAAAATAAATGCCTTAGACAAGGGCATAATT
+castor-canadensis          GATGTACTTACATCAATCTAGTAAACTACACACCCACCTACCCTAGAACAGGGC-TAGTT
+fukomys-damarensis         GATGAAGACAAATCAATCCAACAATTGTTCCAAACAAAAGCCCTAGAAAAGGGC-CTGTT
+                            ***     *  ****                   *    *   ***  ** *     **
+
+homo-sapien                AAGATGGCAGAGCCCGGTAATCGCATAAAACTTAAAACTTTACAGTCAGAGGTTCAATTC
+pan-troglodytes            AAGATGGCAGAGCCCGGTAATTGCATAAAACTTAAAACTTTACAATCAGAGGTTCAATTC
+peromyscus-polionotus      AGGGTGGCAGAGTCAGGAAATTGCATAAGACTTAAAACCTTGTTCCCGGGGGTTCAAATC
+castor-canadensis          AAGGTGGCAGAGCTTGGCAATTGCATAAGACTTAAGACTTTATCCCCAGAGGTTCAACTC
+fukomys-damarensis         AAGGTGGCAGAGCCCGGTAATTGCATAAAACTTAAAACTTTACCATCAGAGGTTCAACTC
+                           * * ********   ** *** ****** ****** ** **     * * ******* **
+
+homo-sapien                CTCTTCTTAACAAC--ATACCCATGGCCAACCTCCTACTCCTCATTGTACCCATTCTAAT
+pan-troglodytes            CTCTTCTTGACAAC--ACACCCATGACCAACCTCCTACTCCTCATTGTACCCATCCTAAT
+peromyscus-polionotus      CCCTCCCTAATA----GTGCATTTATTAAATATTTTAACCCTCCTAGTACCCATCTTAAT
+castor-canadensis          CTCTCCTTAACATCCCATGTTCATCATAAATGTCCTAACCCTAACTATTCCCATCCTACT
+fukomys-damarensis         CTCTCCTTAACAACTAATGCACATCATCAATACACTACTACTACTAGTCCCAATTCTATT
+                           * ** * * * *           *    **     **   **     * ** **  ** *
+
+homo-sapien                CGCAATGGCATTCCTAATGCTTACCGAACGAAAAATTCTAGGCTATATACAACTACGCAA
+pan-troglodytes            CGCAATAGCATTCCTAATGCTAACCGAACGAAAAATTCTAGGCTACATACAACTACGCAA
+peromyscus-polionotus      TGCCATAGCATTCCTAACACTAGTAGAACGCAAAATTTTAGGGTATATACAACTACGAAA
+castor-canadensis          CGCAATAGCATTCCTAACCCTCGTAGAACGAAAAATCCTAGGATATATACAACTACGAAA
+fukomys-damarensis         AGCAATAGCATACCTTACACTAATAGAACGAAAACTCCTGGGCTACATACAATTACGAAA
+                            ** ** **** *** *  **    ***** *** *  * ** ** ****** **** **
+
+homo-sapien                AGGCCCCAACGTTGTAGGCCCCTACGGGCTACTACAACCCTTCGCTGACGCCATAAAACT
+pan-troglodytes            AGGTCCCAACATTGTAGGTCCTTACGGGCTATTACAGCCCTTCGCTGACGCCATAAAACT
+peromyscus-polionotus      AGGACCAAATATCGTAGGACCATACGGTATTCTCCAACCATTCGCAGATGCAATAAAACT
+castor-canadensis          AGGCCCAAACGTAGTCGGCCCCTACGGCATCCTCCAGCCATTTGCCGACGCACTAAAACT
+fukomys-damarensis         AGGCCCTAACATCGTCGGCCCATACGGAATCCTCCAGCCAATCGCGGACGCTCTAAAACT
+                           *** ** **  * ** ** ** *****  *  * ** **  * ** ** **  *******
+
+homo-sapien                CTTCACCAAAGAGCCCCTAAAACCCGCCACATCTACCATCACCCTCTACATCACCGCCCC
+pan-troglodytes            CTTCACTAAAGAACCCTTAAAACCCTCCACTTCAACCATTACCCTCTACATCACCGCCCC
+peromyscus-polionotus      ATTCATCAAAGAACCCCTGCGACCACTAGCAACATCAACATCCCTATTTATTATTGCCCC
+castor-canadensis          ATTCATCAAAGAACCAATACGACCATCAACCTCCTCTCCACTACTATTCTCCATCGCCCC
+fukomys-damarensis         ATTCATTAAAGAGCCATTAAAGCCATCAGCCTCATCCATCTCATTATTTATCATCGCCCC
+                            ****  ***** **  *    **     *  *  *        * *     *  *****
+
+homo-sapien                GACCTTAGCTCTCACCATCGCTCTTCTACTATGAACCCCCCTCCCCATACCCAACCCCCT
+pan-troglodytes            AACCCTAGCCCTCACCATTGCCCTCTTACTATGAACCCCCCTCCCCATACCCAACCCCCT
+peromyscus-polionotus      CACGCTATCACTTACACTAGCCTTCAGCTTATGAATCCCAATACCAATACCACACCCATT
+castor-canadensis          AACCCTGGCCCTAACACTAGCCCTCATCATATGAATCCCACTCCCAATACCACAACCCCT
+fukomys-damarensis         CATACTCGCCCTAACCCTAGCCCTATCCATATGAATCCCCCTCCCCATACCCCACCCTCT
+                            *   *  * ** **  * **  *     ****** ***  * ** *****  * **  *
+
+homo-sapien                GGTCAACCTCAACCTAGGCCTCCTATTTATTCTAGCCACCTCTAGCCTAGCCGTTTACTC
+pan-troglodytes            AGTCAATCTTAACTTAGGCCTCCTATTTATTCTAGCCACCTCCAGCCTAGCCGTTTACTC
+peromyscus-polionotus      AATTAACATAAATCTAGGAGCTATATTTATCTTAGCCACATCAAGCCTATCAGTATACTC
+castor-canadensis          AGTCAACATAAACTTCGGCATCCTATTCATCCTAGCAACCTCCAGCCTATCTGTTTACGC
+fukomys-damarensis         CATCAATATAAACCTAGGAATCCTATTTATCCTAGCAACCTCAAGCCTAGCTGTATACTC
+                             * **  * **  * **     **** **  **** ** ** ****** * ** *** *
+
+homo-sapien                AATCCTCTGATCAGGGTGAGCATCAAACTCAAACTACGCCCTGATCGGCGCACTGCGAGC
+pan-troglodytes            AATCCTCTGATCAGGGTGAGCATCAAACTCGAACTACGCCTTAATCGGTGCACTACGAGC
+peromyscus-polionotus      AATTTTATGATCGGGATGAGCCTCCAACTCAAAATACTCAATATTTGGGGCCCTACGAGC
+castor-canadensis          TATCCTGTGATCAGGCTGATCATCAAATTCTAAATATGCCTTAATCGGAGCACTACGAGC
+fukomys-damarensis         AATCCTATGGTCAGGATGAGCATCAAACTCCAAGTACGCCTTACTAGGAGCACTACGAGC
+                            **  * ** ** ** *** * ** ** ** ** **  *  *  * ** ** ** *****
+
+homo-sapien                AGTAGCCCAAACAATCTCATATGAAGTCACCCTAGCCATCATTCTACTATCAACATTACT
+pan-troglodytes            AGTAGCCCAAACAATCTCATACGAAGTCACTCTAGCCATTATCCTACTGTCAACGCTACT
+peromyscus-polionotus      AGTAGCCCAAACAATTTCATATGAAGTAACCATAGCAATCATTCTATTATCAGTACTACT
+castor-canadensis          TGTCGCACAGACAATCTCATATGAAGTATCCCTCGCTATTATCGTTTTATCAGTAATACT
+fukomys-damarensis         CGTAGCCCAAACAATCTCTTACGAAGTCTCCCTAGCCATTATCCTACTATCAGTACTACT
+                            ** ** ** ***** ** ** *****  *  * ** ** **  *  * ***    ****
+
+homo-sapien                AATAAGTGGCTCCTTTAACCTCTCCACCCTTATCACAACACAAGAACACCTCTGATTACT
+pan-troglodytes            AATAAGTGGCTCCTTCAATCTCTCTACCCTTGTCACAACACAAGAGCACCTCTGACTAAT
+peromyscus-polionotus      AATAAATGGGTCATTCTCTCTACAATCACTAATATTTACCCAAGAAGCCCTATGACTAAT
+castor-canadensis          CATAAACGGGTCATTCACCATATCCTCACTAATCACAACACAAGAACACATCTGACTTAT
+fukomys-damarensis         CCTAAGCGGCTCATTCACACTAGGCACCCTTATGGAAACCCAAAAATACACATGATTGAT
+                             ***  ** ** **     *     * **  *    ** *** *   *   *** *  *
+
+homo-sapien                CCTGCCATCATGACCCTTGGCCATAATATGATTTATCTCCACACTAGCAGAGACCAACCG
+pan-troglodytes            CCTGCCAACATGACCCCTGGCCATAATATGATTTATCTCTACACTAGCAGAGACCAACCG
+peromyscus-polionotus      CATTCCAACTTGACCACTAGGAATAATATGATATATCTCAACCCTAGCAGAAACAAACCG
+castor-canadensis          CATCCCAACATGGCCACTAGCAATAATATGATTTATCTCAACGCTAGCAGAAACCAACCG
+fukomys-damarensis         CCTACCAACATGACCCCTAGCCATAATATGATTTATCTCAACCCTAGCAGAAACCAACCG
+                           * * *** * ** **  * *  ********** ****** ** ******** ** *****
+
+homo-sapien                AACCCCCTTCGACCTTGCCGAAGGGGAGTCCGAACTAGTCTCAGGCTTCAACATCGAATA
+pan-troglodytes            AACTCCCTTCGACCTTACTGAAGGAGAATCTGAACTAGTCTCAGGCTTTAATATCGAGTA
+peromyscus-polionotus      GGCCCCATTTGACCTAACAGAGGGTGAATCAGAATTAGTATCTGGATTCAACGTAGAATA
+castor-canadensis          AGCCCCATTCGACCTAACTGAGGGAGAATCCGAACTAGTCTCCGGATTCAACGTAGAATA
+fukomys-damarensis         AGCCCCATTCGACCTAGCCGAAGGAGAATCAGAATTAGTCTCTGGATTCAACGTAGAATA
+                             * ** ** *****  * ** ** ** ** *** **** ** ** ** **  * ** **
+
+homo-sapien                CGCCGCAGGCCCCTTCGCCCTATTCTTCATAGCCGAATACACAAACATTATTATAATAAA
+pan-troglodytes            TGCCGCAGGCCCCTTTGCCCTATTTTTCATAGCCGAATACATAAACATTATTATAATAAA
+peromyscus-polionotus      CGCTGCGGGTCCATTTGCCCTATTCTTCATAGCTGAATATACTAACATTATTATAATAAA
+castor-canadensis          TGCCGCCGGACCATTTGCCCTATTTTTCATAGCAGAATACATGAACATCATCATAATAAA
+fukomys-damarensis         CGCAGCAGGACCCTTCGCACTATTCTTCATAGCAGAATACATTAATATCATTATAATAAA
+                            ** ** ** ** ** ** ***** ******** ***** *  ** ** ** ********
+
+homo-sapien                CACCCTCACCACTACAATCTTCCTAGGAACAACATATGACGCACTCTCCCCTGAACTCTA
+pan-troglodytes            CACCCTCACTGCTACAATCTTCCTAGGAGCAACATACAATACTCACTCCCCTGAACTCTA
+peromyscus-polionotus      TGCTCTATCAACAATTGTATTTTTAGGCCCATTTAATGACCCTAATAACCCAGAAATATT
+castor-canadensis          TGCTCTCACCACAATCATATTCCTAGGAGCATTCCATAACCCCCTAATCCCAGAACTATA
+fukomys-damarensis         TGCCCTGACCACCATTATCTTTATCAACACATCCCCAATATCCACCAACCCAGAAAATTT
+                             * **  *  * *   * **  *     **          *      *** ***   * 
+
+homo-sapien                CACAACATATTTTGTCACCAAGACCCTACTTCTAACCTCCCTGTTCTTATGAATTCGAAC
+pan-troglodytes            CACGACATATTTTGTCACCAAAGCTCTACTTCTAACCTCCCTGTTCCTATGAATTCGAAC
+peromyscus-polionotus      TACAATAAACTTTATAATAAAAACACTAGCACTCACCACACTATTCTTATGAGTACGAGC
+castor-canadensis          CACCATTAACTTCGCCATCAAAACCCTCTGCCTCACCATATTATTCCTATGAATCCGAGC
+fukomys-damarensis         TACAATATACTTCACAATTAAAACCCTCATACTAACCTCCTTATTCCTATGAATCCGAGC
+                            ** *   * **    *  **  * **    ** ***    * *** ***** * *** *
+
+homo-sapien                AGCATACCCCCGATTCCGCTACGACCAACTCATACACCTCCTATGAAAAAACTTCCTACC
+pan-troglodytes            AGCATATCCCCGATTTCGCTACGACCAGCTCATACACCTCCTATGAAAAAACTTCCTACC
+peromyscus-polionotus      ATCCTACCCACGATTCCGATATGACCAACTAATGCACCTACTATGAAAAAACTTTCTCCC
+castor-canadensis          ATCATATCCCCGATTCCGATACGACCAACTCATGCACCTACTATGAAAAAACTTCCTTCC
+fukomys-damarensis         CTCATACCCCCGATTCCGGTATGATCAACTCATACACTTATTATGAAAAAATTTCCTACC
+                             * ** ** ***** ** ** ** ** ** ** *** *  ********** ** ** **
+
+homo-sapien                ACTCACCCTAGCATTACTTATATGATATGTCTCCATACCCATTACAATCTCCAGCATTCC
+pan-troglodytes            ACTCACCCTAGCATCACTCATGTGATATATCTCCATACCCACTACAATCTCCAGCATCCC
+peromyscus-polionotus      ACTAACACTAGCCCTATGTATATGACACATTTCCGTACCAATCTTCATAGCAAGTATTCC
+castor-canadensis          AATTACCTTAGCCGCATGCATATTATACACATCTATTCCAGTTGCCATATCAAGCATCCC
+fukomys-damarensis         AATATCACTAGCCATATGTATATGACACATTTCTTTTCCCATCGGACTATTCGGAACACC
+                           * *  *  ****   *   ** * * *    **  * **        *     * *  **
+
+homo-sapien                CCCTCAAAC--CTAAGAAATATGTCTGATAAAAGAGTTACTTTGATAGAGTAAATAATAG
+pan-troglodytes            CCCTCAAAC--CTAAGAAATATGTCTGATAAAAGAATTACTTTGATAGAGTAAATAATAG
+peromyscus-polionotus      ACCATACA---CCTAGAAATATGTCTGACAAAAGAGTTACTTTGATAGAGTAAATTATAG
+castor-canadensis          CCCACAAA---TATAGAAATATGTCTGACAAAAGAGTTACTTTGATAGAGTAAAACATAG
+fukomys-damarensis         CCCACAAACAACCTAGAAATATGTCTGAAAAAAGAGTTACTTTGATGGAGTAAACCATGA
+                            **  * *      ************** ****** ********** *******  **  
+
+homo-sapien                GAGCTTAAACCCCCTTATTTCTAGGACTATGAGAATCGAACCCATCCCTGAGAATCCAAA
+pan-troglodytes            GAGTTCAAATCCCCTTATTTCTAGGACTATAAGAATCGAACTCATCCCTGAGAATCCAAA
+peromyscus-polionotus      AGGTTTAAATCCTCTTATTTCTAGGATAATAGGAATTGAACCTATTCCTAAGAATTCAAA
+castor-canadensis          AGGCTCAAATCCTCTTATTTCTAGAGCTAAAGGAATCGAACCTAATCCTAAGAACTCAAA
+fukomys-damarensis         AGGTTTGAACCCTTCTATTTCTAGAATAATAGGACTTGAACCTAACCCAAAGAGACCAAA
+                             * *  ** **   *********    *   ** * ****  *  **  ***   ****
+
+homo-sapien                ATTCTCCGTGCCACC-TATCACACCCCATCCTAA---AGTAAGGTCAGCTAAA-TAAGCT
+pan-troglodytes            ATTCTCCGTGCCACC-TATCACACCCCATCCTAA---AGTAAGGTCAGCTAAA-TAAGCT
+peromyscus-polionotus      ATTCTACGTGCTACCTAA--ACACCCTATCCTAAATCAGTAAGGTCAGCTAAT-TAAGCT
+castor-canadensis          ATTCTCCGTGCTACCACATCACACCCAACTCTAA---AGTAAGGTCAGCTAAATTAAGCT
+fukomys-damarensis         ACTCCTCGTGCAACC--AATACACCATATCCTAA--TAGTAAGGTCAGCTAAA-CAAGCT
+                           * **  ***** ***  *  *****  *  ****   ***************   *****
+
+homo-sapien                ATCGGGCCCATACCCCGAAAATGTTGGT-TATACCCTTCCCGTACTAATTAATCCCCTGG
+pan-troglodytes            ATCGGGCCCATACCCCGAAAATGTTGGT-TACACCCTTCCCGTACTAATTAATCCCCTAG
+peromyscus-polionotus      ATTGGGCCCATACCCCGAAAATGTTGGTTTAAATCCTTCCCGTACTAATCAACCCCATCA
+castor-canadensis          ATCGGGCCCATACCCCGAAAATGTTGGTTTATACCCTTCCCGTACTAATCAACCCCACCG
+fukomys-damarensis         ATCGGGCCCATACCCCGAAAATGTTGGTCCACG-CCTTCCCGTACTAATTAACCTCATCT
+                           ** *************************  *   *************** ** * *    
+
+homo-sapien                CCCAACCCGTCATCTACTCTACCATCTTTGCAGGCACACTCATCACAGCGCTAAGCTCGC
+pan-troglodytes            CCCAACCCATCATCTACTCTACCATCCTTACAGGCACGCTCATTACAGCGCTAAGCTCAC
+peromyscus-polionotus      CACTTCTAATTATTTACTTTACAATTTTATCTGGCCCAATAGTCACTATATTAAGCGCCA
+castor-canadensis          CCAAATTAATTATTTTGCCCACTGTAATCATAGGAACAACAATTACAATAATAAGCTCCC
+fukomys-damarensis         CCAATAGCGTCATCTACCTCACCCTAATTTCAGGGACACTAATTACACTTACCAGTTCCC
+                           *        * ** *     **  *  *    **  *     * **       **  *  
+
+homo-sapien                ACTGATTTTTTACCTGAGTAGGCCTAGAAATAAACATGCTAGCTTTTATTCCAGTTCTAA
+pan-troglodytes            ACTGATTTTTCACCTGAGTAGGCCTAGAAATAAATATACTAGCTTTTATCCCAATCCTAA
+peromyscus-polionotus      ACTTATTCCTAATATGAATTGGACTAGAAATAAACCTCCTAGCTATCATCCCAATAATAA
+castor-canadensis          ACTGACTAGTAATATGAGCAGGCTTAGAAATTAACATACTAGCATTCATCCCCCTACTAA
+fukomys-damarensis         ATTGATTACTAATATGAGCAGGACTAGAAATAAGCATATTCGCCATAATCCCAATCCTCA
+                           * * * *  * *  ***   **  ******* *   *  * **  * ** **  *  * *
+
+homo-sapien                CCAAAAAAATAAACCCTCGTTCCACAGAAGCTGCCATCAAGTATTTCCTCACGCAAGCAA
+pan-troglodytes            CCAAAAAAATAAGCCCCCGCTCCACAGAAGCCGCCATCAAATACTTTCTCACACAAGCAA
+peromyscus-polionotus      CAAAAAATACAAACCCACGATCAACAGAAGCAGCAACAAAATACTTCCTAACCCAAGCCA
+castor-canadensis          TCAACAAAGGAAGCCCACGATCCACAGAAGCAGCAACCAAATACTTCATAACACAAGCCA
+fukomys-damarensis         CGCACAAAACAAGCCCACGATCCACAGAAGCCGCAACCAAGTACTTCTTAGTCCAAGCAA
+                              * **   ** *** ** ** ******** ** *  ** ** **  *    ***** *
+
+homo-sapien                CCGCATCCATAATCCTTCTAATAGCTATCCTCTTCAACAATATACTCTCCGGACAATGAA
+pan-troglodytes            CTGCGTCCATAATTCTCCTGATAGCTATCCTCTCCAACAGCATACTCTCCGGACAATGAA
+peromyscus-polionotus      CAGCTTCAATAATTTTCCTCTTATCAATTATTCTCAACTACAAACAACTAGGAGTATGAA
+castor-canadensis          CAGCGTCCATACTACTACTAATAGCAATTGTAATTAACACACTAGACTCGGGCCAATGAT
+fukomys-damarensis         CAGCATCCATAATATTTATAATAGCAATCATTTACTCCGTGGCCCTCTCAGGCCAATGGG
+                           * ** ** *** *  *  *  ** * **  *      *            **   ***  
+
+homo-sapien                CCAT---AACCAATACTACCAATCAATACTCATCATTAATAATCATAATAGCTATAGCAA
+pan-troglodytes            CCAT---AACCAATACTACCAATCAATACTCATCATTAATAATTATAATAGCAATGGCAA
+peromyscus-polionotus      CACTACAACCCCAAACAAACAACCAAATCATCACACTAATATAT---ATCTCCCTGGCAA
+castor-canadensis          CGAT---TACCCACACACAAAACTACATCACGTCATTTATAGCCCTAATAGCACTAACTA
+fukomys-damarensis         CCAT---CATACACTCACAAAACCAAACAATCTCTTCAATCCTAATATTATCCCTAATAA
+                           *  *        *  *    **  *        *    **        *  *  *    *
+
+homo-sapien                TAAAACTAGGAATAGCCCCCTTTCACTTCTGAGTCCCAGAGGTTACCCAAGGCACCCCTC
+pan-troglodytes            TAAAACTAGGAATAGCCCCCTTTCACTTTTGAGTTCCAGAAGTTACCCAAGGCACCCCCC
+peromyscus-polionotus      TTAAAATAGGACTTGCACCATTCCACGCATGACTGCCAGAAGTAACCCAAGGAATCCCAA
+castor-canadensis          TAAAACTCGGACTAGCCCCATTTCACCTATGAGTACCAGAAGTCACCCAAGGGACCACCC
+fukomys-damarensis         TAAAACTAGGACTTGCCCCATTCCACCTATGAGTGCCTGAAGTAACTCAAGGGGCCAACC
+                           * *** * *** * ** ** ** ***   *** * ** ** ** ** *****   *    
+
+homo-sapien                TGACATCCGGCCTGCTTCTTCTCACATGACAAAAACTAGCCCCCATCTCAATCATATACC
+pan-troglodytes            TAATATCCGGCCTACTCCTCCTCACATGACAAAAATTAGCCCCTATTTCAATTATATACC
+peromyscus-polionotus      TACAAACAGGCATAATCCTTCTTACATGACAAAAAGTAGCTCCAATATCAATCCTATTTC
+castor-canadensis          TGATATCTGGAATACTACTACTAACATGACAAAAACTAGCCCCAATCTCCATCTTATATC
+fukomys-damarensis         TGTGATCAGGAATAATCCTTCTCACATGACAAAAAATCGCCCCCCTATCCATCATGTACC
+                           *   * * **  *  * ** ** ************ * ** **  * ** **  * *  *
+
+homo-sapien                AAATCTCTCCCTCACTAAACGTAAGCCTTCTCCTCACTCTCTCAATCTTATCCATCATAG
+pan-troglodytes            AAATCTCCTCATCACTGAACGTAAACCTTCTCCTCACCCTTTCAATCTTGTCCATTATAG
+peromyscus-polionotus      AAATATATGAAAAAACTAACCCAACAATACTTATAGCATCAGCCATTCTATCAGTATTAA
+castor-canadensis          AACTAATACCATCAATCAACCACCAGCTCCTCATGCTAATAGCCCTCCTATCCATCATAG
+fukomys-damarensis         AAACCTACTCCTCAGCAAACCAAACAATAATCATCTCATTCTCCCTCCTATCAATCCTAC
+                           **           *   ***       *  *  *        *  *  * **  *  ** 
+
+homo-sapien                CAGGCAGTTGAGGTGGATTAAACCAAACCCAGCTACGCAAAATCTTAGCATACTCCTCAA
+pan-troglodytes            CAGGCAGCTGAGGCGGACTAAACCAAACCCAACTACGCAAAATCCTAGCATACTCCTCAA
+peromyscus-polionotus      TCGGAGCATGAAGCGGACTTAACCAAACACAAACACGAAAAATTATAGCCTACTCATCTA
+castor-canadensis          TAGGTGGCTGAGGAGGACTAAACCAAACACAACTGCGCAAAATCATAGCCTACTCATCAA
+fukomys-damarensis         TAGGGGGCTGAGGAGGCTTAAACCAAACACAACTACGAAAAATCCTAGCCTACTCCTCAA
+                             **    *** * **  * ******** **    ** *****  **** ***** ** *
+
+homo-sapien                TTACCCACATAGGATGAATAATAGCAGTTCTACCGTACAACCCTAACATAACCATTCTTA
+pan-troglodytes            TCACCCACATAGGCTGAATAATAGCAGTCCTACCATATAACCCTAACATAACCATTCTTA
+peromyscus-polionotus      TCAGCCACATAGGTTGAATAATTGCTGTACTCCCATTCAACCCATCCCTTACAATACTAA
+castor-canadensis          TCGCCCACATAGGATGAATAATAGCCATTATCCCATATAGCCCAATAGCCTTTATACTAA
+fukomys-damarensis         TCTCCCACATAGGATGAATAACAACAGTAATATGCTTCAACCCCTCAATCATACACCTAA
+                           *   ********* *******   *  *  *    *  * ***             ** *
+
+homo-sapien                ATTTAACTATTTATATTATCCTAACTACTACCGCATTCCTACTACTCAACTTAAACTCCA
+pan-troglodytes            ATTTAACCATTTACATCATCCTAACTACTACCGCATTTCTGCTACTCAACTTAAACTCCA
+peromyscus-polionotus      ACCTACTAATTTATATCAGCCTAACAGTACCAACATTTATTATACTAAAACATAATTCAT
+castor-canadensis          ATCTAACCATCTACATCCTACTAACCATCACCATATTTACAATAATCAACCACAACACAA
+fukomys-damarensis         ACCTTCTAATCTACATTATACTCACACTATCCATATTCTCCATACTATCTATCAACACAA
+                           *  *    ** ** **    ** **     *   ***     ** *       **  *  
+
+homo-sapien                GCACCACGACCCTACTACTATCTCGCACCTGAAACAAGCTAACATGACTAACACCCTTAA
+pan-troglodytes            GCACCACAACCCTACTACTATCTCGCACCTGAAACAAGCTAACATGATTAACTCCCCTAA
+peromyscus-polionotus      CCACTAACATTAACTCTATATCACTCATATGAAGCAAAACCCCAATAATACTACCAACAA
+castor-canadensis          ACACCAGCACACTCACCCTAGCCCATTCATGAAATGTAACCCCAA---TAATCACCCCAA
+fukomys-damarensis         ACACCACCACCCTCTCCCTATCACACTTATGAAACATCTCACCTATCCTAGCCAACACCA
+                            *** *  *         ** * *     ****         *     **         *
+
+homo-sapien                TTCCATCCACC---CTCCTCTCCCTAGGAGGCCTGCCCCCGCTAACCGGCTTTTTGCCCA
+pan-troglodytes            TTCCATCCACC---CTCCTCTCCCTAGGAGGCCTACCCCCACTAACTGGCTTCTTACCCA
+peromyscus-polionotus      TTTCACTAATT---TTACTATCCACAGGAGGGTTGCCACCACTAACAGGATTCCTACCTA
+castor-canadensis          TACTACTCATCTCGCTACTATCACTTGGAGGCCTACCACCACTAACAGGATTCCTGCCAA
+fukomys-damarensis         TCCTAATCATC---CTCCTATCTCTAGGAGGCCTCCCCCCACTTACCGGTTTCATACCCA
+                           *   *   *      * ** **    *****  * ** ** ** ** ** **  * ** *
+
+homo-sapien                AATGGGCCATTATCGAAGAATTCACAAAAAACAATAGCCTCATCATCCCCACCATCATAG
+pan-troglodytes            AATGAGTTATCATCGAAGAATTCACAAAAAATAATAGCCTCATCATCCCCACCATCATAG
+peromyscus-polionotus      AATGAGTCATTATCTCAGAACTTATAAAAAATAATAACATCATACTAGCTTCACTAATAG
+castor-canadensis          AATGAATCATCATCGACGAACTAACAAAAAATGACCTAATCTTAATACCAACTACCATGG
+fukomys-damarensis         AATGAATAATCATTACAGAAATAACAAAAAACCAAAGCATCATCCTACCCACACTAATGG
+                           ****    ** **    *** * * ******  *     ** *  *  *  *    ** *
+
+homo-sapien                CCACCATCACCCTCCTTAACCTCTACTTCTACCTACGCCTAATCTACTCCACCTCAATCA
+pan-troglodytes            CCATCATCACTCTCCTTAACCTCTATTTCTACCTACGCCTAATCTACTCCACCTCAATTA
+peromyscus-polionotus      CAATAACAGCCCTAATCAATTTATTCTTCTACACACGACTAATTTATTCAACAACACTAA
+castor-canadensis          CTATAATGGCCCTACTAAACTTATATTTCTACGTACGACTAGTCTACTCAACTACCCTAA
+fukomys-damarensis         CAATAATAGCCCTACTAAACCTATTCTTCTACATACGCCTAGCTTACTCAACATCACTAA
+                           * *  *   * **  * **  * *  ******  *** ***   ** ** **  *  * *
+
+homo-sapien                CACTACTCCCCATATCTAACAACGTAAAAATAAAATGACAGTTTGAACATACAAAACCCA
+pan-troglodytes            CACTACTTCCCATATCTAATAACGTAAAAATAAAATGACAATTCGAACATACAAAACCCA
+peromyscus-polionotus      CCACATTTCCAACAAACAACAACTCCAAAATATCACTACACCATAACAACCATAAAAACA
+castor-canadensis          CCCTATTCCCAACCACAAGTACTACAAAAATAAAGTGACGACACCCCAACAACAAACCCT
+fukomys-damarensis         CACTATTTCCATCAACAAATAACCTAAAAATAAAATGGTACACCCAAAACACCAAAATAC
+                           *   * * **       *  *     ******                *    ***    
+
+homo-sapien                CCCCATTCCTCCCCACACTCATCGCCCTTACCACGCTACTCCTACCTATCTCCCCTTTTA
+pan-troglodytes            CCCCCTTCCTCCCTACACTCATCACCCTTACCACACTGCTTCTACCCATCTCCCCCTTCA
+peromyscus-polionotus      ACTTCATCCTCCCCTCCCTAGCTATCCTAAGCACTATAACACTCCCCCTCTCCCCACTAC
+castor-canadensis          CAATCCTCTTACCCCCACTTTTTATCATTACAACCATAACCCTACCCCTAACACCTCTCA
+fukomys-damarensis         CATACCTACTACCCCCACTAATTATTGTATCTACACTCATACTACCCCTATCCCCCATAA
+                                 *  * **  * **        *    **  *    ** **  *  * **  *  
+
+homo-sapien                TACTAATAATCTTATAGAAATTTAGGTTAAATACAGACCAAGAGCCTTCAAAGCCCTCAG
+pan-troglodytes            TACTAATAATCTTATAGAAATTTAGGTTAAGCACAGACCAAGAGCCTTCAAAGCCCTCAG
+peromyscus-polionotus      TAGTAACAT-----AAGAAGTTTAGGATAA--AAAGTCCAAGAGCCTTCAAAGCCCTAAG
+castor-canadensis          TATTCACCCTAAGCTAGGAATTTAGGTTAA--ACAGACCAAGAGCCTTCAAAGCCCTAAG
+fukomys-damarensis         TGACAACACTAGAATAGGAAATTAGGTTAA--CAAGACCAAGAGCCTTCAAAGCTCTAAG
+                           *    *         ** *  ***** ***    ** ***************** ** **
+
+homo-sapien                TAA--GTT-GCAATACTTAATTTCTGTAACAGCTAAGGACTGCAAA-ACCCCACTCTGCA
+pan-troglodytes            CAA--GTT-ACAATACTTAATTTCTGCAACAACTAAGGACTGCAAA-ACCCCACTCTGCA
+peromyscus-polionotus      TAA----ACAAAAAGTTTAACTTCTGA------TAAGGATTGCAAG-ACTACATCTTACA
+castor-canadensis          CAA--GTTAAAAAAACTTAGTTCCTGCAA----TAAGGACTGCAGG-ACGACACCCTACA
+fukomys-damarensis         TAAATATACACAACATTTATTTCCTGAAA----TAAGGATTGTAAACATCACA-TTTACA
+                            **        **   ***  * ***       ****** ** *   *   **   * **
+
+homo-sapien                TCAACTGAACGCAAATCAGCCACTTTAATTAAGCTAAGCCCTTA-CTAGACCAATGGGAC
+pan-troglodytes            TCAACTGAACGCAAATCAGCCACTTTAATTAAGCTAAGCCCTTA-CTAGATTAATGGGAC
+peromyscus-polionotus      TCTAATGAATGCAAATCAATCGCTTTTATTAAGCTAAATCCTCACCTAGATTGATAGGAC
+castor-canadensis          TCTCATGAACGCAAATCAAGCACTTTTACTAAGCTAAGTCCTCA-CTAGATTGACGGGAT
+fukomys-damarensis         TCAACTGGACGCAAACCAAACACTTTCATTAAGCTAAATCCTCA--TAGATTGGTGGGCT
+                           **   ** * ***** **  * **** * ********  *** *  ****      **  
+
+homo-sapien                TTAAACCCACAAACACTTAGTTAACAGCTAAGCACCCTAATCAACTGGCTTCAATCTACT
+pan-troglodytes            TTAAACCCACAAACATTTAGTTAACAGCTAAACACCCTAATCAACTGGCTTCAATCTACT
+peromyscus-polionotus      TTAAACCTATAAATTTTTAGTTAACAGCTAAACACCCTAA---ACTGGCTTCAATCTACT
+castor-canadensis          TCAAACCCACGAAATTTTAGTTAACAGCTAAATACCCTAAACAACTGGCTTCAATCTACC
+fukomys-damarensis         ACTACCCCACGAAACTCTAGTTAACAGCTAAATACCCTAACATGCTGGCTTCAATCTACT
+                              * ** *  **    **************  *******    *************** 
+
+homo-sapien                TCTCCCGCCGCCGGGAAA---AAAGGCGGGAGAAGCCCCGGCAGGTTTGAAG----CTGC
+pan-troglodytes            TCTCCCGCCGCAAGAAAA---AAAGGCGGGAGAAGCCCCGGCAGGTTTGAAG----CTGC
+peromyscus-polionotus      TCTCCCGCCTATCAGAAA---GAGGGCGGGAGAAGCCTTAGTAGA---GCAGTTTTCTAC
+castor-canadensis          TCTCCCGCCGCCTAGGAAAA-AAAGGCGGGAGAGGCCCCGGCAGAGTTGAAG----CTGC
+fukomys-damarensis         TCTCCCGCCTATAAAAAAAACAAAGGCGGGAGAAGCCCCGGCAGATCTAAT-----CTAC
+                           *********       **    * ********* ***   * **            ** *
+
+homo-sapien                TTCTTCGAATTTGCAATTCAATATGAAA-ATCACCTCGGAGC-TGGTAAAAAGAGG-CCT
+pan-troglodytes            TTCTTCGAATTTGCAATTCAATATGAAA-ATCACCTCAGAGC-TGGTAAAAAGAGG-CTT
+peromyscus-polionotus      ACCTTCGAATTTGCAATTCGACATGAAATATCACCTTAAGGCTTGGTAAAAAGAGG-GCC
+castor-canadensis          TCTTCTGAATTTGCAATTCAACGTGATCAATCACCTCAAGGCCTGGTAAAAAGGGGACTT
+fukomys-damarensis         TTCTTCGAATTTGCAATCCGACATGAAATTTCACTACAAAGCCTGGCAAAAGGGGC-TTT
+                              *  *********** * *  ***    ****      ** *** **** * *     
+
+homo-sapien                AAC--CCCTGTCTTTAGATTTACAGTCCAATGCTT-CACTCAGCCATTTTACCTCACCCC
+pan-troglodytes            AAC--CCCTGTCTTTAGATTTACAGTCCAATGCTT-CACTCAGCCATTTTACCCCA-CCC
+peromyscus-polionotus      GTCCCCTCTGTCTTTAGATTTACAGTCTAATGCTT-AACTCAGCCATTTTACCT------
+castor-canadensis          GAC--CCCTGTGTTTAGATTTACAGTCTAATGCTT--ACTCAGCCATCTTACCT------
+fukomys-damarensis         CCCCGCCCCGTCTTTAGATTTACAGTCTAATGCTTCCACTCAGCCATTTTACCA------
+                             *  * * ** *************** *******  ********** *****       
+
+homo-sapien                CACTGATGTTCGCCGACCGTTGACTATTCTCTACAAACCACAAAGACATTGGAACACTAT
+pan-troglodytes            TACTGATGTTCACCGACCGCTGACTATTCTCTACAAACCACAAAGATATTGGAACACTAT
+peromyscus-polionotus      -----ATGTTCATTAATCGTTGATTATTTTCTACCAACCACAAAGACATCGGAACCCTGT
+castor-canadensis          -----ATGTTCATCAACCGTTGACTATTCTCAACAAACCATAAAGACATCGGCACGCTGT
+fukomys-damarensis         -----ATGTTCATTAACCGCTGACTATTTTCCACAAATCATAAAGATATTGGTACATTGT
+                                ******    * ** *** **** ** ** ** ** ***** ** ** **  * *
+
+homo-sapien                ACCTATTATTCGGCGCATGAGCTGGAGTCCTAGGCACAGCTCTAAGCCTCCTTATTCGAG
+pan-troglodytes            ACCTACTATTCGGTGCATGAGCTGGAGTCCTGGGCACAGCCCTAAGTCTCCTTATTCGGG
+peromyscus-polionotus      ACCTATTGTTTGGGGCGTGAGCTGGGATAGTGGGCACAGCCCTAAGTATCCTGATTCGAG
+castor-canadensis          ACTTGATGTTCGGTGCTTGAGCAGGGATAGTGGGAACCGCCCTAAGCCTACTAATTCGAG
+fukomys-damarensis         ACCTGCTATTTGGGGCATGAGCAGGAATAACTGGAACAGCCCTAAGCATTCTAATCCGTA
+                           ** *  * ** ** ** ***** **  *    ** ** ** *****  * ** ** **  
+
+homo-sapien                CCGAGCTGGGCCAGCCAGGCAACCTTCTAGGTAACGACCACATCTACAACGTTATCGTCA
+pan-troglodytes            CTGAACTAGGCCAACCAGGCAACCTCCTAGGTAATGACCACATCTACAATGTCATCGTCA
+peromyscus-polionotus      CAGAACTGGGACAACCTGGTGCCTTATTAGGTGATGATCAAATCTATAATGTGATTGTAA
+castor-canadensis          CAGAGCTAGGACAGCCAGGAACCCTGCTAGGAGATGACCAGATCTATAACGTTATCGTCA
+fukomys-damarensis         CTGAACTAGGGCAACCCGGTACTCTATTGGGGGATGATCAGATCTACAACGTCATCGTCA
+                           * ** ** ** ** ** **     *  * **  * ** ** ***** ** ** ** ** *
+
+homo-sapien                CAGCCCATGCATTTGTAATAATCTTCTTCATAGTAATACCCATCATAATCGGAGGCTTTG
+pan-troglodytes            CAGCCCATGCATTCGTAATAATCTTCTTCATAGTAATGCCTATTATAATCGGAGGCTTTG
+peromyscus-polionotus      CTGCCCATGCATTTGTAATAATTTTCTTCATAGTAATACCAATAATGATTGGAGGCTTTG
+castor-canadensis          CAGCCCATGCCTTTGTAATAATCTTCTTCATAGTAATGCCAATTCTTATTGGGGGATTTG
+fukomys-damarensis         CCGCACATGCATTCATTATAATCTTCTTCATAGTTATGCCCATCATAATCGGAGGATTCG
+                           * ** ***** **  * ***** *********** ** ** **  * ** ** ** ** *
+
+homo-sapien                GCAACTGACTAGTTCCCCTAATAATCGGTGCCCCCGATATGGCGTTTCCCCGCATAAACA
+pan-troglodytes            GCAACTGGCTAGTTCCCTTGATAATTGGTGCCCCCGACATGGCATTCCCCCGCATAAACA
+peromyscus-polionotus      GAAACTGACTAGTACCCCTAATGATCGGAGCCCCAGATATAGCATTTCCACGAATGAATA
+castor-canadensis          GCAATTGACTAGTGCCATTAATGATTGGAGCCCCCGATATAGCATTTCCCCGAATAAACA
+fukomys-damarensis         GAAACTGATTGGTCCCACTAATAATTGGAGCCCCTGACATAGCATTCCCACGAATAAACA
+                           * ** **  * ** **  * ** ** ** ***** ** ** ** ** ** ** ** ** *
+
+homo-sapien                ACATAAGCTTCTGACTCTTACCTCCCTCTCTCCTACTCCTGCTCGCATCTGCTATAGTGG
+pan-troglodytes            ACATAAGCTTCTGGCTCCTGCCCCCTTCTCTCCTACTTCTACTTGCATCTGCCATAGTAG
+peromyscus-polionotus      ATATAAGCTTCTGACTCCTACCACCCTCATTTCTCCTGTTACTAGCATCATCTATAGTAG
+castor-canadensis          ACATGAGCTTCTGGCTTCTCCCGCCATCTTTTCTACTCCTACTGGCCTCCTCTATAGTAG
+fukomys-damarensis         ACATGAGCTTCTGACTTCTACCCCCCTCCTTCCTTCTGCTCCTAGCCTCATCAATAGTAG
+                           * ** ******** **  * ** ** **  * ** **  * ** ** **  * ***** *
+
+homo-sapien                AGGCCGGAGCAGGAACAGGTTGAACAGTCTACCCTCCCTTAGCAGGGAACTACTCCCACC
+pan-troglodytes            AAGCCGGCGCGGGAACAGGTTGAACAGTCTACCCTCCCTTAGCGGGAAACTACTCGCATC
+peromyscus-polionotus      AAGCAGGGGCAGGTACAGGTTGAACTGTATACCCCCCACTAGCTGGTAACTTAGCACATG
+castor-canadensis          AAGCCGGAGCGGGAACTGGATGAACCGTATACCCCCCACTAGCAGGCAACCTAGCTCATG
+fukomys-damarensis         AAGCCGGCGCCGGGACAGGTTGGACGGTCTACCCTCCTCTAGCAGGTAACCTAGCACACG
+                           * ** ** ** ** ** ** ** ** ** ***** **  **** ** ***    * **  
+
+homo-sapien                CTGGAGCCTCCGTAGACCTAACCATCTTCTCCTTACACCTAGCAGGTGTCTCCTCTATCT
+pan-troglodytes            CTGGAGCCTCCGTAGACCTAACCATCTTCTCCTTACATCTGGCAGGCATCTCCTCTATCC
+peromyscus-polionotus      CTGGAGCATCAGTAGATCTTACTATTTTTTCTCTCCACTTAGCTGGTGTGTCCTCAATTC
+castor-canadensis          CTGGAGCATCAGTAGACCTCACCATCTTTTCTCTTCACTTGGCTGGTGTATCTTCAATCC
+fukomys-damarensis         CAGGGGCCTCTGTAGACCTAACAATCTTTTCACTACACCTGGCAGGCGTATCCTCAATCC
+                           * ** ** ** ***** ** ** ** ** **  * **  * ** **  * ** ** **  
+
+homo-sapien                TAGGGGCCATCAATTTCATCACAACAATTATCAATATAAAACCCCCTGCCATAACCCAAT
+pan-troglodytes            TAGGAGCCATTAACTTCATCACAACAATTATTAATATAAAACCTCCTGCCATGACCCAAT
+peromyscus-polionotus      TAGGAGCAATTAACTTTATTACAACTATTATTAACATGAAACCACCAGCTATAACACAGT
+castor-canadensis          TTGGTGCCATTAATTTTATCACAACAATCATCAACATAAAACCCCCTGCAATGTCACAAT
+fukomys-damarensis         TCGGAGCAATTAACTTCATCACTACAATCATCAACATAAAACCACCGGCAATATCCCAAT
+                           * ** ** ** ** ** ** ** ** ** ** ** ** ***** ** ** **  * ** *
+
+homo-sapien                ACCAAACGCCCCTCTTCGTCTGATCCGTCCTAATCACAGCAGTCCTACTTCTCCTATCTC
+pan-troglodytes            ACCAAACACCCCTCTTCGTCTGATCCGTCCTAATCACAGCAGTCTTACTTCTCCTATCCC
+peromyscus-polionotus      ATCAAACCCCATTATTCGTATGATCAGTCCTCATTACAGCTGTACTCCTACTTCTATCCC
+castor-canadensis          ACCAGACACCGTTGTTCGTGTGATCCGTCCTGGTCACTGCAGTCCTTTTACTACTCTCCT
+fukomys-damarensis         ACCAAACACCATTATTCGTTTGATCCGTACTAATCACAGCAGTACTTCTCCTGTTATCCC
+                           * ** ** **  * ***** ***** ** **  * ** ** **  *  * **  * **  
+
+homo-sapien                TCCCAGTCCTAGCTGCTGGCATCACTATACTACTAACAGACCGCAACCTCAACACCACCT
+pan-troglodytes            TCCCAGTCCTAGCTGCTGGCATCACCATACTATTGACAGATCGTAACCTCAACACTACCT
+peromyscus-polionotus      TACCAGTTCTGGCCGCAGGAATTACTATGCTTTTAACAGACCGAAACCTAAACACAACTT
+castor-canadensis          TACCAGTCCTAGCAGCCGGAATTACAATACTCTTAACCGACCGAAACCTAAACACCACTT
+fukomys-damarensis         TACCAGTCCTAGCCGCAGGAATTACAATACTACTTACCGACCGAAATCTAAACACCACTT
+                           * ***** ** ** ** ** ** ** ** **  * ** ** ** ** ** ***** ** *
+
+homo-sapien                TCTTCGACCCCGCCGGAGGAGGAGACCCCATTCTATACCAACACCTATTCTGATTTTTCG
+pan-troglodytes            TCTTCGACCCAGCCGGGGGAGGAGACCCTATTCTATATCAACACTTATTCTGATTTTTTG
+peromyscus-polionotus      TCTTTGACCCTGCTGGAGGCGGTGACCCTATTCTATATCAACACCTATTCTGATTCTTTG
+castor-canadensis          TCTTCGACCCCGCAGGGGGAGGAGACCCAATCCTCTACCAACACCTATTCTGATTCTTTG
+fukomys-damarensis         TTTTCGACCCCGCTGGAGGAGGAGACCCAATTCTATATCAACATCTATTCTGATTCTTCG
+                           * ** ***** ** ** ** ** ***** ** ** ** *****  ********** ** *
+
+homo-sapien                GTCACCCTGAAGTTTATATTCTTATCCTACCAGGCTTCGGAATAATCTCCCATATTGTAA
+pan-troglodytes            GCCACCCCGAAGTTTATATTCTTATCCTACCAGGCTTCGGAATAATTTCCCACATTGTAA
+peromyscus-polionotus      GTCACCCAGAAGTCTACATTCTTATTCTACCTGGGTTTGGAATTATTTCACATATCGTCA
+castor-canadensis          GACACCCCGAAGTATATATTCTAATCCTTCCAGGTTTCGGCATAATCTCCCATATCGTCA
+fukomys-damarensis         GCCACCCAGAAGTGTATATCCTAATCCTCCCAGGATTCGGAATGATTTCACATATTGTTA
+                           * ***** ***** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** *
+
+homo-sapien                CTTACTACTCCGGAAAAAAAGAACCATTTGGATACATAGGTATGGTCTGAGCTATGATAT
+pan-troglodytes            CTTATTACTCCGGAAAAAAAGAACCATTTGGATATATAGGCATGGTTTGAGCTATAATAT
+peromyscus-polionotus      CATATTACTCTGGTAAAAAAGAACCATTCGGCTATATAGGAATAGTATGAGCCATAATAT
+castor-canadensis          CCTACTATTCAGGCAAAAAAGAACCATTTGGATACATAGGAATAGTATGAGCCATAATAT
+fukomys-damarensis         CCTATTACTCGGGAAAAAAAGAGCCATTCGGTTACATAGGAATAGTATGAGCCATAATAT
+                           * ** ** ** ** ******** ***** ** ** ***** ** ** ***** ** ****
+
+homo-sapien                CAATTGGCTTCCTAGGGTTTATCGTGTGAGCACACCATATATTTACAGTAGGAATAGACG
+pan-troglodytes            CAATTGGCTTCCTAGGGTTTATCGTGTGAGCACACCATATATTTACAGTAGGGATAGACG
+peromyscus-polionotus      CCATTGGATTTTTAGGATTTATTGTATGAGCCCACCATATATTCACAGTAGGACTAGATG
+castor-canadensis          CTATCGGATTCTTAGGATTTATCGTATGAGCACACCACATGTTTACAGTTGGAATAGACG
+fukomys-damarensis         CCATTGGCTTCCTGGGCTTCATCGTCTGAGCCCATCACATATTCACAGTAGGAATAGACG
+                           * ** ** **  * ** ** ** ** ***** ** ** ** ** ***** **  **** *
+
+homo-sapien                TAGACACACGAGCATATTTCACCTCCGCTACCATAATCATCGCTATCCCCACCGGCGTCA
+pan-troglodytes            TAGACACCCGAGCCTATTTCACCTCCGCTACCATAATCATTGCTATTCCTACCGGCGTCA
+peromyscus-polionotus      TAGACACACGAGCCTATTTCACATCAGCCACTATAATTATTGCTATTCCAACAGGAGTTA
+castor-canadensis          TTGACACCCGAGCCTACTTTACATCCGCCACTATAATCATCGCCATCCCCACAGGAGTAA
+fukomys-damarensis         TAGACACCCGAGCATACTTTACATCCGCAACAATAATCATTGCAATCCCCACAGGAGTAA
+                           * ***** ***** ** ** ** ** ** ** ***** ** ** ** ** ** ** ** *
+
+homo-sapien                AAGTATTTAGCTGACTCGCCACACTCCACGGAAGCAATATGAAATGATCTGCTGCAGTGC
+pan-troglodytes            AAGTATTCAGCTGACTCGCTACACTTCACGGAAGCAATATGAAATGATCTGCCGCAGTAC
+peromyscus-polionotus      AGGTATTTAGCTGATTAGCCACCCTCCACGGAGGAAATATCAAATGATCACCAGCAATGC
+castor-canadensis          AAGTCTTCAGCTGACTGGCCACACTTCACGGAGGCAACATCAAATGATCCCCAGCCCTAC
+fukomys-damarensis         AAGTATTCAGCTGACTAGCAACCCTGCACGGAGGAAACATCAAATGATCTCCGGCAATAC
+                           * ** ** ****** * ** ** ** ****** * ** ** ********  * **  * *
+
+homo-sapien                TCTGAGCCCTAGGATTCATCTTTCTTTTCACCGTAGGTGGCCTGACTGGCATTGTATTAG
+pan-troglodytes            TCTGAGCCCTAGGGTTTATCTTTCTCTTCACCGTAGGTGGCCTAACCGGCATTGTACTAG
+peromyscus-polionotus      TATGAGCTCTGGGATTTATTTTCTTATTTACGGTAGGTGGATTAACAGGAATCGTACTAT
+castor-canadensis          TTTGAGCCCTAGGTTTTATCTTCCTCTTCACAGTGGGCGGCCTAACAGGCATTGTCCTAT
+fukomys-damarensis         TATGAGCCTTGGGGTTCATCTTCCTGTTCACCGTAGGAGGTCTAACTGGAATTGTCCTAG
+                           * *****  * ** ** ** **  * ** ** ** ** **  * ** ** ** **  ** 
+
+homo-sapien                CAAACTCATCACTAGACATCGTACTACACGACACGTACTACGTTGTAGCCCACTTCCACT
+pan-troglodytes            CAAACTCATCATTAGACATCGTGCTACACGACACATACTACGTCGTAGCCCACTTCCACT
+peromyscus-polionotus      CTAACTCCTCCCTAGACATCGTACTTCACGATACATACTACGTAGTAGCACATTTCCACT
+castor-canadensis          CCAACTCATCCCTAGACATCGTACTACACGACACATACTACGTAGTAGCCCATTTCCACT
+fukomys-damarensis         CAAACTCCTCCCTAGACATTGTCCTACACGACACATACTACGTAGTCGCACACTTCCATT
+                           * ***** **  ******* ** ** ***** ** ******** ** ** ** ***** *
+
+homo-sapien                ATGTCCTATCAATAGGAGCTGTATTTGCCATCATAGGAGGCTTCATTCACTGATTTCCCC
+pan-troglodytes            ACGTTCTATCAATAGGAGCTGTATTCGCCATCATAGGAGGCTTCATTCACTGATTCCCCC
+peromyscus-polionotus      ATGTACTATCAATAGGAGCCGTATTTGCTATTATGGCAGGATTCGTCCACTGATTCCCAC
+castor-canadensis          ACGTCTTATCAATAGGAGCAGTGTTCGCAATCATAGGAGGATTCGTGCACTGATTCCCAC
+fukomys-damarensis         ATGTCTTATCCATAGGAGCCGTATTCGCCATTATAGCTGGCTTTGTTCACTGATTCCCCC
+                           * **  **** ******** ** ** ** ** ** *  ** **  * ******** ** *
+
+homo-sapien                TATTCTCAGGCTACACCCTAGACCAAACCTACGCCAAAATCCATTTCACTATCATATTCA
+pan-troglodytes            TATTCTCAGGCTATACCCTAGACCAAACCTATGCCAAAATCCAATTTGCCATCATGTTCA
+peromyscus-polionotus      TATTCACAGGCTATACTATCAATGACACATGAGCTAAAACCCATTTTGCCATCATATTTG
+castor-canadensis          TATTTTCAGGTTATACACTAGACCAAACATGAGCAAAAATCCACTTTACTATTATATTTG
+fukomys-damarensis         TATTCTCAGGGTACACTCTAGACCCCACATGAGCTAAAATCCAATTCTCCGTAATATTTA
+                           ****  **** ** **  *  *    ** *  ** **** *** **  *  * ** **  
+
+homo-sapien                TCGGCGTAAATCTAACTTTCTTCCCACAACACTTTCTCGGCCTATCCGGAATGCCCCGAC
+pan-troglodytes            TTGGCGTAAACCTAACCTTCTTCCCACAGCACTTCCTTGGCCTATCTGGGATGCCCCGAC
+peromyscus-polionotus      TAGGGGTTAATTTAACATTTTTCCCACAGCATTTCTTAGGTCTATCAGGAATACCACGAC
+castor-canadensis          TAGGGGTAAACCTGACCTTTTTCCCCCAGCACTTCCTCGGCCTGTCCGGCATGCCACGAC
+fukomys-damarensis         TTGGGGTAAATATAACATTCTTTCCACAACACTTCCTAGGCCTATCAGGCATGCCCCGAC
+                           * ** ** **  * ** ** ** ** ** ** **  * ** ** ** ** ** ** ****
+
+homo-sapien                GTTACTCGGACTACCCCGATGCATACACCACATGAAACATCCTATCATCTGTAGGCTCAT
+pan-troglodytes            GTTACTCGGACTACCCCGATGCATACACCACATGAAATGTCCTATCATCCGTAGGCTCAT
+peromyscus-polionotus      GATACTCTGATTACCCAGATGCCTATACCACATGAAACACTGTATCTTCAATAGGATCAT
+castor-canadensis          GCTATTCTGACTACCCTGATGCTTACACAGCATGAAACACAGTATCATCAATAGGCTCCT
+fukomys-damarensis         GATACTCCGACTACCCGGACGCCTATACAATATGGAATACACTGTCCTCTATAGGATCTC
+                           * ** ** ** ***** ** ** ** **   *** **     * ** **  **** **  
+
+homo-sapien                TCATTTCTCTAACAGCAGTAATATTAATAATTTTCATGATTTGAGAAGCCTTCGCTTCGA
+pan-troglodytes            TTATCTCCCTGACAGCAGTAATATTAATAATTTTCATGATTTGAGAAGCCTTTGCTTCAA
+peromyscus-polionotus      TTATTTCACTAACCGCTGTATTAGTAATAATTTTCATAATCTGAGAAGCATTTGCCTCTA
+castor-canadensis          TCATCTCCCTAACTGCAGTAATTATTATAGTCTTTATGATCTGAGAAGCATTTGCTTCTA
+fukomys-damarensis         TTATTTCCCTGACAGCAGTAATAATGATAGTCTTCATAATCTGAGAAGCTTTCGCCTCAA
+                           * ** ** ** ** ** *** *  * *** * ** ** ** ******** ** ** ** *
+
+homo-sapien                AGCGAAAAGTCCTAATAGTAGAAGAACCCTCCATAAACCTGGAGTGACTATATGGATGCC
+pan-troglodytes            AACGAAAAGTCCTAATAGTAGAAGAGCCCTCCGCAAACCTGGAATGACTATATGGATGCC
+peromyscus-polionotus      AACGTGAAGTACTATCAGTAGAATACTCATCAACAAATTTAGAGTGACTACACGGCTGCC
+castor-canadensis          AGCGAGAAGTAGGAGTAATCGAACTTACAACAACAAACCTAGAGTGATTACACGGATGCC
+fukomys-damarensis         AACGAGAAGTACTCATAACCGAAATAACCTCCACCAACTTAGAATGAATTCACGGCTGTC
+                           * **  ****      *   ***    *  *    **  * ** *** *  * ** ** *
+
+homo-sapien                CCCCACCCTACCACACATTCGAAGAACCCGTATACAT-AAAATCTAGACAAAAAAGGAAG
+pan-troglodytes            CCCCACCCTACCACACATTCGAAGAACCCGTATACAT-AAAATCTAGACAAAAAAGGAAG
+peromyscus-polionotus      CTCCGCCATACCATACATTCGAAGAGCCTACCTATGT-AAAAGTTAAATAAGAAAGGAAG
+castor-canadensis          CACCACCATACCATACATTCGAAGAACCTACATATGT-AAAAACGCACTAAGAAAGGAAG
+fukomys-damarensis         CTCCACCCTTCCACACATTTGAAGAACCCACATACATCAAAATATAACCGAGAAAGGAAG
+                           * ** ** * *** ***** ***** **    **  * ****        * ********
+
+homo-sapien                GAATCGAACCCCCCAAAGCTGGTTTCAAGCCAACCCCATGGCCTCCATGACTTTTTCAAA
+pan-troglodytes            GAATCGAACCCCCTAAAGCTGGTTTCAAGCCAACCCCATGACCTCCATGACTTTTTCAAA
+peromyscus-polionotus      GATTCGAACCCCCTTAAACTGGTTTCAAGCCAATCCCATAACCTCTATGTCTTTCTCAAT
+castor-canadensis          GAGTCGAACCCCCTAGAACTAGTTTCAAGCCAGCCCCATATCCCATATGTCTCTCTCTAT
+fukomys-damarensis         GAATCGAACCCCCAAAAGCCAGTTTCAAGCCAGCCCTGCAACCATTACCACTCTCTCAAC
+                           ** **********   * *  ***********  **     **   *   ** * ** * 
+
+homo-sapien                A----AGGTATTAGAAAAACCATTTCATAACTTTGTCAAAGTTAAATTATAGGCTAAATC
+pan-troglodytes            A----AGATATTAGAAAAACTATTTCATAACTTTGTCAAAGTTAAATTACAGGTTAACCC
+peromyscus-polionotus      G----AGATATTAGTAAAACAATTACATAACTTTGTCAAAGTTAAATTATAGAGTACAAT
+castor-canadensis          GCACAAGATATTAGTAAAATAATTACATAACTTTGTCAAAGTTAAATTACAGGTTAATCC
+fukomys-damarensis         A-GCAAGATATTAGTAAAACCATTACTCATCCTTGTCAAGGACGAATCATTAGTTAAAAC
+                                ** ****** ****  *** *  * * ******* *   *** *     **    
+
+homo-sapien                CT-ATATATCTTA-ATGGCACATGCAGCGCAAGTAGGTCTACAAGACGCTACTTCCCCTA
+pan-troglodytes            CC-GTATATCTTA-ATGGCACATGCAGCGCAAGTAGGTCTACAAGATGCTACTTCCCCTA
+peromyscus-polionotus      CT-ATATATCTTATATGGCTTATCCATTTCAACTAGGCTTACAAGATGCCACATCACCTA
+castor-canadensis          CCCGTATATCTTC-ATGGCATACCCATTACAGCTAGGCCTACAAGATGCTACATCACCCA
+fukomys-damarensis         CTAATATATCTTA-ATGCCCTATCCCCATCAACTCGGATTTCAAGATGCTACCTCCCCTA
+                           *   ********  *** *  *  *    **  * **  * ***** ** ** ** ** *
+
+homo-sapien                TCATAGAAGAGCTTATCACCTTTCATGATCACGCCCTCATAATCATTTTCCTTATCTGCT
+pan-troglodytes            TCATAGAAGAACTTATTATCTTTCACGACCATGCCCTCATAATTATCTTTCTCATCTGCT
+peromyscus-polionotus      TTATGGAAGAACTAACAAACTTCCATGATCACACCCTAATAATTGTTTTCCTAATTAGCT
+castor-canadensis          TCATAGAAGAACTACTAAACTTTCACGACCACACACTAATAATTGTATACCTCATCAGCT
+fukomys-damarensis         TTATAGAGGAACTGCTATACTTTCACGACCACACACTAATAATCGTATTCCTGATCAGCT
+                           * ** ** ** **      *** ** ** **  * ** *****  * *  ** **  ***
+
+homo-sapien                TCCTAGTCCTGTATGCCCTTTTCCTAACACTCACAACAAAACTAACTAATACTAACATCT
+pan-troglodytes            TTCTAGTCCTATACGCCCTTTTCCTAACACTCACAACAAAACTAACTAATACTAGTATTT
+peromyscus-polionotus      CACTAGTATTATATATCATCACACTTATACTAACTACAAAACTAACCCACACTAGCACCA
+castor-canadensis          CTCTAGTGCTATATATTATTTCACTAATACTTACTACTAAATTAACACATACCAGCACGA
+fukomys-damarensis         CACTAGTGCTCTACACCATCTCCACCATGCTCAGCACAAAACTAACCCACACTAACACTA
+                             *****  * **     *       *  ** *  ** *** ****  * ** *  *   
+
+homo-sapien                CAGACGCTCAGGAAATAGAAACCGTCTGAACTATCCTGCCCGCCATCATCCTAGTCCTCA
+pan-troglodytes            CAGACGCCCAGGAAATAGAAACCGTCTGAACTATCCTGCCCGCCATCATCCTAGTCCTTA
+peromyscus-polionotus      TAGATGCCCAAGAAGTTGAAACAATTTGAACCATCCTCCCAGCCGCAATCTTAATCCTAA
+castor-canadensis          TAGACGCCCAAGAAGTAGAGACTATCTGAACAATCCTTCCAGCAATTATTCTCATTATAA
+fukomys-damarensis         TAAACGCCCAAGAAATTGAAATGGTATGAACCATCCTACCCGCCATAATCCTCATTCTAA
+                            * * ** ** *** * ** *   * ***** ***** ** **    **  *  *  * *
+
+homo-sapien                TCGCCCTCCCATCCCTACGCATCCTTTACATAACAGACGAGGTCAACGATCCCTCCCTTA
+pan-troglodytes            TTGCCCTACCATCCCTGCGTATCCTTTACATAACAGACGAGGTCAACGACCCCTCCTTTA
+peromyscus-polionotus      TCGCACTCCCATCCCTCCGAATCCTATATATAATAGATGAAATCAATAACCCAGCACTAA
+castor-canadensis          TCGCCCTCCCGTCTCTACGAATCCTATATATAATAGACGAAATCAACAGCCCAACGCTAA
+fukomys-damarensis         TTGCACTGCCCTCCCTACGAATCCTATATATAATTGATGAAATCAACGACCCATCACTAA
+                           * ** ** ** ** ** ** ***** ** ****  ** **  ****    **  *  * *
+
+homo-sapien                CCATCAAATCAATTGGCCACCAATGGTACTGAACCTACGAGTACACCGACTACGGCGGAC
+pan-troglodytes            CTATTAAATCAATCGGCCATCAATGATATTGAACCTACGAATACACCGACTACGGCGGGC
+peromyscus-polionotus      CAGTAAAAACAATAGGTCACCAATGATACTGAAGTTATGAGTATACAGACTATGAAGATC
+castor-canadensis          CAGTAAAAACCATAGGACACCAGTGATACTGAAGTTATGAATATACCGACTACGAAGACC
+fukomys-damarensis         CAGTAAAGACCCTAGGCCATCAATGATACTGAAGCTACGAGTATACAGACTACGAGGAAC
+                           *  * **  *  * ** ** ** ** ** ****  ** ** ** ** ***** *  *  *
+
+homo-sapien                TAATCTTCAACTCCTACATACTTCCCCCATTATTCCTAGAACCAGGCGACCTGCGACTCC
+pan-troglodytes            TAATCTTCAACTCCTACATACTCCCCCCATTATTTCTAGAACCAGGTGATCTACGACTCC
+peromyscus-polionotus      TGTGCTTTGACTCATACATAATCCCAACAAATGACTTAAAGCCAGGAGAACTACGCCTGC
+castor-canadensis          TGGCCTTTGACTCTTATATAATCCCAACATCAGAACTAAAACCCGGAGAACTCCGGCTTC
+fukomys-damarensis         TTTGCTTCGACTCTTACATAGTACCAAGCACGGATTTAAAACCAGGAGAACTACGACTTC
+                           *   ***  **** ** *** * **           ** * ** ** ** ** ** ** *
+
+homo-sapien                TTGACGTTGACAATCGAGTAGTACTCCCGATTGAAGCCCCCATTCGTATAATAATTACAT
+pan-troglodytes            TTGACGTTGATAACCGAGTGGTCCTCCCAGTTGAAGCCCCCGTTCGTATAATAATTACAT
+peromyscus-polionotus      TAGAAGTAGACAACCGAGTTGTACTACCTATAGAGCTACCAATTCGAATACTAATCTCAT
+castor-canadensis          TTGAAGTTGACAACCGGGTAGTACTACCAATAGAAATGCCAATCCGAATGCTGATCTCAT
+fukomys-damarensis         TTGAAGTAGACAATCGAGTTGTCCTCCCAATAAAAACCCCCGTACGAATACTGATTTCAT
+                           * ** ** ** ** ** ** ** ** **  *  *    **  * ** **  * **  ***
+
+homo-sapien                CACAAGACGTCTTGCACTCATGAGCTGTCCCCACATTAGGCTTAAAAACAGATGCAATTC
+pan-troglodytes            CACAAGATGTTCTACACTCATGAGCTGTTCCCACATTAGGCCTAAAAACAGACGCAATTC
+peromyscus-polionotus      CAGAAGATGTACTTCACTCATGAGCTGTCCCATCCTTGGGATTAAAAACAGACGCCATCC
+castor-canadensis          CTGAAGACGTACTACACTCATGAGCTATCCCATCACTAGGCCTAAAAACGGACGCTATCC
+fukomys-damarensis         CTGAAGACGTACTGCACTCATGAGCCGTTCCATCCTTAGGATTAAAAACAGACGCAGTCC
+                           *  **** **  * ***********  * **  *  * **  ******* ** **  * *
+
+homo-sapien                CCGGACGTCTAAACCAAACCACTTTCACCGCTACACGACCGGGGGTATACTACGGTCAAT
+pan-troglodytes            CCGGACGCCTAAACCAAACCACTTTCACCGCCACACGACCAGGAGTATACTACGGCCAAT
+peromyscus-polionotus      CAGGCCGACTAAATCAAGCTACAATCTCATCTAACCGACCTGGGCTATTTTACGGCCAAT
+castor-canadensis          CAGGACGCCTCAACCAAGCAACCCTTACCTCCACGCGGCCAGGACTCTATTACGGCCAGT
+fukomys-damarensis         CAGGACGTCTAAATCAAACAACCCTTATATCTTCACGACCTGGACTATTTTACGGTCAGT
+                           * ** ** ** ** *** * **  *     *    ** ** **  * *  ***** ** *
+
+homo-sapien                GCTCTGAAATCTGTGGAGCAAACCACAGTTTCATGCCCATCGTCCTAGAATTAATTCCCC
+pan-troglodytes            GCTCAGAAATCTGTGGAGCAAACCACAGTTTTATACCCATCGTCCTAGAATTAATCCCTC
+peromyscus-polionotus      GTTCTGAAATCTGCGGATCAAACCACAGCTTTATACCTATTGTCCTAGAAATAGTGCCAC
+castor-canadensis          GCTCCGAAATTTGCGGCTCAAACCACAGCTTCATGCCAATCGTGTTAGAAATAGTCCCAC
+fukomys-damarensis         GTTCCGAAATCTGTGGATCAAACCACAGTTTCATACCCATTGTAATCGAAATAGTGCCCC
+                           * ** ***** ** **  ********** ** ** ** ** **  * *** ** * ** *
+
+homo-sapien                TAAAAATCTTTGAAATAGGGCCCGTATTTACCCTATAGCACCCCCTCTACCCC-CTCTAG
+pan-troglodytes            TAAAAATCTTTGAAATAGGACCCGTATTCACTCTATAGCACCTTCTCTACCCCTCTCCAG
+peromyscus-polionotus      TAAAACACTTTGAGAACTGATCCTCATCAATAATTTA-----------------------
+castor-canadensis          TTAAATACTTCGAAAACTGGTCCCTATCTATACTATA-----------------------
+fukomys-damarensis         TAAAAACATTCGAAAGCTGATCATCATTAATAACAT------------------------
+                           * ***   ** ** *   *  *   **  *     *                        
+
+homo-sapien                AGCCCACTGTAAAGCTAACTTAGCATTAACCTTTTAAGTTAAAGATTAAGAGAACCAACA
+pan-troglodytes            AGCTCACTGTAAAGCTAACCTAGCATTAACCTTTTAAGTTAAAGATTAAGAGGACCGACA
+peromyscus-polionotus      ATAACACTGTGAAGCTTAA--AGCGTTAACCTTTTAAGTTAAAGTCAGAAAATA---ATA
+castor-canadensis          AGTACATTATGAAGCTACAGCAGCGTTAACCTTTTAAGTTAGAGATAGAGAGTA-----A
+fukomys-damarensis         AAAACATTATGAAGCTATAGCAGCATTAACCTTTTAAGTTAAAGATAGAGA--AATACTG
+                           *   ** * * *****     *** **************** **    * *  *      
+
+homo-sapien                CCTCTTTACAGTGAAATGCCCCAACTAAATACTACCGTATGGCCCACCATAATTACCCCC
+pan-troglodytes            CCTCTTTACAGTGAAATGCCCCAACTAAATACCGCCGTATGACCCACCATAATTACCCCC
+peromyscus-polionotus      TTTTTCCACAGTGGTATGCCACAACTAGATACATCTACATGATTTATTACTATTCTATCT
+castor-canadensis          TCTCTCCATAATGACATGCCACAACTCGATACATCCACATGATTCACAACGATCACCTCT
+fukomys-damarensis         ACTCTCCATAATGACATGCCACAACTAGACACATCAACGTGATTTATAATAATTACAACA
+                             * *  * * **  ***** *****  * **  *    **    *  *  **     * 
+
+homo-sapien                ATACTCCTTACACTATTCCTCATCACCCAACTAAAAATATTAAACACAAACTACCACCTA
+pan-troglodytes            ATACTCCTGACACTATTTCTCGTCACCCAACTAAAAATATTAAATTCAAATTACCATCTA
+peromyscus-polionotus      ACCATTATTACACTATTCGTACTAATACAACTAAAAATCTCCACAATCAACTTCCCACTT
+castor-canadensis          ATAATCCTCACCCTATTCATCATCTTCCAACTAAAAGTAAAAACATTCACCTTCACACCT
+fukomys-damarensis         ATAATAATCACCCTGTTTATTATATTTCAACTAAAAATACTAAACTACCATTACCCCAAC
+                           *   *  * ** ** **  *  *    ********* *    *        * *      
+
+homo-sapien                CCTCCCTCACCAAAGCCCATAAAAATAAAAAATTATAACAAACCCTGAGAACCAAAATGA
+pan-troglodytes            CCCCCCTCACCAAAACCCATAAAAATAAAAAACTACAATAAACCCTGAGAACCAAAATGA
+peromyscus-polionotus      AGCCCATCAATCAAATCCACAGAGTTAGTAAAAACTGACAACCCATGAGAATCAAAATGA
+castor-canadensis          AATCCCACACCCAAAAATGTCGAATCTATAAAACAAAAAAACCCTTGAGAAAAAAAATGA
+fukomys-damarensis         GACATCAAAACTAAATCAACCCTCCACACAAAACGGCATGCCCCTTGAGAAAAAAAATGA
+                                   *   **               ***     *    ** ******  *******
+
+homo-sapien                ACGAAAATCTGTTCGCTTCATTCATTGCCCCCACAATCCTAGGCCTACCCGCCGCAGTAC
+pan-troglodytes            ACGAAAATCTATTCGCTTCATTCGCTGCCCCCACAATCCTAGGCTTACCCGCCGCAGTAC
+peromyscus-polionotus      ACGAAAATCTATTCGCCTCTTTTATTACTCCCACAATAATAGGACTACCTATCGTTGTAT
+castor-canadensis          ACGAAAATTTATTTGCCTCTTTTATTACCCCTACTATAATAGGACTCCCTATTGTTACCC
+fukomys-damarensis         ACGAAAATCTATTTGCCCCCTTCTCCACACCAACACTAATGGGTCTCCCCATCATCATTA
+                           ******** * ** **  * **     * ** **  *  * **  * **           
+
+homo-sapien                TGATCATTCTATTTCCCCCTCTATTGATCCCCACCTCCAAATATCTCATCAACAACCGAC
+pan-troglodytes            TAATCATTCTATTCCCCCCTCTACTGGTCCCCACTTCTAAACATCTCATCAACAACCGAC
+peromyscus-polionotus      TCATTATCATACTCCCATCTATCCTTCTCTCTTCCTCCAAACGCCTAGTTACAAACCGTT
+castor-canadensis          TAATCATCCTTTTCCCAAGTATTACACTCCCAACCCCAAACCGATTAATTAACAACCGGT
+fukomys-damarensis         TTATCATAATATTCCCATCCATACTACTATCACGACCCAACCGCCTAATCAACAACCGAC
+                           * ** **  *  * **     *     *  *     * **     *  * *  *****  
+
+homo-sapien                TAATCACCACCCAACAATGACTAATCAAACTAACCTCAAAACAAATGATAACCATACACA
+pan-troglodytes            TAATTACCACCCAACAATGACTAATTCAACTGACCTCAAAACAAATAATAACTATACACA
+peromyscus-polionotus      ACTTCTCATTTTTACACTGACTAGTAAAACTTATTACTAAACAAATAATACTTATCCACA
+castor-canadensis          TAGTCTCTATTCAACAATGAGCAGTTAAACTAATCACCAAGCAAATAATAACAATACATA
+fukomys-damarensis         TCACCTCCCTCCAACAATGAGCAATCCAAATAACACTAAAACAACTAATAACAATACACA
+                                 *      *** ***  * *  ** * *     ** *** * ***   ** ** *
+
+homo-sapien                ACACTAAAGGACGAACCTGATCTCTTATACTAGTATCCTTAATCATTTTTATTGCCACAA
+pan-troglodytes            GCACTAAAGGACGAACCTGATCTCTCATACTAGTATCCTTAATCATTTTTATTACCACAA
+peromyscus-polionotus      CCCCAAAAGGACGCACATGATCATTAATACTAGTATCACTGATAATATTTATTGGATCAA
+castor-canadensis          ACTCCAAAGGACGTACTTGATCTTTGATGCTAATATCACTCATTATCTTCATTGGATCAA
+fukomys-damarensis         ACACAAAAGGCCGCTCATGAACATTAATACTCACATCCCTAATCCTATTTATCTCATCTA
+                            * * ***** **  * *** *  * ** **   ***  * **  * ** **     * *
+
+homo-sapien                CTAACCTCCTCGGACTCCTGCCTCACTCATTTACACCAACCACCCAACTATCTATAAACC
+pan-troglodytes            CCAATCTTCTTGGGCTTCTACCCCACTCATTCACACCAACCACCCAACTATCTATAAACC
+peromyscus-polionotus      CAAATCTATTAGGCCTCCTACCACACACATTCACCCCAACAACACAACTATCAATAAACC
+castor-canadensis          CCAACCTACTCGGACTTTTCCCATACTCCTTCACCCCAACAACCCAGCTGTCAATAAATC
+fukomys-damarensis         CCAACCTTCTGGGACTACTGCCATACACCTTTACCCCTACAACACAACTATCAATAAACT
+                           * ** **  * ** **  * **  ** * ** ** ** ** ** ** ** ** *****  
+
+homo-sapien                TAGCCATGGCCATCCCCTTATGAGCGGGCACAGTGATTATAGGCTTTCGCTCTAAGATTA
+pan-troglodytes            TAGCCATGGCTATCCCCCTATGAGCAGGCGCAGTAGTCATAGGCTTTCGCTTTAAGACTA
+peromyscus-polionotus      TAGGAATGGCTATTCCATTATGAGCCGGAGCCGTAATTCTAGGATTCCGCCATAAATTAA
+castor-canadensis          TCGGAATAGCCATCCCACTTTGAGCAGGAGCCGTAGTTCTAGGCTTCCGCCATAAAATAA
+fukomys-damarensis         TAGGAATAGCTATTCCACTATGAGCCGGAACCGTCATCCTGGGCTTCCGACATAAAACCA
+                           * *  ** ** ** **  * ***** **  * **  *  * ** ** **   ***    *
+
+homo-sapien                AAAATGCCCTAGCCCACTTCTTACCACAAGGCACACCTACACCCCTTATCCCCATACTAG
+pan-troglodytes            AAAATGCCCTAGCCCACTTCTTACCGCAAGGCACACCTACACCCCTTATCCCCATACTAG
+peromyscus-polionotus      AATCTTCACTAGCCCACTTCCTACCACAAGGAACCCCCATCTCCTTAATCCCAATACTTA
+castor-canadensis          AATCATCCCTAGCTCACTTTTTACCACAAGGAACCCCTATCCCCCTAATCCCAATACTAG
+fukomys-damarensis         AAAAATCATTAGCCCATTTCCTCCCGCAAGGCACCCCAAACCCACTCATCCCCATACTAG
+                           **    *  **** ** **  * ** ***** ** ** *   *  * ***** *****  
+
+homo-sapien                TTATTATCGAAACCATCAGCCTACTCATTCAACCAATAGCCCTGGCCGTACGCCTAACCG
+pan-troglodytes            TTATCATCGAAACTATTAGCCTACTCATTCAACCAATAGCCTTAGCCGTACGTCTAACCG
+peromyscus-polionotus      TCATTATTGAAACAATTAGCTTATTTATTCAACCAATAGCCCTAGCAGTGCGACTTACAG
+castor-canadensis          TTATTATTGAAACTATCAGCCTGTTCATTCAACCAATAGCACTAGCCATTCGACTAACAG
+fukomys-damarensis         TATTAATCGAAACAATTAGCCTATTCATTCAGCCCGTAGCCCTGGCTATTCGACTCACAG
+                           *  * ** ***** ** *** *  * ***** **  ****  * **  * ** ** ** *
+
+homo-sapien                CTAACATTACTGCAGGCCACCTACTCATGCACCTAATTGGAAGCGCCACCCTAGCAATAT
+pan-troglodytes            CTAACATTACTGCAGGCCACCTACTCATGCACCTAATTGGAAGCGCCACACTAGCATTAT
+peromyscus-polionotus      CCAATATTACAGCAGGGCATCTACTAATCCATCTAATTGGCGGGGCAACATTAGTACTAA
+castor-canadensis          CCAATATCACAGCAGGCCACCTACTAATACACCTAATCAGCGGAGCCACACTAGCACTAC
+fukomys-damarensis         CCAACATCACCGCAGGACATCTATTAATACACCTAATCAGTAAAGCTGTCCTCACCCTAA
+                           * ** ** ** ***** ** *** * ** ** *****  *    **     *     ** 
+
+homo-sapien                CAACCATTAACCTTCCCTCTACACTTATCATCTTCACAATTCTAATTCTACTGACTATCC
+pan-troglodytes            CAACTATCAATCTACCCTATGCACTCATTATCTTCACAATTCTAATCCTACTGACTATTC
+peromyscus-polionotus      CAAGCATCAGTCCTCCAACTGCCTCCATCACCTTTATTATCCTGGCCTTACTAACAATCT
+castor-canadensis          TAACCATCAACCCAACCACAGCCTTCGTAACATTTATCATTCTAATCCTCCTCACAATCC
+fukomys-damarensis         TTTCCATCAACATCACCACAGCCCTGATTACATTTACCATCTTAATCTTACTCACAATAC
+                                ** *      *     *     * *  ** *  **  *     * ** ** **  
+
+homo-sapien                TAGAAATCGCTGTCGCCTTAATCCAAGCCTACGTTTTCACACTTCTAGTAAGCCTCTACC
+pan-troglodytes            TAGAGATCGCCGTCGCCTTAATCCAAGCCTACGTTTTTACACTTCTAGTGAGCCTCTACC
+peromyscus-polionotus      TAGAATTCGCTGTAGCTCTTATCCAAGCCTACGTATTTACACTACTAGTTAGTCTATATT
+castor-canadensis          TCGAATTCGCAGTAGCCCTAATTCAAGCTTACGTATTCACACTCCTAGTTAGCCTGTATC
+fukomys-damarensis         TGGAATTTGCTGTAGCCATAATCCAAGCTTATGTATTTACTCTACTCGTCAGCCTTTACC
+                           * **  * ** ** **  * ** ***** ** ** ** ** ** ** ** ** ** **  
+
+homo-sapien                TGCACGACAACACATAATGACCCACCAATCACATGCCTATCATATAGTAAAACCCAGCCC
+pan-troglodytes            TGCACGACAACACATAATGACCCACCAATCACATGCCTACCACATAGTAAAACCCAGCCC
+peromyscus-polionotus      TACATGACAACACATAATGACCCACCAAACCCATGCTTATCACATAGTAAACCCAAGCCC
+castor-canadensis          TCCATGACAACACATAATGACCCACCAAGTCCACGCTTACCACATAGTCAACCCAAGCCC
+fukomys-damarensis         TGAACGACAACACCTAATGAATCACCAAACTCATGCATTTCATATAGTGAACCCCAGCCC
+                           *  * ******** ******  ******   ** ** *  ** ***** ** ** *****
+
+homo-sapien                ATGACCCCTAACAGGGGCCCTCTCAGCCCTCCTAATGACCTCCGGCCTAGCCATGTGATT
+pan-troglodytes            ATGACCCCTAACAGGGGCCCTCTCGGCCCTCCTAATAACCTCCGGCCTGGCCATATGATT
+peromyscus-polionotus      ATGACCACTAACAGGAGCATTCTCAGCCCTCCTACTTACATCAGGCTTAGTAATATGATT
+castor-canadensis          ATGACCGCTAACAGGAGCACTATCTGCCCTCCTTATAACATCAGGCCTAGCAATGTGATT
+fukomys-damarensis         ATGGCCCCTAACAGGAGCCCTATCCGCCCTCCTAATTACATCAGGACTAACCATATGATT
+                           *** ** ******** **  * ** ********  * ** ** **  *    ** *****
+
+homo-sapien                TCACTTCCACTCCATAACGCTCCTCATACTAGGCCTACTAACCAACACACTAACCATATA
+pan-troglodytes            CCACTTCTACTCCACAACACTACTCACACTAGGCTTACTAACTAACACATTGACCATATA
+peromyscus-polionotus      TCACTACAACTCATACACCCTAATAACTATTGGTTTATTAGCAAATACCCTAACAATATA
+castor-canadensis          TCACTTTAACTCCATCTCCCTCTTAACACTAGGACTACTTACCAACTCACTAACCATATA
+fukomys-damarensis         CCACTTCAACTCCATAACCCTCATGCTACTAGGTCTACTAGCCTGCATCATGACCATATA
+                            ****   ****     * **  *     * **  ** *  *        * ** *****
+
+homo-sapien                CCAATGATGGCGCGATGTAACACGAGAAAGCACATACCAAGGCCACCACACACCACCTGT
+pan-troglodytes            TCAATGATGACGCGATGTTATACGAGAAGGCACATACCAAGGCCACCACACACCACCCGT
+peromyscus-polionotus      CCAATGATGACGAGATATTGTACGAGAAGGGACCTACCAAGGCCACCACACACCAATTGT
+castor-canadensis          CCAATGATGACGAGACGTAGTACGAGAAGGTACATTCCAGGGCCACCACACCCCAATTGT
+fukomys-damarensis         CCAATGATGACGAGACATTGTACGAGAAGGAACTTACCAAGGACATCACACGCCAACAGT
+                            ******** ** **  *   ******* * ** * *** ** ** ***** ***   **
+
+homo-sapien                CCAAAAAGGCCTTCGATACGGGATAATCCTATTTATTACCTCAGAAGTTTTTTTCTTCGC
+pan-troglodytes            CCAAAAAGGTCTCCGATATGGGATAATTCTTTTTATTACCTCAGAAGTTTTTTTCTTTGC
+peromyscus-polionotus      ACAAAAAGGACTTCGCTACGGAATAATCCTATTTATCGTATCAGAAGTCTTTTTCTTCGC
+castor-canadensis          TCAAAAAGGACTGCGATACGGAATAGTACTATTCATCGTCTCCGAAGTTTTCTTCTTCGC
+fukomys-damarensis         CCAAAAAGGACTTCGATATGGTATAGTACTATTTATCATCTCCGAAGTCTTCTTCTTTGC
+                            ******** ** ** ** ** *** * ** ** **    ** ***** ** ***** **
+
+homo-sapien                AGGATTTTTCTGAGCCTTTTACCACTCCAGCCTAGCCCCTACCCCCCAATTAGGAGGGCA
+pan-troglodytes            AGGATTTTTTTGAGCTTTCTACCACTCCAGCCTAGCCCCTACCCCCCAGCTAGGAGGACA
+peromyscus-polionotus      TGGGTTCTTCTGAGCCTTCTACCACTCTAGTCTAGCACCAACCCACGACTTAGGGGGATG
+castor-canadensis          CGGATTTTTCTGAGCCTTTTACCACTCAAGCCTAGCCCCAACCCCAGAACTAGGCGGCTG
+fukomys-damarensis         AGGATTTTTCTGAGCCTTCTACCACTCAAGCCTAGCACCCACCCCCGAATTAGGGGGATA
+                            ** ** ** ***** ** ******** ** ***** ** ****   *  **** **   
+
+homo-sapien                CTGGCCCCCAACAGGCATCACCCCGCTAAATCCCCTAGAAGTCCCACTCCTAAACACATC
+pan-troglodytes            CTGGCCCCCAACAGGTATTACCCCACTAAATCCCCTAGAAGTCCCACTCCTAAACACATC
+peromyscus-polionotus      CTGACCTCCTACAGGAATTACCCCCTTAAACCCACTAGAAGTTCCCTTACTTAACACATC
+castor-canadensis          CTGACCACCCACCGGTATCAACCCACTAGACCCCCTAGACGTCCCTCTCCTCAACACATC
+fukomys-damarensis         TTGACCCCCTGCAGGAATTAATCCTCTAAACCCAACAGAAGTACCCCTACTTAACACGGC
+                            ** ** **  * ** ** *  **  ** * **   *** ** **  * ** *****  *
+
+homo-sapien                CGTATTACTCGCATCAGGAGTATCAATCACCTGAGCTCACCATAGTCTAATAGAAAACAA
+pan-troglodytes            TGTATTACTCGCATCAGGAGTATCAATTACTTGAGCCCATCACAGCTTAATAGAAAATAA
+peromyscus-polionotus      AGTACTTCTAGCATCCGGAGTATCCATCACATGGGCCCACCACAGCCTAATAGAAGGAAA
+castor-canadensis          AGTTCTTCTCGCATCAGGAGTATCCATTACCTGAGCCCATCATAGCCTAATAGAAGGAAG
+fukomys-damarensis         CATTCTATTAGCATCCGGAGTCTCTATCACATGAGCCCACCACAGCCTAATAGAAGGCCA
+                             *  *  * ***** ***** ** ** ** ** ** ** ** **  ********     
+
+homo-sapien                CCGAAACCAAATAATTCAAGCACTGCTTATTACAATTTTACTGGGTCTCTATTTTACCCT
+pan-troglodytes            CCGAAACCAAATAATTCAAGCACTGCTTATTACGATTCTACTAGGTCTTTATTTTACCCT
+peromyscus-polionotus      ACGCAGTAATATAAATCAAGCTCTTCTTATTACAATCCTACTTGGAATCTATTTCACCAT
+castor-canadensis          CCGAAAAAATATAATCCAAGCACTGTCAATCACCATCCTATTGGGCATCTACTTCACCCT
+fukomys-damarensis         CCGAAAACACGTAATTCAAAGCCTCTTAACCACCATCATCTTAGGAATCTACTTCACCCT
+                            ** *   *  ***  ***   **    *  ** **  *  * **  * ** ** *** *
+
+homo-sapien                CCTACAAGCCTCAGAGTACTTCGAGTCTCCCTTCACCATTTCCGACGGCATCTACGGCTC
+pan-troglodytes            CCTACAAGCCTCAGAATATTTCGAATCCCCTTTTACCATTTCCGATGGCATCTACGGCTC
+peromyscus-polionotus      TCTTCAAGCCTCAGAATATTTTGAAACCCCATTCTCTATCTCAGACGGGGTTTATGGATC
+castor-canadensis          TCTACAAGCCTCAGAATATTTTGAAACCTCATTCACAATCTCCGATGGCATCTACGGCTC
+fukomys-damarensis         ACTACAGGCCTCGGAATACTTTGAAGCGCCTTTCACCATTTCAGACGGAATCTATGGCTC
+                            ** ** ***** ** ** ** **  *  * **  * ** ** ** **  * ** ** **
+
+homo-sapien                AACATTTTTTGTAGCCACAGGCTTCCACGGACTTCACGTCATTATTGGCTCAACTTTCCT
+pan-troglodytes            AACATTCTTTGTAGCCACAGGCTTCCACGGACTCCACGTCATTATTGGATCAACTTTCCT
+peromyscus-polionotus      TACATTCTTTATAGCAACTGGATTCCACGGCCTCCATGTAATTATTGGGACCACCTTCCT
+castor-canadensis          AACTTTCTTTATAGCAACAGGATTCCACGGCCTACATGTAATTATCGGCTCCACATTTCT
+fukomys-damarensis         CACCTTCTTCGTAGCCACAGGATTTCACGGGCTCCATGTTATCATTGGATCCACATTTCT
+                            ** ** **  **** ** ** ** ***** ** ** ** ** ** **  * ** ** **
+
+homo-sapien                CACTATCTGCTTCATCCGCCAACTAATATTTCACTTTACATCCAAACATCACTTTGGCTT
+pan-troglodytes            CACTATCTGCCTCATCCGCCAACTAATATTTCACTTCACATCCAAACATCACTTCGGCTT
+peromyscus-polionotus      AATAGTATGCTTAATACGCCAACTCAAATACCACTTTACATCTAAACATCACTTCGGATT
+castor-canadensis          ACTAGTATGCCTAACCCGACAACTAAAATTCCACTTCACATCAAAACATCACTTTGGTTT
+fukomys-damarensis         AACAGTCTGCCTCATTCGACAATTGCTATTCCACTTCACATCCAAACATCACTTTGGATT
+                                * *** * *  ** *** *   **  ***** ***** *********** ** **
+
+homo-sapien                CGAAGCCGCCGCCTGATACTGGCATTTTGTAGATGTGGTTTGACTATTTCTGTATGTCTC
+pan-troglodytes            TCAAGCCGCCGCCTGATACTGACACTTCGTAGATGTAGTCTGACTATTTCTATATGTCTC
+peromyscus-polionotus      TGAAGCCGCAGCATGATACTGACACTTCGTTGACGTAGTATGATTATTCCTATATGTATC
+castor-canadensis          CGAAGCTGCAGCCTGATACTGACATTTTGTTGATGTAGTATGACTATTCCTATACGTCTC
+fukomys-damarensis         TGAAGCCGCAGCCTGATACTGACACTTCGTGGACGTGGTCTGATTATTCCTTTACGTATC
+                             **** ** ** ******** ** ** ** ** ** ** *** **** ** ** ** **
+
+homo-sapien                CATCTATTGATGAGGGTCTTACTCTTTTAGTA-TAAATAGTACCGTTAACTTCCAATTAA
+pan-troglodytes            TATTTACTGATGAGGATCTTACTCTTTTAGTA-TAAGTAGTACCGTTAACTTCCAATTAA
+peromyscus-polionotus      TATTTATTGATGAGGATCATACTTTCTTAGTA-TAATAAGTACAACCGACTTCCAATCAG
+castor-canadensis          CATCTATTGATGAGGCTCATACTCTCTTAGTATTAATTAGTACAGCTGACTTCCAATCAA
+fukomys-damarensis         CATTTACTGGTGAGGTTCATACTCTCTTAGTA-TAAACAGTACAGTTGACTTCCAATCAA
+                            ** ** ** ***** ** **** * ****** ***  *****     ********* * 
+
+homo-sapien                CTAGTTTTGACA-ACATTCAAAAAAGAGTAATAAACTTCGCCTTAATTTTAATAATCAAC
+pan-troglodytes            CTAGTTTTGACA-ACATTCAAAAAAGAGTAATAAACTTCGTCCTAATTTTAATAACCAAT
+peromyscus-polionotus      TTAGATCTAGACTTAACCTAGAAGAAAGTAATAAACATATTAACAGCCCTACTAGTAAAT
+castor-canadensis          CTAGATTTGGTATAAACCCAAAAGAGAGTAATAAACCTAATCATTGCACTAACTTTAAAC
+fukomys-damarensis         CCAGCCTCGGCA-CACCCTGAGAAAGAGTAATAAACATAACAATCTCATTACTGACGAAC
+                             **                  * * ********** *           **      ** 
+
+homo-sapien                ACCCTCCTAGCCTTACTACTAATAATTATTACATTTTGACTACCACAACTCAACGGCTAC
+pan-troglodytes            ACCCTTCTAGCCCTACTACTGATAATTATCACATTCTGACTACCACAACTCAACAGCTAC
+peromyscus-polionotus      ATTACACTATCAATACTACTAATCATTATTGCCTTCTGATTACCCCAACTTAATTTATAC
+castor-canadensis          TCCTTCCTAGCAACTCTCCTAGTCACCATCGCATTCTGAATTCCACAAATCAACATCTAT
+fukomys-damarensis         TTCTCCCTAGCCACCATCCTCATGCTAATCGCATTCTGACTCCCCCAAATGGACGCCTAC
+                                 *** *     * **  *    **  * ** *** * ** *** *  *    ** 
+
+homo-sapien                ATAGAAAAATCCACCCCTTACGAGTGCGGCTTCGACCCTATATCCCCCGCCCGCGTCCCT
+pan-troglodytes            ATAGAAAAATCTACCCCTTACGAATGTGGCTTCGACCCTATATCCCCCGCCCGCGTCCCC
+peromyscus-polionotus      ACTGAAAAAGCAAACCCGTACGAGTGCGGGTTTGACCCTATAGGCTCTGCCCGCCTCCCG
+castor-canadensis          AACGAAAAATCAAACCCTTACGAATGCGGATTTGACCCCATAGGTTCAGCACGACTCCCA
+fukomys-damarensis         GCAGAAAAATTAAGCCCCTATGAATGCGGATTTGACCCGATAGGATCCGCACGACTACCA
+                              ******   * *** ** ** ** ** ** ***** ***    * ** **  * ** 
+
+homo-sapien                TTCTCCATAAAATTCTTCTTAGTAGCTATTACCTTCTTATTATTTGATCTAGAAATTGCC
+pan-troglodytes            TTCTCCATAAAATTTTTCCTAGTAGCCATCACCTTCCTATTATTTGACCTAGAAATTGCC
+peromyscus-polionotus      TTCTCAATAAAATTTTTCCTAGTAGCAATCACTTTCTTACTATTTGATCTAGAAATTGCA
+castor-canadensis          TTCTCAATAAAATTCTTCCTAGTTGCAATCACCTTCCTCCTATTTGACCTTGAAATCGCC
+fukomys-damarensis         TTCTCCATAAAATTCTTCTTAATCGCCATTACGTTCCTGCTATTCGACCTAGAAATCGCC
+                           ***** ******** *** ** * ** ** ** *** *  **** ** ** ***** ** 
+
+homo-sapien                CTCCTTTTACCCCTACCATGAGCCCTACAAACAACTAACCT---GCCACTAATAGTTATG
+pan-troglodytes            CTCCTATTGCCCTTACCTTGAGCCCTACAAACGGCCAACCT---ACCACTAATAGTCACA
+peromyscus-polionotus      CTTCTACTTCCACTACCATGAGCCATCCAAATATATAATATTAACATCATAATATTAACA
+castor-canadensis          CTGCTCCTCCCCCTCCCTTGAGCACTACAAACAAACAACCTCTACCCAGTTATCCTCATA
+fukomys-damarensis         CTACTCCTCCCTCTCCCCTGAGCGTCACAAACCAACAACCT---CACCCTAATACTTACA
+                           ** **  * **  * ** *****    ****     **  *        * **  * *  
+
+homo-sapien                TCATCCCTCTTATTAATCATCATCCTAGCCCTAAGTCTGGCCTATGAGTGACTACAAAAA
+pan-troglodytes            TCATCCCTCTTATTAATTACTATCCTAGCCCTAAGCCTCGCCTACGAATGATTACAAAAA
+peromyscus-polionotus      G---CTTTCATCCTAGTCTCCGTATTAGCATTAGGCCTAGCCTACGAATGACTACAAAAA
+castor-canadensis          G---CTCTTGCTCTCATCGTCATCCTATCACTGGGGCTGGCATACGAATGGTCCCAAAAG
+fukomys-damarensis         GTCTCACTCGTACTGATCTCAGTTTTAGCACTAGGACTCTTCTACGAATGATCTCAAAAA
+                               *  *     *  *     *  ** *  *  * **    ** ** **    ***** 
+
+homo-sapien                GGATTAGACTGAACCGAAT---TGGTATATAGTTTAA---ACAAAACGAATGATTTCGAC
+pan-troglodytes            GGGTTAGACTGAACCGAAT---TGGTATATAGTTTAA---ATAAAACGAATGATTTCGAC
+peromyscus-polionotus      GGACTAGAATGAACTGAGTAACTGGTAATTAGTTTAA---TTAAAACAAATGATTTCGAC
+castor-canadensis          GGATTAGAATGAAATGAATA--TGGTGCTTAGTTTAA--CACAAAGCAAATGACTTCGAC
+fukomys-damarensis         GGACTAGAATGAGACAAATA--TGGTAATTAGTTTAAACAACAAAACAAATGATTTCGAC
+                           **  **** ***    * *   ****   ********     *** * ***** ******
+
+homo-sapien                TCATTAAATTATGATA---ATCATATTTACC--AAATGCCCCTCATTTACATAAATATTA
+pan-troglodytes            TCATTAAATTATGATA---ATCATATTTACC--AAATGCCCCTTATTTATATAAATATTA
+peromyscus-polionotus      TCATTAGATTATAATAAATATTATAACTACCAAAAATGCCATCTGTAACCTCCAATATTA
+castor-canadensis          TCATTAGATTATGA-ACAACTCATAAGCACC--AAATGTCCCCCATCCTAATCAACCTAT
+fukomys-damarensis         TCATTAAATTATGATCCATCTCATAATTACC-AAAATGTCCGCCATCTATATAAACATAA
+                           ****** ***** *      * ***   ***  ***** *     *       **  *  
+
+homo-sapien                TACTAGCATTTACCATCTCACTTCTAGGAATACTAGTATATCGCTCACACCTCATATCCT
+pan-troglodytes            TACTAGCATTTACCATCTCACTTCTAGGAATACTAGTATATCGCTCACACCTAATATCTT
+peromyscus-polionotus      TATTAGCATTCTCATTCTCACTCCTAGGAACACTAGTATTTCGATCTCACCTAATATCAA
+castor-canadensis          TCCTGGCCTTCCTAGCATCCCTGTTGGGAGCACTAATTTATCGATCACACCTAATATCCT
+fukomys-damarensis         CCATTGCTTTCATAGCATCCTTGACAGGAATAATAATATACCGATCCCACATAATATCAT
+                              * ** **       **  *    ***  * ** * *  ** ** *** * *****  
+
+homo-sapien                CCCTACTATGCCTAGAAGGAATAATACTATCGCTGTTCATTATAGCTACTCTCATAACCC
+pan-troglodytes            CCCTACTATGCCTAGAAGGAATAATACTATCACTGTTCATCATAGCCACCCTCATAACCC
+peromyscus-polionotus      CTCTCCTATGCCTCGAAGGAATAATACTATCACTGTTTATTATAACCACAATTACATCCC
+castor-canadensis          CACTCCTGTGCCTAGAAGGTATAATACTATCAATCTTTATCACCACAACCCTAATCGCCC
+fukomys-damarensis         CACTACTGTGTTTAGAAGGAATAATACTATCTATATTCGTAATGGCGTCCCTAATCACAC
+                           * ** ** **  * ***** ***********  * **  * *   *  *  * *   * *
+
+homo-sapien                TCAACACCCACTCCCTCTTAGCCAATATTGTGCCTATTGCCATACTAGTCTTTGCCGCCT
+pan-troglodytes            TCAATACTCACTCCCTCTTAGCCAATATTGTACCCATCACCATACTAGTCTTTGCTGCCT
+peromyscus-polionotus      TTAACTCCCACTCAATAATTATATACCCCCTACCCATTGTTATTCTAGTATTCGCAGCAT
+castor-canadensis          TAAACTACAACATCACCCTATCATTTATATTCCCCATCATCATCCTAGTTTTTGCAGCCT
+fukomys-damarensis         TAAACTCCCACTACACCCTATCATACACCATCCCCCTAGTTCTCCTAGTATTCTCCGCTT
+                           * **     **       *           * **  *     * ***** **  * ** *
+
+homo-sapien                GCGAAGCAGCGGTGGGCCTAGCCCTACTAGTCTCAATCTCCAACACATATGGCCTAGACT
+pan-troglodytes            GCGAAGCAGCAGTAGGTCTAGCACTACTAGTTTCAATCTCTAACACATATGGCTTAGACT
+peromyscus-polionotus      GTGAGGCAGCTATTGGCTTAGCCCTATTAGCAAAAGTATCAAACTCCTACGGAACAGATT
+castor-canadensis          GCGAAGCCGCAGTGGGACTAGCCCTGCTAGTCACAATATCAAACGCATACGGAACGGACT
+fukomys-damarensis         GCGAAGCAGCCATAGGTCTGGCCTTACTAGTCCTGGTATCAAACACCTACGGCTCAGATT
+                           * ** ** **  * **  * **  *  ***      * ** *** * ** **    ** *
+
+homo-sapien                ACGTACATAACCTAAACCTACTCCAATGCTAAAACTAATCGTCCCAACAATTATATTACT
+pan-troglodytes            ACGTACATAACCTAAACCTACTCCAATGCTAAAACTAATCATCCCGACAATTATATTACT
+peromyscus-polionotus      ATGTGCAAAATCTAAACCTACTTCAATGTTAAAAATTATTTTTCCCTCTATCATACTTCT
+castor-canadensis          ATGTACAAAACCTAAACCTTTTACAATGCTAAAAATTATCATACCAACAATCATACTAAT
+fukomys-damarensis         ACGTACAAAACTTAAACCTCCTACGATGCTAAAAATTATCCTACCAACAATCATACTCAT
+                           * ** ** **  *******  * * *** ***** * **  * **  * ** *** *  *
+
+homo-sapien                ACCACTGACATGACTTTCCAAAAAACACATAATTTGAATCAACACAACCACCCACAGCCT
+pan-troglodytes            ACCACTAACATGATTCTCTAAAAAACGTATAATTTGAATCAACACAACCACTCACAGCCT
+peromyscus-polionotus      CCCACTCACCTGATTATCAAACAAAAAAAACCTATGAGTCAATGTCACCTCCTACAGCTT
+castor-canadensis          CCCCATAACATGATTCTCAAAAAACAATATAATCTGAATCAACTCAACCGCCCACAGCCT
+fukomys-damarensis         CCCAGTCACCTGACTATCAAAAAACTCACTATTATGAATCAACACCTCCTGCCACAGCTT
+                            **  * ** *** * ** ** **        * *** ****     **    ***** *
+
+homo-sapien                AATTATTAGCATCA-TCCCTCTACTATTTTTTAACCAAATCAACAACAACCTATTTAGCT
+pan-troglodytes            AATTATCAGCACCA-TTCCCTTACTATTTTTTAACCAAATTAACAACAACCTATTCAGCT
+peromyscus-polionotus      TATAATCAGCTTGACTTCAGCCATGTTTCTATGACAAAAC-GACATAAATAATTTAAACT
+castor-canadensis          ACTAATCAGTAT-ACTATGCCTATTCACCCTAAACCAATCAAACGAAAACAGCCTTAATT
+fukomys-damarensis         ACTCATC-GCACTAATCTCCCTACCCACCCTCAACAAACTAGACATTAACAGCCACAATT
+                             * **  *    * *      *          ** **    **   **       *  *
+
+homo-sapien                GTTCCCCAACCTTTTCCTCCGACCCCCTAACAACCCCCCTCCTAATACTAACTACCTGAC
+pan-troglodytes            GTTCCCTGCCCTTCTCCTCCGACCCCTTAACAACTCCCCTCCTAATATTAACTGCTTGAC
+peromyscus-polionotus      TCTCACTACTATTCTCAACTGACTCCCTATCCTCCCCTCTTATTATTTTAACAACATGAC
+castor-canadensis          TCTCATTATTATTCTCCTCAGACGCCCTCTCAGCCCCCCTCCTAATCTTAACAGCCTGAT
+fukomys-damarensis         TCTCAACAAACTTCTTCTCAGACTCCCTGTCATCTCCACTAGTAAACCTTACAGTATGAC
+                             **       ** *   * *** ** *  *  * ** **  * *   * **    *** 
+
+homo-sapien                TCCTACCCCTCACAATCATGGCAAGCCAACGCCACTTATCCAGTGAACCACTATCACGAA
+pan-troglodytes            TTCTACCCCTCACAATCATAGCAAGCCAGCGCCACCTATCCAACGAACCACTATCACGAA
+peromyscus-polionotus      TACTACCACTCATACTGCTAGCCAGCCAAAACCACATAAAAAAAGAAACAGAATCGAACA
+castor-canadensis          TACTACCACTAATAATCATAGCCAGCCAGCAACACATGAACAAAGAGCCAGTAGGACGAA
+fukomys-damarensis         TCCTACCCCTAATAATCATCGCCAGCCAGCACCACATAAAAAACGAACCCGCCGTCCGAA
+                           * ***** ** * * *  * ** *****    *** *    *  **  *          *
+
+homo-sapien                AAAAACTCTACCTCTCTATACTAATCTCCCTACAAATCTCCTTAATTATAACATTCACAG
+pan-troglodytes            AAAAACTCTACCTCTCCATGCTAATTTCCCTCCAAATCTCCTTAATTATAACATTCTCGG
+peromyscus-polionotus      AAAAAACCTACATTTCAATACTAGTCCTACTACAAATTCTTCTAATCATAACATTCTCTG
+castor-canadensis          AAAAAATATACATCACTATACTAGTACTACTACAAACCCTACTAATCATAACATTCACCG
+fukomys-damarensis         AAAAACTATACCTCTCACTACTAATCACACTACAGGCCCTACTTATCATAACATTTACAA
+                           *****   *** *  *  * *** *    ** **        * ** ********  *  
+
+homo-sapien                CCACAGAACTAATCATATTTTATATCTTCTTCGAAACCACACTTATCCCCACCTTGGCTA
+pan-troglodytes            CCACAGAGCTAATTATATTTTATATCTTCTTCGAAACCACACTTATCCCCACCCTGGCTA
+peromyscus-polionotus      CAAACGAACTAATTATATTTTACATCTTATTTGAAGCCACCCTAATCCCCACCCTTATTA
+castor-canadensis          CTACAGAACTAATCCTGTTCTACATCCTATTTGAGGCCACACTAATCCCCACACTAATCA
+fukomys-damarensis         CCTCAGAAATAATAATATTCTACATTCTATTCGAAGCCACACTAATCCCAACTCTAATTA
+                           *    **  ****  * ** ** **  * ** **  **** ** ***** **  *    *
+
+homo-sapien                TCATCACCCGATGAGGCAACCAGCCAGAACGCCTGAACGCAGGCACATACTTCCTATTCT
+pan-troglodytes            TCATCACCCGATGGGGTAACCAACCAGAACGCCTGAACGCAGGTACATACTTCCTATTCT
+peromyscus-polionotus      TCATCACCCGATGGGGTAACCAAACAGAACGACTAAATGCAGGACTATACTTTCTATTTT
+castor-canadensis          TCATTACACGATGGGGGAACCAAACAGAACGACTTAACGCAGGCCTATACTTCTTATTTT
+fukomys-damarensis         TCATCACCCGATGGGGAAACCAAACTGAACGAATAAAGGCAGGACTATATTTTCTTTTCT
+                           **** ** ***** ** *****  * *****  * ** *****   *** **  * ** *
+
+homo-sapien                ACACCCTAGTAGGCTCCCTTCCCCTACTCATCGCACTAATTTACACTCACAACACCCTAG
+pan-troglodytes            ATACCCTAGTAGGCTCCCTCCCCCTACTCATCGCACTAATCTATACCCACAACACCCTAG
+peromyscus-polionotus      ATACCCTAATTGGATCAATCCCACTACTAATTGCCCTTATCTATATACAAAACATAAAAG
+castor-canadensis          ATACACTAATTGGATCCCTGCCCCTTTTAGTTGCATTAATCTACCTACAAAAATCGCTAG
+fukomys-damarensis         ACACTCTCACCGGATCGCTACCACTTCTAGTAGCTCTAACTTACCTAAAAAATTACCTAG
+                           * ** **    ** **  * ** **  *  * **  * *  **     * **      **
+
+homo-sapien                GCTCACTAAAC------ATTCTA-----CTACTCACTCTCACTGCCCAAGAACTATCAAA
+pan-troglodytes            GCTCACTAAAT------ATCCTA-----TTACTCACTCTTACAACCCAAGAACTATCAAA
+peromyscus-polionotus      GAACATTAAACTTC---ATACTATTC--CCACTCACCTTTACACCCCTAGACCAAACA--
+castor-canadensis          GATCCCTAAACCTCCATATCCTGAACAACTACTCA--------------GAACAATTAAA
+fukomys-damarensis         GCTCACTGAACTTT---ATACTATTCAGCTACAAA---GCATCTCC-----CCTTTTACC
+                           *  *  * **       ** **        **  *                 *    *  
+
+homo-sapien                C---TCCTGAGCCAACAACTTAATATGACTAGCTTACACAATAGCTTTTATAGTAAAGAT
+pan-troglodytes            C---ACCTGAGCCAACAACTTAATATGACTAGCGTACACGATGGCTTTCATGGTAAAAAT
+peromyscus-polionotus      -------TGGTCTAATAGTATTCTATGATTAGCATGCATAATGGCATTTATAATTAAAAT
+castor-canadensis          CCTGTCATGATCCAACGACCTGCTGTGGTTAGCATGCATAATAGCATTTATAGTCAAAAT
+fukomys-damarensis         C---ACATGATCCAACAGCATACTATGACTCGCCTGCATCATAGCATTCATAGTTAAATT
+                                  **  * **     *  * **  * ** * **  ** ** ** **  * **  *
+
+homo-sapien                ACCTCTTTACGGACTCCACTTATGACTCCCTAAAGCCCATGTCGAAGCCCCCATCGCTGG
+pan-troglodytes            ACCCCTTTACGGACTCCACCTATGACTCCCTAAAGCCCATGTCGAAGCCCCTATTGCCGG
+peromyscus-polionotus      ACCACTATACGGAGTCCACTTATGACTCCCTAAAGCACACGTAGAGGCCCCTATTGCAGG
+castor-canadensis          ACCATTATATGGTCTACACCTATGACTGCCTAAAGCCCATGTTGAAGCACCCATTGCCGG
+fukomys-damarensis         TCCACTATACGGCCTGCACCTATGACTACCAAAAGCCCACGTAGAAGCCCCCATCGCCGG
+                            **  * ** **  * *** ******* ** ***** ** ** ** ** ** ** ** **
+
+homo-sapien                GTCAATAGTACTTGCCGCAGTACTCTTAAAACTAGGCGGCTATGGTATAATACGCCTCAC
+pan-troglodytes            GTCAATGGTACTTGCTGCAGTACTCTTAAAATTAGGTGGCTATGGCATAATACGCCTCAC
+peromyscus-polionotus      ATCTATAATCCTAGCAGCTATTCTACTAAAGCTAGGAGGATACGGTATAATACGAATTGC
+castor-canadensis          CTCCATGGTACTAGCAGCAGTCCTACTAAAACTAGGAGGATACGGCATAATACGAATTAC
+fukomys-damarensis         CTCAATAGTACTAGCCGCCATCCTACTGAAACTAGGAGGCTACGGAATAATACGAATCTC
+                            ** **  * ** ** **  * **  * **  **** ** ** ** ********  *  *
+
+homo-sapien                ACTCATTCTCAACCCCCTGACAAAACACATAGCCTACCCCTTCCTTGTACTATCCCTATG
+pan-troglodytes            ACTCATCCTCAACCCCCTAACAAAACATATAGCCTATCCCTTCCTCATGTTGTCCTTATG
+peromyscus-polionotus      TATTGTCTTAGACCCAGTAACCAAAACTATAGCCTACCCATTCATCCTCCTATCACTATG
+castor-canadensis          CATCCTTCTATCACCCATCACAAACCACATGATATACCCATTTATACTACTATCCCTATG
+fukomys-damarensis         GCAACTCCTAGAGCCCCTCACAACCTCAATAAGCTACCCATTCATCTTATTATCCCTATG
+                                *  *    **  * ** *     **    ** ** **  *  *  * **  ****
+
+homo-sapien                AGGCATAATTATAACAAGCTCCATCTGCCTACGACAAACAGACCTAAAATCGCTCATTGC
+pan-troglodytes            AGGTATAATCATAACAAGCTCCATCTGCCTGCGACAAACAGACCTAAAATCGCTCATTGC
+peromyscus-polionotus      AGGGATAATTATAACTAGCTCTATTTGCTTACGACAGACAGACTTAAAATCTCTAATCGC
+castor-canadensis          AGGAATAGTAATAACCAGCTCAATCTGCCTACGACAAACAGACCTAAAATCCTTAATTGC
+fukomys-damarensis         AGGAATAGTTATAACGAGCTCCATCTGCCTACGGCAAACAGACCTAAAATCCCTTATTGC
+                           *** *** * ***** ***** ** *** * ** ** ****** *******  * ** **
+
+homo-sapien                ATACTCTTCAATCAGCCACATAGCCCTCGTAGTAACAGCCATTCTCATCCAAACCCCCTG
+pan-troglodytes            ATACCCTTCAGTCAGCCACATAGCCCTCGTAGTAACAGCCATTCTCATCCAAACCCCCTG
+peromyscus-polionotus      CTACTCTTCAGTAAGTCATATGGCATTGGTTATTGCAGCCATCATAATCCAGACACCATG
+castor-canadensis          ATACTCATCAGTCAGCCACATAGCACTAGTGATCGTCGCTATCTTAATTCAATCTCCATG
+fukomys-damarensis         CTACTCCTCCATCAGCCACATAGCCCTTGTAATCACAGCTATCCTCATTCAAACACCATG
+                            *** * **  * ** ** ** **  * **  *    ** **  * ** **  * ** **
+
+homo-sapien                AAGCTTCACCGGCGCAGTCATTCTCATAATCGCCCACGGGCTTACATCCTCATTACTATT
+pan-troglodytes            AAGCTTCACCGGCGCAATTATCCTCATAATCGCCCACGGACTTACATCCTCATTATTATC
+peromyscus-polionotus      AAGTTTTATAGGAGCCACAACACTAATAATTGCCCACGGCCTAACATCGTCCTTATTATT
+castor-canadensis          GAGTTTCATAGGAGCTACAGCACTAATAGTAGCCCACGGTCTAACCTCATCAGTCTTATT
+fukomys-damarensis         AGGTTACATAGGAGCCACAACCTTAATAATCGCCCACGGCCTCACATCATCCCTCCTATT
+                             * *  *  ** **        * *** * ******** ** ** ** **  *  *** 
+
+homo-sapien                CTGCCTAGCAAACTCAAACTACGAACGCACTCACAGTCGCATCATAATCCTCTCTCAAGG
+pan-troglodytes            CTGCCTAGCAAACTCAAATTATGAACGCACCCACAGTCGCATCATAATTCTCTCCCAAGG
+peromyscus-polionotus      CTGCCTAGCCAATACTAATTACGAACGTATTCATAGCCGAACAATAATCATAACTCGAGG
+castor-canadensis          CTGCCTAGCAAACACGAACTACGAACGAGTACACAGCCGAACCATACTCCTAACCCGAGG
+fukomys-damarensis         TTGCCTAGCAAACTCCAACTACGAACGCACCCACAGCCGAACCATAATCCTAGCTCGCGG
+                            ******** **  * ** ** *****    ** ** ** *  *** *  *  * *  **
+
+homo-sapien                ACTTCAAACTCTACTCCCACTAATAGCTTTTTGATGACTTCTAGCAAGCCTCGCTAACCT
+pan-troglodytes            ACTTCAAACTCTACTCCCACTAATAGCCTTTTGATGACTCCTGGCAAGCCTCGCTAACCT
+peromyscus-polionotus      ACTACAAACTATTTTTCCATTAATAACTACCCTATGAGTACTAGCAAGCTTAGCAAACCT
+castor-canadensis          CCTTCAAACAATACTCCCACTAATAGCCCTATGATGACTCACAGCAAGCCTAACCAACCT
+fukomys-damarensis         ACTACAAACCATCCTTCCCCTGATAGCGCTCTGATGACTCCTAGCTAGCTTTACAAACCT
+                            ** *****  *  * **  * *** *      **** *    ** *** *  * *****
+
+homo-sapien                CGCCTTACCCCCCACTATTAACCTACTGGGAGAACTCTCTGTGCTAGTAACCACGTTCTC
+pan-troglodytes            CGCCCTACCCCCTACCATTAATCTCCTAGGGGAACTCTCCGTGCTAGTAACCTCATTCTC
+peromyscus-polionotus      AGCTCTACCACCATCGATCAACCTAATCGGAGAGTTATTAATCACAGTATCCCTATTCTC
+castor-canadensis          CGCACTGCCCCCAACAATCAACCTAATTGGAGAACTAATAATTATTACCTCCTCATTTTC
+fukomys-damarensis         CGCTTTACCCCCATCAATCAACCTAGTAGGAGAACTATTAATCATCACTTCAACCTTCTC
+                            **  * ** **  * ** ** **  * ** **  *     *        *    ** **
+
+homo-sapien                CTGATCAAATATCACTCTCCTACTTACAGGACTCAACATACTAGTCACAGCCCTATACTC
+pan-troglodytes            CTGATCAAATACCACTCTCCTACTCACAGGATTCAACATACTAATCACAGCCCTGTACTC
+peromyscus-polionotus      CTGATCCTACCCAACAATTTTACTTCTAGGTAGCAATATCTTAATCACCTCGCTTTACTC
+castor-canadensis          ATGATCCAACTTCACCATCCTCCTCATAGGAATCAATACCCTGATCACAGCCCTATACAC
+fukomys-damarensis         TTGATCAAACTTCACAATCATCTTGACCGGAATAAACATACTCATCACAGCACTATATAC
+                            *****  *    **  *  *  *    **    ** *   *  ****  * ** **  *
+
+homo-sapien                CCTCTACATATTTACCACAACACAATGGGGCTCACTCACCCACCACATTAACAACATAAA
+pan-troglodytes            CCTCTACATGTTTACCACAACACAATGAGGCTCACTCACCCACCACATTAATAGCATAAA
+peromyscus-polionotus      AATATATATAATTATCACCACACAACGAGGAAAGCTTACAAGCCATATAATTAATTTACA
+castor-canadensis          CTTGTATATATTAACCACCACCCAACGAGGCAAGCCTACTTATCACATAAACAACATCCA
+fukomys-damarensis         ACTATACATGCTAATTTCCACACAACGAGGCACACCTCCCCACCACATCATCAACCTTCC
+                             * ** **  * *   * ** *** * **    *   *    ** ** *  *   *   
+
+homo-sapien                ACCCTCATTCACACGAGAAAACACCCTCATGTTCATACACCTATCCCCCATTCTCCTCCT
+pan-troglodytes            GCCCTCATTCACACGAGAAAACACTCTCATATTTTTACACCTATCCCCCATCCTCCTTCT
+peromyscus-polionotus      ACCATCACACACACGAGAACTCACCCTAATAATACTACATATCACACCCCTAATTCTATT
+castor-canadensis          CCCGTCATTCACACGAGAAAACTCCCTAGTTTTCCTCCACCTGCTCCCCCTACTCCTACT
+fukomys-damarensis         CCCTTCATTCACACGAGAAAACACACTAATAACACTCCACCTACTCCCCCTGCTACTAAT
+                            ** ***  **********  * * **  *     * **  *    *** *  * **  *
+
+homo-sapien                ATCCCTCAACCCCGACATCATTACCGGGTTTTCCTCTTGTAAATATAGTTTA-ACCAAAA
+pan-troglodytes            ATCCCTCAATCCTGATATCATCACTGGATTCACCTCCTGTAAATATAGTTTA-ACCAAAA
+peromyscus-polionotus      AACTATCAACCCTAAACTAATTATAGGGCCAACAATATGTAAATATAGTTTATAGCAAAA
+castor-canadensis          CTCTCTAAATCCAAAGATTATCCTCGGCACAATATTCTGTAAATATAGTTTA-ACAAAAA
+fukomys-damarensis         AACCCTCAACCCTAAAATCATCATAGGAAACCTATTATGTAAAAATAGTTTA-ACAAAAA
+                             *  * ** **  *  * **    **          ****** ******** *  ****
+
+homo-sapien                CATCAGATTGTGAATCTGACAACAGAGGCTTACGACCCCTTATTTACCGAGAAAGCTCAC
+pan-troglodytes            CATCAGATTGTGAATCTGACAACAGAGGCTCACGACCCCTTATTTACCGAGAAAGCTTAT
+peromyscus-polionotus      CCCCAGACTGTGAATCTGGAAATAGGGAATTAAA-CCCCTTACTTACCGAGAAAGAATGC
+castor-canadensis          CACTAGATTGTGAATCTAGAGTCAGAAAATAAAACTTTCTTATTTACCAAGAAAGTATGC
+fukomys-damarensis         CACTAGATTGTGAATCTAAAGACAGAGATTTAAACTCTCCTTTTTACCAAGAAAGTAAAG
+                           *   *** *********      **    * *      * *  ***** ******     
+
+homo-sapien                AAGAACTGCTAACTCATGCCCCCATGTCTAACAACATGGCTTTCTCAACTTTTAAAGGAT
+pan-troglodytes            AAGAACTGCTAACTCGTATTCCCATGCCTAACAACATGGCTTTCTCAACTTTTAAAGGAT
+peromyscus-polionotus      AAGAACTGCTAATTCATGCCACCATGTATAAACACATGGCTTTCTT-ACTTTTATAGGAT
+castor-canadensis          AAGAACTGCTAACTCATGCCACCATACCTAAAAATATGGCTTTCTT-ACTTTTAAAGGAT
+fukomys-damarensis         TAGAACTGCTAACTCTACATCCCATACTTAAAAACATGGCTTTCTC-ACTTTTAAAGGAT
+                            *********** **      ****   ***  * **********  ******* *****
+
+homo-sapien                AACAGCTATCCATTGGTCTTAGGCCCCAAAAATTTTGGTGCAACTCCAAATAAAAGTAAT
+pan-troglodytes            AACAGTTATCCATTGGTCTTAGGCCCCAAAAATTTTGGTGCAACTCCAAATAAAAGTAAT
+peromyscus-polionotus      AGAAGTAATCCGTTGGTCTTAGGAACCAAAAA-CTTGGTGCAACTCCAAATAAAAGTAAT
+castor-canadensis          GGCAGTTATCCATTGGTCTTAGGAACCAAAAA-ATTGGTGCAACTCCAAATAAAAGTAAT
+fukomys-damarensis         AGAAGCAATCCGTTAGTCTTAGGAACTAAAAA-CTTGGTGCAACTCCAAATAAAAGTAAT
+                              **  **** ** ********  * *****  **************************
+
+homo-sapien                AACCATGCACACTACTATAACCACCCTAACCCTGACTTCCCTAATTCCCCCCATCCTTAC
+pan-troglodytes            AACCATGTATGCTACCATAACCACCTTAGCCCTAACTTCCTTAATTCCCCCCATCCTCGG
+peromyscus-polionotus      AAATACTATTACATCTTCAATCATACTAATTTTCTTTCTACTAATATTCCCTATTATATT
+castor-canadensis          AAACATACTAGCTTTGTCCATAATCATAACATTTATTATCCTCATATACCCCATCCTAAT
+fukomys-damarensis         AAACTTATATATCTCATCGTTCATTATATCACTGCTACTTCTCACCACACCTATCCCCCT
+                           **                    *   **    *        * *     ** **      
+
+homo-sapien                CACCCTCGTTAACCCTAACAAAAAAAACTCATACCCCCATTATGTAAAATCCATTGTCGC
+pan-troglodytes            CGCCCTCATTAACCCTAACAAAAAAAACTCATACCCCCATTACGTGAAATCCATTATCGC
+peromyscus-polionotus      ATCAATAGCAAACTTAATCAAATCAACTAATTTCCCAAACTACGTAACCCTATCAATCAA
+castor-canadensis          ATCACTAACAGACTTTTACAAAAACAAAAGCTACTCTGAACACACCAAAACCTCAGTAAA
+fukomys-damarensis         ATCTAGTATTAACTTTCCCAAAAACACATCATACCCCTCATACGTAAAATCAATTATCTC
+                             *        **     ****   *     * * *     *    *         *   
+
+homo-sapien                ATCCACCTTTATTATCAGTCTCTTCCCCACAACAATATTCATGTGCCTAGACCAAGAAGT
+pan-troglodytes            ATCCACCTTTATCATTAGCCTTTTCCCCACAACAATATTCATATGCCTAGACCAAGAAAC
+peromyscus-polionotus      ATACGCTTTCCTATTAAGCCTAGTGCCACTAACTACATTCTTCTCACACAGCACTGAACT
+castor-canadensis          ACTAGCATTCATTACCAGCACAATCCCCATAATCATGTTCATTCACTTAGGCAACGAAAC
+fukomys-damarensis         ATTATCATTCTTCATCAGCCTAATCCCAACCACCATGCTACTACTGTCTAACCAAGAGGC
+                           *    * **  *    **     * **    *  *   *  *         *   **   
+
+homo-sapien                TATTATCTCGAACTGACACTGAGCCACAACCCAAACAACCCAGCTCTCCCTAAGCTTCAA
+pan-troglodytes            TATTATCTCGAACTGACACTGAGCAACAACCCAAACAACCCAACTCTCCCTGAGCTTTAA
+peromyscus-polionotus      ACTAATCACTAACTGACACTGAATAACAATCAACACCATGAAATTATCCATCAGCCTAAA
+castor-canadensis          CATTGTATCCAACTGACACTGACTTACTATCCATACCACAAAACTCTCACTCAGCCTCAA
+fukomys-damarensis         AGTAATCTCCAACTGAAACTGAATACATATCCAAACCGTATCCATCAACATAAGCTTTAA
+                             *  *  * ****** *****      * * * **        *     * *** * **
+
+homo-sapien                ACTAGACTACTTCTCCATAATATTCATCCCTGTAGCATTGTTCGTTACATGGTCCATCAT
+pan-troglodytes            ACTAGACTATTTCTCCATAACATTTATCCCCGTAGCACTGTTCGTTACATGATCCATCAT
+peromyscus-polionotus      GTTTGATTTCTTTTGTATCATCTTCCTATCAGTAGCCTTATTTGTGACTTGATCAATTAT
+castor-canadensis          ACTAGACTATTTCTCACTACTCTTCGTACCAGTGGCCCTATTTGTAACATGATCTATCAT
+fukomys-damarensis         ACTAGACTACTTCTCCGTCATGTTTATATCCGTAGCACTATTCGTCACATGGTCTATCAT
+                             * ** *  ** *   *    **  *  * ** **  * ** ** ** ** ** ** **
+
+homo-sapien                AGAATTCTCACTGTGATATATAAACTCAGACCCAAACATTAATCAGTTCTTCAAATATCT
+pan-troglodytes            AGAATTCTCACTATGATATATAGACTCAGACCCCAACATCAACCAATTCTTCAAATACTT
+peromyscus-polionotus      AGAATTCTCATCCTGATATATACACTCAGACCCACACCTAAATCGATTCATTAAATATCT
+castor-canadensis          AGAATTCTCCCTATGATACATGCACTCCGACCCCAACATTAACCAATTCCTCAAATACCT
+fukomys-damarensis         AGAATTCTCAATATGATATATACACTCTGACCCCGACATGAACAAATTCATTAAATACCT
+                           *********    ***** **  **** *****  ** * **    *** * *****  *
+
+homo-sapien                ACTCATCTTCCTAATTACCATACTAATCTTAGTTACCGCTAACAACCTATTCCAACTGTT
+pan-troglodytes            ACTTATCTTCCTAATTACTATACTAATCCTAGTCACCGCTAACAACCTATTCCAACTCTT
+peromyscus-polionotus      ACTTATATTCCTGATTACAATAATCATTTTAACTTCAGCCAACAACCTATTCCAACTATT
+castor-canadensis          ACTATTTTTTCTTATCACCATATTAATTCTAGTCACAGCAAATAACCTATTTCAGCTATT
+fukomys-damarensis         TCTCCTATTCCTCATCACCATAATAATCCTAGTCACCGCAAACAATGCTATACAACTCTT
+                            **  * ** ** ** ** *** * **  **    * ** ** **     * ** ** **
+
+homo-sapien                CATCGGCTGAGAGGGCGTAGGAATTATATCCTTCTTGCTCATCAGTTGATGATACGCCCG
+pan-troglodytes            CATCGGCTGAGAAGGCGTAGGAATTATATCCTTTCTACTCATTAGCTGATGGTACGCCCG
+peromyscus-polionotus      TATTGGGTGAGAAGGAGTAGGTATTATATCATTCCTTTTAATCGGCTGATGGTATGGTCG
+castor-canadensis          CATCGGATGAGAAGGAGTCGGAATCATATCATTCCTCCTCATTGGATGATGATACGGACG
+fukomys-damarensis         CATCGGCTGAGAAGGAGTAGGAATTATATCTTTCCTACTAATCGGATGATGACTGGGCCG
+                            ** ** ***** ** ** ** ** ***** **  *  * **  * *****    *  **
+
+homo-sapien                AGCAGATGCCAACACAGCAGCCATTCAAGCAATCCTATACAACCGTATCGGCGATATCGG
+pan-troglodytes            AACAGATGCCAACACAGCAGCCATCCAAGCAATCCTATATAACCGTATCGGTGATATTGG
+peromyscus-polionotus      AACAGATGCAAACACTGCAGCTCTACAAGCTATCTTATATAACCGCATTGGAGACATTGG
+castor-canadensis          CACTGACGCCAACACCTCAGCACTACAAGCAATCTTGTACAATCGAATCGGAGACATCGG
+fukomys-damarensis         ATCAGACGCAAACACCGCAGCCCTACAGGCAATCTTGTATAACCGAATTGGTGATATCGG
+                             * ** ** *****  ****  * ** ** *** * ** ** ** ** ** ** ** **
+
+homo-sapien                TTTCATCCTCGCCTTAGCATGATTTATCCTACACTCCAACTCATGAGACCCACAACAAAT
+pan-troglodytes            TTTTGTCCTAGCCCTAGCATGATTTCTCCTACACTCCAACTCATGAGATCCACAACAAAT
+peromyscus-polionotus      ATTTATCCTAACAATAGCCTGATTCTGCCTACACTCTAACTCCTGAGAACTACAACAAAT
+castor-canadensis          ATTCATCCTATCAATAGCATGATTCCTAGTCTACTCCAACTCATGAGACCTCCAACAACT
+fukomys-damarensis         ATTCATTATCTCCATAGTATGGTTTATAACAAACCTCAGCTCATGAGAGATACAACAACT
+                            **  *  *  *  ***  ** **        **   * *** *****    ****** *
+
+homo-sapien                AGCCCTTCTAAACGCTAATCCAAGCCTCACCCCACTACTAGGCCTCCTCCTAGCAGCAGC
+pan-troglodytes            AATCCTCCTAAGTACTAATACAGACCTTACTCCACTACTAGGCTTCCTCCTAGCAGCAGC
+peromyscus-polionotus      CTTTATAACCAATGACCCAACAAACATCACCCCTCTTATAGGACTTCTAATCGCAGCCAC
+castor-canadensis          ATTCAT---AGACCCTAAAATAACAACAATCCCCCTACTAGGCCTACTACTAGCCGCCAC
+fukomys-damarensis         ACTCATTATACAAGACGAAATAAACTACATCCCCTTACTAGGCCTCCTACTGGCCGCAAC
+                                *               *      *  **  *  ****  * **  * ** **  *
+
+homo-sapien                AGGCAAATCAGCCCAATTAGGTCTCCACCCCTGACTCCCCTCAGCCATAGAAGGCCCCAC
+pan-troglodytes            AGGCAAATCAGCTCAACTAGGCCTTCACCCCTGACTCCCCTCAGCCATAGAAGGCCCTAC
+peromyscus-polionotus      AGGAAAATCAGCCCAATTTGGGCTACACCCATGACTACCTTCAGCTATAGAAGGTCCAAC
+castor-canadensis          CGGAAAATCAGCCCAATTCGGACTCCACCCATGACTCCCTTCAGCCATAGAAGGCCCCAC
+fukomys-damarensis         TGGCAAATCTGCCCAATTCGGCCTCCACCCATGACTACCTTCCGCAATAGAAGGGCCCAC
+                            ** ***** ** *** * ** ** ***** ***** ** ** ** ******** ** **
+
+homo-sapien                CCCAGTCTCAGCCCTACTCCACTCAAGCACTATAGTTGTAGCAGGAATCTTCTTACTCAT
+pan-troglodytes            CCCTGTTTCAGCCCTACTCCACTCAAGCACCATAGTCGTAGCAGGAATCTTCCTACTCAT
+peromyscus-polionotus      ACCAGTATCAGCCCTACTTCACTCCAGCACAATAGTAGTAGCAGGAATTTTTCTTATAGT
+castor-canadensis          ACCAGTATCAGCTCTACTCCACTCAAGCACAATAGTTGTGGCAGGAATCTTTCTCCTAAT
+fukomys-damarensis         CCCAGTATCAGCTCTACTTCACTCCAGCACTATAGTAGTGGCCGGAATCTTCCTAATAAT
+                            ** ** ***** ***** ***** ***** ***** ** ** ***** **  *  *  *
+
+homo-sapien                CCGCTTCCACCCCCTAGCAGAAAATAGCCCACTAATCCAAACTCTAACACTATGCTTAGG
+pan-troglodytes            CCGCTTCTACCCCCTAGCAGAGAATAACCCACTAATCCAAACTCTCACGCTATGCCTAGG
+peromyscus-polionotus      ACGCTTCCACCCAATCACATCAAACAACAGCCTCATTCTAACTATAATACTATGCCTAGG
+castor-canadensis          CCGATTTCACCCCCTCCTAGAGACCAATAAACTAATTATATCAACCATACTATGCCTAGG
+fukomys-damarensis         CCGATTCTATCCGCTAATCCAACACAACCAAACAATTCTAACTATATCAATGTGTTTAGG
+                            ** **  * **  *          *        **   * *        * **  ****
+
+homo-sapien                CGCTATCACCACTCTGTTCGCAGCAGTCTGCGCCCTTACACAAAATGACATCAAAAAAAT
+pan-troglodytes            CGCTATCACCACCCTATTCGCAGCAGTCTGCGCCCTCACACAAAATGACATCAAAAAAAT
+peromyscus-polionotus      ATCAATCACAACCCTATTCACAGCTATTTGCGCACTAACACAAAACGATATTAAAAAAAT
+castor-canadensis          AGCTATCACAACCCTCTTCACAGCAATCTGCGCCTTGACACAAAACGACATCAAAAAAAT
+fukomys-damarensis         AGCGACCACAACACTATTCACCGCCCTGTGTGCCCTCACACAGAACGACATTAAGAAAAT
+                             * * *** ** ** *** * **  * ** **  * ***** ** ** ** ** *****
+
+homo-sapien                CGTAGCCTTCTCCACTTCAAGTCAACTAGGACTCATAATAGTTACAATCGGCATCAACCA
+pan-troglodytes            CGTGGCCTTCTCCACTTCAAGCCAACTAGGACTCATAATAGTTACAATCGGTATCAACCA
+peromyscus-polionotus      TGTAGCATTCTCCACATCAAGTCAACTAGGGTTAATAATAGTAACACTCGGAATCAATCA
+castor-canadensis          CATCGCATTCTCAACCTCCAGCCAATTAGGCCTTATAATAGTCACCCTAGGAATCAACCA
+fukomys-damarensis         CATCGCATTCTCAACCTCGAGCCAACTAGGACTAATGATAGTCACCATTGGCATCAACCA
+                             * ** ***** ** ** ** *** ****  * ** ***** **  * ** ***** **
+
+homo-sapien                ACCACACCTAGCATTCCTGCACATCTGTACCCACGCCTTCTTCAAAGCCATACTATTTAT
+pan-troglodytes            ACCACACCTAGCATTCCTTCACATCTGCACCCACGCTTTCTTCAAAGCCATACTATTCAT
+peromyscus-polionotus      ACCATATCTAGCCTTCCTCCACATCTGCACCCATGCATTCTTTAAAGCAATACTATTTAT
+castor-canadensis          ACCCTACCTGTCATTCCTCCACATTTGCAATCATGCATTCTTCAAGGCAATATTATTTAT
+fukomys-damarensis         ACCACACCTAGCATTCCTCCACATCTGCATACATGCATTCTTCAAGGCCATGCTATTCAT
+                           ***  * **  * ***** ***** ** *  ** ** ***** ** ** **  **** **
+
+homo-sapien                GTGCTCCGGGTCCATCATCCACAACCTTAACAATGAACAAGATATTCGAAAAATAGGAGG
+pan-troglodytes            ATGCTCCGGATCCATTATTCACAACCTCAATAATGAGCAAGACATTCGAAAAATAGGAGG
+peromyscus-polionotus      ATGCTCAGGATCGATTATCCACAGTCTAAATGACGAACAAGATATTCGAAAAATAGGAAA
+castor-canadensis          ATGCTCAGGGTCCATTATCCACAGCCTCAACGACGAACAAGACATCCGTAAAATAGGAGG
+fukomys-damarensis         ATGCGCCGGTTCAATTATCCACAACCTAAACAATGAACAAGATATCCGAAAAATAGGAGG
+                            *** * ** ** ** ** ****  ** **  * ** ***** ** ** *********  
+
+homo-sapien                ACTACTCAAAACCATACCTCTCACTTCAACCTCCCTCACCATTGGCAGCCTAGCATTAGC
+pan-troglodytes            ATTACTCAAAACCATACCCCTCACTTCAACCTCCCTCACCATTGGGAGCCTAGCATTAGC
+peromyscus-polionotus      CCTAACTAAACCTATACCATTTACTTCCTCATGCCTAATAATCGGCAGCCTAGCCCTAAC
+castor-canadensis          ACTAGCCAAAGCAATACCATTTACAACTTCCTCCCTGGTAGTAGGAAGTCTCGCACTCAC
+fukomys-damarensis         ACTGCTCAAAATGCTACCCTTTACCTCCTCCTCACTAATCATCGGAAGTTTAGCCCTAAC
+                             *    ***    ****  * **  *  * *  **     * ** **  * **  *  *
+
+homo-sapien                AGGAATACCTTTCCTCACAGGTTTCTACTCCAAAGACCACATCATCGAAACCGCAAACAT
+pan-troglodytes            AGGAATACCCTTCCTCACAGGTTTCTACTCCAAAGACCTCATCATCGAAACCGCTAACAT
+peromyscus-polionotus      AGGAATACCCTTCCTAACAGGCTTCTACTCAAAAGACCTAATCATCGAAGCCGCAAACAC
+castor-canadensis          AGGCATGCCTTTCCTAACAGGGTTCTACTCAAAAGACCTTATCATTGAATCCGCCAACAC
+fukomys-damarensis         AGGCATACCTTTCTTAACAGGGTTTTACTCCAAGGACCTGATCATCGAATCCGCAAACTC
+                           *** ** ** *** * ***** ** ***** ** ****  ***** *** **** ***  
+
+homo-sapien                ATCATACACAAACGCCTGAGCCCTATCTATTACTCTCATCGCTACCTCCCTGACAAGCGC
+pan-troglodytes            ATCATACACAAACGCCTGAGCCCTATCTATTACTCTCATCGCCACCTCTCTGACAAGCGC
+peromyscus-polionotus      GTGCTATACCAACGCCTGAGCCCTACTAATCACACTTATTGCCACCTCTTTAACAGCCGT
+castor-canadensis          GTCGTATACCAACGCCTGAGCCCTACTAATCACACTCATTGCAACCTCCCTTACAGCTGT
+fukomys-damarensis         ATCGTACATTAATGCCTGAGCCCTATTAATTACCCTAATCTCCACATCCCTGACAGCCGT
+                            *  ** *  ** ************   ** ** ** **  * ** **  * ***   * 
+
+homo-sapien                CTATAGCACTCGAATAATTCTTCTCACCCTAACAGGTCAACCTCGCTTCCCCACCCTTAC
+pan-troglodytes            CTACAGCACCCGAATAATCCTCCTCACCCTAACAGGTCAACCTCGCTTCCCAACCCTCAC
+peromyscus-polionotus      TTATAGTATACGAATCATTTACTTTGTCTCTATAACTAAACCACGATTCCCGTCAATAAT
+castor-canadensis          ATACAGCACACGAATTATCTTCTTCGCCCTACTAGGGCAACCCCGATTTCACCCACTCAT
+fukomys-damarensis         ATACAGCAGCCGAATTGTGTTCTACGCACTACTAGACCACCCCCGAAGTACAACAACGCT
+                            ** ** *  *****  *               *    * ** **        *      
+
+homo-sapien                TAACATTAACGAAAATAACCCCACCCTACTAAACCCCATTAAACGCCTGGCAGCCGGAAG
+pan-troglodytes            CAACATTAACGAAAACAACCCCACTCTGTTAAATCCCATTAAACGCCTAACCATTGGAAG
+peromyscus-polionotus      TATTATTAATGAAAACAACCCTAAACTGATAAATCCTATTAAACGATTGGCATTAGGAAG
+castor-canadensis          CAACATCAATGAAAACAACCCACAACTAACAAACTCTATCAAGCGATTACTAGTAGGAAG
+fukomys-damarensis         TAACATCAATGAAAACAACCCTCTATTAATCAATCCCATCAAACGACTAGCAATGGGCAG
+                            *  ** ** ***** *****     *    **  * ** ** **  *       ** **
+
+homo-sapien                CCTATTCGCAGGATTTCTCATTACTAACAACATTTCCCCCGCATCCCCCTTCCAAACAAC
+pan-troglodytes            CTTATTTGCAGGATTTCTCATTACCAACAACATTCTCCCCATATCTACTCCCCAAGTGAC
+peromyscus-polionotus      TATCCTAGCAGGCTTCTTTATTTCACAAAATATTCCACCTACTACTACTCAAATTATAAC
+castor-canadensis          CATTTTCGCTGGCTTCATTATCTCAAACAACATCATTCCCATAAACAACCCCACATTAAC
+fukomys-damarensis         TATCTTAGCAGGCTTCATCATCTCAAACAACATTCCCCCCACAAGCATCCCTCAAATAAC
+                             *  * ** ** **  * **  *  * ** **    **                   **
+
+homo-sapien                AATCCCCCTCTACCTAAAACTCACAGCCCTCGCTGTCACTTTCCTAGGACTTCTAACAGC
+pan-troglodytes            AATTCCCCTTTACTTAAAACTTACAGCCCTAGGCGTTACTTCCCTAGGACTTCTAACAGC
+peromyscus-polionotus      CATACCATGATACCTAAAAGCCACAGCCATAATCGTAACAATCTCAGGATTTGTCATCGC
+castor-canadensis          CATACCCCTATACCTAAAATTAATAGCCCTGGCAATCACCATATTAGGCTTCACCATCGC
+fukomys-damarensis         CATACCTACCCATATTAAACTATCAACACTCATAGTTACAGCCCTAGGATTTATAACAGC
+                            ** **     *  * ***     * *  *     * **      ***  *    *  **
+
+homo-sapien                CCTAGACCTCAACTACCTAACCAACAAACTTAAAATAAA----ATCCCCACTATGCACAT
+pan-troglodytes            CCTAGACCTCAATTACCTAACCAGCAAGCTCAAAATAAA----ATCCCCACTATATACAT
+peromyscus-polionotus      ACTAGAACTTAACAACCTAACTTCAAATCTAGTAATAAACAAG----CCAACACCATCAT
+castor-canadensis          AATAGAACTAAATAACATAACCTACAACCTAAAACTAAACCTAACCTCCAATACCAAC--
+fukomys-damarensis         AATAGAATTAATCATTATAAGCCACTACTTAAA---AAACAAATACCCCAATA-AATTAT
+                             ****  * *      ***      *  *      ***        ***  *       
+
+homo-sapien                TTTATTTCTCCAACATACTCGGATTCTACCCTAGCATCACACACCGCACAATCCCCTATC
+pan-troglodytes            TTCACTTCTCTAATATACTCGGATTCTACCCTAACATTATACACCGCTCGATCCCCTATC
+peromyscus-polionotus      CATCATTCTCGACATCACTCGGATATTACCCTCTAATCATACACCGACTCCTACCGCTAA
+castor-canadensis          --TCATTCTCCACAATACTAGGATTCTTTCCAGCCATCATACACCGAACTTCACCCAAAC
+fukomys-damarensis         TTAACTTCTCAAACATGTTAGGGTACTTTACTCCCACCGCCCACCGCTTTATACCTTATA
+                                ***** *      * ** *  *   *    *     *****       **     
+
+homo-sapien                TAGGCCTTCTTACGAGCCAAAACCTGCCCCTACTCCTCCTAGACCTAACCTGACTAGAAA
+pan-troglodytes            TAGGCCTTCTTACAAGCCAAAACCTACCCCTACTTCTTCTAGACCTGACCTGACTAGAGA
+peromyscus-polionotus      AAATATTAACAAAAAGCTTTAACACATCACTACGACTATTAGACCTAACCTGACTAGAAA
+castor-canadensis          ACACACTAATACTCAGCCAAAAAACAGCGTCAACCCTCCTAGATACAACATGAACAGAAA
+fukomys-damarensis         AAAAACTAATAATAAGTCAAAATCTAGCCTCCTCTTCCATAGACGCAATTTGATTAGAAA
+                                 *       **    **     *           ****    *  ***  *** *
+
+homo-sapien                AGCTATTACCTAAAACAATTTCACAGCACCAAATCTCCACCTCCATCATCACCTCAACCC
+pan-troglodytes            AACTATTACCTAAAACAATTTCACAGTACCAAATCTCCGCTTCCATTACCACCTCAACCC
+peromyscus-polionotus      AAGCTATCCCCCATACCACCTCCACCTTACAAATGACAGCCTCGAAAAACCTGGCTAACC
+castor-canadensis          AAATCACACCCAAACTGCTAGCTCACGTACAAATTAAAGCCTCCATTACCGTATCCAACC
+fukomys-damarensis         AGTCAGCCCCTAAAAATGTATCTGATATTCAATACACCGCATCGATATTTACATCAAACC
+                           *       **  *        *       ***       * ** *         * * **
+
+homo-sapien                AAAAAGGCATAATTAAACTTTACTTCCTCTCTTTCTTCTTCCCACTCATCCTAACCCTAC
+pan-troglodytes            AAAAAGGCATGATCAAACTTTATTTCCTCTCTTTTTTCTTCCCTCTCATCTTAACCTTAC
+peromyscus-polionotus      AAAAAGGTCTCATTAAATTATACTTCCTATCATTTCTAATTACACTCTTATCTCTTCCCA
+castor-canadensis          AAAAAGGAATAATCAAACTATACTTCCTGTCCTTCCTACTATCAGCAGCTTTAGCACTAA
+fukomys-damarensis         AAACAGGATTAATTAAACTCTACTTTCTGTCATTCCTACTATCTTTCATAGTAGCTCTAA
+                           *** ***  * ** *** * ** ** ** ** **  *  *  *                 
+
+homo-sapien                TCCTAATCACATAACCTA-TTCCCCCGAGCAATCTCAATTACAATATATACACCAACAAA
+pan-troglodytes            TCCTAATCACATAACCTA-TTCCCCCGAGCAATCTCAATCACAATGTATACACCAACAAA
+peromyscus-polionotus      TCCTACTTA--TTACCTAATTTATTCGAACAATCTCAATAATAATTATAACACCCATTAA
+castor-canadensis          ---CAATCA--TCATTTAACGACCACGAGTAATCTCAAGAACAATAAAAATACTCACAAA
+fukomys-damarensis         TCCTATCTA-----CCTAGTTACCTCGAATAATCTGCATAGTAATGAGAATTCCTGCAAA
+                               *   *       **       ***  *****  *    ***    *  *     **
+
+homo-sapien                CAATGTTCAACCAGTAACTACTACTAATCAACGCCCATAATCATACAAAGCCCCCGCACC
+pan-troglodytes            CAATGTCCAACCAGTAACTACTACTAACCAACGCCCATAATCATATAAGGCCCCCGCACC
+peromyscus-polionotus      TAAAGTCCACCCAGACACCACCATCAATCATGCAGAACAACTATATAAAGCAGCTACCCC
+castor-canadensis          CAAAGACCAACCCGCCAACACCATTAATCAACACCCATAACTATAAACAGCTGCAACACC
+fukomys-damarensis         CAATGACCATCCTGCCACAAACATCAGCCAGTAGTTATAACTATAAATAGCACCAACCCC
+                            ** *  ** ** *  *  *  *  *  **      * **  *** *  **  *  * **
+
+homo-sapien                AATAGGATCCTCCCG-AATCAACCCTGAC--CCCTCTCCTTCATAAATTATTCAGCTTCC
+pan-troglodytes            AATAGGATCCTCCCG-AATCAGCCCTGGC--CCCTCCCCTTCATAAATTATTCAACTTCC
+peromyscus-polionotus      AGCACCCCCCTCTCC-CATTAACCCTAAC--TCATCACTATCATAAACCACCCAACCCCC
+castor-canadensis          CATAACATCTTTATT-AATACACTCAACC--CCCTCACCACTATAAACAACCCAGTCGCT
+fukomys-damarensis         AGTAGGACCCTCACTCAAGTAGCCCACACCACCCTCACCATCATAAATCACCCACTCCCC
+                              *    * *      *    * *   *   * ** *    *****  *  **    * 
+
+homo-sapien                TACACTATTAAAGTTTACCACAAC---CACCACCCCATCATACTCTTTCACCCA---CAG
+pan-troglodytes            CACGCTATTAAAATTTACCACAAC---CACCATCCCATCATACCCTTTTACCCA---TAA
+peromyscus-polionotus      AGCGTCACTGTTATGTACTAACACAGAATTTACTAAATTATAATCATTAG---AGGCATA
+castor-canadensis          CGTATTATAAACACCCCCCAATAC---ATCTACCTCATCATTCTTCACCAACAAGGCTAA
+fukomys-damarensis         CATATTATTAAACTGCACAATAAC---TTCAATATAATCATAGT---TTAACCAGACATA
+                                 *          * *  **       *    ** **            *      
+
+homo-sapien                CACCAATCCTACCTCCATCGCTAACCCCACTAAAACACTCACCAAGACCTCAACCCCTGA
+pan-troglodytes            CACTAATCCTACCTCCATCGCCAGTCCTACTAAAACACTAACCAAAACCTCAACCCCTGA
+peromyscus-polionotus      AACCACACCTATCTCCATAAAAACACCCATTACCAAGATACCAAACACCGATCAACTTGA
+castor-canadensis          A---AAAATTAACTCAACAAACAAGCCAAAAACCAAAGCACTTCAAATAGCCACATTAGA
+fukomys-damarensis         AGACAATAATCCTTCTATAAACAGGCTAAACAACATCACACTTCAAACAGCAACGTTAGA
+                               *    *   ** *     *  *  *  *  *         * *           **
+
+homo-sapien                CCCCCATGCCTCAGGATACTCCTCAATAGCCATCGCTGTAGTATATCCAAAGACAACCAT
+pan-troglodytes            CCCCCATGCCTCAGGATACTCCTCAATAGCCATAGCCGTAGTATACCCAAAAACAACCAT
+peromyscus-polionotus      CACCAGAGTCTCAGGAAACTCCTCCGTAGACATAGCTGTTGTATACCCAAATACAACCAA
+castor-canadensis          ACCCCACGTCTCAGGATAATCTTCAATAGCCATAGCCGTAGTATAACCAAACACCACTAT
+fukomys-damarensis         AACCCAAGACTCAGGGTACTGTTCCATAGATATAGCAGTGGTATAACCGAACACAACTAT
+                             **   * ******  * *  **  ***  ** ** ** ***** ** ** ** ** * 
+
+homo-sapien                CATTCCCCCTAAATAAATTAAAAAAACTATTAAACCCATATAACCTCCCCCAAAATTCAG
+pan-troglodytes            TATTCCCCCCAAATAAATTAAAAAAACCATTAAACCTATATAACCTCCCCCATAATTCAA
+peromyscus-polionotus      CATACCACCTAAATAAATTAAAAACACCATAGCACCTAAAAAAGACCCACCAAACCCTAA
+castor-canadensis          CATCCCACCCAAATAAACTAAAAATACCATCAGCCCTAAAAAAGAACCACCAAAACTCAA
+fukomys-damarensis         TATACCGCCTAAAAAAACTAAAAATACTATTAATCCTAAAAATGATCCTCCATAACCTAA
+                            ** ** ** *** *** ****** ** **    ** * * *    ** *** *    * 
+
+homo-sapien                AATAATAACACACCCGACCACACCGCTAACAATCAATACTAAACCCCCATAAATAGGAGA
+pan-troglodytes            AATGATGGCACACCCAACTACACCACTAACAATCAATACTAAACCCCCATAAATGGGAGA
+peromyscus-polionotus      CACCGCTAAACAACCAGAACACCCACTAACAATTAAACACACACCCCCATAGATAGGTGA
+castor-canadensis          AATTAACCCACAACCAACCCCACCGCTAACAATCAACCCAAGCCCGCCGTAAATAGGAGA
+fukomys-damarensis         AATAATAACGCACCCTAATGCCCCGCTAACAATCAAAGATAGCCCTCCGTAAATAGGAGA
+                            *        ** **       ** ******** **    *  ** ** ** ** ** **
+
+homo-sapien                AGGCTTAGAAGAAAACCCCACAAACCCCATTACTAAACCCACACTCAACAGAAACAAAGC
+pan-troglodytes            AGGCTTAGAAGAAAACCCCACAAACCCTATCACTAAACTCACACTCAATAAAAATAAAGC
+peromyscus-polionotus      AGGCTTCAATGATACGCCTAAGCACCCTAGCGCAATAAATGAACTTAAAATAAAAATATA
+castor-canadensis          GGGCTTAGAAGAAAAACCCACGAACCCCAACACAAACATAATACTTAATAAGTACATAGA
+fukomys-damarensis         AGGTTTTACAGAAAAACCTACACACCCAATAACAAATAAAATACTTAAAAAATAATAAAC
+                            ** **    ** *  ** *   **** *   * *       *** ** *   *   *  
+
+homo-sapien                AT---ACATCATTATTCTCGCACGGACTACAACCACGACCAATGATATGAAAAACCATCG
+pan-troglodytes            AT---ATGTCATTATTCTCGCACGGACTACAACCACGACCAATGATATGAAAAACCATCG
+peromyscus-polionotus      TT---CTGTCATAATTCCTACATAGACTCTAACTATGACCAATGACATGAAAAATCATCG
+castor-canadensis          AT---AAGTCATAGTTTCCACATGGACTTAAACCAAGACTAATGACATGAAAAATCATCG
+fukomys-damarensis         GTTTAAAGTCATAATTCCCACATGGGTTTAAACCATGACCTATGATATGAAAAACCATCG
+                            *      ****  **    **  *  *  *** * ***  **** ******** *****
+
+homo-sapien                TTGTATTTCAACTACAAGAACAC-CAATGACCCCAATACGCAAAACTAACCCCCTAATAA
+pan-troglodytes            TTGTATTTCAACTACAAGAACAC-CAATGACCCCGACACGCAAAATTAACCCACTAATAA
+peromyscus-polionotus      TTGTAATTCAACTATAGAAACACTTAATGACAAACATCCGAAAAAAACACCCATTAATTA
+castor-canadensis          TTGTAATTCAACTACGAAAACCCCTAATGACAAACATCCGAAAAACACACCCATTAATAA
+fukomys-damarensis         TTGTA-TTCAACTACAAGAAC---TAATGACCAACATCCGAAAATCCCACCCCTTAATCA
+                           ***** ********    ***    ******    *  ** ***    ****  **** *
+
+homo-sapien                AATTAATTAACCACTCATTCATCGACCTCCCCACCCCATCCAACATCTCCGCATGATGAA
+pan-troglodytes            AATTAATTAATCACTCATTTATCGACCTCCCCACCCCATCCAACATTTCCGCATGATGGA
+peromyscus-polionotus      AAATTATCAATGAATCCTTCATTGACCTCCCAACCCCACCCAACATTTCATCATGATGAA
+castor-canadensis          AAATTATTAACCACTCATTCATTGACCTCCCAACACCATCCAACATCTCAGCATGATGAA
+fukomys-damarensis         AAATTATCAACCACTCGTTCATCGACCTGCCCACACCCTCCAGCATCTCCTACTGATGGA
+                           ** * ** **  * ** ** ** ***** ** ** **  *** *** **    ***** *
+
+homo-sapien                ACTTCGGCTCACTCCTTGGCGCCTGCCTGATCCTCCAAATCACCACAGGACTATTCCTAG
+pan-troglodytes            ACTTCGGCTCACTTCTCGGCGCCTGCCTAATCCTTCAAATTACCACAGGATTATTCCTAG
+peromyscus-polionotus      ACTTCGGATCCTTACTTGGAGTATGCCTAATAATTCAAATTCTAACAGGCTTATTTCTAG
+castor-canadensis          ACTTTGGATCCCTGCTAGGAATCTGCCTAATCCTACAAATTGCAACAGGGCTATTCCTAG
+fukomys-damarensis         ACTTCGGATCACTCCTAGGAGCCTGCCTAATCCTACAAATTATCACAGGTCTATTCCTAT
+                           **** ** **  * ** **    ***** **  * *****    *****  **** *** 
+
+homo-sapien                CCATGCACTACTCACCAGACGCCTCAACCGCCTTTTCATCAATCGCCCACATCACTCGAG
+pan-troglodytes            CTATACACTACTCACCAGACGCCTCAACCGCCTTCTCGTCGATCGCCCACATCACCCGAG
+peromyscus-polionotus      CCATACACTACACATCAGACACAACTACAGCATTCTCATCAGTTACACACATCTGCCGAG
+castor-canadensis          CAATACACTACACATCAGACACCGCGACAGCATTCTCTTCAGTCGCACATATTTGCCGAG
+fukomys-damarensis         CCATGCACTACACTGCAGACACAGCCACCGCATTCTCATCAGTAGCCCACATCTGCCGAG
+                           * ** ****** *  ***** *  * ** ** ** ** **  *  * ** **    ****
+
+homo-sapien                ACGTAAATTATGGCTGAATCATCCGCTACCTTCACGCCAATGGCGCCTCAATATTCTTTA
+pan-troglodytes            ACGTAAACTATGGTTGGATCATCCGCTACCTCCACGCTAACGGCGCCTCAATATTTTTTA
+peromyscus-polionotus      ACGTCAACTACGGCTGACTTATCCGATACATACACGCAAACGGAGCCTCAATATTCTTCA
+castor-canadensis          ACGTCAACTACGGCTGAATTATCCGATATCTTCATGCCAACGGAGCCTCCATATTCTTTA
+fukomys-damarensis         ATGTAAACTACGGATGATTAATCCGATACTTACACGCCAATGGTGCCTCCATATTTTTCA
+                           * ** ** ** ** **  * ***** **  * ** ** ** ** ***** ***** ** *
+
+homo-sapien                TCTGCCTCTTCCTACACATCGGGCGAGGCCTATATTACGGATCATTTCTCTACTCAGAAA
+pan-troglodytes            TCTGCCTCTTCCTACACATCGGCCGAGGTCTATATTACGGCTCATTTCTCTACCTAGAAA
+peromyscus-polionotus      TCTGCTTATTCCTTCATGTGGGGCGTGGAATATATTATGGATCATACACATTCACAGAGA
+castor-canadensis          TCTGCCTATTCATACACGTAGGACGAGGGGTCTACTATGGATCATATACCTTCACAGAGA
+fukomys-damarensis         TCTGCCTGTATCTTCACGTAGGTCGAGGAATATACTACGGATCTTACATATTCATAGAAA
+                           ***** * *   * **  * ** ** **  * ** ** ** ** *     * *  *** *
+
+homo-sapien                CCTGAAACATCGGCATTATCCTCCTGCTTGCAACTATAGCAACAGCCTTCATAGGCTATG
+pan-troglodytes            CCTGAAACATTGGCATTATCCTCTTGCTCACAACCATAGCAACAGCCTTTATGGGCTATG
+peromyscus-polionotus      CATGAAACATCGGAGTTGTACTATTATTTGCTGTAATAGCAACAGCATTCATAGGATATG
+castor-canadensis          CATGGAACATTGGCATCATTCTACTATTCACAGTCATAGCAACCGCCTTTATAGGATACG
+fukomys-damarensis         CCTGAAACATCGGAATCATTCTTCTCCTATCAGTTATAGCAACTGCTTTCATAGGATATG
+                           * ** ***** **  *  * **  *  *  *    ******** ** ** ** ** ** *
+
+homo-sapien                TCCTCCCGTGAGGCCAAATATCATTCTGAGGGGCCACAGTAATTACAAACTTACTATCCG
+pan-troglodytes            TCCTCCCATGAGGCCAAATATCCTTCTGAGGAGCCACAGTAATTACAAACCTACTGTCCG
+peromyscus-polionotus      TACTTCCATGAGGACAAATATCCTTCTGAGGAGCCACAGTAATTACCAACCTACTATCAG
+castor-canadensis          TCCTCCCGTGAGGGCAAATATCCTTTTGAGGGGCCACAGTAATCACAAATCTACTCTCAG
+fukomys-damarensis         TGCTACCATGAGGACAAATATCATTCTGAGGTGCGACAGTCATCACAAACCTATTCTCAG
+                           * ** ** ***** ******** ** ***** ** ***** ** ** **  ** * ** *
+
+homo-sapien                CCATCCCATACATTGGGACAGACCTAGTTCAATGAATCTGAGGAGGCTACTCAGTAGACA
+pan-troglodytes            CTATCCCATACATCGGAACAGACCTGGTCCAGTGAGTCTGAGGAGGCTACTCAGTAGACA
+peromyscus-polionotus      CTATCCCCTATATCGGAACAACCCTAGTAGAGTGAATCTGAGGGGGATTCTCAGTAGACA
+castor-canadensis          CAATTCCATACATCGGCCCCAACCTAGTAGAATGAATTTGAGGCGGCTTCTCTGTAGACA
+fukomys-damarensis         CAATCCCTTACATCGGCCCAACACTAGTAGAATGAATCTGAGGCGGATTCGCAGTAGACA
+                           * ** ** ** ** **  *    ** **  * *** * ***** ** * * * *******
+
+homo-sapien                GTCCCACCCTCACACGATTCTTTACCTTTCACTTCATCTTGCCCTTCATTATTGCAGCCC
+pan-troglodytes            GCCCTACCCTTACACGATTCTTCACCTTCCACTTTATCTTACCCTTCATCATCACAGCCC
+peromyscus-polionotus      AAGCAACCCTAACACGATTCTTCGCATTTCACTTCATCCTACCATTCATCATCACAGCCC
+castor-canadensis          AAGCCACCCTAACCCGATTCTTTGCACTCCACTTCATCTTACCCTTTATTATTGCAGCAC
+fukomys-damarensis         AAGCCACTCTGACCCGATTCTTCGCCTTCCACTTCATCCTACCGTTCATCATCACAGCAC
+                              * ** ** ** ********  *  * ***** *** * ** ** ** **  **** *
+
+homo-sapien                TAGCAACACTCCACCTCCTATTCTTGCACGAAACGGGATCAAACAACCCCCTAGGAATCA
+pan-troglodytes            TAACAACACTTCATCTCCTATTCTTACACGAAACAGGATCAAATAACCCCCTAGGAATCA
+peromyscus-polionotus      TAGTAGTAGTTCACCTATTATTCCTGCATGAAACAGGATCCAACAACCCATCAGGCCTAA
+castor-canadensis          TGGCAACAGTCCACCTCCTATTCCTACACGAAACAGGATCCAATAATCCATCAGGAATCA
+fukomys-damarensis         TTACGATAGTACACCTGCTATTCCTACACGAAACTGGATCAAACAACCCATCAGGCATCA
+                           *      * * ** **  ***** * ** ***** ***** ** ** **   ***  * *
+
+homo-sapien                CCTCCCATTCCGATAAAATCACCTTCCACCCTTACTACACAATCAAAGACGCCCTCGGCT
+pan-troglodytes            CCTCCCACTCCGACAAAATTACCTTCCACCCCTACTACACAATCAAAGATATCCTTGGCT
+peromyscus-polionotus      ACTCAGACGCAGATAAAATTCCATTTCACCCCTACTACACTATCAAAGATATTTTAGGAA
+castor-canadensis          ACTCAGACTCTGACAAAATCCCCTTCCACCCATACTTTACTATCAAGGACTCCCTAGGAG
+fukomys-damarensis         ACTCAGACTCGGACAAAATCCCATTCCACCCCTACTACTCATTTAAAGACTTCATAGGAT
+                            ***  *  * ** *****  * ** ***** ****   *  * ** **     * **  
+
+homo-sapien                TACTTCTCTTCCTTCTCTCCTTAATGACATTAACACTATTCTCACCAGACCTCCTAGGCG
+pan-troglodytes            TATTCCTTTTCCTCCTTATCCTAATGACATTAACACTATTCTCACCAGGCCTCCTAGGCG
+peromyscus-polionotus      TCCTCCTGTTATTAATAGTTCTCATAATTTTGGTTTTATTTTTCCCAGATATTCTCGGAG
+castor-canadensis          TACTACTCCTACTCACCCCTCTCCTAACACTAACACTATTCTCACCAGACCTACTAGGAG
+fukomys-damarensis         TGCAGATCATACTACTCATTCTACTAACACTAACACTATTCCACCCAGACCTACTAGGAG
+                           *     *  *  *        *  * *   *     ****    ****   * ** ** *
+
+homo-sapien                ACCCAGACAATTATACCCTAGCCAACCCCTTAAACACCCCTCCCCACATCAAGCCCGAAT
+pan-troglodytes            ATCCAGACAACTATACCCTAGCTAACCCCCTAAACACCCCACCCCACATTAAACCCGAGT
+peromyscus-polionotus      ACCCCGATAATTACACTCCCGCAAATCCACTTAACACTCCAGCACACATTAAACCAGAAT
+castor-canadensis          ACCCAGACAACTACACACCAGCCAACCCCCTAAGCACCCCTCCACACATCAAACCAGAGT
+fukomys-damarensis         ACCCCGATAACTACACACCAGCAAACCCCATGAGCACGCCACCACACATCAAACCAGAAT
+                           * ** ** ** ** ** *  ** ** **  * * *** **  * ***** ** ** ** *
+
+homo-sapien                GATATTTCCTATTCGCCTACACAATTCTCCGATCCGTCCCTAACAAACTAGGAGGCGTCC
+pan-troglodytes            GATACTTTCTATTTGCCTACACAATCCTCCGATCCATCCCCAACAAACTAGGAGGCGTCC
+peromyscus-polionotus      GATATTTCCTCTTCGCCTACGCCATCCTACGCTCAATCCCTAACAAACTAGGAGGAGTAA
+castor-canadensis          GATACTTTCTATTCGCATACGCAATCCTACGATCCATCCCCAACAAGCTAGGCGGAGTTG
+fukomys-damarensis         GATATTTCCTGTTTGCATACGCCATCCTACGCTCTATTCCCAACAAACTAGGAGGAGTAC
+                           **** ** ** ** ** *** * ** ** ** **  * ** ***** ***** ** **  
+
+homo-sapien                TTGCCCTATTACTATCCATCCTCATCCTAGCAATAATCCCCATCCTCCATATATCCAAAC
+pan-troglodytes            TCGCCCTACTACTATCTATCCTAATCCTAACAGCAATCCCTGTCCTCCACACATCCAAAC
+peromyscus-polionotus      TAGCCCTAGTTCTTTCAATCCTCATCCTAGCTCTCCTACCTCTACTACAAACCTCAAAAC
+castor-canadensis          TAGCCCTAGTACTGTCAATCCTAATCCTAATGGCCTTCCCACTACTCCACACATCAAAAC
+fukomys-damarensis         TAGCCTTGGTTATATCAATCCTGATCCTAGTCGCCCTACCACTCCTACACACATCCAAAC
+                           * *** *  *  * ** ***** ******       * **  * ** ** *  ** ****
+
+homo-sapien                AACAAAGCATAATATTTCGCCCACTAAGCCAATCACTTTATTGACTCCTAGCCGCAGACC
+pan-troglodytes            AACAAAGCATAATATTTCGCCCACTAAGCCAACTGCTTTACTGACTCCTAGCCACAGACC
+peromyscus-polionotus      AACGAGGATTAATATTTCGACCTATCTCCCAAACCCTATTCTGAATTCTAGTAGCTAACC
+castor-canadensis          AACGAAGCCTAATATTCCGTCCAATCAGCCAGTGCCTGTTCTGAGCACTAGCCGCAGATC
+fukomys-damarensis         AACGCAGCATAATATTCCGACCTATCAGCCAATGTTTATTCTGAACGTTCATCTCCACCC
+                           ***   *  ******* ** **  *   ***     * *  ***    *     *    *
+
+homo-sapien                TCCTCATTCTAACCTGAATCGGAGGACAACCAGTAAGCTACCCTTTTACCATCATTGGAC
+pan-troglodytes            TCCTCATCCTAACCTGAATCGGAGGACAACCAGTAAGCTACCCCTTCATCACCATCGGAC
+peromyscus-polionotus      TCTTTATTCTCACATGAATTGGGGGTCAACCCGTTGAGCACCCATTCGTTATAATTGGAC
+castor-canadensis          TCCTAACCCTAACATGAATCGGCGGACAACCCGTCGAACCCCCATTCATCATTATCGGCC
+fukomys-damarensis         TCCTCACCCTAACATGAATCGGCAGCCAACCAGTAGAATACCCTTACATCATCATCGGCC
+                           ** * *  ** ** ***** **  * ***** **      *** *     *  ** ** *
+
+homo-sapien                AAGTAGCATCCGTACTATACTTCACAACAATCCTAATCCTAATACCAACTATCTCCCTAA
+pan-troglodytes            AAATAGCATCCGTATTATACTTCACAACAATCCTAATCCTAATACCAATCGCCTCTCTAA
+peromyscus-polionotus      AACTAGCCTCAATCAGCTACTTCACCATTATTATCATCTTAATACCCGTAGCAGGAATAA
+castor-canadensis          AAACAGCATCAATCCTATACTTCTTCATCATCCTCATCCTCATACCTACCGCCAGCCTAA
+fukomys-damarensis         AATTAGCATCAATCCTATACTTCCTCATCATCCTTGTTCTAATACCCTTAGCAGGGTTAG
+                           **  *** **  *    ******   *  **  *  *  * *****           ** 
+
+homo-sapien                TTGAAAACAAAATACTCAAATGGGCC---TGTCCTTGTAGTATAAACTAATACACCAGTC
+pan-troglodytes            TCGAAAACAAAATACTTGAATGAACC---TGCCCTTGTAGTATAAACTAATACACCGGTC
+peromyscus-polionotus      TTGAAAATAACATACTAAAATTCACCCATTGCCCTGATAGTATAACTAATTACTTTGGTC
+castor-canadensis          TTGAAAACAAAATACTTAAATGAAGA----GTCCTCATAGTATAAACTATTACTTTGGTC
+fukomys-damarensis         TAGAAAATAAAATAATAAAATGAAGA----GTCTCAGTAGTATAAAC-ATTACCTTGGTC
+                           * ***** ** *** *  ***         * *    ********   * ***    ***
+
+homo-sapien                TTGTAAACCGGAGATGAAAA----CCTTTTTCCAAGGACAAATCAGAGAAAAAGTCTTTA
+pan-troglodytes            TTGTAAACCGGAAACGAAAA----CTTTCTTCCAAGGACAAATCAGAGAAAAAGTAATTA
+peromyscus-polionotus      TTGTAAACCAAAAATGAAGAAGACATCTTCTCAGA----GCATCAAGAAGGAAGGACTAA
+castor-canadensis          TTGTAAACCAACAATGGGAAAAAACACCCCTTAGG----ACATCAAGGAGGAGACAA--A
+fukomys-damarensis         TTGTAAACCAAAAATGAGATCTTTCCTCCCTCCTGAGATACATCAAGAAAGAGAGAA-GA
+                           *********    * *              *          ****   *  *       *
+
+homo-sapien                ACTCCACCATTAGCACCCAAAGCTAAGATTCTAAT--TTAAACTATTCTCTGTTCTTTCA
+pan-troglodytes            ACTTCACCATCAGCACCCAAAGCTAAGATTCTAAT--TTAAACTATTCTCTGTTCTTTCA
+peromyscus-polionotus      CCCCCACCATCAACACCCAAAGCTGATATTCTAT---TTAAACTACTTCTTG------TA
+castor-canadensis          GTCCCACCACCAGCACCCAAAGCTGACATTCTCATAATTAAACTACCCCCTG--------
+fukomys-damarensis         CCCCCGCCGTCAACTCCCAAAGCTGAAATTCTGA---CTAAACTATTCCTTG--------
+                               * **   * * ********* * *****      *******     **        
+
+homo-sapien                TGGGGAAGCAGATTTGGGTACCACCCAAGTAT------TGACTCACCCATCAACAACCGC
+pan-troglodytes            TGGGGAAGCAAATTTAGGTACCACCTAAGTAC------TGGCTCATTCAT-TACAACCGC
+peromyscus-polionotus      CATAAAATTATATTCCTCTAGCATATAAGCATGTAATATAAATTAATGAATTACAACATT
+castor-canadensis          ------------------CACCACACAAG----------------------AACAAC--C
+fukomys-damarensis         -------------CAGGCCCTTATCAAAGAGTGTAGCA-------------AACACAATC
+                                                 *   ***                       ***     
+
+homo-sapien                TATGTATTTCGTACAT--TACTGCCAGCCACCATGAATATTGTAC-GGTACCATAAATAC
+pan-troglodytes            TATGTATTTCGTACAT--TACTGCCAGCCACCATGAATATCGTAC-AGTACCATATCACC
+peromyscus-polionotus      CATTTATATATTACATAAAAATTAACTTAAACATGAGTATTAAGCAAGTAATT-------
+castor-canadensis          TATGTATATCGTGCAT-TAAGTTATCTTCCACATTAATAATGCCTGAGTACTTTAAATGC
+fukomys-damarensis         TATGTCATTCGTGCAT--TAATGCCCGACCCCATCCATAATGTAC---------------
+                            ** *   *  * ***   * *         ***   **                     
+
+homo-sapien                TTGACCACCTGTAGTACATAAA---AACCCAATCCA-----CATCAAAACCCCCTCCCCA
+pan-troglodytes            -CAACTACCTATAGTACATAAA---ATCCACTCCCA-----CATCAAAACCTTCACTCCA
+peromyscus-polionotus      --------------TACATTAATGTAATACAACATT-----CATTTA-------------
+castor-canadensis          -TAATCGTACATAGTACATAACTGCATAACCGTACA-----TACAAATTCTTTTAAGACA
+fukomys-damarensis         -----------TAGTACATTAATGTGTAATCTTACATGAACCATATAATGTTTTATCC--
+                                         ***** *                     *   *             
+
+homo-sapien                TGCTTACAAGCAAGTACAGCAATCAACCCTCAACTATCACACATCAACTGCAACTCCAAA
+pan-troglodytes            TGCTTACAAGCACGCACAACAATCAACTCCCAACTGTCGAACATAAAACACAATTCCAAC
+peromyscus-polionotus      ----------------------------------TATATTACATAA--------------
+castor-canadensis          AGCATACAAGCAAGTACAATAATAACAACCGGACTATAGTACATACAACAATAACCAACA
+fukomys-damarensis         ----------------------------------------ACATAA--------------
+                                                                   ****                
+
+homo-sapien                GCCACCCCTCACCCACTAGGATACCAACAAACCTACCCACCCT-TAACAGTACATAGTAC
+pan-troglodytes            GACACCCCTCCCCCACCCCGATACCAACAGACCTATCTCCCCT-TGACAGAACATAGTAC
+peromyscus-polionotus      --TTATTAACTTAAACATGAGTATT---AAGCAAGTAATTTATATTAATGTAATATGGAC
+castor-canadensis          GGACATTAACAACAACATGACTATTCAAAACCAAGCAGTTCCTACAAGCGGACATAAAAC
+fukomys-damarensis         ----CCCCACCCCCCCATGGATATCCTCTAATACATACCCTCCATCTTTG-ACATTTTA-
+                                    *     *     **                          * *      * 
+
+homo-sapien                ATAAAGCCATTTACCGTACA-TAGCACATTACAGTCA-AATCCCTTCTCGTCCCCATGGA
+pan-troglodytes            ATACAACCATACACCGTACA-TAGCACATTACAGTCA-AACCCCTCCTCGCCCCCACGGA
+peromyscus-polionotus      ATATCTGCGTT-ATCTTACAT--ACACCATATTGTCATAATC-CTGCTTGTCCAAATGAC
+castor-canadensis          ATTAATCTATTAATCGTGCATTAGCGCATAA-AGTCATAAACAATCCACCTCAAAATGGA
+fukomys-damarensis         GCTCGCCCGT--ATCGCACATTAGCGCATTA-AGTCA-AACTAATTCTCTTCAATATGAC
+                                    *  * *   **    * *   *  **** **    * *    *   * *  
+
+homo-sapien                TGACCCC--CCTCAGATAGGGGTCCCTTGACC-ACCATCCTCCGTGAAATCAATATCCCG
+pan-troglodytes            TGCTCCC--CCTCAGATAGGAATCCCTTGGTC-ACCATCCTCCGTGAAATCAATATCCCG
+peromyscus-polionotus      TATCCCCTTCCCCAGTTGG---TCTATTAATCTACCATCCTCCGTGAAACCAACAACCCG
+castor-canadensis          TATCCCT--CACCACTGGATAGTCTCTTAATCTACCATCCTCCGTGAAACCAGCAACCCG
+fukomys-damarensis         TATCCCC--TTCCAATGGGTCATCTCTTAATCTACCATCCTCCGAGAAACCAGCAACCCG
+                           *   **      **        **  **   * *********** **** **  * ****
+
+homo-sapien                C---ACAAGAGTGCTACTCTCCTCGCTCCGGGCCCATAACACTTGGGGGTAGCTAA-AGT
+pan-troglodytes            C---ACAAGAGTGA--CTCTCCTCGCTCCGGGCCCATAACATCTGGGGGTAGCTAA-AGT
+peromyscus-polionotus      CCC-ACCAGGATAC--CTCTTCTCGCTCCGGGCCCATTAAACTTGGGGGTAACTAACTAT
+castor-canadensis          CTCGGGAAGTACCC--CTCTTCTCGCTCCGGGCCCATACAACTTGGGGGTTTCTATTCTG
+fukomys-damarensis         CCATACAAGGATCC--CTCTTCTCGCTCCGGGCCCATCCATCGTGGGGGTGACTAACCTT
+                           *      **       **** ****************      *******  ***     
+
+homo-sapien                GAACTGTATCCGACATCTGGTTCCTACTTCAGGGTCATAAAGCCTAA-AT-AGCCCACAC
+pan-troglodytes            GAACTGTATCCGACATCTGGTTCCTACCTCAGGGCCATGAAGTTCAAAAGACTCCCACAC
+peromyscus-polionotus      GAATTTTATCAGGCATCTGGTTCTTACTTCAGGGCCATTAAATGTTTTAT-TGTCCATAC
+castor-canadensis          AAACTATACCTGGCATCTGGTTCTTACTTCAGGGCCATGATAACTAAGAT-CGCCCACAC
+fukomys-damarensis         GAACTTTATCAGGCATCTGGTTCTTACCTCAGGCACATAAGGA-TAAGAT-CGCCCACTC
+                            ** * ** * * ********** *** *****  *** *        *     ***  *
+
+homo-sapien                GTTCCCCTTAAATAAGACATCACGATG---------------------------------
+pan-troglodytes            GTTCCCCTTAAATAAGACATCACGATGGATCACAGGTCT-ATCACCCTATTAACCAGTCA
+peromyscus-polionotus      GTTCCCCTTAAATAAGACATCTCGATGGTACAGCGTCTA-ATCAGCCCATGAT--CAACA
+castor-canadensis          GTTCCCCTTAAATAAGACATCTCGATGGATTCATGACTAGACTGGCCCATGAT--CAACA
+fukomys-damarensis         GTTCCCCTTAAATAAGACATCTCGATGGTTTGGTGCTTC---CAGTCCGTGATCGCGACA
+                           ********************* *****                                 
+
+homo-sapien                ------------------------------------------------------------
+pan-troglodytes            CGGGAG-CCT-TCCATGCATTTGGTATTTTCGTCTGGGGGGTGTGCA-CGCGATAGCATT
+peromyscus-polionotus      TAACTGTAGT-CAGGTGCCTCTGGTATTTTTTAATTTTCGGGATGCTGTGACTCACCATA
+castor-canadensis          TAACTGTTCT-GTCATACATTTGGTATTTTTTAATTTTTAGGATGCTGTGACTCAGCATA
+fukomys-damarensis         TAGTTAACCCATCCAGGCATTTGGTAGCTTCTATTTTTCGGTATGCC-CGTATCAGCATA
+                                                                                       
+
+homo-sapien                ------------------------------------------------------------
+pan-troglodytes            GCGA--AACGCTGGCCCCGGAGCACCCTATGTCGCAGTATCTGTCTTTGATTCCTGCCCC
+peromyscus-polionotus      GCCGTCAAGGCATGAA---GGTCAGCTTACAGTCTAGCTGGACTTTTCAATTCAAGCTTT
+castor-canadensis          GCCGTCAAGGCATGGTCTCAGTCAATTCA-ATTGTAGCTGGACTTTTAAATCAATATTCT
+fukomys-damarensis         GTCGTCAAGACATGCACGCAGCCAAATTAAGTCAGGATTAGACTTATTAGTCAATTCTCT
+                                                                                       
+
+homo-sapien                ------------------------------------------------------------
+pan-troglodytes            --------------------------------ATTGTATTATTTATCGCACCTACGTTCA
+peromyscus-polionotus      ------------------------------------------------------------
+castor-canadensis          TTACCCGCATAATAAAAATCAAGGTATGCTAGAACTTCATGCTTGATGGACATAAAGAAA
+fukomys-damarensis         --------------------------------------------------------TATC
+                                                                                       
+
+homo-sapien                ------------------------------------------------------------
+pan-troglodytes            ATATTACGACCTAGCATACCTACTAAAGTGTGTTGATTAATTAATGCTTGCAGGACATAA
+peromyscus-polionotus      ------------------------------------------------------------
+castor-canadensis          AAACAACACACACGTATACACGTATACACGTATACACGTATACACGTATACACGTATACA
+fukomys-damarensis         ACATGAGCCCCCCGAACACATATA-------GTCAATGATCGGATAACGGCATAATCTCG
+                                                                                       
+
+homo-sapien                ------------------------------------------------------------
+pan-troglodytes            CAACAGCAGCAA------------------------------------------------
+peromyscus-polionotus      ------------------------------------------------------------
+castor-canadensis          CGTATACACGTATACACGTATACACGTATACACGTATACACGTATACACGTATACACGTA
+fukomys-damarensis         CATACTCTGGTC------------------------------------------------
+                                                                                       
+
+homo-sapien                ------------------------------------------------------------
+pan-troglodytes            ------------------------------------------------------------
+peromyscus-polionotus      ------------------------------------------------------------
+castor-canadensis          TACACGTATACACGTATACACGTATACACGTATACACGTATACACGTATACACGTATACA
+fukomys-damarensis         ------------------------------------------------------------
+                                                                                       
+
+homo-sapien                ------------------------------------------------------------
+pan-troglodytes            ------------------------------------------------------------
+peromyscus-polionotus      ------------------------------------------------------------
+castor-canadensis          CGTATACACGTATACACGTATACACGTATACACGTATACACGTATACACGTATACACGTA
+fukomys-damarensis         ------------------------------------------------------------
+                                                                                       
+
+homo-sapien                ------------------------------------------------------------
+pan-troglodytes            ------------------------------------------------------AATGCT
+peromyscus-polionotus      ------------------------------------------------------------
+castor-canadensis          TACACGTATACACGTATACACGTATACACGTATACACGTATACACGTATACACGTATACA
+fukomys-damarensis         ------------------------------------------------------GACGGT
+                                                                                       
+
+homo-sapien                ------------------------------------------------------------
+pan-troglodytes            CACATAACTGC-----TTTCCACACCAACATCATAACAAAAAATTCCCACAAACCCCCCC
+peromyscus-polionotus      --------------CACTGATCCACTAATACCATTAC-----------------------
+castor-canadensis          CGTATACACGTATACACGTATACACGTATAC----ACGTATATATGGGCAAACCCCCCCC
+fukomys-damarensis         GGTGTTAAGGCATATTCGTATCCTTGGTCAACATAAC------CCCCTCAGACTGACTTT
+                                                                                       
+
+homo-sapien                ------------------------------------------------------------
+pan-troglodytes            TTCCCCCCGGCCACAGCACTCAAACAAATCTCTGCCAAACCCCAAAAACAAAGAACCCAG
+peromyscus-polionotus      ----------TGTCAACAATAAGGTTAATGATTCTTAAGACATA----------------
+castor-canadensis          CTACCCCCCCCCGCA------TGACTAACTCTTGCCAAACCCCAAAAACAAGAAACATGC
+fukomys-damarensis         TTAGTTAATGCTAGAGTGACATAGCAAATATTTGCACATCCATAAATGCAAAAAATGCAA
+                                                                                       
+
+homo-sapien                ------------------------------------------------------------
+pan-troglodytes            ACGCCAGCCTAGCCAGACTTCAAATTTCATCTTTAGGCGGTATGCACTTTTAACAGTCAC
+peromyscus-polionotus      ------------------------------------------------------------
+castor-canadensis          TCTACCAACAAACTTCACATAACTACCTACCCCTAAACCTCATGTTT---------TAAT
+fukomys-damarensis         AAAAACAC----------------------------ATGATACATATTTTCTCAAATTAC
+                                                                                       
+
+homo-sapien                ------------------------------------------------------------
+pan-troglodytes            CCCTCAATTAACATGC--------------CCTCCCCCCTCAACTCCCATTCTACTAGCC
+peromyscus-polionotus      ---TTAATTAATGTTT--------------------------------------------
+castor-canadensis          CCTTTATTTTATACGT--------------TCAATTTATTAATGTGCCATCTCAGTA--T
+fukomys-damarensis         AATTTATTAAATTTGTACCCCCATGGGCACTCACCCAATTAAATTTCCATTTCATAGAGT
+                                                                                       
+
+homo-sapien                ------------------------------------------------------------
+pan-troglodytes            CCAGCAACGTAACCCCCTACTCACCCTACTCAACACATATACCGCTGCTAACCCCATACC
+peromyscus-polionotus      ------------------------------------------------------------
+castor-canadensis          CTCGTAAATTAAATCACAACCCATGCTTCCCGCCCCCCTTCCACATACTAATAAGACACC
+fukomys-damarensis         GT----ATACAAATCACACACCATACCCTCCGCAACC-----------------------
+                                                                                       
+
+homo-sapien                ------------------------------------------------
+pan-troglodytes            CTG---AACCAACCAAACCCCAAAGACACCCCTACACA----------
+peromyscus-polionotus      ------------------------------CTTAGACATAAATAT---
+castor-canadensis          CAAAACAACCGACCATATAAAAGAAACTGACTCAAACACAAAA-----
+fukomys-damarensis         ------AAGCATCCCATTCTATGAAACTACTGCACAAACAACTAAACT
+                                                                           
