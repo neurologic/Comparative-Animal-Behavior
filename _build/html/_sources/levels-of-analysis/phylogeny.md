@@ -3,13 +3,13 @@
 > {sub-ref}`today` | {sub-ref}`wordcount-words` words | {sub-ref}`wordcount-minutes` min read
 
 
-A phylogeny is a hypothesis.
 Animal behaviorists use phylogenies to investigate the development of behavior across generations (evolutionary timescales).
+Critically, a phylogeny is a hypothesis. Phylogenies can be tested and falsified, and can change given new evidence or analytic techniques.
+Phylogenies can be based on any animal trait. Commonly, in studying animal behavior, you will encounter phylogenies based on genetics.
 
+## Genetic Sequences
 
-## Sequences
-
-[GenBank](https://www.ncbi.nlm.nih.gov/pubmed/23193287) is the NIH genetic sequence database, an annotated collection of all publicly available DNA sequences. The [nucleotide search](https://www.ncbi.nlm.nih.gov/nucleotide/) lets you search for species names and genes. If you use this resource, you can refer to the [FAQ](https://www.ncbi.nlm.nih.gov/books/NBK44863/) to get you started. 
+[GenBank](https://www.ncbi.nlm.nih.gov/pubmed/23193287) is the NIH genetic sequence database, an annotated collection of all publicly available DNA sequences. The [nucleotide search](https://www.ncbi.nlm.nih.gov/nucleotide/) lets you search for species names and genes. If you want to use this resource directly, you can refer to the [FAQ](https://www.ncbi.nlm.nih.gov/books/NBK44863/) to get you started. 
 
 ***Q: What is the relationship between DNA and nucleotides?*** 
 
@@ -55,8 +55,10 @@ If significant sequence variation between closely related species is useful for 
 
 ***Q: Based on this information, what do you think you need to do to create a phylogeny?*** 
 
+***Q: Given these sequences, why would it be difficult to determine genetic differences between species?*** 
 
-## Alignment
+
+## Sequence Alignment
 
 The online webtool [MUSCLE](https://www.ebi.ac.uk/Tools/msa/muscle/) was developed to align genomic sequences across species. The output of the alignment procedure looks like the following:
 
@@ -74,9 +76,9 @@ Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
 
 ***Q: What do the stars represent?*** 
 
-***Q: Compute the "relatedness" between Hawksbill and Loggerhead turtles***
+***Q: Compute a metric of "relatedness" between Hawksbill and Loggerhead turtles***
 
-***Q: Compute the "relatedness" between Hawksbill and Green turtles***
+***Q: Compute a metric of "relatedness" between Hawksbill and Green turtles***
 
 
 ## From Relatedness to Trees
@@ -112,8 +114,53 @@ A phylogenetic tree of turtle species. Relatedness and branch lengths were calcu
 :::
 
 
-[Open Tree (Bathyergidae)](https://tree.opentreeoflife.org/opentree/opentree13.4@mrcaott45520ott692678/Bathyergidae--Petromuridae)
+## From Trees to Behavioral Evolutionary History
 
-[Python phylogenetics example](https://taylor-lindsay.github.io/phylogenetics/)
+If you search the [Animal Diversity Web](https://animaldiversity.org/) (for example), you will find that, of the 5 turtle species you have just examined, all but one are classified as *solitary*. The green turtle (*Chelonia mydas*) is classified as "colonial"[^colonial].
 
-Character mapping
+[^colonial]: "Used loosely to describe any group of organisms living together or in close proximity to each other - for example nesting shorebirds that live in large colonies. More specifically refers to a group of organisms in which members act as specialized subunits (a continuous, modular society) - as in clonal organisms." - [ADW](https://animaldiversity.org/accounts/Chelonia_mydas/#behavior)"
+
+From a phylogenetic perspective, why is the green turtle colonial? If the LCA at the root of divergence for the green turtle was colonial, then it is an evolutionarily inherited behavior. If the LCA at the root of divergence for the green turtle was solitary, then it is an evolutionarily derived behavior. To understand whether a behavior is evolutionarilty derived or inherited at each node of a phylogenetic tree, we must determine the ancestral trait at each node. 
+
+One basic way to do this is to use the principle of parsimony after counting evolutionary changes under each alternate LCA hypothesis.
+
+***Q: If the LCA of the turtles in Figure ___ was solitary, what is the least number of evolutionary changes that would need to occur to result in the correct behavioral traits of all 5 extant species?***
+
+***Q: If the LCA of the turtles in Figure ___ was colonial, what is the least number of evolutionary changes that would need to occur to result in the correct behavioral traits of all 5 extant species?***
+
+***Q: Which alternate hypothesis would require more evolutionary changes?***
+
+***Q: Which requires more events/steps? Evolutionary change or evolutionary stasis?***
+
+***Q: All else being equal, which hypothesis results in a less likely series of events: "LCA was solitary" or "LCA was colonial"?***
+
+***Q: If the method of parsimony is used to reject the less likely hypothesis, then what would be the result of your analysis? In other words, how would you interpret your results in terms of determining the behavioral trait exhibited by the LCA of these 5 turtles?***
+
+***Q: If there are species of turtles missing from this phylogeny, how could that change the results of your ancestral state reconstruction analysis?***
+
+***Q: If no one had yet characterized the behavior of some extant species within your phylogeny, how would that add uncertainty to your analysis?***
+
+Many published phylogenetic trees exist that you can explore without needing to analyze any genetics. For example, [here is the entry on OpenTree that includes all 5 turtle species you have just examined](https://tree.opentreeoflife.org/opentree/opentree13.4@ott66469/Cheloniidae). This tree is rooted at *Cheloniidae* (the sea turtles), which is a *monophyletic group*. In this web interface, branches of the tree are sometimes collapsed for visual clarity. Clicking on each branch in the tree reveals how many extant species derive from that branch. Clickin on each node in the tree roots the visualization at that node (often expanding/collapsing sets of branches as the view changes). Practice navigating around the tree. 
+
+***Q: How many other species of turtles should have been included in Figure ____ to generate a complete phylogeny?***
+
+Check out the [phylogeny of Bathyergidae on OpenTree](https://tree.opentreeoflife.org/opentree/opentree13.4@mrcaott45520ott692678/Bathyergidae--Petromuridae). 
+
+***Q: How many extant species are within this*** **family** ***?***
+
+There are, broadly, several categories of social behavior.
+:Solitary: Individuals live and behave alone (except during mating usually)
+:Social/Communal: Individuals group together for some activities, but each maintain reproductive independence.  
+:Eusociality:  Some individuals among the social group give up their own reproductive opportunities to help others reproduce. 
+
+There are only two species among the Bathyergidae family that are eusocial: *Fukomys demarensis* and *Heterocephalus glaber*. Bathyergidae is comprised of ___ Genera: Heterocephalus, Bathyergus, Cryptomys, Georychus, and Heliophobius. 
+
+***Q: What was the most likely behavior of the LCA for all Bathyergidae species? Why? (phrase your answer in terms of an analysis of parsimony based on evolutionary change)***
+
+***Q: ***
+
+***Q: ***
+
+<hr>
+
+Data for the turtle phylogeny was collected by Lindsay Taylor as part of their [example jupyter notebooks implementation of BioPython](https://taylor-lindsay.github.io/phylogenetics/)
