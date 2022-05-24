@@ -402,6 +402,29 @@ const thebe_selector_output = ".output, .cell_output"
         <!-- Table of contents -->
         <div class="d-none d-md-block col-md-2 bd-toc show noprint">
             
+            <div class="tocsection onthispage pt-5 pb-3">
+                <i class="fas fa-list"></i> Contents
+            </div>
+            <nav id="bd-toc-nav" aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#sequences">
+   Sequences
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#alignment">
+   Alignment
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#from-relatedness-to-trees">
+   From Relatedness to Trees
+  </a>
+ </li>
+</ul>
+
+            </nav>
         </div>
     </div>
 </div>
@@ -414,6 +437,29 @@ const thebe_selector_output = ".output, .cell_output"
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#sequences">
+   Sequences
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#alignment">
+   Alignment
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#from-relatedness-to-trees">
+   From Relatedness to Trees
+  </a>
+ </li>
+</ul>
+
+                        </nav>
                     </div>
                 </div>
             </div>
@@ -422,12 +468,94 @@ const thebe_selector_output = ".output, .cell_output"
                 
   <div class="tex2jax_ignore mathjax_ignore section" id="phylogeny">
 <h1>Phylogeny<a class="headerlink" href="#phylogeny" title="Permalink to this headline">¶</a></h1>
-<p>The development of behavior across generations (evolutionary timescales).</p>
-<p><a class="reference external" href="https://www.ncbi.nlm.nih.gov/nuccore/?term=Peromyscus+mitochondrion">GeneBank (Peromyscus)</a></p>
-<p><a class="reference external" href="https://www.ebi.ac.uk/Tools/msa/muscle/">Muscle Alignment</a></p>
+<blockquote>
+<div><p>May 24, 2022 | 584 words | 3 min read</p>
+</div></blockquote>
+<p>A phylogeny is a hypothesis.
+Animal behaviorists use phylogenies to investigate the development of behavior across generations (evolutionary timescales).</p>
+<div class="section" id="sequences">
+<h2>Sequences<a class="headerlink" href="#sequences" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="https://www.ncbi.nlm.nih.gov/pubmed/23193287">GenBank</a> is the NIH genetic sequence database, an annotated collection of all publicly available DNA sequences. The <a class="reference external" href="https://www.ncbi.nlm.nih.gov/nucleotide/">nucleotide search</a> lets you search for species names and genes. If you use this resource, you can refer to the <a class="reference external" href="https://www.ncbi.nlm.nih.gov/books/NBK44863/">FAQ</a> to get you started.</p>
+<p><em><strong>Q: What is the relationship between DNA and nucleotides?</strong></em></p>
+<p>Below are two sequences downloaded from GenBank. “FASTA” is a common file format used to store sequence data. The files are very simple; they contain a <em>header</em> followed by the sequence. Click on the “FASTA” file headers to see the full sequence.</p>
+<details>
+	<summary>HQ377551.1 Chelonia mydas isolate Satang_4 16S ribosomal RNA gene, partial sequence; mitochondrial</summary>
+GGCCGCGGTATCCTAACCGTGCAAAGGTAGCGTAATCACTTGTCTTTTAAATAAAGACTAGAATGAATGG
+CCAAACGAGGTTCTACCTGTCTCTTACAAACAATCAGTGAAATTGATCTCCCCGTGCAAAAGCGGGGATA
+ACACTATAAGACGAGAAGACCCTGTGGAACTTTAAATACAGATCAACTATCATACCCACTCACTCTAAGG
+ACCTATAACTAATTAGTACTTGACCTATATTTTTGGTTGGGGCGACCTCGGAGTAAAACAAAACCTCCGA
+AAAAAGAATACACTTCTTAACCTAGACCCACAATTCAAAGTGCCAACGGCAAAATGATCCAATATATTTG
+ATCAACGAACCAAGCTACCCCAGGGATAACAGCGCAATCCCATCCTAGAGTTCCTATCGACGATGGGGTT
+TACGACCTCGATGTTGGATCAGGACATCCTGATGGTGCAACCGCTATCAAGGGTTCGTTTGTTCAACGAT
+TAACAGTCCTACGTGATCTG
+</details>
+<details>
+	<summary>FJ039971.1 Eretmochelys imbricata isolate EI_Atlantic 16S ribosomal RNA gene, partial sequence; mitochondrial</summary>
+GCCTCTAGCAACAACAAGTATTAGAGGTAATGCCTGCCCAGTGACACTGTTAAACGGCCGCGGTATCCTA
+ACCGTGCAAAGGTAGCGTAATCACTTGTCTTTTAAATAAAGACTAGAATGAATGGCCAAACGAGGTTCCA
+CCTGTCTCTTACAAACAATCAGTGAAATTGGTCTCCCCGTGCAAAAGCGAGGATAGCACTATAAGACGAG
+AAGACCCTGTGGAACTTTAAATATAAATCAACTATTTAACTTACCACTCTAAAGACTTATAATTTACTAG
+TTCTGATCCATATTTTTGGTTGGGGTGACCTCGGAGAAAAACAAAACCTCCGAAAAAAGAACATATCTTC
+TTAACCTAGACCCACAACTCAAAGTGCCAACGGAAAAATGATCCAATATATTTGATCAACGAACCAAGCT
+ACCCCAGGGATAACAGCGCAATCCCATCTTAGAGTCCATATCGACGATGGGGTTTACGACCTCGATGTTG
+GATCAGGACATCCTGATGGTGCAACCGCTATCAAGGGTTCGTTTGTTCAACGATTAACAGTCCCACGTGA
+T
+</details>  
+<p><em><strong>Q: What information is contained in the header of the FASTA file?</strong></em></p>
+<p><em><strong>Q: What gene specifically was sequenced for these two species?</strong></em></p>
+<p>The introduction of Yang et al (2014)<a class="footnote-reference brackets" href="#yang2014" id="id1">1</a> gives great overview of mitochondrial DNA (mtDNA).</p>
+<blockquote>
+<div><p>With few exceptions, the cells of all eukaryotic species contain mitochondria. The mitochondrial genome comprises a double-stranded DNA molecule of approximately 16 kb in length and accounts for 1% to 2% of the total DNA in mammalian cells. The mitochondrial genome encodes the following 13 essential oxidative phosphorylation subunit proteins/polypeptides: seven subunits of Complex I (ND1-6 and ND4L), one subunit of Complex III (Cytb), three subunits of Complex IV (COI-III) and two subunits of Complex V (ATPase 6 and 8). It also encodes two rRNAs (12S rRNA and 16S rRNA) and 22 tRNAs that are required for mitochondrial protein synthesis <a class="reference external" href="https://www.nature.com/articles/srep04089#Bib1">13,14,15,16</a>. Mitochondria possess their own organelle-specific DNA replication, transcription and translation systems <a class="reference external" href="https://www.nature.com/articles/srep04089#Bib1">13,14,15,16</a>.</p>
+</div></blockquote>
+<blockquote>
+<div><p>Typical animal mtDNA has a high mutation rate and an exceptional organizational economy, with rare non-coding segments. The accelerated evolutionary rate of animal mtDNA implies that significant amounts of sequence variation could be observed in closely related species—a useful feature for species identification procedures.</p>
+</div></blockquote>
+<p>If significant sequence variation between closely related species is useful for species identification, then it is also useful for creating a phylogeny.</p>
+<p><em><strong>Q: Based on this information, what do you think you need to do to create a phylogeny?</strong></em></p>
+</div>
+<div class="section" id="alignment">
+<h2>Alignment<a class="headerlink" href="#alignment" title="Permalink to this headline">¶</a></h2>
+<p>The online webtool <a class="reference external" href="https://www.ebi.ac.uk/Tools/msa/muscle/">MUSCLE</a> was developed to align genomic sequences across species. The output of the alignment procedure looks like the following:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>Hawksbill        AACTAT-TTAACTTACC-ACTCTAAAGACTTATAATTTACTAGTTC-TGATCCATATTTT
+Loggerhead       AACTAT-TATATTTACC-ACCCTAAAGACTTATAATTAACTAGTTC-TGATCCATATTTT
+Olive            AACTAT-CACACTTACT-ACCCTAAAGACTTATAACTTACTAGTTC-TGATCCATATTTT
+Kemp’s           AACTAT-TACACTTACT-ACCCTAAAGACTTATAACTTACTAGTTC-TGATCCATATTTT
+Leatherback      AACTACACATCCACACCTAATCTAAGGACTTATAACCAACTAG-ACTTGATCCATATTTT
+Flatback         AACTAT-CATACTCACCCACCCCAAGGACCTATAACTAACTAATACTTGACCTATATTTT
+Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
+                 *****         **  *  * ** *** *****   * **   * *** * *******
+</pre></div>
+</div>
+<p><em><strong>Q: What do the stars represent?</strong></em></p>
+<p><em><strong>Q: Compute the “relatedness” between Hawksbill and Loggerhead turtles</strong></em></p>
+<p><em><strong>Q: Compute the “relatedness” between Hawksbill and Green turtles</strong></em></p>
+</div>
+<div class="section" id="from-relatedness-to-trees">
+<h2>From Relatedness to Trees<a class="headerlink" href="#from-relatedness-to-trees" title="Permalink to this headline">¶</a></h2>
+<p>In a phylogenetic tree, the tips of branches represent <em>extant</em> (versus <em>extinct</em>) species. The tree is <em>rooted</em> with the <em>last common ancestor</em> (LCA) of all extant species on the tree. Each branch point from the root is a point of evolutionary <em>divergence</em>.</p>
+<div class="figure align-default" id="sample-tree">
+<a class="bg-primary mb-1 reference internal image-reference" href="../_images/Sample-Tree.png"><img alt="fishy" class="bg-primary mb-1" src="../_images/Sample-Tree.png" style="width: 400px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 1 </span><span class="caption-text">An example phylogenetic tree.</span><a class="headerlink" href="#sample-tree" title="Permalink to this image">¶</a></p>
+</div>
+<p><em><strong>Q: How many extant species are there in the tree (and what are their labels)?</strong></em></p>
+<p><em><strong>Q: How many points of divergence are there?</strong></em></p>
+<p><em><strong>Q: Use this tree as a phylogeny for the three turtle species for which you calcualted relatedness (Hawksbill, Loggerhead, and Green). Which letter (A, B, or C) would correspond to each turtle species?</strong></em></p>
+<p><em><strong>Q: Why is a phylogeny a hypothesis? What information could you gather that might change the tree that you constructed?</strong></em></p>
+<p>Based on the MUSCLE alignment of the 5 turtle species shown, we can use a computer algorithm to generate a phylogeny. In this example, I used <a class="reference external" href="https://biopython.org/">BioPython</a> to calculate relatedness and estimate a tree.</p>
+<div class="figure align-default" id="id2">
+<a class="bg-primary mb-1 reference internal image-reference" href="../_images/turtle-tree.png"><img alt="fishy" class="bg-primary mb-1" src="../_images/turtle-tree.png" style="width: 600px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 2 </span><span class="caption-text">A phylogenetic tree of turtle species. Relatedness and branch lengths were calculated from the MUSCLE alignement data of the 16S ribosomal RNA partial gene sequence.</span><a class="headerlink" href="#id2" title="Permalink to this image">¶</a></p>
+</div>
 <p><a class="reference external" href="https://tree.opentreeoflife.org/opentree/opentree13.4&#64;mrcaott45520ott692678/Bathyergidae--Petromuridae">Open Tree (Bathyergidae)</a></p>
 <p><a class="reference external" href="https://taylor-lindsay.github.io/phylogenetics/">Python phylogenetics example</a></p>
 <p>Character mapping</p>
+<hr class="footnotes docutils" />
+<dl class="footnote brackets">
+<dt class="label" id="yang2014"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
+<dd><p>Yang, L., Tan, Z., Wang, D. et al. <a class="reference external" href="https://doi.org/10.1038/srep04089">Species identification through mitochondrial rRNA genetic analysis</a>. Sci Rep 4, 4089 (2014).</p>
+</dd>
+</dl>
+</div>
 </div>
 
     <script type="text/x-thebe-config">
