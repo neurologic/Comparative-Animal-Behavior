@@ -427,6 +427,11 @@ const thebe_selector_output = ".output, .cell_output"
    From Trees to Behavioral Evolutionary History
   </a>
  </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#conclusions">
+   Conclusions
+  </a>
+ </li>
 </ul>
 
             </nav>
@@ -467,6 +472,11 @@ const thebe_selector_output = ".output, .cell_output"
    From Trees to Behavioral Evolutionary History
   </a>
  </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#conclusions">
+   Conclusions
+  </a>
+ </li>
 </ul>
 
                         </nav>
@@ -478,17 +488,15 @@ const thebe_selector_output = ".output, .cell_output"
                 
   <div class="tex2jax_ignore mathjax_ignore section" id="phylogeny">
 <h1>Phylogeny<a class="headerlink" href="#phylogeny" title="Permalink to this headline">¶</a></h1>
-<blockquote>
-<div><p>May 24, 2022 | 1294 words | 6 min read</p>
-</div></blockquote>
 <p>Animal behaviorists use phylogenies to investigate the development of behavior across generations (evolutionary timescales).
 Critically, a phylogeny is a hypothesis. Phylogenies can be tested and falsified, and can change given new evidence or analytic techniques.
 Phylogenies can be based on any animal trait. Commonly, in studying animal behavior, you will encounter phylogenies based on genetics.</p>
 <div class="section" id="genetic-sequences">
 <h2>Genetic Sequences<a class="headerlink" href="#genetic-sequences" title="Permalink to this headline">¶</a></h2>
-<p><a class="reference external" href="https://www.ncbi.nlm.nih.gov/pubmed/23193287">GenBank</a> is the NIH genetic sequence database, an annotated collection of all publicly available DNA sequences. The <a class="reference external" href="https://www.ncbi.nlm.nih.gov/nucleotide/">nucleotide search</a> lets you search for species names and genes. If you want to use this resource directly, you can refer to the <a class="reference external" href="https://www.ncbi.nlm.nih.gov/books/NBK44863/">FAQ</a> to get you started.</p>
+<p><a class="reference external" href="https://www.ncbi.nlm.nih.gov/pubmed/23193287">GenBank</a> is the NIH genetic sequence database, an annotated collection of all publicly available DNA sequences. The <a class="reference external" href="https://www.ncbi.nlm.nih.gov/nucleotide/">nucleotide search</a> lets you search for species names and genes. If you want to use this resource directly, you can refer to the <a class="reference external" href="https://www.ncbi.nlm.nih.gov/books/NBK44863/">FAQ</a> to get you started. In this document, I will provide you with some example sequences from the GenBank.</p>
 <p><em><strong>Q: What is the relationship between DNA and nucleotides?</strong></em></p>
-<p>Below are two sequences downloaded from GenBank. “FASTA” is a common file format used to store sequence data. The files are very simple; they contain a <em>header</em> followed by the sequence. Click on the “FASTA” file headers to see the full sequence.</p>
+<p><a id='fasta-files'></a>
+Below are the contents of two sequence files downloaded from GenBank. “FASTA” is a common file format used to store sequence data. The files are very simple; they contain a <em>header</em> followed by the sequence. Click on the “FASTA” file headers to see the full sequence from the file.</p>
 <details>
 	<summary>HQ377551.1 Chelonia mydas isolate Satang_4 16S ribosomal RNA gene, partial sequence; mitochondrial</summary>
 GGCCGCGGTATCCTAACCGTGCAAAGGTAGCGTAATCACTTGTCTTTTAAATAAAGACTAGAATGAATGG
@@ -514,7 +522,7 @@ T
 </details>  
 <p><em><strong>Q: What information is contained in the header of the FASTA file?</strong></em></p>
 <p><em><strong>Q: What gene specifically was sequenced for these two species?</strong></em></p>
-<p>The introduction of Yang et al (2014)<a class="footnote-reference brackets" href="#yang2014" id="id1">1</a> gives great overview of mitochondrial DNA (mtDNA).</p>
+<p>The introduction of Yang et al (2014)<a class="footnote-reference brackets" href="#yang2014" id="id1">1</a> gives succinct overview of mitochondrial DNA (mtDNA).</p>
 <blockquote>
 <div><p>With few exceptions, the cells of all eukaryotic species contain mitochondria. The mitochondrial genome comprises a double-stranded DNA molecule of approximately 16 kb in length and accounts for 1% to 2% of the total DNA in mammalian cells. The mitochondrial genome encodes the following 13 essential oxidative phosphorylation subunit proteins/polypeptides: seven subunits of Complex I (ND1-6 and ND4L), one subunit of Complex III (Cytb), three subunits of Complex IV (COI-III) and two subunits of Complex V (ATPase 6 and 8). It also encodes two rRNAs (12S rRNA and 16S rRNA) and 22 tRNAs that are required for mitochondrial protein synthesis <a class="reference external" href="https://www.nature.com/articles/srep04089#Bib1">13,14,15,16</a>. Mitochondria possess their own organelle-specific DNA replication, transcription and translation systems <a class="reference external" href="https://www.nature.com/articles/srep04089#Bib1">13,14,15,16</a>.</p>
 </div></blockquote>
@@ -522,12 +530,13 @@ T
 <div><p>Typical animal mtDNA has a high mutation rate and an exceptional organizational economy, with rare non-coding segments. The accelerated evolutionary rate of animal mtDNA implies that significant amounts of sequence variation could be observed in closely related species—a useful feature for species identification procedures.</p>
 </div></blockquote>
 <p>If significant sequence variation between closely related species is useful for species identification, then it is also useful for creating a phylogeny.</p>
-<p><em><strong>Q: Based on this information, what do you think you need to do to create a phylogeny?</strong></em></p>
-<p><em><strong>Q: Given these sequences, why would it be difficult to determine genetic differences between species?</strong></em></p>
+<p><em><strong>Q: Based on all of the information provided so far, what do you think you need to do to create a phylogeny?</strong></em></p>
+<p><em><strong>Q: Given the sequences shown from <a class="reference external" href="#fasta-files">the two FASTA files</a>, why would it be difficult to determine genetic differences between species?</strong></em></p>
 </div>
 <div class="section" id="sequence-alignment">
 <h2>Sequence Alignment<a class="headerlink" href="#sequence-alignment" title="Permalink to this headline">¶</a></h2>
 <p>The online webtool <a class="reference external" href="https://www.ebi.ac.uk/Tools/msa/muscle/">MUSCLE</a> was developed to align genomic sequences across species. The output of the alignment procedure looks like the following:</p>
+<p><a id='alignment'></a></p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span>Hawksbill        AACTAT-TTAACTTACC-ACTCTAAAGACTTATAATTTACTAGTTC-TGATCCATATTTT
 Loggerhead       AACTAT-TATATTTACC-ACCCTAAAGACTTATAATTAACTAGTTC-TGATCCATATTTT
 Olive            AACTAT-CACACTTACT-ACCCTAAAGACTTATAACTTACTAGTTC-TGATCCATATTTT
@@ -540,7 +549,7 @@ Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
 </div>
 <p><em><strong>Q: What do the stars represent?</strong></em></p>
 <p><em><strong>Q: Compute a metric of “relatedness” between Hawksbill and Loggerhead turtles</strong></em></p>
-<p><em><strong>Q: Compute a metric of “relatedness” between Hawksbill and Green turtles</strong></em></p>
+<p><em><strong>Q: Use the same method ot compute the “relatedness” between Hawksbill and Green turtles</strong></em></p>
 </div>
 <div class="section" id="from-relatedness-to-trees">
 <h2>From Relatedness to Trees<a class="headerlink" href="#from-relatedness-to-trees" title="Permalink to this headline">¶</a></h2>
@@ -551,39 +560,66 @@ Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
 </div>
 <p><em><strong>Q: How many extant species are there in the tree (and what are their labels)?</strong></em></p>
 <p><em><strong>Q: How many points of divergence are there?</strong></em></p>
-<p><em><strong>Q: Use this tree as a phylogeny for the three turtle species for which you calcualted relatedness (Hawksbill, Loggerhead, and Green). Which letter (A, B, or C) would correspond to each turtle species?</strong></em></p>
+<p><em><strong>Q: If you used this tree as a phylogeny for the three turtle species for which you calculated relatedness (Hawksbill, Loggerhead, and Green), wshich letter (A, B, or C) would correspond to each turtle species?</strong></em></p>
 <p><em><strong>Q: Why is a phylogeny a hypothesis? What information could you gather that might change the tree that you constructed?</strong></em></p>
-<p>Based on the MUSCLE alignment of the 5 turtle species shown, we can use a computer algorithm to generate a phylogeny. In this example, I used <a class="reference external" href="https://biopython.org/">BioPython</a> to calculate relatedness and estimate a tree.</p>
-<div class="figure align-default" id="id2">
+<p>Based on the <a class="reference external" href="#alignment">MUSCLE alignment of the 7 turtle species</a>, we can use a computer algorithm to calculate relatedness and generate a drawing of the most likely phylogeny. In this example (Fig. 2), I used <a class="reference external" href="https://biopython.org/">BioPython</a> to calculate relatedness and estimate a tree.</p>
+<div class="figure align-default" id="turtle-tree">
 <a class="bg-primary mb-1 reference internal image-reference" href="../_images/turtle-tree.png"><img alt="fishy" class="bg-primary mb-1" src="../_images/turtle-tree.png" style="width: 600px;" /></a>
-<p class="caption"><span class="caption-number">Fig. 2 </span><span class="caption-text">A phylogenetic tree of turtle species. Relatedness and branch lengths were calculated from the MUSCLE alignement data of the 16S ribosomal RNA partial gene sequence.</span><a class="headerlink" href="#id2" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 2 </span><span class="caption-text">A phylogenetic tree of 7 turtle species. Relatedness and branch lengths were calculated from the MUSCLE alignement data of the 16S ribosomal RNA partial gene sequence.</span><a class="headerlink" href="#turtle-tree" title="Permalink to this image">¶</a></p>
 </div>
 </div>
 <div class="section" id="from-trees-to-behavioral-evolutionary-history">
 <h2>From Trees to Behavioral Evolutionary History<a class="headerlink" href="#from-trees-to-behavioral-evolutionary-history" title="Permalink to this headline">¶</a></h2>
-<p>If you search the <a class="reference external" href="https://animaldiversity.org/">Animal Diversity Web</a> (for example), you will find that, of the 5 turtle species you have just examined, all but one are classified as <em>solitary</em>. The green turtle (<em>Chelonia mydas</em>) is classified as “colonial”<a class="footnote-reference brackets" href="#colonial" id="id3">2</a>.</p>
+<p>If you search the <a class="reference external" href="https://animaldiversity.org/">Animal Diversity Web</a> (for example), you will find that, of the 7 turtle species you have just examined, all but one are classified as <em>solitary</em>. The green turtle (<em>Chelonia mydas</em>) is classified as “colonial”<a class="footnote-reference brackets" href="#colonial" id="id2">2</a>.</p>
 <p>From a phylogenetic perspective, why is the green turtle colonial? If the LCA at the root of divergence for the green turtle was colonial, then it is an evolutionarily inherited behavior. If the LCA at the root of divergence for the green turtle was solitary, then it is an evolutionarily derived behavior. To understand whether a behavior is evolutionarilty derived or inherited at each node of a phylogenetic tree, we must determine the ancestral trait at each node.</p>
 <p>One basic way to do this is to use the principle of parsimony after counting evolutionary changes under each alternate LCA hypothesis.</p>
-<p><em><strong>Q: If the LCA of the turtles in Figure ___ was solitary, what is the least number of evolutionary changes that would need to occur to result in the correct behavioral traits of all 5 extant species?</strong></em></p>
-<p><em><strong>Q: If the LCA of the turtles in Figure ___ was colonial, what is the least number of evolutionary changes that would need to occur to result in the correct behavioral traits of all 5 extant species?</strong></em></p>
-<p><em><strong>Q: Which alternate hypothesis would require more evolutionary changes?</strong></em></p>
 <p><em><strong>Q: Which requires more events/steps? Evolutionary change or evolutionary stasis?</strong></em></p>
+<p><em><strong>Q: If the LCA of the turtles in Figure 2 was solitary, what is the least number of evolutionary changes that would need to occur to result in the correct behavioral traits of all 7 extant species?</strong></em></p>
+<p><em><strong>Q: If the LCA of the turtles in Figure 2 was colonial, what is the least number of evolutionary changes that would need to occur to result in the correct behavioral traits of all 7 extant species?</strong></em></p>
+<p><em><strong>Q: Which alternate hypothesis would require more evolutionary changes?</strong></em></p>
 <p><em><strong>Q: All else being equal, which hypothesis results in a less likely series of events: “LCA was solitary” or “LCA was colonial”?</strong></em></p>
-<p><em><strong>Q: If the method of parsimony is used to reject the less likely hypothesis, then what would be the result of your analysis? In other words, how would you interpret your results in terms of determining the behavioral trait exhibited by the LCA of these 5 turtles?</strong></em></p>
+<p><em><strong>Q: If the method of parsimony is used to reject the less likely hypothesis, then what would be the result of your analysis? In other words, how would you interpret your results in terms of determining the behavioral trait exhibited by the LCA of these 7 turtles?</strong></em></p>
 <p><em><strong>Q: If there are species of turtles missing from this phylogeny, how could that change the results of your ancestral state reconstruction analysis?</strong></em></p>
-<p><em><strong>Q: If no one had yet characterized the behavior of some extant species within your phylogeny, how would that add uncertainty to your analysis?</strong></em></p>
-<p>Many published phylogenetic trees exist that you can explore without needing to analyze any genetics. For example, <a class="reference external" href="https://tree.opentreeoflife.org/opentree/opentree13.4&#64;ott66469/Cheloniidae">here is the entry on OpenTree that includes all 5 turtle species you have just examined</a>. This tree is rooted at <em>Cheloniidae</em> (the sea turtles), which is a <em>monophyletic group</em>. In this web interface, branches of the tree are sometimes collapsed for visual clarity. Clicking on each branch in the tree reveals how many extant species derive from that branch. Clickin on each node in the tree roots the visualization at that node (often expanding/collapsing sets of branches as the view changes). Practice navigating around the tree.</p>
-<p><em><strong>Q: How many other species of turtles should have been included in Figure ____ to generate a complete phylogeny?</strong></em></p>
+<p><em><strong>Q: If no one had yet characterized the behavior of some extant species within your phylogeny, how would that add uncertainty to your analysis and interpretation of the results?</strong></em></p>
+<p>Many published phylogenetic trees exist that you can explore without needing to analyze any genetics. For example, <a class="reference external" href="https://tree.opentreeoflife.org/opentree/opentree13.4&#64;ott66469/Cheloniidae">here is the entry on OpenTree that includes all 7 turtle species you have just examined</a>. This tree is rooted at <em>Cheloniidae</em> (the sea turtles), which is a <em>monophyletic group</em>. In this web interface, branches of the tree are sometimes collapsed for visual clarity. Clicking on each branch line in the tree reveals how many extant species derive from that branch. Clicking on each node in the tree roots the visualization at that node (often expanding/collapsing sets of branches as the view changes). Practice navigating around the tree.</p>
+<p><em><strong>Q: How many other species of turtles should have been included in Figure 2 to generate a complete phylogeny of sea turtles?</strong></em></p>
+<p>There are, broadly, several categories of social behavior.</p>
+<p><strong>Solitary</strong>
+: Individuals live and behave alone (except during mating usually)</p>
+<p><strong>Social</strong>
+: Individuals group together for some activities, but each maintain reproductive independence.</p>
+<p><strong>Eusociality</strong>
+: Some individuals among the social group give up their own reproductive opportunities to help others reproduce.</p>
 <p>Check out the <a class="reference external" href="https://tree.opentreeoflife.org/opentree/opentree13.4&#64;mrcaott45520ott692678/Bathyergidae--Petromuridae">phylogeny of Bathyergidae on OpenTree</a>.</p>
-<p><em><strong>Q: How many extant species are within this</strong></em> <strong>family</strong> <em><strong>?</strong></em></p>
-<p>There are, broadly, several categories of social behavior.
-:Solitary: Individuals live and behave alone (except during mating usually)
-:Social/Communal: Individuals group together for some activities, but each maintain reproductive independence.<br />
-:Eusociality:  Some individuals among the social group give up their own reproductive opportunities to help others reproduce.</p>
-<p>There are only two species among the Bathyergidae family that are eusocial: <em>Fukomys demarensis</em> and <em>Heterocephalus glaber</em>. Bathyergidae is comprised of ___ Genera: Heterocephalus, Bathyergus, Cryptomys, Georychus, and Heliophobius.</p>
-<p><em><strong>Q: What was the most likely behavior of the LCA for all Bathyergidae species? Why? (phrase your answer in terms of an analysis of parsimony based on evolutionary change)</strong></em></p>
-<p>***Q: ***</p>
-<p>***Q: ***</p>
+<p>Bathyergidae is comprised of 6 Genera: <em>Heterocephalus, Bathyergus, Fukomys, Cryptomys, Georychus,</em> and <em>Heliophobius</em>. There are only two species among the Bathyergidae family that are eusocial: <em>Fukomys demarensis</em> and <em>Heterocephalus glaber</em>.</p>
+<p><em><strong>Q: How many extant species are within the Bathyergidae family?</strong></em></p>
+<p>If all extent species from the heliophobius genus are not eusocial, then it is more likely that the LCA of all heliophobius was not eusocial. The same logic applies to Bathyergus, Cryptomys, and Georychus. Likewise, the LCA of all Fukomys was likely not eusocial. To construct the behavior of the LCA for all Bathyergidae, We can consider a ‘reduced’ tree of all genera within this family.</p>
+<div class="figure align-default" id="rootnonsocial">
+<a class="bg-primary mb-1 reference internal image-reference" href="../_images/Bathyergidae-genus-tree-eusocial-color-rootnonsocial.png"><img alt="fishy" class="bg-primary mb-1" src="../_images/Bathyergidae-genus-tree-eusocial-color-rootnonsocial.png" style="width: 600px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 3 </span><span class="caption-text">A phylogenetic tree of Bathyergidae genera with character mapping of eusocial (green) and not eusocial (orange) character mapping of LCA for each genera. Ancestral state reconstruction shown for the hypothesis that the LCA of Bathyergidae was <em>not</em> eusocial.</span><a class="headerlink" href="#rootnonsocial" title="Permalink to this image">¶</a></p>
+</div>
+<div class="figure align-default" id="rootsocial">
+<a class="bg-primary mb-1 reference internal image-reference" href="../_images/Bathyergidae-genus-tree-eusocial-color-rootsocial.png"><img alt="fishy" class="bg-primary mb-1" src="../_images/Bathyergidae-genus-tree-eusocial-color-rootsocial.png" style="width: 600px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 4 </span><span class="caption-text">A phylogenetic tree of Bathyergidae genera with character mapping of eusocial (green) and not eusocial (orange) character mapping of LCA for each genera. Ancestral state reconstruction shown for the hypothesis that the LCA of Bathyergidae was eusocial.</span><a class="headerlink" href="#rootsocial" title="Permalink to this image">¶</a></p>
+</div>
+<p><em><strong>Q: WHy is the Heterocephalus genus LCA eusocial?</strong></em></p>
+<p><em><strong>Q: Which hypothesis would you reject based on parsimony?</strong></em></p>
+<p><em>Outgroups</em> can help resolve ambiguity in ancestral state reconstruction.</p>
+<div class="figure align-default" id="with-outgroup">
+<a class="bg-primary mb-1 reference internal image-reference" href="../_images/Bathyergidae-genus-tree-with-outgroup.png"><img alt="fishy" class="bg-primary mb-1" src="../_images/Bathyergidae-genus-tree-with-outgroup.png" style="width: 600px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 5 </span><span class="caption-text">A phylogenetic tree of Bathyergidae genera and the <em>outgroups</em> <em>Petromuridae</em> and <em>Thryonomyidae</em>.</span><a class="headerlink" href="#with-outgroup" title="Permalink to this image">¶</a></p>
+</div>
+<p><strong><em>Q: Both Petromuridae and Thryonomyidae were</em> not <em>eusocial, what would you conclude about the behavior of the LCA for Bathyergidae?</em></strong></p>
+<p><em><strong>Q: What was the most likely behavior of the LCA for all Bathyergidae species - based on counts of evolutionary change under each alternate hypothesis and a model of parsimony?</strong></em></p>
+<p><em><strong>Q: Why is it important to include outgroups in an ancestral state reconstruction?</strong></em></p>
+</div>
+<div class="section" id="conclusions">
+<h2>Conclusions<a class="headerlink" href="#conclusions" title="Permalink to this headline">¶</a></h2>
+<p><em><strong>Q: Include any questions or comments that you have about phylogeny</strong></em></p>
+<hr>
+<blockquote>
+<div><p>May 24, 2022 | 1573 words | 8 min read</p>
+</div></blockquote>
 <hr>
 <p>Data for the turtle phylogeny was collected by Lindsay Taylor as part of their <a class="reference external" href="https://taylor-lindsay.github.io/phylogenetics/">example jupyter notebooks implementation of BioPython</a></p>
 <hr class="footnotes docutils" />
@@ -591,7 +627,7 @@ Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
 <dt class="label" id="yang2014"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
 <dd><p>Yang, L., Tan, Z., Wang, D. et al. <a class="reference external" href="https://doi.org/10.1038/srep04089">Species identification through mitochondrial rRNA genetic analysis</a>. Sci Rep 4, 4089 (2014).</p>
 </dd>
-<dt class="label" id="colonial"><span class="brackets"><a class="fn-backref" href="#id3">2</a></span></dt>
+<dt class="label" id="colonial"><span class="brackets"><a class="fn-backref" href="#id2">2</a></span></dt>
 <dd><p>“Used loosely to describe any group of organisms living together or in close proximity to each other - for example nesting shorebirds that live in large colonies. More specifically refers to a group of organisms in which members act as specialized subunits (a continuous, modular society) - as in clonal organisms.” - <a class="reference external" href="https://animaldiversity.org/accounts/Chelonia_mydas/#behavior">ADW</a>”</p>
 </dd>
 </dl>
