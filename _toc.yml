@@ -9,6 +9,7 @@ parts:
     - file: syllabus
     - file: schedule
     - file: assignments
+    - file: genindex
   - caption: Describing Behavior
     chapters:
     - file: observation-and-analysis/observation
@@ -18,6 +19,10 @@ parts:
     - file: levels-of-analysis/phylogeny
     - file: levels-of-analysis/adaptation
     - file: levels-of-analysis/neural-hormonal-genetic
+      sections:
+        - file: levels-of-analysis/neural
+        - file: levels-of-analysis/genetic
+        - file: levels-of-analysis/hormonal
     - file: levels-of-analysis/development
   - caption: Understanding Behavior
     chapters:

@@ -3,9 +3,9 @@
 Daily schedule of readings from course content.
 
 |     Date    |                    Topic                   | Assignment |
-|:-----------:|:------------------------------------------:|:----------:|
+| :-----------: | :------------------------------------------: | :----------: |
 |  **Sept 6** |          Welcome and Introduction          |            |
-|    Sept 8   |                  Ethograms                 |            |
+|    Sept 8   |                  Ethograms - Tinbergen                |            |
 | **Sept 13** |                 Observation                |            |
 |             |                  Analysis                  |            |
 | **Sept 20** |                  Phylogeny                 |            |

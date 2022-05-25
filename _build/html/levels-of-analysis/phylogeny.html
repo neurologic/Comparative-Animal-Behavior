@@ -119,6 +119,11 @@ const thebe_selector_output = ".output, .cell_output"
    Assignments
   </a>
  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../genindex.html">
+   Terms, Topics, Concepts
+  </a>
+ </li>
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
@@ -153,10 +158,32 @@ const thebe_selector_output = ".output, .cell_output"
    Adaptation
   </a>
  </li>
- <li class="toctree-l1">
+ <li class="toctree-l1 has-children">
   <a class="reference internal" href="neural-hormonal-genetic.html">
    Neural, Hormonal, and Genetic
   </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="neural.html">
+     Neural Mechanisms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="genetic.html">
+     Genetic Mechanisms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="hormonal.html">
+     Hormonal Mechanisms
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="development.html">
@@ -174,8 +201,8 @@ const thebe_selector_output = ".output, .cell_output"
   <a class="reference internal" href="../understanding-behavior/competition-and-defense.html">
    Competition and Defense
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
-  <label for="toctree-checkbox-1">
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -206,8 +233,8 @@ const thebe_selector_output = ".output, .cell_output"
   <a class="reference internal" href="../understanding-behavior/scales-of-sociality.html">
    Scales of Sociality
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
-  <label for="toctree-checkbox-2">
+  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -228,8 +255,8 @@ const thebe_selector_output = ".output, .cell_output"
   <a class="reference internal" href="../understanding-behavior/to-stay-or-go.html">
    To Stay or Go
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
-  <label for="toctree-checkbox-3">
+  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <label for="toctree-checkbox-4">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -260,8 +287,8 @@ const thebe_selector_output = ".output, .cell_output"
   <a class="reference internal" href="../understanding-behavior/family-life.html">
    Family Life
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
-  <label for="toctree-checkbox-4">
+  <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
+  <label for="toctree-checkbox-5">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -287,8 +314,8 @@ const thebe_selector_output = ".output, .cell_output"
   <a class="reference internal" href="../understanding-behavior/communication.html">
    Communication
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
-  <label for="toctree-checkbox-5">
+  <input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/>
+  <label for="toctree-checkbox-6">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -488,8 +515,8 @@ const thebe_selector_output = ".output, .cell_output"
                 
   <div class="tex2jax_ignore mathjax_ignore section" id="phylogeny">
 <h1>Phylogeny<a class="headerlink" href="#phylogeny" title="Permalink to this headline">¶</a></h1>
-<p>Animal behaviorists use phylogenies to investigate the development of behavior across generations (evolutionary timescales).
-Critically, a phylogeny is a hypothesis. Phylogenies can be tested and falsified, and can change given new evidence or analytic techniques.
+<p id="index-0">Animal behaviorists use <strong>phylogenies</strong> to investigate the development of behavior across generations (evolutionary timescales).
+Critically, a <strong>phylogeny</strong> is a hypothesis. Phylogenies can be tested and falsified, and can change given new evidence or analytic techniques.
 Phylogenies can be based on any animal trait. Commonly, in studying animal behavior, you will encounter phylogenies based on genetics.</p>
 <div class="section" id="genetic-sequences">
 <h2>Genetic Sequences<a class="headerlink" href="#genetic-sequences" title="Permalink to this headline">¶</a></h2>
@@ -497,20 +524,30 @@ Phylogenies can be based on any animal trait. Commonly, in studying animal behav
 <p><em><strong>Q: What is the relationship between DNA and nucleotides?</strong></em></p>
 <p><a id='fasta-files'></a>
 Below are the contents of two sequence files downloaded from GenBank. “FASTA” is a common file format used to store sequence data. The files are very simple; they contain a <em>header</em> followed by the sequence. Click on the “FASTA” file headers to see the full sequence from the file.</p>
-<details>
-	<summary>HQ377551.1 Chelonia mydas isolate Satang_4 16S ribosomal RNA gene, partial sequence; mitochondrial</summary>
-GGCCGCGGTATCCTAACCGTGCAAAGGTAGCGTAATCACTTGTCTTTTAAATAAAGACTAGAATGAATGG
+<details class="sphinx-bs dropdown card mb-3">
+<summary class="summary-title card-header">
+HQ377551.1 Chelonia mydas isolate Satang_4 16S ribosomal RNA gene, partial sequence; mitochondrial<div class="summary-down docutils">
+<svg version="1.1" width="24" height="24" class="octicon octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
+<div class="summary-up docutils">
+<svg version="1.1" width="24" height="24" class="octicon octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
+</summary><div class="summary-content card-body docutils">
+<p class="card-text">GGCCGCGGTATCCTAACCGTGCAAAGGTAGCGTAATCACTTGTCTTTTAAATAAAGACTAGAATGAATGG
 CCAAACGAGGTTCTACCTGTCTCTTACAAACAATCAGTGAAATTGATCTCCCCGTGCAAAAGCGGGGATA
 ACACTATAAGACGAGAAGACCCTGTGGAACTTTAAATACAGATCAACTATCATACCCACTCACTCTAAGG
 ACCTATAACTAATTAGTACTTGACCTATATTTTTGGTTGGGGCGACCTCGGAGTAAAACAAAACCTCCGA
 AAAAAGAATACACTTCTTAACCTAGACCCACAATTCAAAGTGCCAACGGCAAAATGATCCAATATATTTG
 ATCAACGAACCAAGCTACCCCAGGGATAACAGCGCAATCCCATCCTAGAGTTCCTATCGACGATGGGGTT
 TACGACCTCGATGTTGGATCAGGACATCCTGATGGTGCAACCGCTATCAAGGGTTCGTTTGTTCAACGAT
-TAACAGTCCTACGTGATCTG
-</details>
-<details>
-	<summary>FJ039971.1 Eretmochelys imbricata isolate EI_Atlantic 16S ribosomal RNA gene, partial sequence; mitochondrial</summary>
-GCCTCTAGCAACAACAAGTATTAGAGGTAATGCCTGCCCAGTGACACTGTTAAACGGCCGCGGTATCCTA
+TAACAGTCCTACGTGATCTG</p>
+</div>
+</details><details class="sphinx-bs dropdown card mb-3">
+<summary class="summary-title card-header">
+FJ039971.1 Eretmochelys imbricata isolate EI_Atlantic 16S ribosomal RNA gene, partial sequence; mitochondrial<div class="summary-down docutils">
+<svg version="1.1" width="24" height="24" class="octicon octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
+<div class="summary-up docutils">
+<svg version="1.1" width="24" height="24" class="octicon octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
+</summary><div class="summary-content card-body docutils">
+<p class="card-text">GCCTCTAGCAACAACAAGTATTAGAGGTAATGCCTGCCCAGTGACACTGTTAAACGGCCGCGGTATCCTA
 ACCGTGCAAAGGTAGCGTAATCACTTGTCTTTTAAATAAAGACTAGAATGAATGGCCAAACGAGGTTCCA
 CCTGTCTCTTACAAACAATCAGTGAAATTGGTCTCCCCGTGCAAAAGCGAGGATAGCACTATAAGACGAG
 AAGACCCTGTGGAACTTTAAATATAAATCAACTATTTAACTTACCACTCTAAAGACTTATAATTTACTAG
@@ -518,16 +555,14 @@ TTCTGATCCATATTTTTGGTTGGGGTGACCTCGGAGAAAAACAAAACCTCCGAAAAAAGAACATATCTTC
 TTAACCTAGACCCACAACTCAAAGTGCCAACGGAAAAATGATCCAATATATTTGATCAACGAACCAAGCT
 ACCCCAGGGATAACAGCGCAATCCCATCTTAGAGTCCATATCGACGATGGGGTTTACGACCTCGATGTTG
 GATCAGGACATCCTGATGGTGCAACCGCTATCAAGGGTTCGTTTGTTCAACGATTAACAGTCCCACGTGA
-T
-</details>  
-<p><em><strong>Q: What information is contained in the header of the FASTA file?</strong></em></p>
+T</p>
+</div>
+</details><p><em><strong>Q: What information is contained in the header of the FASTA file?</strong></em></p>
 <p><em><strong>Q: What gene specifically was sequenced for these two species?</strong></em></p>
 <p>The introduction of Yang et al (2014)<a class="footnote-reference brackets" href="#yang2014" id="id1">1</a> gives succinct overview of mitochondrial DNA (mtDNA).</p>
-<blockquote>
+<blockquote class="epigraph">
 <div><p>With few exceptions, the cells of all eukaryotic species contain mitochondria. The mitochondrial genome comprises a double-stranded DNA molecule of approximately 16 kb in length and accounts for 1% to 2% of the total DNA in mammalian cells. The mitochondrial genome encodes the following 13 essential oxidative phosphorylation subunit proteins/polypeptides: seven subunits of Complex I (ND1-6 and ND4L), one subunit of Complex III (Cytb), three subunits of Complex IV (COI-III) and two subunits of Complex V (ATPase 6 and 8). It also encodes two rRNAs (12S rRNA and 16S rRNA) and 22 tRNAs that are required for mitochondrial protein synthesis <a class="reference external" href="https://www.nature.com/articles/srep04089#Bib1">13,14,15,16</a>. Mitochondria possess their own organelle-specific DNA replication, transcription and translation systems <a class="reference external" href="https://www.nature.com/articles/srep04089#Bib1">13,14,15,16</a>.</p>
-</div></blockquote>
-<blockquote>
-<div><p>Typical animal mtDNA has a high mutation rate and an exceptional organizational economy, with rare non-coding segments. The accelerated evolutionary rate of animal mtDNA implies that significant amounts of sequence variation could be observed in closely related species—a useful feature for species identification procedures.</p>
+<p>Typical animal mtDNA has a high mutation rate and an exceptional organizational economy, with rare non-coding segments. The accelerated evolutionary rate of animal mtDNA implies that significant amounts of sequence variation could be observed in closely related species—a useful feature for species identification procedures.</p>
 </div></blockquote>
 <p>If significant sequence variation between closely related species is useful for species identification, then it is also useful for creating a phylogeny.</p>
 <p><em><strong>Q: Based on all of the information provided so far, what do you think you need to do to create a phylogeny?</strong></em></p>
@@ -583,13 +618,15 @@ Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
 <p><em><strong>Q: If no one had yet characterized the behavior of some extant species within your phylogeny, how would that add uncertainty to your analysis and interpretation of the results?</strong></em></p>
 <p>Many published phylogenetic trees exist that you can explore without needing to analyze any genetics. For example, <a class="reference external" href="https://tree.opentreeoflife.org/opentree/opentree13.4&#64;ott66469/Cheloniidae">here is the entry on OpenTree that includes all 7 turtle species you have just examined</a>. This tree is rooted at <em>Cheloniidae</em> (the sea turtles), which is a <em>monophyletic group</em>. In this web interface, branches of the tree are sometimes collapsed for visual clarity. Clicking on each branch line in the tree reveals how many extant species derive from that branch. Clicking on each node in the tree roots the visualization at that node (often expanding/collapsing sets of branches as the view changes). Practice navigating around the tree.</p>
 <p><em><strong>Q: How many other species of turtles should have been included in Figure 2 to generate a complete phylogeny of sea turtles?</strong></em></p>
-<p>There are, broadly, several categories of social behavior.</p>
-<p><strong>Solitary</strong>
-: Individuals live and behave alone (except during mating usually)</p>
-<p><strong>Social</strong>
-: Individuals group together for some activities, but each maintain reproductive independence.</p>
-<p><strong>Eusociality</strong>
-: Some individuals among the social group give up their own reproductive opportunities to help others reproduce.</p>
+<p>There are, broadly, several categories of social behavior: solitary, social, and eusocial</p>
+<dl class="glossary simple">
+<dt id="term-solitary">solitary<a class="headerlink" href="#term-solitary" title="Permalink to this term">¶</a></dt><dd><p>Individuals live and behave alone (except during mating usually)</p>
+</dd>
+<dt id="term-social">social<a class="headerlink" href="#term-social" title="Permalink to this term">¶</a></dt><dd><p>Individuals group together for some activities, but each maintain reproductive independence.</p>
+</dd>
+<dt id="term-eusocial">eusocial<a class="headerlink" href="#term-eusocial" title="Permalink to this term">¶</a></dt><dd><p>Some individuals among the social group give up their own reproductive opportunities to help others reproduce.</p>
+</dd>
+</dl>
 <p>Check out the <a class="reference external" href="https://tree.opentreeoflife.org/opentree/opentree13.4&#64;mrcaott45520ott692678/Bathyergidae--Petromuridae">phylogeny of Bathyergidae on OpenTree</a>.</p>
 <p>Bathyergidae is comprised of 6 Genera: <em>Heterocephalus, Bathyergus, Fukomys, Cryptomys, Georychus,</em> and <em>Heliophobius</em>. There are only two species among the Bathyergidae family that are eusocial: <em>Fukomys demarensis</em> and <em>Heterocephalus glaber</em>.</p>
 <p><em><strong>Q: How many extant species are within the Bathyergidae family?</strong></em></p>
@@ -602,7 +639,7 @@ Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
 <a class="bg-primary mb-1 reference internal image-reference" href="../_images/Bathyergidae-genus-tree-eusocial-color-rootsocial.png"><img alt="fishy" class="bg-primary mb-1" src="../_images/Bathyergidae-genus-tree-eusocial-color-rootsocial.png" style="width: 600px;" /></a>
 <p class="caption"><span class="caption-number">Fig. 4 </span><span class="caption-text">A phylogenetic tree of Bathyergidae genera with character mapping of eusocial (green) and not eusocial (orange) character mapping of LCA for each genera. Ancestral state reconstruction shown for the hypothesis that the LCA of Bathyergidae was eusocial.</span><a class="headerlink" href="#rootsocial" title="Permalink to this image">¶</a></p>
 </div>
-<p><em><strong>Q: WHy is the Heterocephalus genus LCA eusocial?</strong></em></p>
+<p><em><strong>Q: Why is the Heterocephalus genus LCA eusocial?</strong></em></p>
 <p><em><strong>Q: Which hypothesis would you reject based on parsimony?</strong></em></p>
 <p><em>Outgroups</em> can help resolve ambiguity in ancestral state reconstruction.</p>
 <div class="figure align-default" id="with-outgroup">
@@ -618,7 +655,7 @@ Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
 <p><em><strong>Q: Include any questions or comments that you have about phylogeny</strong></em></p>
 <hr>
 <blockquote>
-<div><p>May 24, 2022 | 1573 words | 8 min read</p>
+<div><p>May 25, 2022 | 1600 words | 8 min read</p>
 </div></blockquote>
 <hr>
 <p>Data for the turtle phylogeny was collected by Lindsay Taylor as part of their <a class="reference external" href="https://taylor-lindsay.github.io/phylogenetics/">example jupyter notebooks implementation of BioPython</a></p>

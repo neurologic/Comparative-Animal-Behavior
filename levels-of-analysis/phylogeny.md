@@ -1,12 +1,10 @@
----
-myst:
-  enable_extensions: ["deflist"]
----
-
 # Phylogeny
 
-Animal behaviorists use phylogenies to investigate the development of behavior across generations (evolutionary timescales).
-Critically, a phylogeny is a hypothesis. Phylogenies can be tested and falsified, and can change given new evidence or analytic techniques.
+:::{index} phylogeny
+:::
+
+Animal behaviorists use **phylogenies** to investigate the development of behavior across generations (evolutionary timescales).
+Critically, a **phylogeny** is a hypothesis. Phylogenies can be tested and falsified, and can change given new evidence or analytic techniques.
 Phylogenies can be based on any animal trait. Commonly, in studying animal behavior, you will encounter phylogenies based on genetics.
 
 ## Genetic Sequences
@@ -18,8 +16,7 @@ Phylogenies can be based on any animal trait. Commonly, in studying animal behav
 <a id='fasta-files'></a>
 Below are the contents of two sequence files downloaded from GenBank. "FASTA" is a common file format used to store sequence data. The files are very simple; they contain a *header* followed by the sequence. Click on the "FASTA" file headers to see the full sequence from the file. 
 
-<details>
-	<summary>HQ377551.1 Chelonia mydas isolate Satang_4 16S ribosomal RNA gene, partial sequence; mitochondrial</summary>
+:::{dropdown} HQ377551.1 Chelonia mydas isolate Satang_4 16S ribosomal RNA gene, partial sequence; mitochondrial
 GGCCGCGGTATCCTAACCGTGCAAAGGTAGCGTAATCACTTGTCTTTTAAATAAAGACTAGAATGAATGG
 CCAAACGAGGTTCTACCTGTCTCTTACAAACAATCAGTGAAATTGATCTCCCCGTGCAAAAGCGGGGATA
 ACACTATAAGACGAGAAGACCCTGTGGAACTTTAAATACAGATCAACTATCATACCCACTCACTCTAAGG
@@ -28,10 +25,9 @@ AAAAAGAATACACTTCTTAACCTAGACCCACAATTCAAAGTGCCAACGGCAAAATGATCCAATATATTTG
 ATCAACGAACCAAGCTACCCCAGGGATAACAGCGCAATCCCATCCTAGAGTTCCTATCGACGATGGGGTT
 TACGACCTCGATGTTGGATCAGGACATCCTGATGGTGCAACCGCTATCAAGGGTTCGTTTGTTCAACGAT
 TAACAGTCCTACGTGATCTG
-</details>
+:::
 
-<details>
-	<summary>FJ039971.1 Eretmochelys imbricata isolate EI_Atlantic 16S ribosomal RNA gene, partial sequence; mitochondrial</summary>
+:::{dropdown} FJ039971.1 Eretmochelys imbricata isolate EI_Atlantic 16S ribosomal RNA gene, partial sequence; mitochondrial
 GCCTCTAGCAACAACAAGTATTAGAGGTAATGCCTGCCCAGTGACACTGTTAAACGGCCGCGGTATCCTA
 ACCGTGCAAAGGTAGCGTAATCACTTGTCTTTTAAATAAAGACTAGAATGAATGGCCAAACGAGGTTCCA
 CCTGTCTCTTACAAACAATCAGTGAAATTGGTCTCCCCGTGCAAAAGCGAGGATAGCACTATAAGACGAG
@@ -41,7 +37,7 @@ TTAACCTAGACCCACAACTCAAAGTGCCAACGGAAAAATGATCCAATATATTTGATCAACGAACCAAGCT
 ACCCCAGGGATAACAGCGCAATCCCATCTTAGAGTCCATATCGACGATGGGGTTTACGACCTCGATGTTG
 GATCAGGACATCCTGATGGTGCAACCGCTATCAAGGGTTCGTTTGTTCAACGATTAACAGTCCCACGTGA
 T
-</details>  
+:::
 
 ***Q: What information is contained in the header of the FASTA file?***
 
@@ -50,9 +46,11 @@ T
 The introduction of Yang et al (2014)[^Yang2014] gives succinct overview of mitochondrial DNA (mtDNA). 
 [^Yang2014]: Yang, L., Tan, Z., Wang, D. et al. [Species identification through mitochondrial rRNA genetic analysis](https://doi.org/10.1038/srep04089). Sci Rep 4, 4089 (2014). 
 
-> With few exceptions, the cells of all eukaryotic species contain mitochondria. The mitochondrial genome comprises a double-stranded DNA molecule of approximately 16 kb in length and accounts for 1% to 2% of the total DNA in mammalian cells. The mitochondrial genome encodes the following 13 essential oxidative phosphorylation subunit proteins/polypeptides: seven subunits of Complex I (ND1-6 and ND4L), one subunit of Complex III (Cytb), three subunits of Complex IV (COI-III) and two subunits of Complex V (ATPase 6 and 8). It also encodes two rRNAs (12S rRNA and 16S rRNA) and 22 tRNAs that are required for mitochondrial protein synthesis [13,14,15,16](https://www.nature.com/articles/srep04089#Bib1). Mitochondria possess their own organelle-specific DNA replication, transcription and translation systems [13,14,15,16](https://www.nature.com/articles/srep04089#Bib1). 
+:::{epigraph} 
+With few exceptions, the cells of all eukaryotic species contain mitochondria. The mitochondrial genome comprises a double-stranded DNA molecule of approximately 16 kb in length and accounts for 1% to 2% of the total DNA in mammalian cells. The mitochondrial genome encodes the following 13 essential oxidative phosphorylation subunit proteins/polypeptides: seven subunits of Complex I (ND1-6 and ND4L), one subunit of Complex III (Cytb), three subunits of Complex IV (COI-III) and two subunits of Complex V (ATPase 6 and 8). It also encodes two rRNAs (12S rRNA and 16S rRNA) and 22 tRNAs that are required for mitochondrial protein synthesis [13,14,15,16](https://www.nature.com/articles/srep04089#Bib1). Mitochondria possess their own organelle-specific DNA replication, transcription and translation systems [13,14,15,16](https://www.nature.com/articles/srep04089#Bib1). 
 
-> Typical animal mtDNA has a high mutation rate and an exceptional organizational economy, with rare non-coding segments. The accelerated evolutionary rate of animal mtDNA implies that significant amounts of sequence variation could be observed in closely related species—a useful feature for species identification procedures. 
+Typical animal mtDNA has a high mutation rate and an exceptional organizational economy, with rare non-coding segments. The accelerated evolutionary rate of animal mtDNA implies that significant amounts of sequence variation could be observed in closely related species—a useful feature for species identification procedures. 
+:::
 
 If significant sequence variation between closely related species is useful for species identification, then it is also useful for creating a phylogeny.
 
@@ -150,16 +148,18 @@ Many published phylogenetic trees exist that you can explore without needing to 
 
 
 
-There are, broadly, several categories of social behavior.
+There are, broadly, several categories of social behavior: solitary, social, and eusocial
 
-**Solitary**
-: Individuals live and behave alone (except during mating usually)
+:::{glossary}
+solitary
+	Individuals live and behave alone (except during mating usually)
 
-**Social**
-: Individuals group together for some activities, but each maintain reproductive independence.  
+social
+	Individuals group together for some activities, but each maintain reproductive independence.  
 
-**Eusociality**
-: Some individuals among the social group give up their own reproductive opportunities to help others reproduce. 
+eusocial
+	Some individuals among the social group give up their own reproductive opportunities to help others reproduce. 
+:::
 
 Check out the [phylogeny of Bathyergidae on OpenTree](https://tree.opentreeoflife.org/opentree/opentree13.4@mrcaott45520ott692678/Bathyergidae--Petromuridae). 
 
@@ -185,7 +185,7 @@ A phylogenetic tree of Bathyergidae genera with character mapping of eusocial (g
 A phylogenetic tree of Bathyergidae genera with character mapping of eusocial (green) and not eusocial (orange) character mapping of LCA for each genera. Ancestral state reconstruction shown for the hypothesis that the LCA of Bathyergidae was eusocial.
 :::
  
-***Q: WHy is the Heterocephalus genus LCA eusocial?***
+***Q: Why is the Heterocephalus genus LCA eusocial?***
 
 ***Q: Which hypothesis would you reject based on parsimony?***
 
