@@ -1,5 +1,11 @@
 # Phylogeny
 
+<hr>
+
+> {sub-ref}`wordcount-words` words | {sub-ref}`wordcount-minutes` min read
+
+<hr>
+
 :::{index} phylogeny
 :::
 
@@ -209,10 +215,5 @@ A phylogenetic tree of Bathyergidae genera and the *outgroups* *Petromuridae* an
 
 ***Q: Include any questions or comments that you have about phylogeny***
 
-<hr>
-
-> {sub-ref}`today` | {sub-ref}`wordcount-words` words | {sub-ref}`wordcount-minutes` min read
-
-<hr>
 
 Data for the turtle phylogeny was collected by Lindsay Taylor as part of their [example jupyter notebooks implementation of BioPython](https://taylor-lindsay.github.io/phylogenetics/)

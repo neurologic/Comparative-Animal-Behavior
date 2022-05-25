@@ -50,3 +50,7 @@ parse:
     - smartquotes
     - substitution
     - tasklist
+
+sphinx:
+  config:
+    myst_words_per_minute: 25
