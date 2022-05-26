@@ -103,3 +103,8 @@ Young et al 1999 [^Young1999] found different patterns of V1a-receptor binding i
 
 - [Proteins](https://youtu.be/wvTv8TqWC48) from PDB-101
 - [Take an interactive tour of molecular machinery on the protein databank](https://cdn.rcsb.org/pdb101/molecular-machinery/)
+
+## Follow-up Reading
+
+- Robert Plomin, Michael J. Owen and Peter McGuffin (1994) [The Genetic Basis of Complex Human Behaviors](https://www.jstor.org/stable/2883921) Science, Vol. 264, No. 5166
+
