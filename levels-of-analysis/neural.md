@@ -21,7 +21,9 @@ A simplefied schematic of a sodium (Na) atom and a sodium ion (Na+).
 
 ***Q: Based on the simplified schematic in Fig. 1, what are the two fundamental differences between an atom and an ion?***
 
-***Q: WHat does the "+" stand for in Na+?***
+***Q: What does the "+" stand for in Na+?***
+
+***Q: If there are a bunch of + on the left side of a barrier and a bunch of - on the right side of the barrier, which direction would a Na+ most likely move across that barrier?***
 
 :::{margin} Concentration Gradient
 <img src="/images/concentration-gradient.png" alt="fishy" class="bg-primary mb-1" width="400px">
@@ -35,7 +37,7 @@ Differences in atom concentration across a barrier result in a chemical force on
 
 If the barrier gets a hole in it, then the atoms will move due to the chemical force. 
 
-If the atoms are charged (ie. *ions*), then an electric gradient will accumulate as the ions move in response to the chemical force. The electric gradient generates an electric forse that builds up until the opposing chemical and electrical forces equal each other. The electrical force that balances the chemical force is called the *equilibrium potential* for that ion. 
+If the atoms are charged (ie. *ions*), then an electric gradient will accumulate as the ions move in response to the chemical force. The electric gradient generates an electric force that builds up until the opposing chemical and electrical forces equal each other. The electrical force that balances the chemical force is called the *equilibrium potential* for that ion. 
 
 :::{figure-md} electrochemical-balance
 :class: figure
