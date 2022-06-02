@@ -6,6 +6,24 @@
 
 <hr>
 
+## Cell types: neurons
+
+:::{figure-md} neuron-anatomy
+:class: figure
+
+<img src="/images/Neuron-Anatomy.png" alt="fishy" class="bg-primary mb-1" width="500px">
+
+Basic neuron anatomy. Neuron morphology is diverse, but followes a basic template of 'parts': axon, dendrite, cell body. 
+:::
+
+:::{figure-md} neuron-synapse
+:class: figure
+
+<img src="/images/Neuron-Synapse.png" alt="fishy" class="bg-primary mb-1" width="500px">
+
+Synapses between neurons transform *electrical* events into *chemical* events and back to *electrical* events. 
+:::
+
 ## Electrochemical Forces
 
 :::{index} ion, charge, voltage
@@ -158,3 +176,5 @@ C) Convergence and divergence in heterogeneous neural circuits.
 
 Neuroscience seeks to understand how neural circuits orchestrate behavior. Neurons must respond to stimuli that contain information about the world. Neurons must encode that information and compute on it. Computations lead to decisions about what actions are needed in response. Internal factors can also influence action selection. Neurons must orchestrate actions by dynamically coordinating sets of muscles. 
 
+## Additional Resources
+[Basic NeuroAnatomy](https://learn.genetics.utah.edu/content/neuroscience/neurons)
