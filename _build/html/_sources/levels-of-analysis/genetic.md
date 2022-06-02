@@ -28,12 +28,12 @@ All proteins are comprised of amino acids, molecules that share a common structu
 :::{figure-md} amino-acids
 :class: figure
 
-<img src="/images/AminoAcids.png" alt="fishy" width="500px">
+<img src="/images/AminoAcids.png" alt="fishy" width="800px">
 
-Common amino acids. Image from [ReAgent](https://www.reagent.co.uk/what-are-amino-acids/)
+Image from [ReAgent](https://www.reagent.co.uk/what-are-amino-acids/)
 :::
 
-***Q: Write out the single-letter code for the protein sequence: Methionine-Glutamic acid-Proline-Tryptophan.***
+***Q: For the following protein sequence: Methionine-Glutamic acid-Proline-Tryptophan, write out the "single letter code".***
 
 ## Central Dogma
 
@@ -53,7 +53,7 @@ MEPWPLLLLFSLCSAGLVLGSEHETRLVAKLFKDYSSVVRPVEDHRQVVEVTVGLQLIQLINVDEVNQIVTTNVRLKQGD
 
 ***Q: Genes are comprised of DNA molecules. How many DNA comprise the gene for the acetylcholine receptor alpha-1 subunit***
 
-***Q: How many unique DNA molecules are used for gene sequences? What are the single-letter codes for each?***
+***Q: How many unique DNA molecule types are used for gene sequences? What are the single-letter codes for each?***
 
 ***Q: mRNA is comprised of RNA molecules. How many RNA comprise the mRNA for the acetylcholine receptor alpha-1 subunit?***
 
@@ -63,38 +63,43 @@ MEPWPLLLLFSLCSAGLVLGSEHETRLVAKLFKDYSSVVRPVEDHRQVVEVTVGLQLIQLINVDEVNQIVTTNVRLKQGD
 
 ***Q: If genes "code for" protein structure, how many DNA molecules are used to determine each AA molecule?***
 
-***Q: ***
+***Q: What is the genetic "code" for Methionine?***
 
 
-## Genetic differences
-
-
-
+## Genetic-based differences
 
 ***Q: Do all somatic cells (cells of the body tissues) have the same genome?***
 
 ***Q: Do all somatic cells have the same protein composition?***
 
-***Q: ***
+Different species exhibit different mating/reproductive/social behavior. Monogamy and promiscuity are two different behavioral phenotypes for reproductive social behavior. 
+
+:::{glossary}
+monogamy: one reproductive partner 
+promiscuity: several reproductive partners at a time
+::: 
+
+Unlike most rodents, many voles (one family of the rodent order) are monogamous, forming bonds that last long after mating (often for life) and cohabitating more or less permanently in subterranean dens. Prarie voles are one of these robustly monogamous species. Interestingly, prairie voles have near-identical cousins called montane voles that do not form social bonds after mating. Thomas Insel, head of the National Institute of Mental Health and a pioneer in vole studies, describes the montane and prarie voles as "an extraordinary gift to science" in which nature has performed an experiment with which we can ask the question: "what was modified genetically in the brain to get this difference in behavior?"
+
+The results of one of the first genetic experiments in montane and prarie voles are shown in Fig. ____.
 
 :::{figure-md} young-1999-genes
 :class: figure
 
 <img src="/images/Young1999-AVPgene-comparison.png" alt="fishy" width="500px">
 
-"Structure of the V1a-receptor gene in voles. V1a-receptor genes from
+"Structure of the Vasopressin-receptor (V1a-R) gene in voles. V1a-R genes from
 montane vole (M. mon) and prairie vole (M. och) were isolated from genomic DNA
 libraries. Transcription begins at +1 and polyadenylation (pA) occurs at +1,623 of
 the prairie vole gene. The boxed area within these sites represents the coding
-region and the vertical bars in the coding region represent the location of the
-transmembrane domains. Two distinct loci were isolated from prairie vole DNA.
-The sequences of the genomic clones have been deposited in GenBank
+region and the vertical bars in the coding region represent the location of the receptor's
+transmembrane domains. The sequences of the genomic clones have been deposited in GenBank
 (accession number AF069304)."[^Young1999]
 :::
 
 [^Young1999]: Young, L., Nilsen, R., Waymire, K. et al. [Increased affiliative response to vasopressin in mice expressing the V1a receptor from a monogamous vole](https://doi.org/10.1038/23475). Nature 400, 766–768 (1999). 
 
-Young et al 1999 [^Young1999] found different patterns of V1a-receptor binding in the brains of the nonmonogamous montane vole, and the monogamous prairie vole. They did not find differences in the protein sequence of the V1a receptor. 
+Young et al 1999 [^Young1999] did not find differences in the protein sequence of the V1a receptor gene. Instead, they found differences in the "microsatellite repeats" in the region of the genome read before the gene itself gets read. Although the V1a-R protein iteself is nearly identical between these two species, the protein is located in different parts of the brain for each of these species.  
 
 ## *EPI*genetics.
 
