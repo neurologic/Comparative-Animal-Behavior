@@ -156,7 +156,7 @@ Muscles conctract when their membrane becomes depolarized. When muscles attach a
 A) Motor neurons synapse onto muscles. B) Motor neurons vary their rate (frequency) of spike events. C) Muscle cells depolarize in response to motor neuron spike events. D) Muscle cells decrease in length when they are depolarized.    
 ::: 
 
-***Q: Draw a neural circuit composed of a light sensor neuron, a motor neuron and a muscle. The circuit should contract the muscle when light in the environment increases. ***
+***Q: Draw a neural circuit composed of a light sensor neuron, a motor neuron and a muscle. The circuit should contract the muscle when light in the environment increases.***
 
 ***Q: Draw a neural circuit composed of a light sensor neuron, a motor neuron and a muscle. The circuit should contract the muscle when light in the environment decreases. The motor neuron must be excitatory (an increase in spike rate causes an increase in muscle potential).***
 

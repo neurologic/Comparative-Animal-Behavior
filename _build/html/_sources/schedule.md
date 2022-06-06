@@ -10,25 +10,25 @@ Daily schedule of readings from course content.
 |             |                  Analysis                  |            |
 | **Sept 20** |                  Phylogeny                 |            |
 |             |                 Adaptation                 |            |
-| **Sept 27** |        Neural, Hormonal, and Genetic       |            |
+| **Sept 27** |        Neural     						   |            |
+| 			  |        Genetic    						   |            |
+|   **Oct 4** |        Hormonal   						   |            |
 |             |                Developmental               |            |
-|  **Oct 4**  |      Competition and Defense: Conflict     |            |
+|  **Oct 11**  |      Competition and Defense: Conflict     |            |
 |             |   Competition and Defense: Territoriality  |            |
-|  **Oct 11** |       Competition and Defense: Escape      |            |
+|  **Oct 17** |       Competition and Defense: Escape      |            |
 |             | Competition and Defense:Collective Defense |            |
-|  **Oct 17** |      Scales of Sociality: Cooperation      |            |
+|  **Nov 1** |      Scales of Sociality: Cooperation      |            |
 |             |      Scales of Sociality: Eusociality      |            |
-|  **Nov 1**  |   To Stay or Go: Attraction and Aversion   |            |
-|             |          To Stay or Go: Locomotion         |            |
-|  **Nov 9**  |  To Stay or Go: Central Pattern Generators |            |
-|             |          To Stay or Go: Navigation         |            |
-|  **Nov 16** |         Family Life: Mating Systems        |            |
-|             |        Family Life: Sexual Selection       |            |
-|  **Nov 24** |         Family Life: Parental Care         |            |
-|             |       Communication: Neural Circuits       |            |
-|  **Nov 29** |  Communication: Reliability and Deception  |            |
-|             |            Communication: Mating           |            |
-|  **Dec 7**  |        Communication: Eavesdropping        |            |
+|  **Nov 9**  |   To Stay or Go: Attraction and Aversion   |            |
+|             |          To Stay or Go: Locomotion (CPGs)        |            |
+|  **Nov 16**  |   To Stay or Go: Navigation|            |
+|             |          Family Life: Mating Systems          |            |
+|  **Nov 24** |        Family Life: Sexual Selection        |            |
+|             |        Family Life: Parental Care       |            |
+|  **Nov 29** |      Communication: Reliability and Deception       |            |
+|  			 |  Communication:  Mating |            |
+|  **Dec 7**    |            Communication:     Eavesdropping       |            |
 |             |                    Final                   |            |
 
 Tuesdays (BOLDED)

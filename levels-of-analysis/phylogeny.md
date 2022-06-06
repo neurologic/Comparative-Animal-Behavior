@@ -161,7 +161,8 @@ solitary
 	Individuals live and behave alone (except during mating usually)
 
 social
-	Individuals group together for some activities, but each maintain reproductive independence.  
+	Individuals group together for some activities, but each maintain reproductive independence. 
+	
 eusocial
 	Some individuals among the social group give up their own reproductive opportunities to help others reproduce. 
 :::
