@@ -157,14 +157,16 @@ Many published phylogenetic trees exist that you can explore without needing to 
 There are, broadly, several categories of social behavior: solitary, social, and eusocial
 
 :::{glossary}
+
 solitary
 	Individuals live and behave alone (except during mating usually)
 
 social
 	Individuals group together for some activities, but each maintain reproductive independence. 
-	
+
 eusocial
 	Some individuals among the social group give up their own reproductive opportunities to help others reproduce. 
+
 :::
 
 Check out the [phylogeny of Bathyergidae on OpenTree](https://tree.opentreeoflife.org/opentree/opentree13.4@mrcaott45520ott692678/Bathyergidae--Petromuridae). 

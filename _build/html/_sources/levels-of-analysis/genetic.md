@@ -74,8 +74,10 @@ Transcription also involves *polyadenylation* (pA) at the end of an mRNA (poly =
 ***Q: What is the genetic "code" for Methionine?***
 
 :::{glossary}
+
 gene
  a unit of DNA that carries the instructions for making a specific protein or set of proteins. 
+
 :::
 
 ## Genetics differences
@@ -89,10 +91,13 @@ The *genome* comprises the entire DNA sequence (all genetic material) of an anim
 Different species exhibit different mating behavior. For example, monogamy and promiscuity are two different behavioral *phenotypes* for mating behavior. 
 
 :::{glossary}
+
 monogamy
  one reproductive partner 
+
 promiscuity
  several reproductive partners at a time
+
 ::: 
 
 Because the genome of an animal dictates its bodily material (including their nervous system), it can determine an animal's behavior. 
@@ -187,8 +192,10 @@ At the very beginning of meiosis, homologous chromosomes randomly exchange match
 ***Q: How would you design an experiment to determine if the genes underlying different behaviors were genetically linked or not?***
 
 :::{glossary}
+
 genetic linkage
  the tendency of DNA sequences that are close together on a chromosome to be inherited together during the meiosis phase of sexual reproduction.
+ 
 :::
 
 

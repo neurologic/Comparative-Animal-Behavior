@@ -1,5 +1,7 @@
 # Observation
 
+https://theconversation.com/margaret-morse-nice-thought-like-a-song-sparrow-and-changed-how-scientists-understand-animal-behavior-123734
+
 ## Lorenz 1988 
 
 ```{image} ../observation-and-analysis/Lorenz_1988/Lorenz_1988_Page_004.png
