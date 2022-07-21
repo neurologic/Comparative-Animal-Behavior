@@ -5,30 +5,30 @@ Daily schedule of readings from course content.
 |     Date    |                    Topic                   | Assignment |
 | :---------: | :----------------------------------------: | :--------: |
 |  **Sept 6** |          Welcome and Introduction          |            |
-|    Sept 8   |                  Ethograms - Tinbergen     |            |
+|    Sept 8   |                  Components     			|      Lorenz pg 82-102      |
 | **Sept 13** |                 Observation                |            |
-|             |                  Analysis                  |            |
+|             |                  Analysis                  |       Altmann 1973 *Sampling Methods*     |
 | **Sept 20** |                  Phylogeny                 |            |
-|             |                 Adaptation                 |            |
-| **Sept 27** |        Neural     						   |            |
-| 			  |        Genetic    						   |            |
-|   **Oct 4** |        Hormonal   						   |            |
-|             |                Developmental               |            |
-|  **Oct 11** |      Competition and Defense: Conflict and aggression   |            |
-|             |   Competition and Defense: Territoriality  |            |
-|  **Oct 17** |       Competition and Defense: Escape      |            |
-|             | Competition and Defense:Collective Defense |            |
-|  **Nov 1**  |      Scales of Sociality: Cooperation      |            |
-|             |      Scales of Sociality: Eusociality      |            |
-|  **Nov 9**  |   To Stay or Go: Attraction and Aversion   |            |
-|             |          To Stay or Go: Locomotion (CPGs)  |            |
-|  **Nov 16** |   To Stay or Go: Navigation|               |			|
-|             |          Family Life: Mating Systems       |            |
-|  **Nov 24** |        Family Life: Sexual Selection       |            |
-|             |        Family Life: Parental Care          |            |
-|  **Nov 29** |  Communication: Reliability and Deception  |            |
-|  			  |  	Communication:  Mating 				   |            |
-|  **Dec 7**  |     Communication:     Eavesdropping       |            |
+|             |                 Phylogeny                 	|     independent analysis       |
+| **Sept 27** |        Evolution     						 |            |
+| 			  |        Evolution    					  	|            |
+|   **Oct 4** |        Neural   						   |            |
+|             |                Neural               		|      review Lorenz pg 83-88      |
+|  **Oct 11** |      Genetics   							|            |
+|             |   Hormonal  								|            |
+|  **Oct 17** |       Development      						|            |
+|             | Endogenous Rhythms 							|            |
+|  **Nov 1**  |      Navigation      						|            |
+|             |      Escape      							|            |
+|  **Nov 9**  |Social Spectrum - Grouping and Cooperation   |            |
+|             |Social Spectrum - Eusociality and Altruism  |            |
+|  **Nov 16** |   Communication - proximate            		|			|
+|             |          Communication - ultimate       	|            |
+|  **Nov 24** |        Sexual Selection       				|            |
+|             |        Family Life: Mating          		|            |
+|  **Nov 29** |  Family Life: Parental Care  				|            |
+|  			  |  	 				   						|            |
+|  **Dec 7**  |            									|            |
 |             |                    Final                   |            |
 
 Tuesdays (BOLDED)

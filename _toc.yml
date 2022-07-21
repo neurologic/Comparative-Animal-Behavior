@@ -12,6 +12,7 @@ parts:
     - file: genindex
   - caption: Describing Behavior
     chapters:
+    - file: observation-and-analysis/components
     - file: observation-and-analysis/observation
     - file: observation-and-analysis/analysis
   - caption: Levels of Analysis
@@ -26,27 +27,13 @@ parts:
     - file: levels-of-analysis/development
   - caption: Understanding Behavior
     chapters:
-    - file: understanding-behavior/competition-and-defense
-      sections:
-        - file: understanding-behavior/conflict
-        - file: understanding-behavior/territoriality
-        - file: understanding-behavior/escape
-        - file: understanding-behavior/collective-defense
+    - file: understanding-behavior/endogenous-rhythms
+    - file: understanding-behavior/navigation
+    - file: understanding-behavior/escape
     - file: understanding-behavior/scales-of-sociality
       sections:
         - file: understanding-behavior/cooperation
         - file: understanding-behavior/eusociality
-    - file: understanding-behavior/to-stay-or-go
-      sections:
-        - file: understanding-behavior/attractive-aversive
-        - file: understanding-behavior/locomotion
-        - file: understanding-behavior/cpg
-        - file: understanding-behavior/navigation
-    - file: understanding-behavior/family-life
-      sections:
-        - file: understanding-behavior/mating-systems
-        - file: understanding-behavior/sexual-selection
-        - file: understanding-behavior/parental-care
     - file: understanding-behavior/communication
       sections:
         - file: understanding-behavior/communication-circuits
@@ -54,3 +41,8 @@ parts:
         - file: understanding-behavior/communication-mating
         - file: understanding-behavior/communication-competition
         - file: understanding-behavior/communication-eavesdropping
+    - file: understanding-behavior/family-life
+      sections:
+        - file: understanding-behavior/sexual-selection
+        - file: understanding-behavior/mating-systems
+        - file: understanding-behavior/parental-care
