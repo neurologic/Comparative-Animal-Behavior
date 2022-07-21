@@ -9,3 +9,7 @@ Lekking in wild turkeys
 
 
 Damarland mole rats and Naked Mole rats
+
+
+What is a lek? How can a male in a lek who never succeeds in mating with a female
+nevertheless “benefit” by his participation? 

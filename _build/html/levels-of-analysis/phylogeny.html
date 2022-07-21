@@ -552,7 +552,7 @@ Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
 <p>In a phylogenetic tree, the tips of branches represent <em>extant</em> (versus <em>extinct</em>) species. The tree is <em>rooted</em> with the <em>last common ancestor</em> (LCA) of all extant species on the tree. Each branch point from the root is a point of evolutionary <em>divergence</em>.</p>
 <div class="figure align-default" id="sample-tree">
 <a class="bg-primary mb-1 reference internal image-reference" href="../_images/Sample-Tree.png"><img alt="fishy" class="bg-primary mb-1" src="../_images/Sample-Tree.png" style="width: 400px;" /></a>
-<p class="caption"><span class="caption-number">Fig. 1 </span><span class="caption-text">An example phylogenetic tree.</span><a class="headerlink" href="#sample-tree" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 2 </span><span class="caption-text">An example phylogenetic tree.</span><a class="headerlink" href="#sample-tree" title="Permalink to this image">¶</a></p>
 </div>
 <p><em><strong>Q: How many extant species are there in the tree (and what are their labels)?</strong></em></p>
 <p><em><strong>Q: How many points of divergence are there?</strong></em></p>
@@ -561,7 +561,7 @@ Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
 <p>Based on the <a class="reference external" href="#alignment">MUSCLE alignment of the 7 turtle species</a>, we can use a computer algorithm to calculate relatedness and generate a drawing of the most likely phylogeny. In this example (Fig. 2), I used <a class="reference external" href="https://biopython.org/">BioPython</a> to calculate relatedness and estimate a tree.</p>
 <div class="figure align-default" id="turtle-tree">
 <a class="bg-primary mb-1 reference internal image-reference" href="../_images/turtle-tree.png"><img alt="fishy" class="bg-primary mb-1" src="../_images/turtle-tree.png" style="width: 600px;" /></a>
-<p class="caption"><span class="caption-number">Fig. 2 </span><span class="caption-text">A phylogenetic tree of 7 turtle species. Relatedness and branch lengths were calculated from the MUSCLE alignement data of the 16S ribosomal RNA partial gene sequence.</span><a class="headerlink" href="#turtle-tree" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 3 </span><span class="caption-text">A phylogenetic tree of 7 turtle species. Relatedness and branch lengths were calculated from the MUSCLE alignement data of the 16S ribosomal RNA partial gene sequence.</span><a class="headerlink" href="#turtle-tree" title="Permalink to this image">¶</a></p>
 </div>
 </div>
 <div class="section" id="from-trees-to-behavioral-evolutionary-history">
@@ -594,18 +594,18 @@ Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
 <p>If all extent species from the heliophobius genus are not eusocial, then it is more likely that the LCA of all heliophobius was not eusocial. The same logic applies to Bathyergus, Cryptomys, and Georychus. Likewise, the LCA of all Fukomys was likely not eusocial. To construct the behavior of the LCA for all Bathyergidae, We can consider a ‘reduced’ tree of all genera within this family.</p>
 <div class="figure align-default" id="rootnonsocial">
 <a class="bg-primary mb-1 reference internal image-reference" href="../_images/Bathyergidae-genus-tree-eusocial-color-rootnonsocial.png"><img alt="fishy" class="bg-primary mb-1" src="../_images/Bathyergidae-genus-tree-eusocial-color-rootnonsocial.png" style="width: 600px;" /></a>
-<p class="caption"><span class="caption-number">Fig. 3 </span><span class="caption-text">A phylogenetic tree of Bathyergidae genera with character mapping of eusocial (green) and not eusocial (orange) character mapping of LCA for each genera. Ancestral state reconstruction shown for the hypothesis that the LCA of Bathyergidae was <em>not</em> eusocial.</span><a class="headerlink" href="#rootnonsocial" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 4 </span><span class="caption-text">A phylogenetic tree of Bathyergidae genera with character mapping of eusocial (green) and not eusocial (orange) character mapping of LCA for each genera. Ancestral state reconstruction shown for the hypothesis that the LCA of Bathyergidae was <em>not</em> eusocial.</span><a class="headerlink" href="#rootnonsocial" title="Permalink to this image">¶</a></p>
 </div>
 <div class="figure align-default" id="rootsocial">
 <a class="bg-primary mb-1 reference internal image-reference" href="../_images/Bathyergidae-genus-tree-eusocial-color-rootsocial.png"><img alt="fishy" class="bg-primary mb-1" src="../_images/Bathyergidae-genus-tree-eusocial-color-rootsocial.png" style="width: 600px;" /></a>
-<p class="caption"><span class="caption-number">Fig. 4 </span><span class="caption-text">A phylogenetic tree of Bathyergidae genera with character mapping of eusocial (green) and not eusocial (orange) character mapping of LCA for each genera. Ancestral state reconstruction shown for the hypothesis that the LCA of Bathyergidae was eusocial.</span><a class="headerlink" href="#rootsocial" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 5 </span><span class="caption-text">A phylogenetic tree of Bathyergidae genera with character mapping of eusocial (green) and not eusocial (orange) character mapping of LCA for each genera. Ancestral state reconstruction shown for the hypothesis that the LCA of Bathyergidae was eusocial.</span><a class="headerlink" href="#rootsocial" title="Permalink to this image">¶</a></p>
 </div>
 <p><em><strong>Q: Why is the Heterocephalus genus LCA eusocial?</strong></em></p>
 <p><em><strong>Q: Which hypothesis would you reject based on parsimony?</strong></em></p>
 <p><em>Outgroups</em> can help resolve ambiguity in ancestral state reconstruction.</p>
 <div class="figure align-default" id="with-outgroup">
 <a class="bg-primary mb-1 reference internal image-reference" href="../_images/Bathyergidae-genus-tree-with-outgroup.png"><img alt="fishy" class="bg-primary mb-1" src="../_images/Bathyergidae-genus-tree-with-outgroup.png" style="width: 600px;" /></a>
-<p class="caption"><span class="caption-number">Fig. 5 </span><span class="caption-text">A phylogenetic tree of Bathyergidae genera and the <em>outgroups</em> <em>Petromuridae</em> and <em>Thryonomyidae</em>.</span><a class="headerlink" href="#with-outgroup" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 6 </span><span class="caption-text">A phylogenetic tree of Bathyergidae genera and the <em>outgroups</em> <em>Petromuridae</em> and <em>Thryonomyidae</em>.</span><a class="headerlink" href="#with-outgroup" title="Permalink to this image">¶</a></p>
 </div>
 <p><strong><em>Q: Both Petromuridae and Thryonomyidae were</em> not <em>eusocial, what would you conclude about the behavior of the LCA for Bathyergidae?</em></strong></p>
 <p><em><strong>Q: What was the most likely behavior of the LCA for all Bathyergidae species - based on counts of evolutionary change under each alternate hypothesis and a model of parsimony?</strong></em></p>
