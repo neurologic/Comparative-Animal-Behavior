@@ -1,4 +1,29 @@
-# Cooperation
+# Grouping and Cooperation
+
+
+## The effect of group size on vigilance
+
+Record the following:
+
+Flock size
+The number of times they are in the ‘head up’ position
+The start and stop time of each ‘head up’ position.
+I recommend using a stopwatch for this. Here is a link to the video (https://www.youtube.com/watch?v=oeJHW5n-PXY):
+
+Calculate the total number of ‘head up’ behaviors and the total duration of ‘head up’ for each flock size and enter into the following data sheet. Then share with your partner.
+
+## Dilution versus confusion
+
+mayflies... number versus death rate
+targetting prey and ability to track 
+
+## Mobbing
+
+kittyhawk gulls versus cliff nesting - phylogeny
+
+## Grouping versus Cooperation
+
+Is there a difference?
 
 ## Reading
 
