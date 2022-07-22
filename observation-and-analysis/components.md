@@ -1,11 +1,15 @@
 # Components
 
+[Day 1](day1)  
+[Day 2](day2)
+
 <hr>
 
 > {sub-ref}`wordcount-words` words | {sub-ref}`wordcount-minutes` min read
 
 <hr>
 
+(day1)=
 ## Fundamental Units of Behavior and their expression
 
 What is behavior? In order to study animal behavior as a scientific community, we need to define an animal's behavior in an objective way. The ways in which we define behavior must be at an appropriate spatial and temporal scale for our level of analysis (ultimate versus proximate, neural versus genetic, etc).
@@ -92,9 +96,8 @@ how is the stimulus strength needed to elicit related to the internal drive and 
 
 What is motivation? How do we determnine the motivation of an animal?
 
-## Complexities
-
-Day 2
+(day2)=
+## Complexities of behavior
 
 ### Ritualization
 

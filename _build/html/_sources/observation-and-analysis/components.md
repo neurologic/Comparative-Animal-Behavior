@@ -1,16 +1,20 @@
 # Components
 
+[Day 1](day1)  
+[Day 2](day2)
+
 <hr>
 
 > {sub-ref}`wordcount-words` words | {sub-ref}`wordcount-minutes` min read
 
 <hr>
 
+(day1)=
 ## Fundamental Units of Behavior and their expression
 
 What is behavior? In order to study animal behavior as a scientific community, we need to define an animal's behavior in an objective way. The ways in which we define behavior must be at an appropriate spatial and temporal scale for our level of analysis (ultimate versus proximate, neural versus genetic, etc).
 
-***Q: Think of an animal you are familiar with. Describe what you think is a 'fundamental unit' of that animal's behavior. (Fundamental unit = The smallest chunk of behavior that can be defined as behavior)***
+***Q: Think of an animal you are familiar with. Describe what you think is a 'fundamental unit' of that animal's behavior. ('fundamental unit' = the smallest chunk of behavior that can be defined as a specific behavior)***
 
 ***Q: What timescale do fundamental units of behavior generally occur over?***
 
@@ -49,10 +53,16 @@ Activity
 "A characteristic sequence of behaviors exhibited by a mouse in its home cage as it moves around the walls (thigmotaxis), approaches some food, eats, and then sleeps (center, mouse cartoons). Several key challenges facing any segmentation of continuous behavior into components are illustrated. Behaviors need to be labeled, which raises the problem of ‘‘lumping’’ versus ‘‘splitting’’ (red); for example, mice engage in thigmotaxis, behaviors in which the mouse exhibits locomotion and turning behaviors that are deterministically sequenced to generate an action where the animal circumnavigates its cage. Is thigmotaxis a singular or unitary behavior (because its elements are deterministically linked during its expression), or it is a sequence of walking, turning, and walking behaviors? Should behavior be considered at a single timescale that serially progresses or instead considered a hierarchical process organized at multiple timescales simultaneously (blue)? When the mouse is sniffing and running at the same time, is that a compositional behavior whose basis set includes ‘‘run’’ and ‘‘sniff,’’ or is ‘‘running+sniffing’’ a fundamentally new behavior (purple)?"[^Datta2019]
 :::
 
-### Fixed Action Patterns
+### Fixed Action Pattern (FAP)[^instinctive-motor-pattern][^fap]
+
+[^instinctive-motor-pattern]: In *Here am I. Where are You?* (1988), Lorenz uses the term 'instinctive motor pattern' instead.
+
+[^fap]: [wiki](https://en.wikipedia.org/wiki/Fixed_action_pattern)
 
 :::{index} fixed action patterns
 :::
+
+***Q: How does Lorenz define a FAP?***
 
 ***Q: In the case of complex FAPs involving a series of different movements, how can we decide whether we are dealing with a single FAP or a series of different ones?***
 
@@ -72,6 +82,11 @@ Design a set of stimuli to determine what the sign stimulus is.
 :::{index} action specific potential
 :::
 
+***Q: Define 'spontaneous.'***
+
+***Q: Define 'appetitive.'***
+
+
 Graph how ASP changes over time for a behavior
 How does the presence of a sign stimulus change the ASP
 what happens to ASP once it reaches threshold?
@@ -81,9 +96,8 @@ how is the stimulus strength needed to elicit related to the internal drive and 
 
 What is motivation? How do we determnine the motivation of an animal?
 
-## Complexities
-
-Day 2
+(day2)=
+## Complexities of behavior
 
 ### Ritualization
 

@@ -1,4 +1,6 @@
-# Welcome to Comparative Animal Behavior
+# Welcome 
+
+...to Comparative Animal Behavior
 
 Become proficient in skills required to study animal behavior scientifically.
 
