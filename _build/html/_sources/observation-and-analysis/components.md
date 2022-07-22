@@ -8,7 +8,15 @@
 
 ## Fundamental Units of Behavior and their expression
 
- Day 1 
+What is behavior? In order to study animal behavior as a scientific community, we need to define an animal's behavior in an objective way. The ways in which we define behavior must be at an appropriate spatial and temporal scale for our level of analysis (ultimate versus proximate, neural versus genetic, etc).
+
+***Q: Think of an animal you are familiar with. Describe what you think is a 'fundamental unit' of that animal's behavior. (Fundamental unit = The smallest chunk of behavior that can be defined as behavior)***
+
+***Q: What timescale do fundamental units of behavior generally occur over?***
+
+***Q: What is the longest timescale that you can think of for a common behavior?***
+
+***Q: Think of an animal you are familiar with and a common behavior that you have seen that animal do. What is the behavior? During that behavior, is the animal always doing the same movement? Or is the behavior comprised of a variety of movements?***
 
 ### Movemes, Actions, Activities
 

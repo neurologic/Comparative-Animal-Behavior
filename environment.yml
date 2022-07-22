@@ -1,0 +1,13 @@
+name: neurolab
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - scikit-learn
+  - pandas
+  - seaborn
+  - plotly
+  - jupyter-book
+  - jupyterlab
+  - jupytext
+prefix: /Users/kperks/opt/anaconda3/envs/neurolab

@@ -10,6 +10,7 @@ parts:
     - file: schedule
     - file: assignments
     - file: genindex
+    - file: assessment-sum/collection
   - caption: Describing Behavior
     chapters:
     - file: observation-and-analysis/components
