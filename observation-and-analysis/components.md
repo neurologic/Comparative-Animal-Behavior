@@ -16,7 +16,7 @@ What is behavior? In order to study animal behavior as a scientific community, w
 
 ***Q: Think of an animal you are familiar with. Describe what you think is a 'fundamental unit' of that animal's behavior. ('fundamental unit' = the smallest chunk of behavior that can be defined as a specific behavior)***
 
-***Q: What timescale do fundamental units of behavior generally occur over?***
+***Q: What timescale do you think that fundamental units of behavior generally occur over?***
 
 ***Q: What is the longest timescale that you can think of for a common behavior?***
 
@@ -38,10 +38,10 @@ Moveme
 	The simplest meaningful pattern associated with a behavior. Typically involves a short, ballistic trajectory described by a verb, such as a turn, a step, or a wing extension, which cannot be further decomposed. It is analogous to a “phoneme” in language.
 
 Action  
-	A combination of movemes that always occurs in the same stereotypical sequence and that is also described by a verb. Examples of actions include “walk” (step + step + step), “assess threat” (stop + stand up on hind legs + sniff), “eat” (open mouth + bite + chew + swallow), etc. In language, it would be analogous to a word or to an idiomatic expression.
+	A combination of movemes that always occurs in the same stereotypical sequence and that is also described by a verb. Examples of actions include “walk” (step + step + step), thigmotaxis (walk + turn + walk), etc. In language, it would be analogous to a word or to an idiomatic expression.
 
 Activity  
-	A species-characteristic concatenation of actions and movemes whose structure is typical, ranging from stereotyped to variable. Variability can be observed both in the structure or dynamics of the individual actions that comprise an activity, as well as in the timing and/or sequence of the actions. Examples of activities include courtship, aggression, nest-building, parenting, etc.
+	A species-characteristic concatenation of actions and movemes whose structure is typical, ranging from stereotyped to variable. Variability can be observed both in the structure or dynamics of the individual actions that comprise an activity, as well as in the timing and/or sequence of the actions. Examples of activities include nest-building, parenting, etc.
 
 :::
 
@@ -52,6 +52,9 @@ Activity
 
 "A characteristic sequence of behaviors exhibited by a mouse in its home cage as it moves around the walls (thigmotaxis), approaches some food, eats, and then sleeps (center, mouse cartoons). Several key challenges facing any segmentation of continuous behavior into components are illustrated. Behaviors need to be labeled, which raises the problem of ‘‘lumping’’ versus ‘‘splitting’’ (red); for example, mice engage in thigmotaxis, behaviors in which the mouse exhibits locomotion and turning behaviors that are deterministically sequenced to generate an action where the animal circumnavigates its cage. Is thigmotaxis a singular or unitary behavior (because its elements are deterministically linked during its expression), or it is a sequence of walking, turning, and walking behaviors? Should behavior be considered at a single timescale that serially progresses or instead considered a hierarchical process organized at multiple timescales simultaneously (blue)? When the mouse is sniffing and running at the same time, is that a compositional behavior whose basis set includes ‘‘run’’ and ‘‘sniff,’’ or is ‘‘running+sniffing’’ a fundamentally new behavior (purple)?"[^Datta2019]
 :::
+
+***Q: Pick an animal and make an example behavior hierarchy that spans the activity to moveme levels. Think about effective ways to present a hierarchy in developing your response. Include definitions of each component of its behavior that you include. (Do not use any of the examples already given in the figure text).
+***
 
 ### Fixed Action Pattern (FAP)[^instinctive-motor-pattern][^fap]
 

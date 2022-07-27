@@ -76,3 +76,21 @@ environment:
 •Written and oral communication
 
 > Note, not content knowledge
+
+For group in-class work, specific roles are:
+- timekeeper and secretary
+- group advocate/communication
+- group mediator
+
+Final Project:
+Create a media project (written, audio, video, etc) that summarizes the current scientific understanding of a specific animal behavior. These summaries include information relating to each of the four areas of animal behavior as outlined by Tinbergen (1963). Because some model organisms are more suited to specific types of research, some sites incorporate research from multiple organisms in order to discuss the ontogeny, mechanism, phylogeny and adaptive value of the specific animal behavior. Books, websites, and newspapers were used, but the majority of the information presented here is supported by primary literature.
+
+
+Bronowski wrote in his 1951 book The Commonsense of Science: "It has been one of the most destructive modern prejudices that art and science are different and somehow incompatible interests".
+
+:::{epigraph}
+It is important that students bring a certain ragamuffin, barefoot irreverence to their studies; they are not here to worship what is known but to question it
+
+-—  Jacob Bronowski, The Ascent of Man
+:::
+
