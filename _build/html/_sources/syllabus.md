@@ -78,12 +78,59 @@ environment:
 > Note, not content knowledge
 
 For group in-class work, specific roles are:
-- timekeeper and secretary
-- group advocate/communication
-- group mediator
+- recorder
+  - Records the names and roles of the group members at the beginning of each activity.
+  - Records the important aspects of group discussions, observations, insights, etc.
+    - “This seems like an important conclusion. Let’s stop for a minute so I can get this into our report.”
+    - “That was a great insight. Do you mind (name) if I quote you in our group’s report?”
+  - The recorder’s report is a log of the important concepts that the group has learned.
+- speaker/presenter/liason
+  - Communicates team questions and clarifications with the teacher or other teams.
+(This is the only team member designated to do so.)
+    - “Our team is confused about how _____ relates to _____.”
+    - “Our team reached consensus that the answer to number _____ was ______.”
+  - Ensures all team members have had a chance to respond before asking outside sources.
+    - “Does anyone in our team know the answer to _______?”
+    - “Before we ask the teacher, could someone clarify the answer to….”
+  - Ensures that everyone in the team agrees on what to ask if an outside source is needed.
+    - “Does everyone agree we need to find out . . . ?”
+  - Presents conclusions of the team to the class, as requested.
+    - “The reasoning we used to answer number ______ was . . .”
+- manager/facilitator
+  - Make sure team starts quickly and remains focused during the activity.
+    - Assign tasks for collecting and distributing materials as needed.
+    - Assign roles like calculator or significant figure checker.
+    - “I think we have everything, are we ready to begin?”
+  - Takes care of time management.
+    - Keep an eye on the clock.
+    - Keep team moving forward and communicate about discussion deadlines.
+    - “I think we need to focus on _______ so we complete this section on time.”
+    - “We have _____ minutes before we need to discuss this. Let’s get this done.”
+  - Make sure all voices in the team are heard.
+    - Address team members by name and ensure that everyone contributes.
+    - Assign different members to read sections of activity on a rotating basis.
+    - “(Name), what do you think about . . . .?”
+    - “I would like to hear what you think, (name).”
+- reflector/strategy analyst/observer
+  - Guides consensus-­‐building process; team must agree on responses to questions.
+    - “Would you all agree that _____ is a good answer for question number _____?”
+    - “Could you please rephrase what you just said?”
+    - “Is your answer completely supported by your explanation?”
+    - “Would that response make sense to someone from another team?”
+  - Observes team dynamics and behavior with respect to the learning process.
+    - Is everyone in the team participating?
+    - Are team members listening carefully to each other?
+    - Are team members being patient and respectful of each other?
+  - Reports to the team periodically during the activity on how the team performs.
+    - “Let’s stop for a minute. I have a couple comments on what we are doing well and a suggestion on how we could be more productive.”
+    - “Let’s wait for (name) to catch up before we move on.”
+  - Be ready to report to the entire class about how well the team is operating.
+
 
 Final Project:
 Create a media project (written, audio, video, etc) that summarizes the current scientific understanding of a specific animal behavior. These summaries include information relating to each of the four areas of animal behavior as outlined by Tinbergen (1963). Because some model organisms are more suited to specific types of research, some sites incorporate research from multiple organisms in order to discuss the ontogeny, mechanism, phylogeny and adaptive value of the specific animal behavior. Books, websites, and newspapers were used, but the majority of the information presented here is supported by primary literature.
+
+[Example analyses from Reed](https://www.reed.edu/biology/professors/srenn/pages/teaching/web_2010/index.html)
 
 
 Bronowski wrote in his 1951 book The Commonsense of Science: "It has been one of the most destructive modern prejudices that art and science are different and somehow incompatible interests".

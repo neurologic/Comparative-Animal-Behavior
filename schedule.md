@@ -7,8 +7,8 @@ Daily schedule of readings from course content.
 | **Sept 6** | Welcome and Introduction |  | [](../intro) <br> [](../syllabus) <br> [](../assignments)|
 | Sept 8 | Components | [Lorenz book](https://drive.google.com/file/d/12rJaGxQjkovlIAYCxjHb4Br0kEClEBrX/view?usp=sharing) pg 82-89; Lorenz 1952 pg 22-24 | [](../observation-and-analysis/components) |
 | **Sept 13** | Components | Lorenz book pg 89-102 | [](../observation-and-analysis/components) |
-| Sept 15 | Observation | [Margaret Morse](https://theconversation.com/margaret-morse-nice-thought-like-a-song-sparrow-and-changed-how-scientists-understand-animal-behavior-123734) |
-| **Sept 20** | Analysis | Altmann 1973 *Sampling Methods* |
+| Sept 15 | Observation | [Margaret Morse](https://theconversation.com/margaret-morse-nice-thought-like-a-song-sparrow-and-changed-how-scientists-understand-animal-behavior-123734) | [](../observation-and-analysis/observation) |
+| **Sept 20** | Analysis | [Altmann 1973 *Sampling Methods*](https://www.jstor.org/stable/4533591); Briefly summarize each sampling method described by Altmann | [](../observation-and-analysis/analysis) |
 | Sept 22 | Phylogeny |  |
 | **Sept 27** | Phylogeny | independent analysis |
 | Sept 29 | Evolution |  |

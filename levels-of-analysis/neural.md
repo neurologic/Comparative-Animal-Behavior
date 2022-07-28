@@ -177,4 +177,6 @@ C) Convergence and divergence in heterogeneous neural circuits.
 Neuroscience seeks to understand how neural circuits orchestrate behavior. Neurons must respond to stimuli that contain information about the world. Neurons must encode that information and compute on it. Computations lead to decisions about what actions are needed in response. Internal factors can also influence action selection. Neurons must orchestrate actions by dynamically coordinating sets of muscles. 
 
 ## Additional Resources
-[Basic NeuroAnatomy](https://learn.genetics.utah.edu/content/neuroscience/neurons)
+- [Basic NeuroAnatomy](https://learn.genetics.utah.edu/content/neuroscience/neurons)
+- [Ronacher, B. Innate releasing mechanisms and fixed action patterns: basic ethological concepts as drivers for neuroethological studies on acoustic communication in Orthoptera. J Comp Physiol A 205, 33–50 (2019).](https://doi.org/10.1007/s00359-018-01311-3)
+  > This paper provides a framework for linking fundamental course concepts discussed so far

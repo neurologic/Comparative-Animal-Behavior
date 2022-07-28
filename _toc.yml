@@ -11,6 +11,9 @@ parts:
     - file: assignments
     - file: genindex
     - file: assessment-sum/collection
+      sections:
+        - file: assessment-sum/assessment_components
+        - file: assessment-sum/assessment_observation-analysis
   - caption: Describing Behavior
     chapters:
     - file: observation-and-analysis/components

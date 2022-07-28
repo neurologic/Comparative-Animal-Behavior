@@ -208,6 +208,7 @@ genetic linkage
 - [Take an interactive tour of molecular machinery on the protein databank](https://cdn.rcsb.org/pdb101/molecular-machinery/)
 - [Gene Control](https://learn.genetics.utah.edu/content/epigenetics/control)
 - [NIH Brief Guide to Genomics](https://www.genome.gov/about-genomics/fact-sheets/A-Brief-Guide-to-Genomics)
+- [The evolutionary and genetic history of the pelvic spine](https://youtu.be/Pv4Ca-f4W9Q)
 
 ## Follow-up Reading
 
