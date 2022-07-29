@@ -22,7 +22,7 @@ parts:
   - caption: Levels of Analysis
     chapters:
     - file: levels-of-analysis/phylogeny
-    - file: levels-of-analysis/adaptation
+    - file: levels-of-analysis/evolution
     - file: levels-of-analysis/neural-hormonal-genetic
       sections:
         - file: levels-of-analysis/neural

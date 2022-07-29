@@ -25,6 +25,10 @@ kittyhawk gulls versus cliff nesting - phylogeny
 
 Is there a difference?
 
+## green beard
+
+[Simulating the green beard effect](https://youtu.be/goePYJ74Ydg)
+
 ## Reading
 
 - [Cooperation](http://pages.nbb.cornell.edu/Gamebug/cooperation.html)

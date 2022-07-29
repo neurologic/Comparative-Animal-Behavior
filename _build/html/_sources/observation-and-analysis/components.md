@@ -1,6 +1,8 @@
 # Components
 
-What do we mean when we talk about animal behavior? This workbook explores some of the foundational concepts about animal behavior and its motivation. 
+:::{admonition} Why?
+What is animal behavior? What are its parts? What is the system of behavior? This workbook explores some of the foundational components of animal behavior and its organization. 
+:::
 
 [Day 1](day1)  
 [Day 2](day2)
@@ -12,7 +14,7 @@ What do we mean when we talk about animal behavior? This workbook explores some 
 <hr>
 
 (day1)=
-## Fundamental units of behavior and their expression
+## Fundamental units of behavior and their stimulation
 
 :::{admonition} Why?
 In order to study animal behavior as a scientific community, we need to categorize and define an animal behavior in an objective way. The ways in which we define behavior for a particular study must be at an appropriate organizational level and an appropriate timescale for our level of analysis and our question (ultimate versus proximate, neural versus genetic, etc).
@@ -20,7 +22,6 @@ In order to study animal behavior as a scientific community, we need to categori
 
 --- 
 > ⏳ Take 5 minutes to complete the next section
-
 
 ### Fundamental units of ...
 
@@ -101,11 +102,17 @@ A characteristic sequence of behaviors exhibited by a mouse in its home cage as 
 :::{index} fixed action patterns
 :::
 
+:::{admonition} Why?
+You can observe and categorize an animal's behavior at any moment in time. But what is that animal *not* doing at that moment in time? Why? What causes a particular behavior to emerge from the behavioral bag of tricks that animal has inherited?
+:::
+
 Female geese sit on their eggs in the nest to incubate them. Sometimes, the eggs roll out of the nest. The goose, noticing an egg outside of the nest, performs an 'egg rolling' behavior in response. As a class, let's watch these two videos of egg rolling:
 - [egg rolling video 1](https://youtu.be/7PcteKRA3zs)
 - [egg rolling video 2](https://youtu.be/vUNZv-ByPkU)
 
-Because the goose's egg rolling behavior is *stereotyped*, you can define it. Behaviors like these are often categorized as *fixed action patterns* (FAP).
+Because the goose's egg rolling behavior is *stereotyped*, you can define it. Behaviors like these are often categorized as *fixed action patterns* (FAP)[^FAPdefinition]. 
+
+[^FAPdefinition]: Historically, behaviors are considered FAPs when they are *instinctual* (ie. genetically-determined and *pre-programmed*). In a more contemporary mindset, we can think of *behavioral patterns* that need not be purely *pre-programmed* (as you will learn in this course if you have not already... no behavior truly is).
 
 ***Q: Define the goose 'egg rolling' behavior 'objectively'.***
 
@@ -117,7 +124,9 @@ Because the goose's egg rolling behavior is *stereotyped*, you can define it. Be
 :::{index} sign stimuli
 :::
 
-One of the standard examples of FAPs given in introductory animal behavior courses, is territorial aggression in stickleback fish[^intro-stickleback]. During the breeding season, the male fish select a territory on which they build a nest. When a male stickleback spots another nearby male in his nesting territory, he will launch into a FAP involving aggressive displays designed to scare off the stranger. However, males are not aggressive to nearby females in their territory. A *bite* is contact of the male's mouth against the object. *Bite rate* can be used to quantify aggression.
+One of the standard examples of FAPs given in introductory animal behavior courses, is territorial aggression in stickleback fish[^intro-stickleback]. During the breeding season, the male fish select a territory on which they build a nest. When a male stickleback spots another nearby male in his nesting territory, he will launch into a FAP involving aggressive displays designed to scare off the stranger. However, males are not aggressive to nearby females in their territory. A *bite* is a component of aggression and can be defined as *contact of the male's mouth against an object*. *Bite rate* can then be used to quantify aggression.
+
+***Q: Mathematically define 'bite rate' (how would you calculate it?).***
 
 [^intro-stickleback]: For example, see the landing page for 'innate behavior' from [Kahn Academy](https://www.khanacademy.org/science/ap-biology/ecology-ap/responses-to-the-environment/a/innate-behaviors). However, note that the reference for this result is a textbook, not [the original article](https://psycnet.apa.org/record/1938-03659-001). The data from the [publication in German](https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0310.1937.tb01422.x) is not available. Based on replications of the original experiments, it turns out that [Tinbergen's results from the 1937 paper may be less clear](https://www.jstor.org/stable/4534445#metadata_info_tab_contents). 
 
@@ -133,21 +142,30 @@ Stickleback fish appearance. Top: female. Bottom: male.
 
 ***Q: What differences do you notice between the appearance of males and females?***
 
+***Q: If aggressive FAPs should only be elicited by the presence of other males, what sensory cues could be used to appropriately trigger the FAPs?***
+
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 15 min
+> ⏳ 10 min
 
 As a class, we will watch this [video of an experiment on stickleback aggression](https://youtu.be/ZfcGZCGdGVE). As you watch, take your own individual notes on what is happening throughout. 
 
-***Q: What was being tested by the experiment shown in the video?***
+***Q: What was similar among the stimuli? What was different between the stimuli?***
 
-***Q: Briefly describe the experimental design behind what was shown in the video.***
+***Q: What do you think was being tested by the experiment shown in the video?***
 
-***Q: What mathematical equation would you use to calculate 'bite rate'?***
+***Q: Briefly describe the experimental design behind what was shown in the video (the experimental design to test what you think was being tested).***
 
-***Q: Based on the video, make a graph of bite rate versus stimulus.***
+***Q: As a group, decide how you can calculate bite rate for each stimulus while watching the video. What data do you need to make that calculation? How would you measure that data? Make a plan that you can execute when we re-watch the video.***
+
+⏸️ PAUSE here for the second viewing of the video.
+
+---
+> ⏳ 10 min
+
+***Q: Based on the data you collected, make a graph of bite rate versus stimulus.***
 
 ***Q: Based on the data in your graph, describe the relationship between at least two features of the stimuli and aggressiveness in male stickleback fish.***
 
@@ -156,76 +174,106 @@ As a class, we will watch this [video of an experiment on stickleback aggression
 ***Q: Based on your observations of the experiment, what are some issues with the statement that 'red coloration is a sign stimulus for stickleback aggression FAPs'?***
 
 
-⏸️ PAUSE here for class-wide discussion
+⏹️ STOP here for today
+
+
+
+(day2)=
+## Action-Specific Potential (ASP; Energy)
+
+:::{index} action specific potential (energy)
+:::
 
 ---
 > ⏳ 15 min 
 
-### Action-Specific Potential (ASP; Energy)
+Examine the following representation of a theoretical model posed by Lorenz.
 
-:::{index} action specific potential
+:::{figure-md}
+:class: figure
+
+<img src="/images/action-specific-potential.png" alt="fishy" class="bg-primary mb-1" width="700px">
+
+Lorenz's model of FAP release. A sign stimulus is presented at time = 7.5au. 
 :::
 
-***Q: Define 'spontaneous.'***
+***Q: What variables are represented in Lorenz' model of behavior?***
 
-***Q: Define 'appetitive.'***
+***Q: What data is being depicted in the top 2-D plot?***
 
+***Q: What data is being depicted in the bottom 1-D plot?***
 
-Graph how ASP changes over time for a behavior
-How does the presence of a sign stimulus change the ASP
-what happens to ASP once it reaches threshold?
-how is the stimulus strength needed to elicit related to the internal drive and behavioral threshold?
+***Q: What happens to action specific potential (aka action specific energy) across time?***
 
-In studying animal behavior, we understand an animal's motivation by examining its behavior.
+***Q: How does the data in the bottom plot relate to the data in the top plot?***
 
-***Q: Based on this process, how would you define motivation?***
+***Q: How would you define the green horizontal line in the top plot using any or all of the following terms: action specific energy, time, and/or FAP expression?***
 
-⏹️ STOP here for today
+***Q: In the top plot, what is different about the line that starts at time=6au from the lines that start at 0, 3, and 7.5?***
 
-(day2)=
+***Q: In the bottom plot, what is different about the third FAP observed compared to the first, second, and fourth?***
+
+***Q: Based on the information given in the model and your work so far, what does a sign stimulus do for FAPs?***
+
+***Q: Based on the information given in the model and your work so far, what happens with FAPs in the absence of a sign stimulus?***
+
+***Q: According to the data in the figure, what is the rate at which action-specific energy increases in the absence of any sign stimulus.***
+
+We would call this the *spontaneous* increase (as opposed to stimulus-driven increase).
+
+***Q: Define 'spontaneous' in this context.***
+
+⏸️ PAUSE here for class-wide discussion
+
+---
+> ⏳ 10 min 
+
+We can think of action-specific energy as *internal drive* or *motivation* for a particular behavior (FAP). 
+
+***Q: How is the stimulus strength needed to elicit a FAP related to the current state of motivation and the threshold for that FAP (in terms of energy)?***
+
+The *strength* of a stimulus is defined in terms of how much it increases action-specific energy. 
+
+***Q: Think (and refer) back to the experiment in stickleback fish that you analyzed. Which stimulus was the strongest? Which stimulus was the weakest? What evidence do you have to support your answers?***
+
+***Q: Complete this sentence by selecting one of the options: The more motivated an animal is toward a specific FAP, the ( stronger / weaker ) the stimulus needs to be to elicit the FAP.***
+
+⏸️ PAUSE here for class-wide discussion
+
+---
+> ⏳ 10 min 
+
 ## Complexities of behavior
 
 ***Q: In the case of complex FAPs involving a series of different movements, how do you think we can decide whether we are dealing with a single FAP or a series of different ones?***
 
+:::{admonition} Why?
+At each moment in time, only one behavior can occur. Therefore, each possible behavior is competing with all other behaviors. To complicate our analysis, behaviors happen over time. And different behaviors occur over different durations/timescales.
+:::
+
+Lorenz names several complexities that make it difficult to understand the motivation of an animal based on its behavior and even to understand the behavior itself. Ritualization, superposition, and learning are examples of behavioral phenomena that become sources of error for determining the motivation of an animal. 
+
+***Q: Review, compare, and synthesize your summaries of: 'ritualization, superposition, and learning' with your group.***
+
 ### Ritualization
 
-The evolution of new behaviors for old motivations
+***Q: Create your group's summary of ritualization.***
 
 ### Superpositions
 
-Source of error for determining the motivation of an animal. 
+***Q: Create your group's summary of superposition.***
 
 ***Q: How is the issue of 'superposition' of behavior different from or similar to the issue of 'hierarchy' of behavior?***
 
 ### Learning
 
-Imprinting 
-Associative
-Operant
+For example, *imprinting*.
+
+***Q: Create your group's summary of superposition.***
+
+***Q: How could behavioral learning make it difficult to identify species-specific FAPs?***
 
 
-### Exploitation
-
-FAPs are stereotyped, which also means that they are predictable. As you know from experiments that test for sign stimuli of FAPs, if a sign stimulus is effectively mimicked, then the FAP will be released as if the natural sign stimulus was encountered. This *sign stimulus : FAP* pair can be thought of as a code. *Code breaking* describes inappropriate release of an FAP by another animal. 
-
-This parasite aggregates and elicits mating behavior from the bee. The parasite can then hitch a ride on the bee back to the hive. 
-
-***Q: What is the FAP in this scenario?***
-
-***Q: What do you think the sign stimulus could be? Name at least two potential alternatives.***
-
-***Q: What testable predictions could you come up with for those alternative hypotheses?***
-
-***Q: What experiment would enable you to distinguish between your alternative hypotheses?***
-
-⏸️ PAUSE here for class-wide discussion
-
----
-> ⏳ 
-
-***Q: What is 'inappropriate' about the release of this FAP? From which animal's perspective is it inappropriate?***
-
-***Q: What are potential evolutionary factors effecting the existence of this mating behavior (sign stimulus : FAP pair) in bees?*** 
 
 
 ⏹️ STOP here for today

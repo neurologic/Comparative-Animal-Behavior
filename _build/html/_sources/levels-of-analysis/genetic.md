@@ -198,8 +198,15 @@ genetic linkage
  
 :::
 
+## Alleles and Adaptation
 
+In evolutionary terms, fitness is defined as the population frequency of the allele underlying the trait. 
 
+***Q: An individual with allele 'A' has low body weight and is constantly sick. An individual with allele 'B' has high body weight and never gets sick. Individual A has 5 offspring. Individual B has no offspring. Which allele has a higher fitness?***
+
+***Q: Allele A of a gene leads to territorial behavior and a higher number of mates. Allele 'B' of the same gene leads to 'sneaky' behavior with fewer mates, but more offspring than allele 'A.' Which allele has a greater fitness?***
+
+---
 ## Additional Resources
 
 - [Basic Genetics](https://learn.genetics.utah.edu/content/basics/)
