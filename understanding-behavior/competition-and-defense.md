@@ -30,6 +30,6 @@ Assign a variable for each of these factors.
 
 ***Q: When a pacifist and a pacifist compete, what is the one outcome for each individual? What is the probability of that one outcome?***
 
-***Q: In terms of the variables you chose for each factor (resource and losing a fight), how would you calculate the change in fitness of a pacifist when it is challenged by another pacifist?***
+***Q: In terms of the variables you chose for each factor (resource and losing a fight), how would you calculate the average change in fitness of a pacifist when it is challenged by another pacifist?***
 
 ***Q: ***

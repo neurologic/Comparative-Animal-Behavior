@@ -537,7 +537,8 @@ const thebe_selector_output = ".output, .cell_output"
 <p class="attribution">—Dr Suess</p>
 </div></blockquote>
 <p><em><strong>Q: How many possible words are there (given the poem)?</strong></em></p>
-<p><em><strong>Q: As an analogy to behavior, what is the ‘activity budget’ for each word?</strong></em></p>
+<p><em><strong>Q: As an analogy to behavior, what is the ‘activity budget’ for each word in this poem?</strong></em></p>
+<p><em><strong>Q: What activity budget would you expect by chance for each word in this poem?</strong></em></p>
 <p><em><strong>Q: What ‘activity budget’ would you expect ‘by chance’ for each behavior in an ethogram? Calculate this ‘null hypothesis’ for an animal with an ethogram of 5 behaviors: X, Y, Z, A, and P.</strong></em></p>
 </div>
 <div class="section" id="changing-priorities-influence-motivation-case-study-on-vigilance">
@@ -551,22 +552,22 @@ const thebe_selector_output = ".output, .cell_output"
 <blockquote>
 <div><p>⏳</p>
 </div></blockquote>
-<p>To test whether vigilance functions in avoiding predation, you will quantify behavior based on a simplified ethogram including three behaviors:</p>
+<p>To test whether vigilance functions in avoiding predation, you will quantify behavior based on a <em><strong>simplified ethogram</strong></em> including three behaviors:</p>
 <ol class="simple">
-<li><p>vigilant (head raised at or above horizontal plain and eyes open)</p></li>
-<li><p>not vigilant (eyes closed or head lower than horizontal plane)</p></li>
-<li><p>out of sight (not visible by you, the researcher)</p></li>
+<li><p><strong>vigilant</strong> (head raised at or above horizontal plain and eyes open)</p></li>
+<li><p><strong>not vigilant</strong> (eyes closed or head lower than horizontal plane)</p></li>
+<li><p><strong>out of sight</strong> (not visible by you, the researcher)</p></li>
 </ol>
-<p>You will watch three different videos, each with a different <em>predator</em> treatment condition.</p>
+<p>You will watch three different videos, each with a different <em>predator</em> treatment condition. For each video, record the number of meerkats performing each behavior at 10 second intervals. Every person should record their own raw data for this experiment.</p>
+<p><em><strong>Q: What type of sampling method<a class="footnote-reference brackets" href="#altmann" id="id2">1</a> is this?</strong></em></p>
+<p>Experimental videos:</p>
 <ul class="simple">
 <li><p><a class="reference external" href="https://vimeo.com/80600822">No predator</a></p></li>
 <li><p><a class="reference external" href="https://vimeo.com/71877438">Terrestrial predator</a></p></li>
 <li><p><a class="reference external" href="https://vimeo.com/80600821">Aerial predator</a></p></li>
 </ul>
-<p>For each video, record the number of meerkats performing each behavior at 10 second intervals.</p>
-<p><em><strong>Q: What type of sampling method<a class="footnote-reference brackets" href="#altmann" id="id2">1</a> is this?</strong></em></p>
-<p><em><strong>Q: Use your results to present an argument for or against the hypothesis that “vigilance serves an anti-predator function”</strong></em></p>
-<p><em><strong>Q: Use your results to present an argument for or against the hypothesis that “vigilance is more useful against terrestrial predators”</strong></em></p>
+<p><em><strong>Q: Use your group’s aggregate results to present an argument for or against the hypothesis that “vigilance serves an anti-predator function”</strong></em></p>
+<p><em><strong>Q: Use your group’s aggregate results to present an argument for or against the hypothesis that “vigilance is more useful against terrestrial predators”</strong></em></p>
 <p><em><strong>Q: What other function(s) did you hypothesize for vigilance? How would you test another possible function that you posed?</strong></em></p>
 <p><em><strong>Q: How do you think the proximity of a predator would influence the activity budget of meerkat behavior?</strong></em></p>
 <p>⏸️ PAUSE here for class-wide discussion</p>
@@ -577,8 +578,11 @@ const thebe_selector_output = ".output, .cell_output"
 </div>
 <div class="section" id="sequences-of-behavior">
 <h2>Sequences of behavior<a class="headerlink" href="#sequences-of-behavior" title="Permalink to this headline">¶</a></h2>
-<p>What about the sequence of behaviors across time? Are behaviors independent of each other or are some behaviors more likely to follow each other? Can you think of any examples?</p>
-<p>For any sequence of non-independent events in the world, and where a limited number of outcomes can occur, <em>conditional probabilities</em> relate each outcome to one another. For example, if you smile at me, you are more likely to hug me than to hit me (the conditional probability of a hug following a smile is bigger than a hit following a smile).</p>
+<div class="admonition-why admonition">
+<p class="admonition-title">Why?</p>
+<p>if you smile at me, you are more likely to hug me than to hit me.</p>
+</div>
+<p>What about the sequence of behaviors across time? Are behaviors independent of each other or are some behaviors more likely to follow each other? Can you think of any other examples? For any sequence of non-independent events in the world, and where a limited number of outcomes can occur, <em>conditional probabilities</em> relate each outcome to one another. For example, the conditional probability of a hug following a smile is bigger than a hit following a smile.</p>
 <p>A <em>transition matrix</em> for an ethogram is a table commonly used to summarize the probability that each behavior in the ethogram follows another. Before doing this analysis on behavior, practice it on the Dr Suess poem.</p>
 <blockquote class="epigraph">
 <div><p>One fish two fish red fish blue fish.</p>
@@ -587,7 +591,7 @@ const thebe_selector_output = ".output, .cell_output"
 <p><em><strong>Q: Make a square table with all possible words in the rows and all possible words in the columns. Count how many times each word follows each other word in the Dr Suess poem and log it in the table. For each pair of sequential words, the rows represent the preceding word and the columns the succeeding word.</strong></em></p>
 <p><em><strong>Q: Calculate transition probabilities for each word to each other word as <span class="math notranslate nohighlight">\(p = t/n\)</span>, where <span class="math notranslate nohighlight">\(t\)</span> is the total number of each transition and <span class="math notranslate nohighlight">\(n\)</span> is the total number of transitions out of the preceeding word (usually the total number of times the word occurred).</strong></em></p>
 <p>You now have a model that describes how Dr. Suess’ poem is sequenced.</p>
-<p>The model that you just created can be visualized graphically for a different perspective on the concept.</p>
+<p>The model that you just created can be visualized in other ways for a different perspectives on the concept.</p>
 <div class="figure align-default" id="markdown-fig">
 <a class="bg-primary mb-1 reference internal image-reference" href="../_images/One-Fish-Two-Fish_Markov.gif"><img alt="fishy" class="bg-primary mb-1" src="../_images/One-Fish-Two-Fish_Markov.gif" style="width: 600px;" /></a>
 <p class="caption"><span class="caption-number">Fig. 5 </span><span class="caption-text">Markov model of Dr Seuss’ fish poem.</span><a class="headerlink" href="#markdown-fig" title="Permalink to this image">¶</a></p>

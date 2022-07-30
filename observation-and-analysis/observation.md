@@ -26,7 +26,13 @@ After you watch the video, compare your notes and develop an ethogram with your 
 :::{index} activity budget
 :::
 
-"Time is nature's way of keeping everything from happening at once" - Ray Cummings[^timequote]
+::::{admonition} Why?
+:::{epigraph}
+Time is nature's way of keeping everything from happening at once
+
+-- Ray Cummings[^timequote]
+:::
+::::
 
 [^timequote]: [Quote Investigator](https://quoteinvestigator.com/2019/07/06/time/)
 

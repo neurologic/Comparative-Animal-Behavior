@@ -41,7 +41,9 @@ One fish two fish red fish blue fish.
 
 ***Q: How many possible words are there (given the poem)?***
 
-***Q: As an analogy to behavior, what is the 'activity budget' for each word?***
+***Q: As an analogy to behavior, what is the 'activity budget' for each word in this poem?***
+
+***Q: What activity budget would you expect by chance for each word in this poem?***
 
 ***Q: What 'activity budget' would you expect 'by chance' for each behavior in an ethogram? Calculate this 'null hypothesis' for an animal with an ethogram of 5 behaviors: X, Y, Z, A, and P.***  
 
@@ -61,23 +63,23 @@ Watch [this clip](https://vimeo.com/80600820) of meerkats engaging in vigilance 
 ---
 > ⏳ 
 
-To test whether vigilance functions in avoiding predation, you will quantify behavior based on a simplified ethogram including three behaviors:
-1. vigilant (head raised at or above horizontal plain and eyes open)
-2. not vigilant (eyes closed or head lower than horizontal plane) 
-3. out of sight (not visible by you, the researcher)
+To test whether vigilance functions in avoiding predation, you will quantify behavior based on a ***simplified ethogram*** including three behaviors:
+1. **vigilant** (head raised at or above horizontal plain and eyes open)
+2. **not vigilant** (eyes closed or head lower than horizontal plane) 
+3. **out of sight** (not visible by you, the researcher)
 
-You will watch three different videos, each with a different *predator* treatment condition.
+You will watch three different videos, each with a different *predator* treatment condition. For each video, record the number of meerkats performing each behavior at 10 second intervals. Every person should record their own raw data for this experiment. 
+
+***Q: What type of sampling method[^Altmann] is this?***
+
+Experimental videos:
 - [No predator](https://vimeo.com/80600822)
 - [Terrestrial predator](https://vimeo.com/71877438)
 - [Aerial predator](https://vimeo.com/80600821)
 
-For each video, record the number of meerkats performing each behavior at 10 second intervals. 
+***Q: Use your group's aggregate results to present an argument for or against the hypothesis that "vigilance serves an anti-predator function"***
 
-***Q: What type of sampling method[^Altmann] is this?***
-
-***Q: Use your results to present an argument for or against the hypothesis that "vigilance serves an anti-predator function"***
-
-***Q: Use your results to present an argument for or against the hypothesis that "vigilance is more useful against terrestrial predators"***
+***Q: Use your group's aggregate results to present an argument for or against the hypothesis that "vigilance is more useful against terrestrial predators"***
 
 ***Q: What other function(s) did you hypothesize for vigilance? How would you test another possible function that you posed?***
 
@@ -90,9 +92,11 @@ For each video, record the number of meerkats performing each behavior at 10 sec
 
 ## Sequences of behavior
 
-What about the sequence of behaviors across time? Are behaviors independent of each other or are some behaviors more likely to follow each other? Can you think of any examples?
+:::{admonition} Why?
+if you smile at me, you are more likely to hug me than to hit me.
+:::
 
-For any sequence of non-independent events in the world, and where a limited number of outcomes can occur, *conditional probabilities* relate each outcome to one another. For example, if you smile at me, you are more likely to hug me than to hit me (the conditional probability of a hug following a smile is bigger than a hit following a smile). 
+What about the sequence of behaviors across time? Are behaviors independent of each other or are some behaviors more likely to follow each other? Can you think of any other examples? For any sequence of non-independent events in the world, and where a limited number of outcomes can occur, *conditional probabilities* relate each outcome to one another. For example, the conditional probability of a hug following a smile is bigger than a hit following a smile. 
 
 A *transition matrix* for an ethogram is a table commonly used to summarize the probability that each behavior in the ethogram follows another. Before doing this analysis on behavior, practice it on the Dr Suess poem.
 
@@ -108,7 +112,7 @@ One fish two fish red fish blue fish.
 
 You now have a model that describes how Dr. Suess' poem is sequenced. 
 
-The model that you just created can be visualized graphically for a different perspective on the concept.  
+The model that you just created can be visualized in other ways for a different perspectives on the concept.  
 
 :::{figure-md} markdown-fig
 <img src="../images/One-Fish-Two-Fish_Markov.gif" alt="fishy" class="bg-primary mb-1" width="600px">
