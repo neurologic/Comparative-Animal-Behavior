@@ -106,15 +106,15 @@ A characteristic sequence of behaviors exhibited by a mouse in its home cage as 
 You can observe and categorize an animal's behavior at any moment in time. But what is that animal *not* doing at that moment in time? Why? What causes a particular behavior to emerge from the behavioral bag of tricks that animal has inherited?
 :::
 
-Female geese sit on their eggs in the nest to incubate them. Sometimes, the eggs roll out of the nest. The goose, noticing an egg outside of the nest, performs an 'egg rolling' behavior in response. As a class, let's watch these two videos of egg rolling:
+A standard example of FAPs given in introductory animal behavior courses, is egg rolling. Female gulls sit on their eggs in the nest to incubate them. Sometimes, the eggs roll out of the nest. The gull, noticing an egg outside of the nest, performs an 'egg rolling' behavior in response. As a class, let's watch these two videos of egg rolling:
 - [egg rolling video 1](https://youtu.be/7PcteKRA3zs)
 - [egg rolling video 2](https://youtu.be/vUNZv-ByPkU)
 
-Because the goose's egg rolling behavior is *stereotyped*, you can define it. Behaviors like these are often categorized as *fixed action patterns* (FAP)[^FAPdefinition]. 
+Because the gull's egg rolling behavior is *stereotyped*, you can define it. Behaviors like these are often categorized as *fixed action patterns* (FAP)[^FAPdefinition]. 
 
 [^FAPdefinition]: Historically, behaviors are considered FAPs when they are *instinctual* (ie. genetically-determined and *pre-programmed*). In a more contemporary mindset, we can think of *behavioral patterns* that need not be purely *pre-programmed* (as you will learn in this course if you have not already... no behavior truly is).
 
-***Q: Define the goose 'egg rolling' behavior 'objectively'.***
+***Q: Based on the video, define the gull 'egg rolling' behavior 'objectively'.***
 
 ***Q: What do you think the function of egg rolling behavior is?***
 
@@ -124,13 +124,7 @@ Because the goose's egg rolling behavior is *stereotyped*, you can define it. Be
 :::{index} sign stimuli
 :::
 
-One of the standard examples of FAPs given in introductory animal behavior courses, is territorial aggression in stickleback fish[^intro-stickleback]. During the breeding season, the male fish select a territory on which they build a nest. When a male stickleback spots another nearby male in his nesting territory, he will launch into a FAP involving aggressive displays designed to scare off the stranger. However, males are not aggressive to nearby females in their territory. A *bite* is a component of aggression and can be defined as *contact of the male's mouth against an object*. *Bite rate* can then be used to quantify aggression.
-
-***Q: Mathematically define 'bite rate' (how would you calculate it?).***
-
-[^intro-stickleback]: For example, see the landing page for 'innate behavior' from [Kahn Academy](https://www.khanacademy.org/science/ap-biology/ecology-ap/responses-to-the-environment/a/innate-behaviors). However, note that the reference for this result is a textbook, not [the original article](https://psycnet.apa.org/record/1938-03659-001). The data from the [publication in German](https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0310.1937.tb01422.x) is not available. Based on replications of the original experiments, it turns out that [Tinbergen's results from the 1937 paper may be less clear](https://www.jstor.org/stable/4534445#metadata_info_tab_contents). 
-
-***Q: Would a male stickleback fish's bite rate be higher in the presence of another male or another female?***
+Another standard examples of FAPs given in introductory animal behavior courses, is territorial aggression in stickleback fish[^intro-stickleback]. During the breeding season, the male fish select a territory on which they build a nest. When a male stickleback spots another nearby male in his nesting territory, he will launch into a FAP involving aggressive displays designed to scare off the stranger. However, males are not aggressive to nearby females in their territory. 
 
 :::{figure-md} stickleback-male-female
 :class: figure
@@ -143,6 +137,15 @@ Stickleback fish appearance. Top: female. Bottom: male.
 ***Q: What differences do you notice between the appearance of males and females?***
 
 ***Q: If aggressive FAPs should only be elicited by the presence of other males, what sensory cues could be used to appropriately trigger the FAPs?***
+
+
+A *bite* is a component of aggression and can be defined as *contact of the male's mouth against an object*. *Bite rate* can then be used to quantify aggression.
+
+***Q: Mathematically define 'bite rate' (how would you calculate it?).***
+
+[^intro-stickleback]: For example, see the landing page for 'innate behavior' from [Kahn Academy](https://www.khanacademy.org/science/ap-biology/ecology-ap/responses-to-the-environment/a/innate-behaviors). However, note that the reference for this result is a textbook, not [the original article](https://psycnet.apa.org/record/1938-03659-001). The data from the [publication in German](https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0310.1937.tb01422.x) is not available. Based on replications of the original experiments, it turns out that [Tinbergen's results from the 1937 paper may be less clear](https://www.jstor.org/stable/4534445#metadata_info_tab_contents). 
+
+***Q: Would a male stickleback fish's bite rate be higher in the presence of another male or another female?***
 
 
 ⏸️ PAUSE here for class-wide discussion

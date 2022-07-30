@@ -92,6 +92,7 @@ This parasite aggregates mimics an effective sign stimulus to elicit mating beha
 
 :::{admonition} Why?
 Ultimately, to *understand* a behavioral phenotype from an evolutionary perspective means to be able to predict when we would observe that phenotype in extant species. This involves both correctly identifying the adaptive role that the behavior plays and the selective pressures that exert evolutionary force on the behavior.
+Mathematical models are abstractions that strive to have predictive power (with varying degrees of precision). Models represent a scientist's best informed guess as to the identity and function of important variables and the ways these variables interact with each other.
 :::
 
 When necessary resources are limited (such as food), then animals are effectively in competition, which enables selective pressures to exert effects on relative fitness among phenotypes. 
@@ -136,7 +137,7 @@ It is more generalizable to talk in terms of *factors* rather than costs or bene
 ---
 > ⏳ 5
 
-If there are two phenotypes in a population (in this case vigilant or not vigilant), then the phenotype that confers greater total fitness to the animal will be favored by natural selection. 
+If there are two phenotypes in a population (in this case vigilant or not vigilant), then the phenotype that confers greater total fitness to the animal will be favored by natural selection. The solution to an optimality model, therefore is to find the point where net fitness ($F$) is maximized.
 
 Consider the model $ F = t + e $[](my-math-ref) again.
 
@@ -186,7 +187,8 @@ How does this model refine your predictions? Environments exert selective pressu
 (day2_evolution)=
 ### Game theory
 
-The main difference between optimality theory and game theory is that game theory takes into account *selective pressure from conspecifics*. 
+There are many cases where the fitness associated with a particular behavior depends on what others are doing --that is, fitness is *frequency-dependent*. Thus, what is best will depend on what everyone else in the population is doing (and therefore on the likelihood of certain types of interactions with certain types of fitness consequences).
+Therefore, the main difference between optimality theory and game theory is that game theory takes into account *selective pressure from conspecifics*. 
 
 ---
 > ⏳ 10
@@ -265,6 +267,8 @@ A tabular representation of the game theory model for *pacifist* versus *fighter
 ---
 ## Additional Resources
 
+- [Modeling Behavior: Game and Optimality Theory](https://college.holycross.edu/faculty/kprestwi/behavior/ESS/ESS_introModels.html) from Holy Cross College
+- [Game Theory and Evolutionarily Stable Strategies](https://college.holycross.edu/faculty/kprestwi/behavior/ESS/games_intro.html) from Holy Cross College
 - hoy lab tutorial on Hawk Dove not working?
 - [PHET Natural Selection Lab](https://phet.colorado.edu/en/simulations/natural-selection)
 - [Kahn Academy](https://www.khanacademy.org/science/biology/her)
