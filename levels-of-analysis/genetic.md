@@ -198,6 +198,8 @@ genetic linkage
  
 :::
 
+## Supergenes and polymorphisms
+
 ## Alleles and Adaptation
 
 In evolutionary terms, fitness is defined as the population frequency of the allele underlying the trait. 

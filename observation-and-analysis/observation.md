@@ -7,13 +7,13 @@ How do we share what we observe and use those observations to define behavior?
 
 ## Ethogram Construction
 
-Your first task will be to watch [this short video](https://vimeo.com/80600819). While you watch the video, document all of the different behaviors that you observe. 
+For today, you have already watched [this short video](https://vimeo.com/80600819) and documented all of the distinct behaviors that you observe. 
 
-After you watch the video, compare your notes and develop an ethogram with your partner including both *behavioral actions* and *definitions for each behavior/action*.
+Now, compare your notes among your group and develop an ethogram including both *behavioral actions* and *definitions for each behavior/action*.
 
-***Q: Please write out your ethogram (behavioral categories and definitions) here. Include ‘other’ and ‘out of view’ as two of your behaviors.***
+***Q: Please write out your group's final ethogram (behavior names and definitions). Include ‘other’ and ‘out of view’ as two of your behaviors.***
 
-***Q: Were the behaviors that you and your partner originally listed different?***
+***Q: Were the behaviors that you and your group originally listed different? In what ways? How different?***
 
 ⏸️ PAUSE here for class-wide discussion
 

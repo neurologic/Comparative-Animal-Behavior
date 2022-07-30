@@ -9,15 +9,27 @@
 :::{index} phylogeny
 :::
 
+:::{admonition} Why?
 Animal behaviorists use **phylogenies** to investigate the development of behavior across generations (evolutionary timescales).
 Critically, a **phylogeny** is a hypothesis. Phylogenies can be tested and falsified, and can change given new evidence or analytic techniques.
 Phylogenies can be based on any animal trait. Commonly, in studying animal behavior, you will encounter phylogenies based on genetics.
+:::
 
 ## Genetic Sequences
 
-[GenBank](https://www.ncbi.nlm.nih.gov/pubmed/23193287) is the NIH genetic sequence database, an annotated collection of all publicly available DNA sequences. The [nucleotide search](https://www.ncbi.nlm.nih.gov/nucleotide/) lets you search for species names and genes. If you want to use this resource directly, you can refer to the [FAQ](https://www.ncbi.nlm.nih.gov/books/NBK44863/) to get you started. In this document, I will provide you with some example sequences from the GenBank.
+[GenBank](https://www.ncbi.nlm.nih.gov/pubmed/23193287) is the NIH genetic sequence database, an annotated collection of all publicly available DNA sequences. The [nucleotide search](https://www.ncbi.nlm.nih.gov/nucleotide/) lets you search for species names and genes. If you want to use this resource directly, you can refer to the [FAQ](https://www.ncbi.nlm.nih.gov/books/NBK44863/) to get you started. In this document, I provide you with example sequences from the GenBank.
+
+---
+> ⏳ 5 min 
+
+***Q: What is the relationship between DNA and genes?***
 
 ***Q: What is the relationship between DNA and nucleotides?*** 
+
+⏸️ PAUSE here for class-wide discussion
+
+---
+> ⏳ 10 min 
 
 <a id='fasta-files'></a>
 Below are the contents of two sequence files downloaded from GenBank. "FASTA" is a common file format used to store sequence data. The files are very simple; they contain a *header* followed by the sequence. Click on the "FASTA" file headers to see the full sequence from the file. 
@@ -60,9 +72,12 @@ Typical animal mtDNA has a high mutation rate and an exceptional organizational 
 
 If significant sequence variation between closely related species is useful for species identification, then it is also useful for creating a phylogeny.
 
-***Q: Based on all of the information provided so far, what do you think you need to do to create a phylogeny?*** 
-
 ***Q: Given the sequences shown from [the two FASTA files](#fasta-files), why would it be difficult to determine genetic differences between species?*** 
+
+⏸️ PAUSE here for class-wide discussion
+
+---
+> ⏳ 10 min 
 
 
 ## Sequence Alignment
@@ -108,7 +123,19 @@ An example phylogenetic tree.
 ***Q: If you used this tree as a phylogeny for the three turtle species for which you calculated relatedness (Hawksbill, Loggerhead, and Green), wshich letter (A, B, or C) would correspond to each turtle species?***
 
 
+⏸️ PAUSE here for class-wide discussion
+
+---
+> ⏳ 5 min 
+
+***Q: Based on all of the information provided so far, how would you define 'phylogeny'?*** 
+
 ***Q: Why is a phylogeny a hypothesis? What information could you gather that might change the tree that you constructed?***
+
+⏸️ PAUSE here for class-wide discussion
+
+---
+> ⏳ 10 min 
 
 Based on the [MUSCLE alignment of the 7 turtle species](#alignment), we can use a computer algorithm to calculate relatedness and generate a drawing of the most likely phylogeny. In this example (Fig. 2), I used [BioPython](https://biopython.org/) to calculate relatedness and estimate a tree. 
 
@@ -152,7 +179,7 @@ Many published phylogenetic trees exist that you can explore without needing to 
 
 ***Q: How many other species of turtles should have been included in Figure 2 to generate a complete phylogeny of sea turtles?***
 
-
+## Case Study: Social behavior in Bathyergidae
 
 There are, broadly, several categories of social behavior: solitary, social, and eusocial
 

@@ -39,12 +39,6 @@ parts:
         - file: understanding-behavior/cooperation
         - file: understanding-behavior/eusociality
     - file: understanding-behavior/communication
-      sections:
-        - file: understanding-behavior/communication-circuits
-        - file: understanding-behavior/communication-overlapping-interests
-        - file: understanding-behavior/communication-mating
-        - file: understanding-behavior/communication-competition
-        - file: understanding-behavior/communication-eavesdropping
     - file: understanding-behavior/family-life
       sections:
         - file: understanding-behavior/sexual-selection

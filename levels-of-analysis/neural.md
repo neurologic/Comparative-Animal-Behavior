@@ -108,6 +108,9 @@ A) Red: depolarized. Blue: hyperpolarized.
 B) Red: depolarizing. Blue: hyperpolarizing.  
 :::
 
+***Q: How would you define 'depolarized'?***
+
+***Q: How would you define 'hyperpolarizing'?***
 
 ## Synapses
 
