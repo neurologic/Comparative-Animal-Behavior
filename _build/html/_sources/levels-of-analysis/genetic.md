@@ -127,36 +127,6 @@ transmembrane domains. The sequences of the genomic clones have been deposited i
 
 Young et al 1999 [^Young1999] did not find differences in the protein sequence of the V1a receptor gene. Instead, they found differences in the "microsatellite repeats" in the region of the genome read before the gene itself gets read. Although the V1a-R protein iteself is nearly identical between these two species, the protein ends up located in different parts of the brain. Microsatellite repeats do not effect the structure of a protein, but rather regulate where and when it is expressed (transcription and translation).  
 
-## *EPI*genetics.
-
-In order to be transcribed and translated, DNA must be accessible to various proteins. DNA accessibility is tightly controlled by molecular tags on the DNA itself and on histone proteins around which it winds. Critically, these tags are flexibly bound to DNA and histone - tags bind or unbind in response to signals from the environment. 
-
-:::{figure-md} epigenetics-simple
-:class: figure
-
-<img src="/images/EpigeneticModifications-simple-cartoon.jpg" alt="fishy" width="500px">
-
-Epigenetic mechanisms involved in regulation of gene expression. Cytosine residues within DNA can be methylated, and lysine and arginine residues of histone proteins can be modified. Me = methylation, Ac = acetylation, P = phosphorylation, Ub = ubiquitination. Image from [Promega](https://www.promega.com/resources/guides/nucleic-acid-analysis/introduction-to-epigenetics/).
-:::
-
-:::{figure-md} epigenetics-full
-:class: figure
-
-<img src="/images/EpigeneticModifications_Rodenhiser-Mann.jpg" alt="fishy" width="500px">
-
-"(A) Schematic of epigenetic modifications. Strands of DNA are wrapped around histone octamers, forming nucleosomes. These nucleosomes are organized into chromatin, the building block of a chromosome. Reversible and site-specific histone modifications occur at multiple sites through acetylation, methylation and phosphorylation. DNA methylation occurs at 5-position of cytosine residues in a reaction catalyzed by DNA methyltransferases (DNMTs). Together, these modifications provide a unique epigenetic signature that regulates chromatin organization and gene expression. (B) Schematic of the reversible changes in chromatin organization that influence gene expression: genes are expressed (switched on) when the chromatin is open (active), and they are inactivated (switched off) when the chromatin is condensed (silent). These dynamic chromatin states are controlled by reversible epigenetic patterns of DNA methylation and histone modifications. White circles = unmethylated cytosines; red circles = methylated cytosines."[^Rodenhiser-Mann]
-:::
-
-[^Rodenhiser-Mann]: David Rodenhiser and Mellissa Mann (2006) [Epigenetics and human disease: translating basic biology into clinical applications](https://doi.org/10.1503/cmaj.050774). CMAJ, 174 (3) 341-348.
-
-
-***Q: Do genetic differences require differences in gene sequences?***
-
-***Q: Define epigenetics.***
-
-***Q: What do epigenetic modifications do?***
-
-***Q: Name three main/categorical ways that genes can affect behavior***
 
 ## Heritability and Variability
 

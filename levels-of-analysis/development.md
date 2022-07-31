@@ -3,7 +3,7 @@
 
 Developmental environments influence behavior (current and future). 
 
-Why does an animal behave the way it does? Maybe because of conditions it encountered during development. 
+Why does an animal behave the way it does? Maybe because of conditions it encountered during development, or even adulthood. 
 
 ## Imprinting and Learning
 
@@ -31,16 +31,14 @@ Epigenetic mechanisms involved in regulation of gene expression. Cytosine residu
 [^Rodenhiser-Mann]: David Rodenhiser and Mellissa Mann (2006) [Epigenetics and human disease: translating basic biology into clinical applications](https://doi.org/10.1503/cmaj.050774). CMAJ, 174 (3) 341-348.
 
 
-***Q: Do genetic differences require differences in gene sequences?***
+***Q: Do behavioral differences require differences in gene sequences? What evidence do you have to support this conclusion?***
 
 ***Q: Define epigenetics.***
 
 ***Q: What do epigenetic modifications do?***
 
 
-## In utero environment
-
-### Spatial Learning
+## Spatial Learning
 
 Neural circuits for specific behaviors are constructed throughout development according to the genome. Hormones modulate gene expression during development. This enables behavioral flexibility at the level of the species. 
 
@@ -64,9 +62,28 @@ In a test of spatial learning called a 'water maze', the 'latency to reach platf
 ***Q: Extrinsic androgens in-utero have a bigger effect on the development of spatial memory in which sex?***
 
 
-### Aggression
+## Aggression
+
+:::{figure-md} aggression-dimorphism-fruit-fly
+:class: figure
+
+<img src="/images/aggression-dimorphism-fruit-fly.jpg" alt="fishy" class="bg-primary mb-1" width="400px" style="background-color:white">
+
+Motor programs used in fruit fly aggression. The Venn diagram shows the different motor programs used in male and female aggression. Some of the motor programs are sexually dimorphic. The motor programs encircled in blue are specific for male aggression. The motor programs encircled in red are specific to female aggression. The intersection enlists the motor programs common to both male and female aggression (A). The most consistent motor program in male aggression is a lunge (B). In a lunge, a male fly stands on its hind legs and snaps down on its opponent. The most consistent motor program in female aggression is a head butt. In a head butt, the female fly extends her torso and strikes the opponent with her head (C).  
+[The Neuromodulatory Basis of Aggression: Lessons From the Humble Fruit Fly](https://doi.org/10.3389/fnbeh.2022.836666) Fig 1
+:::
+
+
 
 Variation among individuals in aggressiveness is linked in many species to variation in the serotonergic system and to variation in early exposure to androgens [70,71]. In earlier work [72], we found that both male and female spotted hyaena cubs born to mothers excreting high concentrations of faecal androgens during pregnancy exhibit higher rates of aggression than do cubs born to mothers with lower androgen concentrations (figure 1a). This relationship between maternal faecal androgen concentration and cub aggression was not directly affected by maternal rank, maternal aggressiveness or any other variable explored. Such hormone-mediated maternal effects had never previously been reported in mammals. Our results suggested an organizational mechanism for the development of female aggressiveness in spotted hyaenas, traits presumably mediated by effects of early hormone exposure on structure and function of the developing nervous system. Organizational effects of androgens are known to include modification of morphological features of the developing brain via influencing processes of synaptogenesis and cell death [74–76]. A developmental perspective suggests that prenatal hormone exposure constrains the flexibility of aggressive behaviour in individual spotted hyaenas throughout their lives by influencing, to some extent, their baseline aggressiveness
+
+:::{figure-md} developmental-androgen-aggression
+:class: figure
+
+<img src="/images/developmental-androgen-aggression.png" alt="fishy" class="bg-primary mb-1" width="400px" style="background-color:white">
+
+[Developmental constraints on behavioural flexibility](https://doi.org/10.1098/rstb.2012.0350) Fig 1b
+:::
 
 
 ## Polyphenisms
@@ -84,7 +101,7 @@ Tiger salamander morphs.
 :::{figure-md} tiger-salamander-cannibalism-environment
 :class: figure
 
-<img src="/images/tiger-salamander-cannibalism_1999_Fig1.jpg" alt="fishy" class="bg-primary mb-1" width="400px" style="background-color:white">
+<img src="/images/tiger-salamander-cannibalism_1999_Fig1.png" alt="fishy" class="bg-primary mb-1" width="400px" style="background-color:white">
 
 Tiger salamander morphs.
 :::

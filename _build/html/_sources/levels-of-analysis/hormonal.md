@@ -6,7 +6,21 @@
 
 <hr>
 
-Without genes and neurons, hormones would do nothing. In other words, they *modulate* existing genetic and neural systems. 
+:::{admonition} Why?
+Animals have a blueprint of behavioral actions that are each controlled by specific genetically-coded neural circuits. However, animals don't (can't) do all of their actions at once... at any moment in time, the intensity of each behavior must be modulated to match the demands of the animal's external environment (resource quality, social cues, etc) as well as internal environment (metabolic demands, internal *state*, etc). 
+:::
+
+Without genes and neurons, hormones would do nothing. In other words, they *modulate* existing genetic and neural systems. Modulation can happen reversibly over relatively short timescales or irreversibly (usually "during development").
+
+:::{glossary}
+behavioral flexibility
+  an animal’s ability to adapt its behavioral responses to changing environmental contingencies or internal state
+
+neuromodulators
+  signaling molecules that may alter neural circuit outputs by modulating the biochemical and electrophysiological properties, metabolic demands, and transcriptional profile of target neurons
+:::
+
+For example, b
 
 ## General Mechanism
 
@@ -60,19 +74,35 @@ exogenous
 :::
 
 
-## Hormones modulate behavioral activation
+## Case Study: Social Dominance Behavior
 
-Animals have a blueprint of behavioral actions that are each controlled by specific genetically-coded neural circuits. However, animals don't (can't) do all of their actions at once... at any moment in time, the intensity of each behavior must be modulated to match the demands of the animal's external environment (resource quality, social cues, etc) as well as internal environment (metabolic demands, internal *state*, etc). Behavioral flexibility arises from modulation of neural circuits. Neural circuit modulation can happen reversibly over relatively short timescales or irreversibly (during development).
+:::{figure-md} cortisol-testosterone-interaction-dominance
+:class: figure
 
-:::{glossary}
-behavioral flexibility
-  an animal’s ability to adapt its behavioral responses to changing environmental contingencies or internal state
+<img src="/images/cortisol-testosterone-interaction-dominance.jpg" alt="fishy" class="bg-primary mb-1" width="500px" style="background-color:white">
 
-neuromodulators
-  signaling molecules that may alter neural circuit outputs by modulating the biochemical and electrophysiological properties, metabolic demands, and transcriptional profile of target neurons
+[Testosterone and cortisol jointly regulate dominance: Evidence for a dual-hormone hypothesis](https://doi.org/10.1016/j.yhbeh.2010.08.020) Fig 3
 :::
 
-For example, behavior in virgin animals often differs dramatically from behavior in mated animals. In fruit flies, male gonads manufacture a peptide termed '*sex peptide*' that gets transferred to females during insemination. Sex peptide provides a long-lasting signal that effects multiple mating behavior neural circuits in a female fly. For example, virgin females do not lay eggs and do not crave salt (NaCl) or yeast. However, after mating, females lay lots of eggs and crave/eat lots of salt and yeast (salt and yeast are necessary nutrients for egg production). 
+:::{figure-md} cortisol-testosterone-interaction-competition
+:class: figure
+
+<img src="/images/cortisol-testosterone-interaction-competition.jpg" alt="fishy" class="bg-primary mb-1" width="500px" style="background-color:white">
+
+[Testosterone and cortisol jointly regulate dominance: Evidence for a dual-hormone hypothesis](https://doi.org/10.1016/j.yhbeh.2010.08.020) Fig 2
+:::
+
+:::{figure-md} cortisol-testosterone-interaction-social-defeat
+:class: figure
+
+<img src="/images/cortisol-testosterone-interaction-social-defeat.jpg" alt="fishy" class="bg-primary mb-1" width="500px" style="background-color:white">
+
+[Testosterone and cortisol jointly regulate dominance: Evidence for a dual-hormone hypothesis](https://doi.org/10.1016/j.yhbeh.2010.08.020) Fig 3
+:::
+
+## Case Study: Sexual Behavior
+
+Behavior in virgin animals often differs dramatically from behavior in mated animals. In fruit flies, male gonads manufacture a peptide termed '*sex peptide*' that gets transferred to females during insemination. Sex peptide provides a long-lasting signal that effects multiple mating behavior neural circuits in a female fly. For example, virgin females do not lay eggs and do not crave salt (NaCl) or yeast. However, after mating, females lay lots of eggs and crave/eat lots of salt and yeast (salt and yeast are necessary nutrients for egg production). 
 
 :::{figure-md} sex-peptide
 :class: figure
@@ -103,28 +133,7 @@ Drosophila virgin females cannot form long-term memory. Upon fecundation, the se
 
 [^sex-peptide-memory-ref]: L. Scheunemann et al. [A sperm peptide enhances long-term memory in female Drosophila](https://doi.org/10.1126/sciadv.aax3432), Science Advances (2019).
 
-## Hormones modulate behavioral development
 
-Neural circuits for specific behaviors are constructed throughout development according to the genome. Hormones modulate gene expression during development. This enables behavioral flexibility at the level of the species. 
-
-***Q: What aspect of the genetic mechanism of behavior would hormones need to effect in order to change behavioral phenotypes?***
-
-In vertebrates, steroid hormones are often involved in the development of sexually dimorphic behaivor. Voles exhibit sexual dimorphism in their spatial memory. Males have larger homerange sizes than females - they disperse further from their home (especially during breeding season). Males also have better spatial memory than females. It seems that androgens modulate the development of neural circuits underlying spatial memory.  One way to investigate the effects of sex steroids on spatial memory is to examine the effect of in utero position or litter sex-ratio. Males produce androgen hormones during development. Therefore, offspring in a male-biased litter will be exposed to higher levels of androgens *in-utero*.
-
-:::{figure-md} hormone-effects-spatial-learning
-:class: figure
-
-<img src="/images/hormone-effects-spatial-learning.png" alt="fishy" class="bg-primary mb-1" width="400px" style="background-color:white">
-
-In a test of spatial learning called a 'water maze', the 'latency to reach platform' decreases as learning occurs across *blocks* of training. Animals with better spatial memory do better on this spatial learning task. Symbols represent the mean across animals and error bars are 'standard of the mean.' [^hormone-spatial-learning-ref]
-:::
-
-[^hormone-spatial-learning-ref]: L A Galea 1, M Kavaliers, K P Ossenkopp (1996) [Sexually dimorphic spatial learning in meadow voles *Microtus pennsylvanicus* and deer mice *Peromyscus maniculatus*](https://doi.org/10.1242/jeb.199.1.195). J Exp Biol
-, 199(Pt 1):195-200.
-
-***Q: According to Figure _____, how do androgens effect the development of spatial memory circuits in the brain?***
-
-***Q: Extrinsic androgens in-utero have a bigger effect on the development of spatial memory in which sex?***
 
 
 ## Additional Resources
