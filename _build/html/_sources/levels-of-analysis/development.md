@@ -1,11 +1,14 @@
 # Development
 
+::::{admonition} Why?
+:::{epigraph}
+Given the evidence, familiar to everyone, that numerous environmental inputs are consistently supplied (essential) during normal development, the skepticism of biologists regarding the reliability of environmental factors relative to that of genes has to rank among the oddest blind spots of biological thought. Contrary to common belief, environmentally initiated novelties may have greater evolutionary potential than mutationally induced ones. 
 
-Developmental environments influence behavior (current and future). 
+-- [Mary Jane West-Eberhard (2005)](https://doi.org/10.1073/pnas.0501844102)
+:::
+::::
 
-Why does an animal behave the way it does? Maybe because of conditions it encountered during development, or even adulthood. 
-
-## Imprinting and Learning
+What about 'species typical' behavior that is variable? Why does an animal behave the way it does? Maybe because of conditions it encountered during development, or even adulthood. Environments influence behavioral development. The environment can modulate development, generating sources of phenotypic variation. And events that happen during development can effect an animal's fitness as an adult. Early life conditions can have positive, negative, or no effects on behavioral development and fitness, either current or future, depending on the species and environment in which it lives.  
 
 
 ## *EPI*genetics.
@@ -38,13 +41,13 @@ Epigenetic mechanisms involved in regulation of gene expression. Cytosine residu
 ***Q: What do epigenetic modifications do?***
 
 
-## Spatial Learning
+## Spatial Memory Circuits
 
-Neural circuits for specific behaviors are constructed throughout development according to the genome. Hormones modulate gene expression during development. This enables behavioral flexibility at the level of the species. 
+Neural circuits for specific behaviors are constructed throughout development according to the genome. Hormones modulate gene expression during development.  
 
 ***Q: What aspect of the genetic mechanism of behavior would hormones need to effect in order to change behavioral phenotypes?***
 
-In vertebrates, steroid hormones are often involved in the development of sexually dimorphic behaivor. Voles exhibit sexual dimorphism in their spatial memory. Males have larger homerange sizes than females - they disperse further from their home (especially during breeding season). Males also have better spatial memory than females. It seems that androgens modulate the development of neural circuits underlying spatial memory.  One way to investigate the effects of sex steroids on spatial memory is to examine the effect of in utero position or litter sex-ratio. Males produce androgen hormones during development. Therefore, offspring in a male-biased litter will be exposed to higher levels of androgens *in-utero*.
+In vertebrates, steroid hormones are often involved in the development of sexually dimorphic behavior. Voles exhibit sexual dimorphism in their spatial memory. Greater spatial memory leads to larger homerange sizes (greater dispersal from their home). Males have better spatial memory than females and have larger homerange sizes than females (especially during breeding season). It seems that androgens modulate the development of neural circuits underlying spatial memory. One way to investigate the effects of sex steroids on spatial memory is to examine the effect of in utero position or litter sex-ratio. Males produce androgen hormones during development. Therefore, offspring in a male-biased litter will be exposed to higher levels of androgens *in-utero*.
 
 :::{figure-md} hormone-effects-spatial-learning
 :class: figure
@@ -62,7 +65,7 @@ In a test of spatial learning called a 'water maze', the 'latency to reach platf
 ***Q: Extrinsic androgens in-utero have a bigger effect on the development of spatial memory in which sex?***
 
 
-## Aggression
+## Case Study: Aggression
 
 :::{figure-md} aggression-dimorphism-fruit-fly
 :class: figure
@@ -88,8 +91,6 @@ Variation among individuals in aggressiveness is linked in many species to varia
 
 ## Polyphenisms
 
-The environment can modulate development, generating sources of phenotypic variation. And events that happen during development can effect an animal's fitness as an adult. Early life conditions can have positive, negative, or no effects on behavioral development and fitness, either current or future, depending on the species and environment in which it lives. 
-
 :::{figure-md} tiger-salamander-morphs
 :class: figure
 
@@ -105,6 +106,12 @@ Tiger salamander morphs.
 
 Tiger salamander morphs.
 :::
+
+
+## Neural plasticity
+
+Imprinting and learning
+
 
 
 [Evolutionary Potential of Environmentally Induced Change](https://www.pnas.org/doi/10.1073/pnas.0501844102#sec-7)

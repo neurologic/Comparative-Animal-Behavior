@@ -100,6 +100,15 @@ exogenous
 [Testosterone and cortisol jointly regulate dominance: Evidence for a dual-hormone hypothesis](https://doi.org/10.1016/j.yhbeh.2010.08.020) Fig 3
 :::
 
+:::{figure-md} cortisol-testosterone-interaction-social-defeat
+:class: figure
+
+<img src="/images/testosterone-cortisol-fmri.png" alt="fishy" class="bg-primary mb-1" width="500px" style="background-color:white">
+
+[Exogenous testosterone enhances responsiveness to social threat in the neural circuitry of social aggression in humans](https://doi.org/10.1016/j.biopsych.2007.05.013)
+:::
+
+
 ## Case Study: Sexual Behavior
 
 Behavior in virgin animals often differs dramatically from behavior in mated animals. In fruit flies, male gonads manufacture a peptide termed '*sex peptide*' that gets transferred to females during insemination. Sex peptide provides a long-lasting signal that effects multiple mating behavior neural circuits in a female fly. For example, virgin females do not lay eggs and do not crave salt (NaCl) or yeast. However, after mating, females lay lots of eggs and crave/eat lots of salt and yeast (salt and yeast are necessary nutrients for egg production). 
