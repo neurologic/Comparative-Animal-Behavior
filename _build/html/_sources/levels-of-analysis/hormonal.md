@@ -76,31 +76,20 @@ exogenous
 
 ## Case Study: Social Dominance Behavior
 
-:::{figure-md} cortisol-testosterone-interaction-dominance
+
+:::{figure-md} testosterone-cortisol-competition-01
 :class: figure
 
-<img src="/images/cortisol-testosterone-interaction-dominance.jpg" alt="fishy" class="bg-primary mb-1" width="500px" style="background-color:white">
+<img src="/images/testosterone-cortisol-competition-01.png" alt="fishy" class="bg-primary mb-1" width="700px" style="background-color:white">
 
-[Testosterone and cortisol jointly regulate dominance: Evidence for a dual-hormone hypothesis](https://doi.org/10.1016/j.yhbeh.2010.08.020) Fig 3
+This graph shows the interaction between cortisol and testosterone in mediating social status maintenance behaviors.[^Mehta2010]
 :::
 
-:::{figure-md} cortisol-testosterone-interaction-competition
-:class: figure
+[^Mehta2010]: [Pranjal H.Mehtaa and Robert A.Josephs (2010) Testosterone and cortisol jointly regulate dominance: Evidence for a dual-hormone hypothesis. Hormones and Behavior 58(5)](https://doi.org/10.1016/j.yhbeh.2010.08.020)
 
-<img src="/images/cortisol-testosterone-interaction-competition.jpg" alt="fishy" class="bg-primary mb-1" width="500px" style="background-color:white">
 
-[Testosterone and cortisol jointly regulate dominance: Evidence for a dual-hormone hypothesis](https://doi.org/10.1016/j.yhbeh.2010.08.020) Fig 2
-:::
 
-:::{figure-md} cortisol-testosterone-interaction-social-defeat
-:class: figure
-
-<img src="/images/cortisol-testosterone-interaction-social-defeat.jpg" alt="fishy" class="bg-primary mb-1" width="500px" style="background-color:white">
-
-[Testosterone and cortisol jointly regulate dominance: Evidence for a dual-hormone hypothesis](https://doi.org/10.1016/j.yhbeh.2010.08.020) Fig 3
-:::
-
-:::{figure-md} cortisol-testosterone-interaction-social-defeat
+:::{figure-md} testosterone-cortisol-fmri
 :class: figure
 
 <img src="/images/testosterone-cortisol-fmri.png" alt="fishy" class="bg-primary mb-1" width="500px" style="background-color:white">

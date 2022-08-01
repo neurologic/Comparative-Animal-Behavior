@@ -130,7 +130,14 @@ Young et al 1999 [^Young1999] did not find differences in the protein sequence o
 
 ## Heritability and Variability
 
-***Q: Do you think methylation patterns are heritable (passed on across generations)? Why (not)?***
+### Cross-fostering experiment
+
+Example: burrowing behavior from Hoekstra
+
+### Polygenic versus monogenic (spectrum)
+
+Example: data distributions from bendesky 2017
+
 
 An animal's behavior is comprised of many phenotypes. For example, one person might: participate in a lot of sports, spend a lot of their time socializing with other people, and read a lot; while another person might: not do any sports, spend most of their time alone, and write a lot. Let's consider that these two people mated. If all of their offspring were either "just like one parent" or "just like the other parent", then it might infer that the genes underlying all three of these behaviors are *linked*. 
 
