@@ -26,26 +26,28 @@ Phylogenies can be based on any animal trait. Commonly, in studying animal behav
 
 ***Q: What is the relationship between DNA and nucleotides?*** 
 
+***Q: What is the relationship between DNA and RNA?*** 
+
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 10 min 
+> ⏳ 5 min 
 
 <a id='fasta-files'></a>
-Below are the contents of two sequence files downloaded from GenBank. "FASTA" is a common file format used to store sequence data. The files are very simple; they contain a *header* followed by the sequence. Click on the "FASTA" file headers to see the full sequence from the file. 
+Below are two *FASTA* files downloaded from GenBank. "FASTA" is a common file format used to store sequence data. The files are very simple; they contain a *header* followed by the sequence. Click on the file headers to see its contents. 
 
-:::{dropdown} HQ377551.1 Chelonia mydas isolate Satang_4 16S ribosomal RNA gene, partial sequence; mitochondrial
-GGCCGCGGTATCCTAACCGTGCAAAGGTAGCGTAATCACTTGTCTTTTAAATAAAGACTAGAATGAATGG
-CCAAACGAGGTTCTACCTGTCTCTTACAAACAATCAGTGAAATTGATCTCCCCGTGCAAAAGCGGGGATA
-ACACTATAAGACGAGAAGACCCTGTGGAACTTTAAATACAGATCAACTATCATACCCACTCACTCTAAGG
-ACCTATAACTAATTAGTACTTGACCTATATTTTTGGTTGGGGCGACCTCGGAGTAAAACAAAACCTCCGA
-AAAAAGAATACACTTCTTAACCTAGACCCACAATTCAAAGTGCCAACGGCAAAATGATCCAATATATTTG
-ATCAACGAACCAAGCTACCCCAGGGATAACAGCGCAATCCCATCCTAGAGTTCCTATCGACGATGGGGTT
-TACGACCTCGATGTTGGATCAGGACATCCTGATGGTGCAACCGCTATCAAGGGTTCGTTTGTTCAACGAT
+:::{dropdown} HQ377551.1 *Chelonia mydas* isolate Satang_4 16S ribosomal RNA gene, partial sequence; mitochondrial; length 510
+GGCCGCGGTATCCTAACCGTGCAAAGGTAGCGTAATCACTTGTCTTTTAAATAAAGACTAGAATGAATGG  
+CCAAACGAGGTTCTACCTGTCTCTTACAAACAATCAGTGAAATTGATCTCCCCGTGCAAAAGCGGGGATA 
+ACACTATAAGACGAGAAGACCCTGTGGAACTTTAAATACAGATCAACTATCATACCCACTCACTCTAAGG  
+ACCTATAACTAATTAGTACTTGACCTATATTTTTGGTTGGGGCGACCTCGGAGTAAAACAAAACCTCCGA  
+AAAAAGAATACACTTCTTAACCTAGACCCACAATTCAAAGTGCCAACGGCAAAATGATCCAATATATTTG  
+ATCAACGAACCAAGCTACCCCAGGGATAACAGCGCAATCCCATCCTAGAGTTCCTATCGACGATGGGGTT  
+TACGACCTCGATGTTGGATCAGGACATCCTGATGGTGCAACCGCTATCAAGGGTTCGTTTGTTCAACGAT  
 TAACAGTCCTACGTGATCTG
 :::
 
-:::{dropdown} FJ039971.1 Eretmochelys imbricata isolate EI_Atlantic 16S ribosomal RNA gene, partial sequence; mitochondrial
+:::{dropdown} FJ039971.1 *Eretmochelys imbricata* isolate EI_Atlantic 16S ribosomal RNA gene, partial sequence; mitochondrial; length 560
 GCCTCTAGCAACAACAAGTATTAGAGGTAATGCCTGCCCAGTGACACTGTTAAACGGCCGCGGTATCCTA
 ACCGTGCAAAGGTAGCGTAATCACTTGTCTTTTAAATAAAGACTAGAATGAATGGCCAAACGAGGTTCCA
 CCTGTCTCTTACAAACAATCAGTGAAATTGGTCTCCCCGTGCAAAAGCGAGGATAGCACTATAAGACGAG
@@ -57,22 +59,23 @@ GATCAGGACATCCTGATGGTGCAACCGCTATCAAGGGTTCGTTTGTTCAACGATTAACAGTCCCACGTGA
 T
 :::
 
-***Q: What information is contained in the header of the FASTA file?***
+***Q: How much information contained in the header of the FASTA file can you decipher?***
 
 ***Q: What gene specifically was sequenced for these two species?***  
 
-The introduction of Yang et al (2014)[^Yang2014] gives succinct overview of mitochondrial DNA (mtDNA). 
-[^Yang2014]: Yang, L., Tan, Z., Wang, D. et al. [Species identification through mitochondrial rRNA genetic analysis](https://doi.org/10.1038/srep04089). Sci Rep 4, 4089 (2014). 
 
 :::{epigraph} 
-With few exceptions, the cells of all eukaryotic species contain mitochondria. The mitochondrial genome comprises a double-stranded DNA molecule of approximately 16 kb in length and accounts for 1% to 2% of the total DNA in mammalian cells. The mitochondrial genome encodes the following 13 essential oxidative phosphorylation subunit proteins/polypeptides: seven subunits of Complex I (ND1-6 and ND4L), one subunit of Complex III (Cytb), three subunits of Complex IV (COI-III) and two subunits of Complex V (ATPase 6 and 8). It also encodes two rRNAs (12S rRNA and 16S rRNA) and 22 tRNAs that are required for mitochondrial protein synthesis [13,14,15,16](https://www.nature.com/articles/srep04089#Bib1). Mitochondria possess their own organelle-specific DNA replication, transcription and translation systems [13,14,15,16](https://www.nature.com/articles/srep04089#Bib1). 
+With few exceptions, the cells of all eukaryotic species contain mitochondria. The mitochondrial genome comprises a double-stranded DNA molecule that accounts for 1% to 2% of the total DNA in mammalian cells. The mitochondrial genome encodes 13 essential oxidative phosphorylation subunit proteins/polypeptides. It also encodes two rRNAs (12S rRNA and 16S rRNA) and 22 tRNAs that are required for mitochondrial protein synthesis [13,14,15,16](https://www.nature.com/articles/srep04089#Bib1). Mitochondria possess their own organelle-specific DNA replication, transcription and translation systems [13,14,15,16](https://www.nature.com/articles/srep04089#Bib1). 
 
 Typical animal mtDNA has a high mutation rate and an exceptional organizational economy, with rare non-coding segments. The accelerated evolutionary rate of animal mtDNA implies that significant amounts of sequence variation could be observed in closely related species—a useful feature for species identification procedures. 
+
+-- Yang et al (2014)[^Yang2014]
 :::
 
-If significant sequence variation between closely related species is useful for species identification, then it is also useful for creating a phylogeny.
+[^Yang2014]: Yang, L., Tan, Z., Wang, D. et al. [Species identification through mitochondrial rRNA genetic analysis](https://doi.org/10.1038/srep04089). Sci Rep 4, 4089 (2014). 
 
-***Q: Given the sequences shown from [the two FASTA files](#fasta-files), why would it be difficult to determine genetic differences between species?*** 
+***Q: Given the sequences shown from [the two FASTA files](#fasta-files), why would it be difficult to determine differences in the genetic sequence between species?*** 
+
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -99,7 +102,7 @@ Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
 
 ***Q: What do the stars represent?*** 
 
-***Q: Compute a metric of "relatedness" between Hawksbill and Loggerhead turtles***
+***Q: Compute a metric of "relatedness" between Hawksbill and Loggerhead turtles based on sequence (dis)similarity.***
 
 ***Q: Use the same method ot compute the "relatedness" between Hawksbill and Green turtles***
 
@@ -120,7 +123,7 @@ An example phylogenetic tree.
 
 ***Q: How many points of divergence are there?***
 
-***Q: If you used this tree as a phylogeny for the three turtle species for which you calculated relatedness (Hawksbill, Loggerhead, and Green), wshich letter (A, B, or C) would correspond to each turtle species?***
+***Q: If you used this tree as a phylogeny for the three turtle species for which you calculated relatedness (Hawksbill, Loggerhead, and Green), which letter (A, B, or C) would correspond to each turtle species?***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -130,6 +133,8 @@ An example phylogenetic tree.
 
 ***Q: Based on all of the information provided so far, how would you define 'phylogeny'?*** 
 
+***Q: Why is mitochondrial DNA particularly useful for assembling a phylogeny?***
+
 ***Q: Why is a phylogeny a hypothesis? What information could you gather that might change the tree that you constructed?***
 
 ⏸️ PAUSE here for class-wide discussion
@@ -137,15 +142,14 @@ An example phylogenetic tree.
 ---
 > ⏳ 10 min 
 
-Based on the [MUSCLE alignment of the 7 turtle species](#alignment), we can use a computer algorithm to calculate relatedness and generate a drawing of the most likely phylogeny. In this example (Fig. 2), I used [BioPython](https://biopython.org/) to calculate relatedness and estimate a tree. 
+Based on the [MUSCLE alignment of the 7 turtle species](#alignment), we can use a computer algorithm to calculate relatedness and generate a drawing of the most likely phylogeny. 
 
-
-:::{figure-md} turtle-tree
+:::{figure-md} turtles_cladogram_black
 :class: figure
 
-<img src="/data/turtles/turtle-tree.png" alt="fishy" class="bg-primary mb-1" width="600px">
+<img src="/data/turtles/turtles_cladogram_black.png" alt="fishy" class="bg-primary mb-1" width="600px">
 
-A phylogenetic tree of 7 turtle species. Relatedness and branch lengths were calculated from the MUSCLE alignement data of the 16S ribosomal RNA partial gene sequence.
+A phylogenetic tree of 7 turtle species. Relatedness and branch lengths were calculated from the MUSCLE alignement data of the 16S ribosomal RNA partial gene sequence using [BioPython](https://biopython.org/).
 :::
 
 
@@ -155,21 +159,71 @@ If you search the [Animal Diversity Web](https://animaldiversity.org/) (for exam
 
 [^colonial]: "Used loosely to describe any group of organisms living together or in close proximity to each other - for example nesting shorebirds that live in large colonies. More specifically refers to a group of organisms in which members act as specialized subunits (a continuous, modular society) - as in clonal organisms." - [ADW](https://animaldiversity.org/accounts/Chelonia_mydas/#behavior)"
 
-From a phylogenetic perspective, why is the green turtle colonial? If the LCA at the root of divergence for the green turtle was colonial, then it is an evolutionarily inherited behavior. If the LCA at the root of divergence for the green turtle was solitary, then it is an evolutionarily derived behavior. To understand whether a behavior is evolutionarilty derived or inherited at each node of a phylogenetic tree, we must determine the ancestral trait at each node. 
+:::{figure-md} turtles_cladogram_character-map
+:class: figure
 
-One basic way to do this is to use the principle of parsimony after counting evolutionary changes under each alternate LCA hypothesis.
+<img src="/data/turtles/turtles_cladogram_character-map.png" alt="fishy" class="bg-primary mb-1" width="600px">
+
+A character mapping of social behavior on the phylogeny of 7 turtle species. Green = colonial. Orange = solitary.
+:::
+
+***Q: Based on the information given, define 'character mapping'.***
+
+From a phylogenetic perspective, we can understand why the green turtle colonial. There are two alternative explanations: that colonialism is a phylogenetically *inherited* behavior or that colonialism is a phylogenetically *derived* behavior. 
+
+Examine the following two *ancestral state reconstruction* hypotheses and their graphical representation. 
+
+**Hypothesis \#1**: The LCA of this turtle phylogeny was colonial. A consequence of this hypothesis would be that colonialism is an evolutionarily inherited behavior in green turtles. 
+
+:::{figure-md} turtles_cladogram_LCA1
+:class: figure
+
+<img src="/data/turtles/turtles_cladogram_LCA1.png" alt="fishy" class="bg-primary mb-1" width="600px">
+
+A phylogenetic tree of 7 turtle species. Relatedness and branch lengths were calculated from the MUSCLE alignement data of the 16S ribosomal RNA partial gene sequence using BioPython.
+:::
+
+***Hypothesis \#2***: The LCA of this turtle phylogeny was solitary. A consequence of this hypothesis would be that colonialism is an evolutionarily derived behavior in green turtles. 
+
+:::{figure-md} turtles_cladogram_LCA0
+:class: figure
+
+<img src="/data/turtles/turtles_cladogram_LCA0.png" alt="fishy" class="bg-primary mb-1" width="600px">
+
+A phylogenetic tree of 7 turtle species. Relatedness and branch lengths were calculated from the MUSCLE alignement data of the 16S ribosomal RNA partial gene sequence using BioPython.
+:::
+
+***Q: Under which ancestral state reconstruction hypothesis (1 or 2) would colonialism be an inherited trait in green turtles?***
+
+***Q: What is the difference between an 'ancestral state reconstruction' and a 'character mapping'?***
+
+⏸️ PAUSE here for class-wide discussion
+
+---
+> ⏳ 10 min 
+
+We can provide evidence for/against each of these alternative hypotheses about the LCA behavioral trait by using an *argument of parsimony*. 
 
 ***Q: Which requires more events/steps? Evolutionary change or evolutionary stasis?***
 
-***Q: If the LCA of the turtles in Figure 2 was solitary, what is the least number of evolutionary changes that would need to occur to result in the correct behavioral traits of all 7 extant species?***
+***Q: If the LCA of the turtles in Figure ______ was solitary (hypothesis \#2), what is the least number of evolutionary changes that would need to occur to result in the correct behavioral traits of all 7 extant species?***
 
-***Q: If the LCA of the turtles in Figure 2 was colonial, what is the least number of evolutionary changes that would need to occur to result in the correct behavioral traits of all 7 extant species?***
+***Q: If the LCA of the turtles in Figure ______ was colonial (hypothesis \#1), what is the least number of evolutionary changes that would need to occur to result in the correct behavioral traits of all 7 extant species?***
 
 ***Q: Which alternate hypothesis would require more evolutionary changes?***
 
 ***Q: All else being equal, which hypothesis results in a less likely series of events: "LCA was solitary" or "LCA was colonial"?***
 
 ***Q: If the method of parsimony is used to reject the less likely hypothesis, then what would be the result of your analysis? In other words, how would you interpret your results in terms of determining the behavioral trait exhibited by the LCA of these 7 turtles?***
+
+
+⏸️ PAUSE here for class-wide discussion
+
+---
+> ⏳ 10 min 
+
+
+***Q: What is the minimum subset of this phylogenetic tree that you would need to provide evidence that colonialism is a derived trait in green turtles?***
 
 ***Q: If there are species of turtles missing from this phylogeny, how could that change the results of your ancestral state reconstruction analysis?***
 
@@ -179,70 +233,10 @@ Many published phylogenetic trees exist that you can explore without needing to 
 
 ***Q: How many other species of turtles should have been included in Figure 2 to generate a complete phylogeny of sea turtles?***
 
-## Case Study: Social behavior in Bathyergidae
 
-There are, broadly, several categories of social behavior: solitary, social, and eusocial
+⏹️ STOP here for today
 
-:::{glossary}
 
-solitary
-	Individuals live and behave alone (except during mating usually)
-
-social
-	Individuals group together for some activities, but each maintain reproductive independence. 
-
-eusocial
-	Some individuals among the social group give up their own reproductive opportunities to help others reproduce. 
-
-:::
-
-Check out the [phylogeny of Bathyergidae on OpenTree](https://tree.opentreeoflife.org/opentree/opentree13.4@mrcaott45520ott692678/Bathyergidae--Petromuridae). 
-
-Bathyergidae is comprised of 6 Genera: *Heterocephalus, Bathyergus, Fukomys, Cryptomys, Georychus,* and *Heliophobius*. There are only two species among the Bathyergidae family that are eusocial: *Fukomys demarensis* and *Heterocephalus glaber*. 
-
-***Q: How many extant species are within the Bathyergidae family?***
-
-If all extent species from the heliophobius genus are not eusocial, then it is more likely that the LCA of all heliophobius was not eusocial. The same logic applies to Bathyergus, Cryptomys, and Georychus. Likewise, the LCA of all Fukomys was likely not eusocial. To construct the behavior of the LCA for all Bathyergidae, We can consider a 'reduced' tree of all genera within this family. 
-
-:::{figure-md} rootnonsocial
-:class: figure
-
-<img src="/data/phylogeny/Bathyergidae-genus-tree-eusocial-color-rootnonsocial.png" alt="fishy" class="bg-primary mb-1" width="600px">
-
-A phylogenetic tree of Bathyergidae genera with character mapping of eusocial (green) and not eusocial (orange) character mapping of LCA for each genera. Ancestral state reconstruction shown for the hypothesis that the LCA of Bathyergidae was *not* eusocial.
-:::
-
-:::{figure-md} rootsocial
-:class: figure
-
-<img src="/data/phylogeny/Bathyergidae-genus-tree-eusocial-color-rootsocial.png" alt="fishy" class="bg-primary mb-1" width="600px">
-
-A phylogenetic tree of Bathyergidae genera with character mapping of eusocial (green) and not eusocial (orange) character mapping of LCA for each genera. Ancestral state reconstruction shown for the hypothesis that the LCA of Bathyergidae was eusocial.
-:::
- 
-***Q: Why is the Heterocephalus genus LCA eusocial?***
-
-***Q: Which hypothesis would you reject based on parsimony?***
-
-*Outgroups* can help resolve ambiguity in ancestral state reconstruction. 
-
-:::{figure-md} with-outgroup
-:class: figure
-
-<img src="/data/phylogeny/Bathyergidae-genus-tree-with-outgroup.png" alt="fishy" class="bg-primary mb-1" width="600px">
-
-A phylogenetic tree of Bathyergidae genera and the *outgroups* *Petromuridae* and *Thryonomyidae*.
-:::
-
-***Q: Both Petromuridae and Thryonomyidae were* not *eusocial, what would you conclude about the behavior of the LCA for Bathyergidae?***
-
-***Q: What was the most likely behavior of the LCA for all Bathyergidae species - based on counts of evolutionary change under each alternate hypothesis and a model of parsimony?***
-
-***Q: Why is it important to include outgroups in an ancestral state reconstruction?***
-
-## Conclusions
-
-***Q: Include any questions or comments that you have about phylogeny***
-
+## Additional Resources
 
 Data for the turtle phylogeny was collected by Lindsay Taylor as part of their [example jupyter notebooks implementation of BioPython](https://taylor-lindsay.github.io/phylogenetics/)

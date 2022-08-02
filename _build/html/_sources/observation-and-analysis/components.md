@@ -172,7 +172,7 @@ As a class, we will watch this [video of an experiment on stickleback aggression
 
 ***Q: Based on the data in your graph, describe the relationship between at least two features of the stimuli and aggressiveness in male stickleback fish.***
 
-***Q: Based on the statement that 'red coloration is a sign stimulus for stickleback aggression FAPs', define 'sign stimulus' generally.***
+***Q: Based on the statement that 'red coloration is a sign stimulus for stickleback aggression', define 'sign stimulus' generally.***
 
 ***Q: Based on your observations of the experiment, what are some issues with the statement that 'red coloration is a sign stimulus for stickleback aggression FAPs'?***
 
@@ -241,6 +241,8 @@ The *strength* of a stimulus is defined in terms of how much it increases action
 
 ***Q: Complete this sentence by selecting one of the options: The more motivated an animal is toward a specific FAP, the ( stronger / weaker ) the stimulus needs to be to elicit the FAP.***
 
+***Q: In [the curious behavior of stickleback fish](https://www.jstor.org/stable/10.2307/24944080), Lorenz writes "Sticklebacks will respond to our stimuli only when they are in breeding condition." Relate this statement to Lorenz's model of behavior.***
+
 ⏸️ PAUSE here for class-wide discussion
 
 ---
@@ -254,7 +256,7 @@ The *strength* of a stimulus is defined in terms of how much it increases action
 At each moment in time, only one behavior can occur. Therefore, each possible behavior is competing with all other behaviors. To complicate our analysis, behaviors happen over time. And different behaviors occur over different durations/timescales.
 :::
 
-Lorenz names several complexities that make it difficult to understand the motivation of an animal based on its behavior and even to understand the behavior itself. Ritualization, superposition, and learning are examples of behavioral phenomena that become sources of error for determining the motivation of an animal. 
+Lorenz names several complexities that make it difficult to understand the motivation of an animal based on its behavior and even to understand the behavior itself. Ritualization, superposition, and learning are examples of behavioral phenomena that become sources of error for defining an ethogram and determining the motivation of an animal. 
 
 ***Q: Review, compare, and synthesize your summaries of: 'ritualization, superposition, and learning' with your group.***
 
@@ -272,9 +274,7 @@ Lorenz names several complexities that make it difficult to understand the motiv
 
 For example, *imprinting*.
 
-***Q: Create your group's summary of superposition.***
-
-***Q: How could behavioral learning make it difficult to identify species-specific FAPs?***
+***Q: How could behavioral learning make it difficult to create an ethogram?***
 
 
 
@@ -285,9 +285,4 @@ For example, *imprinting*.
 ## Additional Resources
 
 none so far
-
----
-## removed notes
-
-***Q: Think of an animal you are familiar with and a common behavior that you have seen that animal do. What is the behavior? During that behavior, is the animal always doing the same movement? Or is the behavior comprised of a variety of movements?***
 

@@ -27,32 +27,11 @@
 ---
 > ⏳ 
 
-## Activity budgets
-
-Do some behaviors happen more than others? Why might some behaviors happen more than others? 
-
-As an illustration of the concept, consider the following poem.
-
-:::{epigraph} 
-One fish two fish red fish blue fish.
-
---Dr Suess
-:::
-
-***Q: How many possible words are there (given the poem)?***
-
-***Q: As an analogy to behavior, what is the 'activity budget' for each word in this poem?***
-
-***Q: What activity budget would you expect by chance for each word in this poem?***
-
-***Q: What 'activity budget' would you expect 'by chance' for each behavior in an ethogram? Calculate this 'null hypothesis' for an animal with an ethogram of 5 behaviors: X, Y, Z, A, and P.***  
-
 
 ## Changing priorities influence motivation: case study on vigilance
 
+**Vigilant**: Head raised at or above horizontal plain and eyes open.  
 Watch [this clip](https://vimeo.com/80600820) of meerkats engaging in vigilance behaviors. 
-
-**Vigilant**: Head raised at or above horizontal plain and eyes open. 
 
 ***Q: What function could vigilance serve?***
 
@@ -93,7 +72,7 @@ Experimental videos:
 ## Sequences of behavior
 
 :::{admonition} Why?
-if you smile at me, you are more likely to hug me than to hit me.
+If you smile at me, you are more likely to hug me than to hit me.
 :::
 
 What about the sequence of behaviors across time? Are behaviors independent of each other or are some behaviors more likely to follow each other? Can you think of any other examples? For any sequence of non-independent events in the world, and where a limited number of outcomes can occur, *conditional probabilities* relate each outcome to one another. For example, the conditional probability of a hug following a smile is bigger than a hit following a smile. 
@@ -110,9 +89,7 @@ One fish two fish red fish blue fish.
 
 ***Q: Calculate transition probabilities for each word to each other word as $p = t/n$, where $t$ is the total number of each transition and $n$ is the total number of transitions out of the preceeding word (usually the total number of times the word occurred).***
 
-You now have a model that describes how Dr. Suess' poem is sequenced. 
-
-The model that you just created can be visualized in other ways for a different perspectives on the concept.  
+You now have a model that describes how Dr. Suess' poem is sequenced. It is a special kind of model called a *Markov model*.
 
 :::{figure-md} markdown-fig
 <img src="../images/One-Fish-Two-Fish_Markov.gif" alt="fishy" class="bg-primary mb-1" width="600px">
@@ -177,6 +154,8 @@ Extension project...
 - [Transition Matrices and Markov Chains](https://setosa.io/blog/2014/07/26/markov-chains/index.html)
 - [And extended description of the *One fish Two fish* example for building a markov model](https://hackernoon.com/from-what-is-a-markov-model-to-here-is-how-markov-models-work-1ac5f4629b71)
 - If you are interested in computer programming and Markov models for various applications beyond animal behavior, [this example notebook for analyzing markov models of text](https://www.kaggle.com/code/nulldata/meaningful-random-headlines-by-markov-chain/notebook) might be of interest to you.
+- [Markov models and Markov chains explained in real life: probabilistic workout routine](https://towardsdatascience.com/markov-models-and-markov-chains-explained-in-real-life-probabilistic-workout-routine-65e47b5c9a73)
+- [Markov models in medical decision making: a practical guide](https://doi.org/10.1177/0272989x9301300409)
 
 ---
 Resources used in this workshop: 

@@ -7,8 +7,8 @@ Any assignments listed on the schedule should be completed before the class star
 | **Date** | **Topic** | **Assignment** | **Page(s)** |
 | :---: | :---: | :---: | :---: |
 | **Sept 6** | Welcome and Introduction | none | [](../intro) <br> [](../syllabus) <br> [](../assignments)|
-| Sept 8 | Components | [Lorenz book](https://drive.google.com/file/d/12rJaGxQjkovlIAYCxjHb4Br0kEClEBrX/view?usp=sharing) *pg 82-89*; <br> [Tinbergen 1952 The Curious Behavior of the Stickleback. Scientific American (1952)](https://www.jstor.org/stable/10.2307/24944080) ***pg 22-24*** | [](../observation-and-analysis/components) |
-| **Sept 13** | Components | [Lorenz book](https://drive.google.com/file/d/12rJaGxQjkovlIAYCxjHb4Br0kEClEBrX/view?usp=sharing) pg 89-102 | [](../observation-and-analysis/components) |
+| Sept 8 | Components | [Lorenz book](https://drive.google.com/file/d/12rJaGxQjkovlIAYCxjHb4Br0kEClEBrX/view?usp=sharing) *pg 82-89* | [](../observation-and-analysis/components) |
+| **Sept 13** | Components | [Lorenz book](https://drive.google.com/file/d/12rJaGxQjkovlIAYCxjHb4Br0kEClEBrX/view?usp=sharing) pg 89-102; <br> [Tinbergen 1952 The Curious Behavior of the Stickleback. Scientific American (1952)](https://www.jstor.org/stable/10.2307/24944080) ***pg 22-24*** | [](../observation-and-analysis/components) |
 | Sept 15 | Observation | [Margaret Morse](https://theconversation.com/margaret-morse-nice-thought-like-a-song-sparrow-and-changed-how-scientists-understand-animal-behavior-123734); <br>Watch [this video](https://vimeo.com/80600819) and name&define each distinct behavior you observe | [](../observation-and-analysis/observation) |
 | **Sept 20** | Analysis | [Altmann 1973 *Sampling Methods*](https://www.jstor.org/stable/4533591); <br> Briefly summarize each sampling method described by Altmann | [](../observation-and-analysis/analysis) |
 | Sept 22 | Phylogeny | none | [](../levels-of-analysis/phylogeny) |

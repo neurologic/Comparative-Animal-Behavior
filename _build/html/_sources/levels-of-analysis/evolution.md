@@ -55,7 +55,9 @@ Once you start the simulation, *add a mate* and introduce a dominant mutation. L
 
 ## Case Study on adaptation: exploitation of behavioral patterns
 
-Behavioral patterns that are stereotyped (ie. FAPs) are, by definition, predictable. As you know from [experiments that test for sign stimuli of FAPs](../observation-and-analysis/components), if a sign stimulus is effectively mimicked, then the FAP will be released as if the natural sign stimulus was encountered. This *sign stimulus : FAP* pair can be thought of as a code. *Code breaking* describes inappropriate release of an FAP by another animal. 
+Behavioral patterns that are stereotyped (ie. FAPs) are, by definition, predictable. As you know from [experiments that test for sign stimuli of FAPs](../observation-and-analysis/components), if a sign stimulus is encountered, then the FAP will be released, regardless of the source of that sign stimulus[^unless-inhibited]. This *sign stimulus : FAP* pair can be thought of as a code. *Code breaking* describes "inappropriate" release of an FAP by another animal. 
+
+[^unless-inhibited]: There are many examples of the effect of a sign stimulus being inhibited by a concurrent, but different, stimulus. The effects of sign stimuli can also be enhanced by additional stimuli. 
 
 In solitary ground nesting bee species (that includes the bee families, Andrenidae, Apidae, Colletidae, and Halictidae), females dig nests in which they deposit and provision their fertilized eggs with pollen after mating[^Neff-2008].
 
@@ -242,6 +244,8 @@ When the moderator says *go*, both players interact over the resource. Decide ho
 After the resource and consequence have been allocated, the focal player tallies their net change in fitness after the encounter (the blue pen is worth +2 and the red pen is worth -1).  
 :::
 
+***Q: Which behavioral strategy would result in a "more fit" population?***
+
 ⏸️ PAUSE here for class-wide discussion
 
 ---
@@ -255,9 +259,10 @@ The other player represents the fighter behavior.
 The moderator places one blue pen on the table. This pen is the 'resource' and it is worth +2 units of fitness.  
 The moderator places one red pen on the table. This pen is the consequence of losing a figth and it is worth -1 unit of fitness.
 
-When the moderator says *go*, both players interact over the resource. Decide how the resource and consequence will be allocated according to the 'pacifist' behavior encountering a 'fighter' behavior. What happens to the red pen?  
-After the resource and consequence have been allocated, the focal player tallies their net change in fitness after the encounter (the blue pen is worth +2 and the red pen is worth -1).  
+When the moderator says *go*, both players interact over the resource. Decide how the resource and consequence will be allocated according to the 'pacifist' behavior encountering a 'fighter' behavior (for example, what happens to the red pen?). After the resource and consequence have been allocated, the focal player tallies their net change in fitness after the encounter (the blue pen is worth +2 and the red pen is worth -1).  
 :::
+
+***Q: Make a table that shows the average net fitness (per trial) of each focal behavioral strategy in each behavioral context that you tested.***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -275,11 +280,11 @@ After a fighter encounters another fighter, its fitness changes by $ F = v $ if 
 After a pacifist encounters another pacifist, its fitness changes by $ F = v/2 $ because they share the resource.
 Fighters always gain the resource against pacifists and do so without a fight, which means pacifists end up with nothing against fighters.
 
-Under the conditions that you acted out, $v=2$ and $c=1$.  
+The conditions that you acted out were: $v=2$ and $c=1$.  
 
-***Q: Under the conditions that you acted out, which strategy has a greater net fitness in a population of all fighters?***
+***Q: Under the conditions that you acted out, use the model equations to determine which strategy has a greater net fitness in a population of all fighters.***
 
-***Q: Under the conditions that you acted out, which strategy has a greater net fitness in a population of all pacifists?***
+***Q: Under the conditions that you acted out, use the model equations to determine which strategy has a greater net fitness in a population of all pacifists.***
 
 
 ⏸️ PAUSE here for class-wide discussion
