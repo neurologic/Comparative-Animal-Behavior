@@ -1,7 +1,7 @@
 # Components
 
 :::{admonition} Why?
-What is animal behavior? What are its parts? What is the system of behavior? This workbook explores some of the foundational components of animal behavior and its organization. 
+To ask *why* and *how*, we must define *what*. What is animal behavior? This workbook explores its composition and organisation.  
 :::
 
 [Day 1](day1)  
@@ -14,10 +14,10 @@ What is animal behavior? What are its parts? What is the system of behavior? Thi
 <hr>
 
 (day1)=
-## Fundamental units of behavior and their stimulation
+## Units of behavior
 
 :::{admonition} Why?
-In order to study animal behavior as a scientific community, we need to categorize and define an animal behavior in an objective way. The ways in which we define behavior for a particular study must be at an appropriate organizational level and an appropriate timescale for our level of analysis and our question (ultimate versus proximate, neural versus genetic, etc).
+Attention to the way we define behavior for a particular study must include considerting appropriate organizationals level and timescales for our level of analysis and our question (ultimate versus proximate, neural versus genetic, etc).
 :::
 
 --- 
@@ -42,26 +42,36 @@ Cells are considered the *fundamental unit* of life. You can use this model from
 
 ***Q: In your model, what are the fundamental units of behavior? Provide some examples.***
 
-***Q: What timescale do you think that fundamental units of behavior generally occur over?***
+***Q: What timescale do these fundamental units of behavior generally occur over?***
 
-***Q: What is the longest timescale that you can think of for something that you would define as an animal behavior?***
+***Q: What is the timescale of behavior at the highest level you categorized?***
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 10 min
+> ⏳ 15 min
 
 ### Movemes, Actions, Activities
 
-The *levels of organization* that you explored in the last sections are an example of *hierarchy*. The hierarchical nature of behavior is clear, despite a lack of concensus for terminology used to describe its component parts[^AndersonPerona2014][^Datta2019].
+The *levels of organization* that you just explored are examples of *hierarchy*. The hierarchical nature of behavior seems clear, despite a lack of concensus for terminology used to describe its component parts[^AndersonPerona2014][^Datta2019].
 
 [^AndersonPerona2014]: David J.Anderson and Pietro Perona [Toward a Science of Computational Ethology](https://doi.org/10.1016/j.neuron.2014.09.005). Neuron 84:1 (2014).
 
 [^Datta2019]: Datta SR, Anderson DJ, Branson K, Perona P, Leifer A [Computational Neuroethology: A Call to Action](https://doi.org/10.1016/j.neuron.2019.09.038). Neuron 104:11-24 (2019). 
 
-***Q: What does 'hierarchy' mean?***
+The following figure presents challenges that arise from the hierarchical nature of behavior that we need to grapple with when we study it. 
 
-The following language defined by Anderson and Perona[^AndersonPerona2014] provides a reasonable basis for discussion. 
+:::{figure-md} DattaBehaviorHierarchy
+:class: figure
+
+<img src="/images/Datta_2019-ChallengesOfDefiningBehavior.png" alt="fishy" class="bg-primary mb-1" width="700px">
+
+A characteristic sequence of behaviors exhibited by a mouse in its home cage as it moves around the walls (thigmotaxis), approaches some food, eats, and then sleeps (center, mouse cartoons). Several key challenges facing any segmentation of continuous behavior into components are illustrated, including the following two points. **1)** Behaviors need to be labeled, which raises the problem of ‘‘lumping’’ versus ‘‘splitting’’ (red); for example, mice engage in thigmotaxis, behaviors in which the mouse exhibits locomotion and turning behaviors that are deterministically sequenced to generate an action where the animal circumnavigates its cage. Is thigmotaxis a singular or unitary behavior (because its elements are deterministically linked during its expression), or it is a sequence of walking, turning, and walking behaviors? **2)** Should behavior be considered at a single timescale that serially progresses or instead considered a hierarchical process organized at multiple timescales simultaneously (blue)? When the mouse is sniffing and running at the same time, is that a compositional behavior whose basis set includes ‘‘run’’ and ‘‘sniff,’’ or is ‘‘running+sniffing’’ a fundamentally new behavior (purple)?[^Datta2019]
+:::
+
+***Q: Define 'hierarchy' in the context of animal behavior.***
+
+The following language as defined by Anderson and Perona[^AndersonPerona2014] provides a reasonable basis for discussion of the hierarchical nature of behavior. 
 
 :::{glossary}
 
@@ -76,24 +86,15 @@ Activity
 
 :::
 
-The following figure presents these concepts in the context of several issues that we need to grapple with in the study of animal behavior. 
+***Q: How do these categories map onto the categories that you came up with earlier? Any thoughts?***
 
-:::{figure-md} DattaBehaviorHierarchy
-:class: figure
-
-<img src="/images/Datta_2019-ChallengesOfDefiningBehavior.png" alt="fishy" class="bg-primary mb-1" width="700px">
-
-A characteristic sequence of behaviors exhibited by a mouse in its home cage as it moves around the walls (thigmotaxis), approaches some food, eats, and then sleeps (center, mouse cartoons). Several key challenges facing any segmentation of continuous behavior into components are illustrated. Behaviors need to be labeled, which raises the problem of ‘‘lumping’’ versus ‘‘splitting’’ (red); for example, mice engage in thigmotaxis, behaviors in which the mouse exhibits locomotion and turning behaviors that are deterministically sequenced to generate an action where the animal circumnavigates its cage. Is thigmotaxis a singular or unitary behavior (because its elements are deterministically linked during its expression), or it is a sequence of walking, turning, and walking behaviors? Should behavior be considered at a single timescale that serially progresses or instead considered a hierarchical process organized at multiple timescales simultaneously (blue)? When the mouse is sniffing and running at the same time, is that a compositional behavior whose basis set includes ‘‘run’’ and ‘‘sniff,’’ or is ‘‘running+sniffing’’ a fundamentally new behavior (purple)?[^Datta2019]
-:::
-
-***Q: Pick an animal that you are familiar with (do not spend too much time deliberating over which animal to use). Make an example behavior hierarchy for that animal that spans the activity to moveme levels (do not include all behavior of the animal, just enough to make an example hierarchy of behavior). Think about effective ways to present a hierarchy in developing your response. Include definitions of each component of its behavior that you include. (Do not use any of the examples already given in the figure text).***
+***Q: Pick an animal that you are familiar with (do not spend too much time deliberating over which animal to use). Make an example behavior hierarchy for that animal using either your hierarchical categories, or the moveme, action, and activity hierarchical categories. Do not include all behavior of the animal, just enough to make an example hierarchy of behavior. Diagram the behavior hierarchy and define each behavior that you included at each level. (Do not use any of the examples already given in the figure above).***
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 10 min 
 
-### Fixed Action Pattern (FAP)[^instinctive-motor-pattern][^fap], Releasing Mechanisms, and Sign Stimuli
+### Fixed Action Patterns (FAP)[^instinctive-motor-pattern][^fap], Releasing Mechanisms, and Sign Stimuli
 
 [^instinctive-motor-pattern]: In *Here am I. Where are You?* (1988), Lorenz uses the term 'instinctive motor pattern' instead.
 
@@ -103,28 +104,38 @@ A characteristic sequence of behaviors exhibited by a mouse in its home cage as 
 :::
 
 :::{admonition} Why?
-You can observe and categorize an animal's behavior at any moment in time. But what is that animal *not* doing at that moment in time? Why? What causes a particular behavior to emerge from the behavioral bag of tricks that animal has inherited?
+Once you have defined individual behaviors, you can determine what behavior an animal is doing at each moment in time. AND what is that animal *not* doing at that moment in time? Why? What causes a particular behavioral expression over another and what modulates behavioral decisions?
 :::
 
-A standard example of FAPs given in introductory animal behavior courses, is egg rolling. Female gulls sit on their eggs in the nest to incubate them. Sometimes, the eggs roll out of the nest. The gull, noticing an egg outside of the nest, performs an 'egg rolling' behavior in response. As a class, let's watch these two videos of egg rolling:
+:::{glossary}
+Fixed Action Patterns  
+  (FAPs) In a general sense, identifiable behaviors. Historically, the term FAP has been used to mean *instinctive*, but that distinction may not be so necessary/useful[^FAPdefinition]. At an extreme, FAPs are very *stereotyped*.
+:::
+
+[^FAPdefinition]: Historically, behaviors are considered FAPs when they are *instinctual* (ie. genetically-determined and *pre-programmed*). Lorenz used the German word 'Erbkoordination' which translates literally as 'inherited co-ordination' to describe them. In a more contemporary mindset, we can think of *behavioral patterns* that need not be purely *pre-programmed* (as you will learn in this course if you have not already... no behavior truly is).
+
+*Egg Rolling* is a common example of FAPs used in introductory animal behavior courses. Female gulls sit on their eggs in the nest to incubate them. Sometimes, the eggs roll out of the nest. The gull, noticing an egg outside of the nest, performs the *egg rolling* behavior in response. As a class, let's watch these two videos of egg rolling:
 - [egg rolling video 1](https://youtu.be/7PcteKRA3zs)
 - [egg rolling video 2](https://youtu.be/vUNZv-ByPkU)
 
-Because the gull's egg rolling behavior is *stereotyped*, you can define it. Behaviors like these are often categorized as *fixed action patterns* (FAP)[^FAPdefinition]. 
+---
+> ⏳ 10 min 
 
-[^FAPdefinition]: Historically, behaviors are considered FAPs when they are *instinctual* (ie. genetically-determined and *pre-programmed*). In a more contemporary mindset, we can think of *behavioral patterns* that need not be purely *pre-programmed* (as you will learn in this course if you have not already... no behavior truly is).
-
-***Q: Based on the video, define the gull 'egg rolling' behavior 'objectively'.***
+***Q: Based on the video, define the gull 'egg rolling' behavior objectively.***
 
 ***Q: What do you think the function of egg rolling behavior is?***
 
 ***Q: What else do you notice in these example videos of egg rolling behavior? List comments and questions that you have.***
 
+⏸️ PAUSE here for class-wide discussion
+
+---
+> ⏳ 10 min 
 
 :::{index} sign stimuli
 :::
 
-Another standard examples of FAPs given in introductory animal behavior courses, is territorial aggression in stickleback fish[^intro-stickleback]. During the breeding season, the male fish select a territory on which they build a nest. When a male stickleback spots another nearby male in his nesting territory, he will launch into a FAP involving aggressive displays designed to scare off the stranger. However, males are not aggressive to nearby females in their territory. 
+Another common "introductory animal behavior course" FAP example is territorial aggression behavior in stickleback fish[^intro-stickleback]. During the breeding season, the male fish select a territory on which they build a nest. When a male stickleback spots another nearby male in his nesting territory, he will launch into a FAP involving aggressive displays designed to scare off the stranger. However, males are not aggressive to nearby females in their territory. 
 
 :::{figure-md} stickleback-male-female
 :class: figure
@@ -136,10 +147,10 @@ Stickleback fish appearance. Top: female. Bottom: male.
 
 ***Q: What differences do you notice between the appearance of males and females?***
 
-***Q: If aggressive FAPs should only be elicited by the presence of other males, what sensory cues could be used to appropriately trigger the FAPs?***
+***Q: If aggressive FAPs should only be elicited by the presence of other males, what sensory cues could be used to appropriately trigger FAP expression?***
 
-
-A *bite* is a component of aggression and can be defined as *contact of the male's mouth against an object*. *Bite rate* can then be used to quantify aggression.
+To test what *stimulus* (sensory cues/features) triggers aggression FAPs, we need to quantify the behavior somehow. *Bite rate* is commonly used as a metric.
+A *bite* is a component of aggression and can be defined as *contact of the male's mouth against an object*. 
 
 ***Q: Mathematically define 'bite rate' (how would you calculate it?).***
 
@@ -151,34 +162,31 @@ A *bite* is a component of aggression and can be defined as *contact of the male
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 10 min
 
-As a class, we will watch this [video of an experiment on stickleback aggression](https://youtu.be/ZfcGZCGdGVE). As you watch, take your own individual notes on what is happening throughout. 
-
-***Q: What was similar among the stimuli? What was different between the stimuli?***
-
-***Q: What do you think was being tested by the experiment shown in the video?***
-
-***Q: Briefly describe the experimental design behind what was shown in the video (the experimental design to test what you think was being tested).***
-
-***Q: As a group, decide how you can calculate bite rate for each stimulus while watching the video. What data do you need to make that calculation? How would you measure that data? Make a plan that you can execute when we re-watch the video.***
-
-⏸️ PAUSE here for the second viewing of the video.
+As a class, let's watch this [video of an experiment on stickleback aggression](https://youtu.be/ZfcGZCGdGVE). As you watch, take your own individual notes on what is happening throughout. 
 
 ---
-> ⏳ 10 min
+> ⏳ 5 min
+
+***Q: What was similar among the stimuli presented to the fish? What was different between the stimuli?***
+
+***Q: Summarize what was being tested by the experiment shown in the video and the experimental design.***
+
+***Q: Make a plan for how you would collect data to calculate bite rate for each stimulus based on the video. (What data do you need to make that calculation? How will you measure and record that data?).***
+
+---
+⏹️ STOP here for today. 
+
+On your own, re-watch [the video](https://youtu.be/ZfcGZCGdGVE) to collect the experimental data you just discussed with your group and complete the following three questions to bring to the next class:
 
 ***Q: Based on the data you collected, make a graph of bite rate versus stimulus.***
 
-***Q: Based on the data in your graph, describe the relationship between at least two features of the stimuli and aggressiveness in male stickleback fish.***
+***Q: Based on the data in your graph, describe the relationship between at least two features of the stimuli and aggressive behavior in male stickleback fish.***
 
 ***Q: Based on the statement that 'red coloration is a sign stimulus for stickleback aggression', define 'sign stimulus' generally.***
 
-***Q: Based on your observations of the experiment, what are some issues with the statement that 'red coloration is a sign stimulus for stickleback aggression FAPs'?***
 
-
-⏹️ STOP here for today
-
+---
 
 
 (day2)=
@@ -188,11 +196,11 @@ As a class, we will watch this [video of an experiment on stickleback aggression
 :::
 
 ---
-> ⏳ 15 min 
+> ⏳ 20 min 
 
 Examine the following representation of a theoretical model posed by Lorenz.
 
-:::{figure-md}
+:::{figure-md} action-specific-potential
 :class: figure
 
 <img src="/images/action-specific-potential.png" alt="fishy" class="bg-primary mb-1" width="700px">
@@ -200,7 +208,7 @@ Examine the following representation of a theoretical model posed by Lorenz.
 Lorenz's model of FAP release. A sign stimulus is presented at time = 7.5au. 
 :::
 
-***Q: What variables are represented in Lorenz' model of behavior?***
+***Q: What three variables are represented in Lorenz' model of behavior?***
 
 ***Q: What data is being depicted in the top 2-D plot?***
 
@@ -229,24 +237,50 @@ We would call this the *spontaneous* increase (as opposed to stimulus-driven inc
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 10 min 
+> ⏳ 15 min 
 
-We can think of action-specific energy as *internal drive* or *motivation* for a particular behavior (FAP). 
+We can think of action-specific energy as *internal drive* or *motivation* for a particular behavior (FAP). External stimuli contribute to this motivation. As an analogy, think of eating behavior. The liklihood that you will eat a food can depend on the properties of the food itself. 
 
-***Q: How is the stimulus strength needed to elicit a FAP related to the current state of motivation and the threshold for that FAP (in terms of energy)?***
+***Q: Fill in the following graph according to your food preferences.***
 
-The *strength* of a stimulus is defined in terms of how much it increases action-specific energy. 
+:::{figure-md} stimulus-strength-food
+:class: figure
 
-***Q: Think (and refer) back to the experiment in stickleback fish that you analyzed. Which stimulus was the strongest? Which stimulus was the weakest? What evidence do you have to support your answers?***
+<img src="/images/stimulus-strength-food.png" alt="fishy" class="bg-primary mb-1" width="400px">
+
+Relationship between variation in food taste and desire to eat food. 
+:::
+
+The *strength* of a stimulus is defined in terms of how much it changes the action specific potential for an FAP. 
+
+***Q: Given your preferences, would a sweet food be a strong or weak stimulus for eating?***
+
+***Q: If you are really really really hungry, would you be more or less likely to eat in response to a weak food stimulus compared to when you are full?***
+
+***Q: Think (and refer) back to the experiment on stickleback fish aggression that you analyzed. Which stimulus was the strongest for aggression? Which stimulus was the weakest? What evidence do you have to support your answers?***
+
+***Q: Complete this sentence by selecting one of the options: The more motivated an animal is toward a specific FAP, the ( higher / lower ) the action specific potential for that FAP.***
 
 ***Q: Complete this sentence by selecting one of the options: The more motivated an animal is toward a specific FAP, the ( stronger / weaker ) the stimulus needs to be to elicit the FAP.***
+
+The *stimulus threshold* for behavior is defined as the minimum stimulus strength needed to trigger/evoke the behavior. 
+
+***Q: Complete the following plot to show your understanding of the relationship between stimulus threshold and current action specific potential for an FAP.***
+
+:::{figure-md} stimulus-threshold
+:class: figure
+
+<img src="/images/stimulus-threshold.png" alt="fishy" class="bg-primary mb-1" width="400px">
+
+Relationship between stimulus strength and the current action specific potential. 
+:::
 
 ***Q: In [the curious behavior of stickleback fish](https://www.jstor.org/stable/10.2307/24944080), Lorenz writes "Sticklebacks will respond to our stimuli only when they are in breeding condition." Relate this statement to Lorenz's model of behavior.***
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 10 min 
+> ⏳ 15 min 
 
 ## Complexities of behavior
 
@@ -256,7 +290,7 @@ The *strength* of a stimulus is defined in terms of how much it increases action
 At each moment in time, only one behavior can occur. Therefore, each possible behavior is competing with all other behaviors. To complicate our analysis, behaviors happen over time. And different behaviors occur over different durations/timescales.
 :::
 
-Lorenz names several complexities that make it difficult to understand the motivation of an animal based on its behavior and even to understand the behavior itself. Ritualization, superposition, and learning are examples of behavioral phenomena that become sources of error for defining an ethogram and determining the motivation of an animal. 
+Lorenz names several complexities that make it difficult to understand the motivation of an animal based on its behavior and even to understand the behavior itself. Ritualization, superposition, and learning are examples of behavioral phenomena that become sources of error for defining the set of behaviors that an animal can do and determining the motivation of an animal. 
 
 ***Q: Review, compare, and synthesize your summaries of: 'ritualization, superposition, and learning' with your group.***
 
@@ -278,11 +312,7 @@ For example, *imprinting*.
 
 
 
-
 ⏹️ STOP here for today
 
----
-## Additional Resources
 
-none so far
 

@@ -1,4 +1,4 @@
-# Assessment 2: Observation and Analysis of Behavior
+# Observation and Analysis of Behavior
 
 :::{admonition} Deadline
 Due by midnight on Monday September 26.

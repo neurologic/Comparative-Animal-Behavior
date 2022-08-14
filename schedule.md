@@ -6,7 +6,7 @@ Any assignments listed on the schedule should be completed before the class star
 
 | **Date** | **Topic** | **Assignment** | **Page(s)** |
 | :---: | :---: | :---: | :---: |
-| **Sept 6** | Welcome and Introduction | none | [](../intro) <br> [](../syllabus) <br> [](../assignments)|
+| **Sept 6** | Welcome and Introduction | none | [](../welcome) <br> [](../syllabus) <br> Tinbergen's Four Analyses <br> Groups |
 | Sept 8 | Components | [Lorenz book](https://drive.google.com/file/d/12rJaGxQjkovlIAYCxjHb4Br0kEClEBrX/view?usp=sharing) *pg 82-89* | [](../observation-and-analysis/components) |
 | **Sept 13** | Components | [Lorenz book](https://drive.google.com/file/d/12rJaGxQjkovlIAYCxjHb4Br0kEClEBrX/view?usp=sharing) pg 89-102; <br> [Tinbergen 1952 The Curious Behavior of the Stickleback. Scientific American (1952)](https://www.jstor.org/stable/10.2307/24944080) ***pg 22-24*** | [](../observation-and-analysis/components) |
 | Sept 15 | Observation | [Margaret Morse](https://theconversation.com/margaret-morse-nice-thought-like-a-song-sparrow-and-changed-how-scientists-understand-animal-behavior-123734); <br>Watch [this video](https://vimeo.com/80600819) and name&define each distinct behavior you observe | [](../observation-and-analysis/observation) |
