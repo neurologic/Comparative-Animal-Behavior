@@ -342,3 +342,4 @@ A tabular representation of the game theory model for *pacifist* versus *fighter
 - [*Primer* playlist on Evolution at YouTube](https://www.youtube.com/playlist?list=PLKortajF2dPBWMIS6KF4RLtQiG6KQrTdB)
 - [Game Theory 101: The Hawk-Dove Game at YouTube](https://youtu.be/RAKjII7xCdk)
 - [Fitzpatrick, M., Feder, E., Rowe, L. et al. Maintaining a behaviour polymorphism by frequency-dependent selection on a single gene. Nature 447, 210–212 (2007).](https://doi.org/10.1038/nature05764) provides and example of negative frequency-dependent selection in which the underlying genes for the behavioral variation is known. 
+- [Common Descent Podcast, Episode 56: The Evolution of Evolutionary Theory](https://www.youtube.com/watch?v=dPFwp7zC8RY&list=PLfdiT8Klm_YPa0lNVa9ygwAjy_1Lpz9_S&index=60)

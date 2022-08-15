@@ -1,6 +1,7 @@
 # Development
 
 ::::{admonition} Why?
+
 :::{epigraph}
 In the study of development we are interested not only in the final state to which the system arrives, but also in the course by which it gets there
 
@@ -12,6 +13,9 @@ Given the evidence, familiar to everyone, that numerous environmental inputs are
 
 -- [Mary Jane West-Eberhard (2005)](https://doi.org/10.1073/pnas.0501844102)
 :::
+
+Animals don’t start their lives as tiny copies of adults; there are all sorts of changes that a creature goes through from fertilization to birth and from newborn to mature. This development is called ontogeny. In this session, we explore how ontogenetic change impacts animal behavior as they grow.
+
 ::::  
 
 ## Case Study: Polyphenism in Tiger Salamanders

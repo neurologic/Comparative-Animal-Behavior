@@ -122,13 +122,13 @@ All graded work will be handed in via Gradescope.
 :::
 
 **<font color="green">Weekly In-Class Work</font>** *20%*  
-Due each Friday by midnight. Each week the group secretary (a rotating role) will be responsible for handing in the work that your group did in class (this can include allocating the responsibility if necessary). The purpose of the in-class work is to enable you to develop concepts and deepen your understanding of those concepts. Interactions among students and between students and the instructor are intentionally assessment-oriented (not *evaluative*). This work will be graded either **0:missing**, **1:incomplete**, **2:complete *but***, or **3:complete**. Your final score at the end of the semester will reflect a cummulative sum of your scores on each submission. Added to this score will be CR/U for any in-class assessments. 
+Due each Friday by midnight. Each week the group secretary (a rotating role) will be responsible for handing in the work that your group did in class (this can include allocating the responsibility if necessary). The purpose of the in-class work is to enable you to develop concepts and deepen your understanding of those concepts. Interactions among students and between students and the instructor are intentionally assessment-oriented (not *evaluative*). This work will be graded either **0:missing**, **1:incomplete**, **2:complete *but***, or **3:complete**. Your final score at the end of the semester will reflect an accummulative sum of your scores on each submission. Added to this score will be CR/U for any in-class assessments. 
 
-**<font color="orange">Cummulative Exam</font>** *60%*  
-[Due (approximately) every other week by Monday at midnight](../assessment-sum/cummulative-exam). Instead of one or two big exams, you will have smaller bi-weekly (approximately) assignments. The points you earn on each of these assignments will be tallied toward your total exam score for the semester. The due dates may be subject to change if there are major shifts in the daily schedule due to the differing needs of each particular class as they move through the material. The due dates are listed in the Cummulative Exam tab
+**<font color="orange">AcCummulative Exam</font>** *60%*  
+[Due (approximately) every other week by Monday at midnight](../assessment-sum/accummulative-exam). Instead of one or two big exams, you will have smaller bi-weekly assignments. The points you earn on each of these assignments will be tallied toward your total exam score for the semester. The due dates may be subject to change if there are major shifts in the daily schedule due to the differing needs of each particular class as they move through the material. The due dates are listed in the AcCummulative Exam tab
 
 **<font color="purple">Capstone</font>** *20%*  
-Due by midnight on the first day of final exams (). Your work throughout the semester builds toward your Capstone assignment.  
+Due by midnight on the first day of final exams (Dec 13). Your work throughout the semester builds toward your [Capstone assignment](../assessment-sum/capstone): a media project (written, audio, video, etc) that summarizes the current scientific understanding of a specific animal behavior through Tinbergen's four levels of analysis: ontogeny, mechanism, phylogeny and adaptive value.  
 
 ***Attendence*** in classroom sessions is mandatory. If unforseeable emergency comes up, please reach out as soon as possible so that we can make a plan.  
 

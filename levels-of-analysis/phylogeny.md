@@ -239,4 +239,5 @@ Many published phylogenetic trees exist that you can explore without needing to 
 
 ## Additional Resources
 
+[Common Descent Podcast, Episode 10: The Tree of Life](https://www.youtube.com/watch?v=ULzJgG5IBAo&list=PLfdiT8Klm_YPa0lNVa9ygwAjy_1Lpz9_S&index=11)
 Data for the turtle phylogeny was collected by Lindsay Taylor as part of their [example jupyter notebooks implementation of BioPython](https://taylor-lindsay.github.io/phylogenetics/)
