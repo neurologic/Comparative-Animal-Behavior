@@ -17,12 +17,12 @@ Scientists use human perceptions, intuition, and feelings, our inner worlds, to 
 I like to sit on my orange and eat my porch.  
 :::
 
-Observations of animal behavior cannot be used to advance our understanding unless the language is clearly and objectively defined. 
+Observations of animal behavior cannot be used to advance our understanding unless the language is clearly and objectively defined in a way that is recognized by the broader community. 
 
 You have already watched [this short video](https://vimeo.com/80600819) and named/defined all of the distinct behaviors that you observe.  
 Now, compare your notes among your group and develop an ethogram including both *behavioral actions* and *definitions for each behavior/action*.
 
-***Q: Please write out your group's final ethogram (behavior names and definitions). Include ‘other’ and ‘out of view’ as two of your behaviors.***
+***Q: Consolidate your individual work into a final group ethogram (behavior names and definitions). Include ‘other’ and ‘out of view’ as two of your behaviors.***
 
 ***Q: Were the behaviors that you and your group originally listed different? In what ways? How different?***
 
@@ -31,7 +31,7 @@ Now, compare your notes among your group and develop an ethogram including both 
 
 
 ---
-> ⏳ 10 minutes
+> ⏳ 15 minutes
 
 ## Activity Budgets
 
@@ -48,7 +48,7 @@ Time is nature's way of keeping everything from happening at once
 
 [^timequote]: [Quote Investigator](https://quoteinvestigator.com/2019/07/06/time/)
 
-Do some behaviors happen more than others? Why might some behaviors happen more than others? 
+Do some behaviors happen more than others? Why might some behaviors happen more than others? The *activity* budget of an animal/species is the distribution of time allocated across its behaviors.
 
 As an illustration of the activity budget concept, consider the following poem.
 
@@ -67,7 +67,7 @@ One fish two fish red fish blue fish.
 ***Q: What 'activity budget' would you expect 'by chance' for each behavior in an ethogram? Calculate this 'null hypothesis' for an animal with an ethogram of 5 behaviors: X, Y, Z, A, and P.*** 
 
 
-Animal behaviorists use ethograms to determine an animal's *activity budget*. Now that you have your ethogram of meerkat behavior, you will determine a meerkat activity budget. You will watch a new video of meerkat behavior in which you focus on recording the behavior of a single individual. You will record the start time of each behavior and the behavior name. It is helpful to develop a short code that you can use for each behavior category (e.g. drinking could be denoted with a ‘D’). You can take the initial data using any format you choose (e.g. I used a pen and paper) and you can subsequently enter your data into an electronic spreadsheet if it is helpful for you.
+Animal behaviorists use ethograms to determine an animal's *activity budget*. Now that you have your ethogram of meerkat behavior, you will estimate a meerkat activity budget. You will watch a new video of meerkat behavior in which you focus on recording the behavior of a single individual. *You will record the start time of each behavior and the behavior name.* It is helpful to develop a short code that you can use for each behavior category (e.g. drinking could be denoted with a ‘D’). You can take the initial data using any format you choose (e.g. I used a pen and paper) and you can subsequently enter your data into an electronic spreadsheet if it is helpful for you.
 
 Use the following format for your data record:
 
@@ -105,7 +105,7 @@ In [this 10-minute video](https://vimeo.com/80602697), one meerkat (Bumble) is h
 
 
 ---
-> ⏳ 
+> ⏳ rest of class
 
 ## Changing priorities
 

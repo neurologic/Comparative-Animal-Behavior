@@ -56,3 +56,6 @@ parse:
 sphinx:
   config:
     myst_words_per_minute: 25
+
+# google_analytics:
+#   mytrackingcode: UA-XXXXXXXXX-X

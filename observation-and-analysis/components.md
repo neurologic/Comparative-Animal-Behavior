@@ -4,8 +4,8 @@
 To ask *why* and *how*, we must define *what*. What is animal behavior? This workbook explores its composition and organisation.  
 :::
 
-[Day 1](day1)  
-[Day 2](day2)
+[Day 1](components_day1)  
+[Day 2](components_day2) -->
 
 <hr>
 
@@ -13,7 +13,7 @@ To ask *why* and *how*, we must define *what*. What is animal behavior? This wor
 
 <hr>
 
-(day1)=
+(components_day1)=
 ## Units of behavior
 
 :::{admonition} Why?
@@ -94,6 +94,7 @@ Activity
 
 ---
 
+(FAPs-sign-stimuli)=
 ### Fixed Action Patterns (FAP)[^instinctive-motor-pattern][^fap], Releasing Mechanisms, and Sign Stimuli
 
 [^instinctive-motor-pattern]: In *Here am I. Where are You?* (1988), Lorenz uses the term 'instinctive motor pattern' instead.
@@ -174,8 +175,8 @@ As a class, let's watch this [video of an experiment on stickleback aggression](
 
 ***Q: Make a plan for how you would collect data to calculate bite rate for each stimulus based on the video. (What data do you need to make that calculation? How will you measure and record that data?).***
 
----
-⏹️ STOP here for today. 
+:::{admonition} Complete this section for homework and bring your responses to next class
+:name: stickleback-aggression-analysis
 
 On your own, re-watch [the video](https://youtu.be/ZfcGZCGdGVE) to collect the experimental data you just discussed with your group and complete the following three questions to bring to the next class:
 
@@ -185,11 +186,14 @@ On your own, re-watch [the video](https://youtu.be/ZfcGZCGdGVE) to collect the e
 
 ***Q: Based on the statement that 'red coloration is a sign stimulus for stickleback aggression', define 'sign stimulus' generally.***
 
+:::
 
 ---
+⏹️ STOP here for today. 
 
 
-(day2)=
+
+(components_day2)=
 ## Action-Specific Potential (ASP; Energy)
 
 :::{index} action specific potential (energy)

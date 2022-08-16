@@ -8,7 +8,7 @@ parts:
     chapters:
     - file: syllabus
     - file: schedule
-    - file: assessment-sum/accummulative-exam
+    - file: assessment-sum/cumulative-exam
       sections:
         - file: assessment-sum/assessment-example
     - file: assessment-sum/capstone

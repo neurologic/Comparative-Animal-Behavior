@@ -14,12 +14,12 @@ Tuesdays and Thursdays 8:50-10:10am
 
 As an introduction to the study of animal behavior, this course will examine the factors that control the behavior of vertebrates and invertebrates within evolutionary, and physiological contexts. All animals face similar challenges and we will examine the common, and sometimes unique, behavioral strategies used to meet these challenges. This kind of comparative approach is paramount to ethology, which is the scientific study of animal behavior. Animal behavior is the main subject of this course, and the overarching goal is learning what it means to understand animal behavior through the scientific method. To achieve this goal, you will practice synthesizing knowledge and approaches from diverse fields of science that you have already encountered in your studies: genetics, evolutionary biology and ecology, developmental biology, neuroscience, molecular biology, and psychology (to name a few). 
 
-This class is about more than Animal Behavior as a topic itself. Although content mastery is important, the vast majority of students in STEM classes at the University level (especially in Introductory classes where breadth is a feature of the curriculum) are unlikely to be regularly applying most (if any) of the specific content knowledge outside of the course (with the possible exception of using some of the content in sequent courses). This is not to diminish the importance of this content, but rather to emphasize that the development of ones interests and the development of other skills (particularly thinking, learning, communication, and interpersonal skills) are likely to be just as useful and transferable over the course of an individual’s lifetime. 
+This class is about more than Animal Behavior as a topic itself. Although content mastery is important, the vast majority of students in STEM classes at the University level (especially in Introductory classes where breadth is a feature of the curriculum) are unlikely to be regularly applying most (if any) of the specific content knowledge outside of the course. This is not to diminish the importance of this content, but rather to emphasize that the development of ones interests for future in depth study and the development of other skills (particularly thinking, learning, communication, and interpersonal skills) that are useful and transferable over the course of an individual’s lifetime. 
 
 Of you I ask:
 - Respect to yourself and others in the class.
 - Independence and self-motivation. This is your education. The learning process belongs to you.
-- Willingness to push yourself to learn as much as you can about the topics and concepts that we will examine.
+- That you have fun and explore.
 
 We’ll be working together to create an equitable and inclusive environment of mutual respect, in which we all feel comfortable to share our moments of confusion, ask questions, and challenge our understanding. Everyone should be able to succeed in this course. If you do not feel that is the case please let me know. 
 
@@ -54,13 +54,13 @@ Class rosters are provided to the instructor with the student's legal name. I wi
 6. Groups are expected to complete all of the Questions during class. There may be additional exercises or problems expected to be completed outside of class.
 
 For group in-class work, specific roles are:[^roles-details]
-- recorder
+- scribe
 - liason
 - facilitator
-- strategy analyst
+- researcher
 
 [^roles-details]: Details of the roles:
-    - recorder
+    - scribe
       - Records the names and roles of the group members at the beginning of each activity.
       - Records the important aspects of group discussions, observations, insights, etc.
         - “This seems like an important conclusion. Let’s stop for a minute so I can get this into our report.”
@@ -93,7 +93,7 @@ For group in-class work, specific roles are:[^roles-details]
         - Assign different members to read sections of activity on a rotating basis.
         - “(Name), what do you think about . . . .?”
         - “I would like to hear what you think, (name).”
-    - reflector/strategy analyst/observer
+    - researcher/reflector/strategy analyst/observer
       - Guides consensus-­‐building process; team must agree on responses to questions.
         - “Would you all agree that _____ is a good answer for question number _____?”
         - “Could you please rephrase what you just said?”
@@ -106,7 +106,7 @@ For group in-class work, specific roles are:[^roles-details]
       - Reports to the team periodically during the activity on how the team performs.
         - “Let’s stop for a minute. I have a couple comments on what we are doing well and a suggestion on how we could be more productive.”
         - “Let’s wait for (name) to catch up before we move on.”
-      - Be ready to report to the entire class about how well the team is operating.
+      - Runs internet queries to help progress group discussion if it gets stuck
 
 **Class Preparation**  
 In preparation for class, complete any "Assignments" listed in the [Schedule](../schedule) page. Sometimes this will include producing work that you bring to the corresponding classroom session, other times it will just include readings. Readings are meant to reinforce the concepts that are introduced (either before or after) through classroom activities and discussion.
@@ -122,10 +122,10 @@ All graded work will be handed in via Gradescope.
 :::
 
 **<font color="green">Weekly In-Class Work</font>** *20%*  
-Due each Friday by midnight. Each week the group secretary (a rotating role) will be responsible for handing in the work that your group did in class (this can include allocating the responsibility if necessary). The purpose of the in-class work is to enable you to develop concepts and deepen your understanding of those concepts. Interactions among students and between students and the instructor are intentionally assessment-oriented (not *evaluative*). This work will be graded either **0:missing**, **1:incomplete**, **2:complete *but***, or **3:complete**. Your final score at the end of the semester will reflect an accummulative sum of your scores on each submission. Added to this score will be CR/U for any in-class assessments. 
+Due each Friday by midnight. Each week the group scribe (a rotating role) will be responsible for uploading the work that your group did in class (this can include consulting the manager to delicate task completion if necessary). The purpose of the in-class work is to enable you to develop concepts and deepen your understanding of those concepts through exploration and discussion. Interactions among students and between students and the instructor are intentionally assessment-oriented (not *evaluative*). This work will be graded either **0:missing**, **1:incomplete**, **2:complete *but***, or **3:complete**. Your final score at the end of the semester will reflect a cumulative sum of your scores on each submission. Added to this score will be CR/U for any in-class assessments. 
 
-**<font color="orange">AcCummulative Exam</font>** *60%*  
-[Due (approximately) every other week by Monday at midnight](../assessment-sum/accummulative-exam). Instead of one or two big exams, you will have smaller bi-weekly assignments. The points you earn on each of these assignments will be tallied toward your total exam score for the semester. The due dates may be subject to change if there are major shifts in the daily schedule due to the differing needs of each particular class as they move through the material. The due dates are listed in the AcCummulative Exam tab
+**<font color="orange">Cumulative Exam</font>** *60%*  
+[Due (approximately) every other week by Monday at midnight](../assessment-sum/cumulative-exam). Instead of one or two big exams, you will have smaller bi-weekly assignments. The points you earn on each of these assignments will be tallied toward your total exam score for the semester. The due dates may be subject to change if there are major shifts in the daily schedule due to the differing needs of each particular class as your unique class moves through the material. The due dates are listed in the [Cumulative Exam tab](../assessment-sum/cumulative-exam).
 
 **<font color="purple">Capstone</font>** *20%*  
 Due by midnight on the first day of final exams (Dec 13). Your work throughout the semester builds toward your [Capstone assignment](../assessment-sum/capstone): a media project (written, audio, video, etc) that summarizes the current scientific understanding of a specific animal behavior through Tinbergen's four levels of analysis: ontogeny, mechanism, phylogeny and adaptive value.  

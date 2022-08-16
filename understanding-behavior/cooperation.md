@@ -21,9 +21,13 @@ targetting prey and ability to track
 
 kittyhawk gulls versus cliff nesting - phylogeny
 
+## Genetic Switch Case Study: Locusts
+
 ## Grouping versus Cooperation
 
 Is there a difference?
+
+## The evolutionary problem with cooperation
 
 ## green beard
 

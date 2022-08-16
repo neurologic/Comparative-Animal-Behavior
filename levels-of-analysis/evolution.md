@@ -1,37 +1,12 @@
 # Evolution
 
-[Day 1](day1_evolution)  
-[Day 2](day2_evolution)
+[Day 1](evolution_day1)  
+[Day 2](game-theory)
 
-(day1_evolution)=
-## General evolutionary concepts
+:::{admonition} Complete this section prior to class and bring your responses with you
+:name: natural-selection-simulation
 
-> ⏳ 10 min 
-
-To the best of your group's ability...
-
-***Q: Define 'adaptation'***
-
-***Q: What is the main difference between 'evolution' and 'natural selection'?***
-
-***Q: Does natural selection cause variation in a traits over time?***
-
-
-⏸️ PAUSE here for class-wide discussion
-
----
-> ⏳ 10 min 
-
-## Selective Pressure
-
-:::{admonition} Assumptions
-A fundamental assumption in the contemporary study of animal behaivor, is that behavior is an adaptation to changing needs and a changing environment that maximizes evolutionary fitness[^fitness] (it evolves by natural selection). Another key assumption is that behavioral phenotypes are *heritable* across generations (that there is a strong *genetic* component, though we won't get into any actual genetics yet)[^heritability].
-:::
-
-[^fitness]: In other words, behavior can convey reproductive advantage. We won't by more explicit about fitness from the perspective of alleles themselves until we have reviewed Genetics as a class. When we talk about fitness, we can think about how well an animal survives. When we talk about phenotypes as adaptations and their evolution, we ultimately do need to think about fitness in terms of the frequencies of gene alleles that give rise to those phenotypes. Allele frequency over generations depends little on the survivability of an individual animal, and more on how much that animal reproduces (and how well its offspring reproduce).
-
-[^heritability]: If an individual has an advantageous trait, then it is more likely to reproduce. Since traits pass from parents to offspring (*heritability*), then offspring are likely to inherit advantageous
-traits. Over time, advantageous traits become more common in a population.
+> ⏳ 20 min 
 
 Use the ***Intro*** section of the following simulation to examine the interaction between selection pressures and the phenotypic distribution of a population. Focus on the phenotypes, phenotype frequencies, and selection pressures. Do not focus on the issues of dominant/recessive alleles and allele frequency. 
 
@@ -50,16 +25,47 @@ Once you start the simulation, *add a mate* and introduce a dominant mutation. L
 
 ***Q: In this simulation, what were the selective pressures that effected relative phenotype distributions in the bunny species?***
 
+⏹️ STOP here for homework in preparation of class
+
+:::
+
+(evolution_day1)=
+## General evolutionary concepts
+
+> ⏳ 10 min 
+
+To the best of your group's ability...
+
+***Q: Define 'adaptation'***
+
+***Q: What is the main difference between 'evolution' and 'natural selection'?***
+
+***Q: Does natural selection cause variation in a traits over time?***
+
+
 ⏸️ PAUSE here for class-wide discussion
+
+---
+
+## Selective Pressure
+
+:::{admonition} Assumptions
+A fundamental assumption in the contemporary study of animal behaivor, is that behavior is an adaptation to changing needs and a changing environment that maximizes evolutionary fitness[^fitness] (it evolves by natural selection). Another key assumption is that behavioral phenotypes are *heritable* across generations (that there is a strong *genetic* component, though we won't get into any actual genetics yet)[^heritability].
+:::
+
+[^fitness]: In other words, behavior can convey reproductive advantage. We won't by more explicit about fitness from the perspective of alleles themselves until we have reviewed Genetics as a class. When we talk about fitness, we can think about how well an animal survives. When we talk about phenotypes as adaptations and their evolution, we ultimately do need to think about fitness in terms of the frequencies of gene alleles that give rise to those phenotypes. Allele frequency over generations depends little on the survivability of an individual animal, and more on how much that animal reproduces (and how well its offspring reproduce).
+
+[^heritability]: If an individual has an advantageous trait, then it is more likely to reproduce. Since traits pass from parents to offspring (*heritability*), then offspring are likely to inherit advantageous
+traits. Over time, advantageous traits become more common in a population.
 
 
 ## Case Study on adaptation: exploitation of behavioral patterns
 
-Behavioral patterns that are stereotyped (ie. FAPs) are, by definition, predictable. As you know from [experiments that test for sign stimuli of FAPs](../observation-and-analysis/components), if a sign stimulus is encountered, then the FAP will be released, regardless of the source of that sign stimulus[^unless-inhibited]. This *sign stimulus : FAP* pair can be thought of as a code. *Code breaking* describes "inappropriate" release of an FAP by another animal. 
+Behavioral patterns that are stereotyped (ie. FAPs) are, by definition, predictable. As you know from [experiments that test for sign stimuli of FAPs](FAPs-sign-stimuli), if a sign stimulus is encountered, then the FAP will be released, regardless of the source of that sign stimulus[^unless-inhibited]. This *sign stimulus : FAP* pair can be thought of as a code. *Code breaking* describes "inappropriate" release of an FAP by another animal. 
 
 [^unless-inhibited]: There are many examples of the effect of a sign stimulus being inhibited by a concurrent, but different, stimulus. The effects of sign stimuli can also be enhanced by additional stimuli. 
 
-In solitary ground nesting bee species (that includes the bee families, Andrenidae, Apidae, Colletidae, and Halictidae), females dig nests in which they deposit and provision their fertilized eggs with pollen after mating[^Neff-2008].
+In solitary ground nesting bee species (that includes the bee families: Andrenidae, Apidae, Colletidae, and Halictidae), females dig nests in which they deposit and provision their fertilized eggs with pollen after mating[^Neff-2008].
 
 [^Neff-2008]: [Neff, J.L. Components of nest provisioning behavior in solitary bees (Hymenoptera: Apoidea). Apidologie 39, 30–45 (2008).](https://doi.org/10.1051/apido:2007055)
 
@@ -72,7 +78,7 @@ Left, a female solitary bee collecting pollen. Right, a female solitary bee prov
 :::
 
 
-Males desperately seek females to mate with. They patrol the nesting aggregation in large numbers and form [‘mating balls’ in which multiple males grapple with each other and attempt to couple with the female](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jinsectscience/18/4/10.1093_jisesa_iey083/2/iey083_suppl_supplementary_online_resource_4.mp4?Expires=1662209471&Signature=Xcqvmc4xBv4Sb6dRayNr5imKMWW3S4SblcADJfI~r04kU0sOjtsHy-TaBWHqoOAB3D7ESd9awMmnwbeNEprqywMoOUhhT~mRRMUKctFxEaoN8smR953C1a2qsmI~-u3MNdDB0jfjwXiRBIASJKyIKVD8DTDLyPYmHq6k4cFGkPz2JUwim-maUvWUrV5SszZXDa5E4hMvIqUCr-UirLTNbddge5STeot3Yf2VR4cwvW1FoNTmpEqTzMVYDmrdJxP9DWimVicj6dI1xfC-O~D2fYiqzXuyklY~0NF6MAGJVMt1b1rYyJcKbYseuqoRXVT90VTnA50rvEysdnWmpvS6qw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)[^entomology-today][^Russell2018]. The mating sequence of males comprises several actions that are organized according to stereotyped transition probabilities[^Russell2018]. 
+Males desperately seek females to mate with. They patrol the nesting aggregation in large numbers and form [‘mating balls’ in which multiple males grapple with each other and attempt to pair up with the female](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jinsectscience/18/4/10.1093_jisesa_iey083/2/iey083_suppl_supplementary_online_resource_4.mp4?Expires=1662209471&Signature=Xcqvmc4xBv4Sb6dRayNr5imKMWW3S4SblcADJfI~r04kU0sOjtsHy-TaBWHqoOAB3D7ESd9awMmnwbeNEprqywMoOUhhT~mRRMUKctFxEaoN8smR953C1a2qsmI~-u3MNdDB0jfjwXiRBIASJKyIKVD8DTDLyPYmHq6k4cFGkPz2JUwim-maUvWUrV5SszZXDa5E4hMvIqUCr-UirLTNbddge5STeot3Yf2VR4cwvW1FoNTmpEqTzMVYDmrdJxP9DWimVicj6dI1xfC-O~D2fYiqzXuyklY~0NF6MAGJVMt1b1rYyJcKbYseuqoRXVT90VTnA50rvEysdnWmpvS6qw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)[^entomology-today][^Russell2018]. The mating sequence of males comprises several actions that are organized according to stereotyped transition probabilities[^Russell2018]. 
 
 [^entomology-today]: [Busy Bees: An Up-Close Look at One Bee Species’ Scramble to Mate](https://entomologytoday.org/2018/09/13/busy-bees-up-close-look-one-bee-species-scramble-mate-diadasia-rinconis/)
 [^Russell2018]: [Avery L Russell, Stephen L Buchmann, William de O Sabino, Daniel R Papaj, (2018) Brawls Bring Buzz: Male Size Influences Competition and Courtship in Diadasia rinconis (Hymenoptera: Apidae), Journal of Insect Science, 18(4)](https://doi.org/10.1093/jisesa/iey083)
@@ -109,7 +115,6 @@ Top Left, a female blister beetle depositing eggs on a plant stalk. Top Right, d
 ⏸️ PAUSE here for class-wide discussion
 
 
-(day2_evolution)=
 ## Evolutionary Models
 
 :::{admonition} Why?
@@ -119,13 +124,16 @@ Mathematical models are abstractions that strive to have predictive power (with 
 
 We will start with two common types of evolutionary models: [Optimality Theory](optimality-theory) and [Game Theory](game-theory)
 
+:::{index} optimality theory
+:::
+
 (optimality-theory)=
 ### Optimality Theory
 
 Remember observing and quantifying [vigilance behavior](../observation-and-analysis/observation)? From an evolutionary perspective, let's think about how to understand vigilance behavior using an optimality theory model. 
 
 ---
-> ⏳ 5
+> ⏳ 10
 
 Consider the two alternative phenotypes: *vigilant* and *not vigilant*.  
 Let's start by including two factors in the model:
@@ -189,7 +197,7 @@ $$
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 5
+> ⏳ 10
 
 ***Q: Given that the model that you just explored were examples of 'Optimality Theory Models,' how would you define 'optimality theory'?***
 
@@ -197,6 +205,9 @@ $$
 
 ⏹️ STOP here for today
 
+---
+:::{index} game theory
+:::
 
 (game-theory)=
 ### Game theory
@@ -204,7 +215,7 @@ $$
 There are many cases where the fitness associated with a particular behavior depends on what others are doing. Thus, what is best will depend on what everyone else in the population is doing (and therefore on the likelihood of certain types of interactions with certain types of fitness consequences). Game theory is like optimality theory in many ways, but it takes into account *selective pressure from conspecifics* and *the proportion in which other phenotypes exist*. 
 
 ---
-> ⏳ 10
+> ⏳ 15
 
 Let's practice with a common model for variation in conflict resolution phenotypes: *fighter* and *pacifist*. 
 
@@ -290,7 +301,7 @@ The conditions that you acted out were: $v=2$ and $c=1$.
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 
+> ⏳ 10
 
 Consider a new set of conditions. For example, what about an environment in which there are more predators. In this environment, the cost of losing a fight is greater because if you are injured, you have a high probability of being eaten by a predator. Consider that $v=2$ and $c=3$.  
 
@@ -301,8 +312,6 @@ Consider a new set of conditions. For example, what about an environment in whic
 
 ⏸️ PAUSE here for class-wide discussion
 
----
-> ⏳ 
 
 Game theory models like the pacifist : fighter model you have been considering, are often represented in tabular format.
 
@@ -315,16 +324,12 @@ A tabular representation of the game theory model for *pacifist* versus *fighter
 :::
 
 
-⏸️ PAUSE here for class-wide discussion
-
 ---
-> ⏳ 5
-
+> ⏳ 20
 
 [Simulating the Evolution of Aggression](https://youtu.be/YNMkADpvO4w)
 
 ***Q: What is the paradox here?***
-
 
 
 ⏹️ STOP here for today
@@ -343,3 +348,5 @@ A tabular representation of the game theory model for *pacifist* versus *fighter
 - [Game Theory 101: The Hawk-Dove Game at YouTube](https://youtu.be/RAKjII7xCdk)
 - [Fitzpatrick, M., Feder, E., Rowe, L. et al. Maintaining a behaviour polymorphism by frequency-dependent selection on a single gene. Nature 447, 210–212 (2007).](https://doi.org/10.1038/nature05764) provides and example of negative frequency-dependent selection in which the underlying genes for the behavioral variation is known. 
 - [Common Descent Podcast, Episode 56: The Evolution of Evolutionary Theory](https://www.youtube.com/watch?v=dPFwp7zC8RY&list=PLfdiT8Klm_YPa0lNVa9ygwAjy_1Lpz9_S&index=60)
+- [Game Theory Tutorial: Conflict, Probability, Stable Strategies](http://pages.nbb.cornell.edu/Gamebug/conflict.html)
+- [Game Theory Tutorial: Territoriality (conflict II)](http://pages.nbb.cornell.edu/Gamebug/conflict2.html)

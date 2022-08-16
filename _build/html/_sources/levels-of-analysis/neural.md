@@ -183,3 +183,4 @@ Neuroscience seeks to understand how neural circuits orchestrate behavior. Neuro
 - [Basic NeuroAnatomy](https://learn.genetics.utah.edu/content/neuroscience/neurons)
 - [Ronacher, B. Innate releasing mechanisms and fixed action patterns: basic ethological concepts as drivers for neuroethological studies on acoustic communication in Orthoptera. J Comp Physiol A 205, 33–50 (2019).](https://doi.org/10.1007/s00359-018-01311-3)
   > This paper provides a framework for linking fundamental course concepts discussed so far
+- [The Neural Control of Movement (2020) FULL BOOK. Edited by: Patrick J. Whelan and Simon A. Sharples](https://doi.org/10.1016/C2018-0-00499-5)
