@@ -1,3 +1,3 @@
-# Scales of Sociality
+# Social Spectrum
 
 solitary to cooperation to eusocial

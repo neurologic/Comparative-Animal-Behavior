@@ -19,8 +19,8 @@ Any assignments listed on the schedule should be completed before the class star
 | **Oct 11** | Neural | review Lorenz pg 83-88; <br> [Ronacher, B. Innate releasing mechanisms and fixed action patterns: basic ethological concepts as drivers for neuroethological studies on acoustic communication in Orthoptera. J Comp Physiol A 205, 33–50 (2019)](https://doi.org/10.1007/s00359-018-01311-3) | [](../levels-of-analysis/neural) |
 | Oct 13 | Hormonal | none | [](../levels-of-analysis/hormonal) |
 | **Oct 18** | Endogenous Rhythms | none | [](../levels-of-analysis/endogenous-rhythms) |
-| Oct 20 | Development | none | [](../levels-of-analysis/development) |
-| Oct 27 | Genetic | none | [](../understanding-behavior/genetic) |
+| Oct 20 | Genetic | none | [](../levels-of-analysis/genetic) |
+| Oct 27 | Development | none | [](../levels-of-analysis/development) |
 | **Nov 1** | Navigation |  | [](../understanding-behavior/navigation) |
 | Nov 3 | Escape |  | [](../understanding-behavior/escape) |
 | **Nov 8** | Social Spectrum - Grouping and Cooperation |  | [](../understanding-behavior/scales-of-sociality) |

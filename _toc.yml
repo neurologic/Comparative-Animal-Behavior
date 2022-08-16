@@ -25,15 +25,15 @@ parts:
     - file: levels-of-analysis/neural-hormonal-genetic
       sections:
         - file: levels-of-analysis/neural
-        - file: levels-of-analysis/genetic
         - file: levels-of-analysis/hormonal
+        - file: levels-of-analysis/endogenous-rhythms
+        - file: levels-of-analysis/genetic
     - file: levels-of-analysis/development
   - caption: Understanding Behavior
     chapters:
-    - file: understanding-behavior/endogenous-rhythms
     - file: understanding-behavior/navigation
     - file: understanding-behavior/escape
-    - file: understanding-behavior/scales-of-sociality
+    - file: understanding-behavior/social-spectrum
       sections:
         - file: understanding-behavior/cooperation
         - file: understanding-behavior/eusociality
