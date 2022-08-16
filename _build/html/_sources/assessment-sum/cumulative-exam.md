@@ -1,4 +1,4 @@
-# AcCummulative Exam
+# Cumulative Exam
 
 The assignments will be released on a rolling schedule approximately 1-2 class sessions after the material has been covered in class to allow you time to review and ask questions before receiving the assignment. I have tried to make the release dates on Thursday and the Due dates on Monday (but note interruptions due to University breaks). Once the assignment is released, you may not discuss the questions nor any relevant course content with each other. Any questions about the assignment must be directed to the Instructor or the TA.
 
