@@ -185,7 +185,7 @@ Examine the following two *ancestral state reconstruction* hypotheses and their 
 An ancestral state reconstruction under Hypothesis \#1 on the phylogenetic tree of 7 turtle species. Relatedness and branch lengths were calculated from the MUSCLE alignement data of the 16S ribosomal RNA partial gene sequence using BioPython.
 :::
 
-***Hypothesis \#2***: The LCA of this turtle phylogeny was solitary. A consequence of this hypothesis would be that colonialism is an evolutionarily derived behavior in green turtles. 
+***Hypothesis \#2***: The LCA of this turtle phylogeny was solitary.  
 
 :::{figure-md} turtles_cladogram_LCA0
 :class: figure

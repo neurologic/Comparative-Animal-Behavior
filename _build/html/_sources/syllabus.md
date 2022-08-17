@@ -10,11 +10,26 @@
 **Classroom Sessions**  
 Tuesdays and Thursdays 8:50-10:10am
 
+:::{epigraph}
+Education is not the learning of facts, but the training of the mind to think.
+
+-- Albert Einstein 
+:::
+
+:::{epigraph}
+The mind is not a vessel that needs filling, but wood that needs igniting.
+
+-- Plutarch 
+:::
+
 ## Background and Introduction  
 
 As an introduction to the study of animal behavior, this course will examine the factors that control the behavior of vertebrates and invertebrates within evolutionary, and physiological contexts. All animals face similar challenges and we will examine the common, and sometimes unique, behavioral strategies used to meet these challenges. This kind of comparative approach is paramount to ethology, which is the scientific study of animal behavior. Animal behavior is the main subject of this course, and the overarching goal is learning what it means to understand animal behavior through the scientific method. To achieve this goal, you will practice synthesizing knowledge and approaches from diverse fields of science that you have already encountered in your studies: genetics, evolutionary biology and ecology, developmental biology, neuroscience, molecular biology, and psychology (to name a few). 
 
-This class is about more than Animal Behavior as a topic itself. Although content mastery is important, the vast majority of students in STEM classes at the University level (especially in Introductory classes where breadth is a feature of the curriculum) are unlikely to be regularly applying most (if any) of the specific content knowledge outside of the course. This is not to diminish the importance of this content, but rather to emphasize that the development of ones interests for future in depth study and the development of other skills (particularly thinking, learning, communication, and interpersonal skills) that are useful and transferable over the course of an individual’s lifetime. 
+This class is about more than Animal Behavior as a topic itself. The content of the topic "animal behavior" is vast. This course has been curated to help you develop skills to "think like an animal behavior scientist" - a priority greater than the task of '*knowing*' the details of any specific behaviors. Outside of the course, many of you are unlikely to be regularly applying most (if any) of the specific content knowledge about each sub-topic or behavior that we explore inside this course. This is not to diminish the importance of this content, but rather to emphasize the importance of getting more than just knowledge out of this (and any) classroom experience. In this course (and others) I hope you find inspiration and develop *your own interests*, which you have developed the skills to go on to study in depth in your own unique ways. 
+
+You are encouraged to *scrutinise* and *question* learning material as you explore topics in your own way. I, as the instructor, am here to serve as your coach from the sidelines. The goal is for you to develop your own understanding of the topics and practice the skills needed to be a life-long learner -- skills that you can apply to learning anything, in academia, your career, or life in general. Among the broader skill goals that you will be working on are: Communication, Collaboration, Critical Thinking, and Creativity.
+
 
 Of you I ask:
 - Respect to yourself and others in the class.
@@ -46,11 +61,14 @@ Class rosters are provided to the instructor with the student's legal name. I wi
 
 
 ## Classroom Sessions
+Please bring a computer or tablet (or similar) to class. If this is not possible, please discuss with me so that I can help. 
+
+Classroom format:
 1. Students are expected to work collaboratively, generally in groups of three or four.
 2. The students work on the activity during class time with a facilitator present.
 3. The dominant mode of instruction is not lecture or instructor-centered; the instructor serves predominantly as a facilitator of student learning.
 4. Students have assigned (rotating) roles within their groups.
-5. The activities are designed to be the first introduction to the topic or specific content. You won't necessarily "know the answer" before you start. 
+5. The activities are designed to draw on your past knowledge and critical thinking skills to introduce terms and concepts. You won't necessarily "know the answers" before you start. 
 6. Groups are expected to complete all of the Questions during class. There may be additional exercises or problems expected to be completed outside of class.
 
 For group in-class work, specific roles are:[^roles-details]
@@ -109,7 +127,7 @@ For group in-class work, specific roles are:[^roles-details]
       - Runs internet queries to help progress group discussion if it gets stuck
 
 **Class Preparation**  
-In preparation for class, complete any "Assignments" listed in the [Schedule](../schedule) page. Sometimes this will include producing work that you bring to the corresponding classroom session, other times it will just include readings. Readings are meant to reinforce the concepts that are introduced (either before or after) through classroom activities and discussion.
+In preparation for class, complete any "Assignments" listed in the [Schedule](../schedule) page. Sometimes this will include producing work that you bring to the corresponding classroom session, other times it will just include readings or listenings. Readings and listenings are meant to reinforce the concepts that are introduced (either before or after) through classroom activities and discussion.
 
 ## Grading
 All graded work will be handed in via Gradescope.

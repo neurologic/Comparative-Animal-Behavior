@@ -12,7 +12,6 @@ Use the ***Intro*** section of the following simulation to examine the interacti
 
 Once you start the simulation, *add a mate* and introduce a dominant mutation. Let the populaton grow for 2-3 generations before manipulationg any of the other factors in the simulation. Then experiment with different available manipulations and take notes on the results you observe across manipulations that you try. 
 
-<a id='natural-selection-simulation'></a>
 <iframe src="https://phet.colorado.edu/sims/html/natural-selection/latest/natural-selection_en.html"
         width="800"
         height="600"
@@ -130,23 +129,23 @@ We will start with two common types of evolutionary models: [Optimality Theory](
 (optimality-theory)=
 ### Optimality Theory
 
-Remember observing and quantifying [vigilance behavior](../observation-and-analysis/observation)? From an evolutionary perspective, let's think about how to understand vigilance behavior using an optimality theory model. 
+Remember observing and quantifying [vigilance behavior in meerkats](activity-budget-assignment)? From an evolutionary perspective, let's think about how to understand vigilance behavior using an optimality theory model. 
 
 ---
 > ⏳ 10
 
 Consider the two alternative phenotypes: *vigilant* and *not vigilant*.  
 Let's start by including two factors in the model:
-- $t$ = time foraging (searching for and eating food)
-- $e$ = probability of escaping a predator 
+- time available to forage (searching for and eating food)
+- probability of avoiding/escaping a predator
 
-***Q: In terms of time foraging and probability of escape from predation, what is the 'benefit' of being vigilant comparted to being not vigilant?***
+***Q: In terms of time foraging and probability of escape from predation, what is the 'benefit' of being vigilant compared to being not vigilant?***
 
-***Q: In terms of time foraging and probability of escape from predation, what is the 'cost' of being vigilant comparted to being not vigilant?***
+***Q: In terms of time foraging and probability of escape from predation, what is the 'cost' of being vigilant compared to being not vigilant?***
 
-***Q: In terms of time foraging and probability of escape from predation, what is the 'benefit' of being not vigilant comparted to being vigilant?***
+***Q: In terms of time foraging and probability of escape from predation, what is the 'benefit' of being not vigilant compared to being vigilant?***
 
-***Q: In terms of time foraging and probability of escape from predation, what is the 'cost' of being not vigilant comparted to being vigilant?***
+***Q: In terms of time foraging and probability of escape from predation, what is the 'cost' of being not vigilant compared to being vigilant?***
 
 We often come across evolutionary explanations in terms of *costs* and *benefits*. As you see from this example, these terms are relative. Therefore, it is more generalizable to talk in terms of *factors* rather than costs or benefits per se. 
 
@@ -161,6 +160,7 @@ Let's formalize our first optimality theory model in terms of a mathematical exp
 $$
   F = t + e
 $$
+where $t$ = time foraging (searching for and eating food) and $e$ = probability of escaping a predator.  
 
 If there are multiple possible phenotypes (in this case vigilant or not vigilant), then the phenotype that confers greater total fitness to the animal will be favored by natural selection. Therefore, the solution to an optimality model is to find the point (phenotype) where net fitness ($F$) is maximized.
 
@@ -178,7 +178,7 @@ If there are multiple possible phenotypes (in this case vigilant or not vigilant
 ---
 > ⏳ 10
 
-Consider how environments can differ. Do all environments have the same amount or quality of food? What about predators? As you experienced in the [Natural Selection Simulation](#natural-selection-simulation), environments exert selective pressure on phenotypes, which means that changing environments can change the relative fitness of two phenotypes.  
+Consider how environments can differ. Do all environments have the same amount or quality of food? What about predators? As you experienced in the [Natural Selection Simulation](natural-selection-simulation), environments exert selective pressure on phenotypes, which means that changing environments can change the relative fitness of two phenotypes.  
 Let's account for the effect of environment by adding two new variables to the model: 
 - $q$ = the quality or amount of food available
 - $p$ = the number of predators
