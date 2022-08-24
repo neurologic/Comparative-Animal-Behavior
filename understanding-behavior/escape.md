@@ -9,3 +9,7 @@ Giant Fiber
 Mauthner cell (and code breaking)
 Random trajectory of moth escape
 Unpredictability in c. elegans
+
+## Additional Resources
+
+- [Neural mechanisms of startle behavior Eaton, Robert C. New York : Plenum Press; ©1984](https://link.springer.com/book/10.1007/978-1-4899-2286-1). Available , Stacks (2nd Floor) ; QP372.6 .N48 1984
