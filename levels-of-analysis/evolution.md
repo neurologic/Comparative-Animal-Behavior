@@ -60,11 +60,11 @@ traits. Over time, advantageous traits become more common in a population.
 
 ## Case Study on adaptation: exploitation of behavioral patterns
 
-Behavioral patterns that are stereotyped (ie. FAPs) are, by definition, predictable. As you know from [experiments that test for sign stimuli of FAPs](FAPs-sign-stimuli), if a sign stimulus is encountered, then the FAP will be released, regardless of the source of that sign stimulus[^unless-inhibited]. This *sign stimulus : FAP* pair can be thought of as a code. *Code breaking* describes "inappropriate" release of an FAP by another animal. 
+Behavioral patterns that are stereotyped (ie. FAPs) are, by definition, predictable. As you know from [experiments that test for sign stimuli of FAPs](FAPs-sign-stimuli), if a sign stimulus is encountered, then the FAP will be released, regardless of the source of that sign stimulus[^unless-inhibited]. This *sign stimulus : FAP* pair can be thought of as a code. ***Code breaking*** describes the "inappropriate" release of an FAP by another animal. 
 
 [^unless-inhibited]: There are many examples of the effect of a sign stimulus being inhibited by a concurrent, but different, stimulus. The effects of sign stimuli can also be enhanced by additional stimuli. 
 
-In solitary ground nesting bee species (that includes the bee families: Andrenidae, Apidae, Colletidae, and Halictidae), females dig nests in which they deposit and provision their fertilized eggs with pollen after mating[^Neff-2008].
+In solitary ground nesting bee species (that includes the bee families: *Andrenidae*, *Apidae*, *Colletidae*, and *Halictidae*), females dig nests in which they deposit and provision their fertilized eggs with pollen after mating[^Neff-2008].
 
 [^Neff-2008]: [Neff, J.L. Components of nest provisioning behavior in solitary bees (Hymenoptera: Apoidea). Apidologie 39, 30–45 (2008).](https://doi.org/10.1051/apido:2007055)
 
@@ -77,12 +77,12 @@ Left, a female solitary bee collecting pollen. Right, a female solitary bee prov
 :::
 
 
-Males desperately seek females to mate with. They patrol the nesting aggregation in large numbers and form [‘mating balls’ in which multiple males grapple with each other and attempt to pair up with the female](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jinsectscience/18/4/10.1093_jisesa_iey083/2/iey083_suppl_supplementary_online_resource_4.mp4?Expires=1662209471&Signature=Xcqvmc4xBv4Sb6dRayNr5imKMWW3S4SblcADJfI~r04kU0sOjtsHy-TaBWHqoOAB3D7ESd9awMmnwbeNEprqywMoOUhhT~mRRMUKctFxEaoN8smR953C1a2qsmI~-u3MNdDB0jfjwXiRBIASJKyIKVD8DTDLyPYmHq6k4cFGkPz2JUwim-maUvWUrV5SszZXDa5E4hMvIqUCr-UirLTNbddge5STeot3Yf2VR4cwvW1FoNTmpEqTzMVYDmrdJxP9DWimVicj6dI1xfC-O~D2fYiqzXuyklY~0NF6MAGJVMt1b1rYyJcKbYseuqoRXVT90VTnA50rvEysdnWmpvS6qw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)[^entomology-today][^Russell2018]. The mating sequence of males comprises several actions that are organized according to stereotyped transition probabilities[^Russell2018]. 
+Males desperately seek females to mate with. They patrol nesting areas in large numbers and form [‘mating balls’ in which multiple males grapple with each other and attempt to pair up with the female](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jinsectscience/18/4/10.1093_jisesa_iey083/2/iey083_suppl_supplementary_online_resource_4.mp4?Expires=1662209471&Signature=Xcqvmc4xBv4Sb6dRayNr5imKMWW3S4SblcADJfI~r04kU0sOjtsHy-TaBWHqoOAB3D7ESd9awMmnwbeNEprqywMoOUhhT~mRRMUKctFxEaoN8smR953C1a2qsmI~-u3MNdDB0jfjwXiRBIASJKyIKVD8DTDLyPYmHq6k4cFGkPz2JUwim-maUvWUrV5SszZXDa5E4hMvIqUCr-UirLTNbddge5STeot3Yf2VR4cwvW1FoNTmpEqTzMVYDmrdJxP9DWimVicj6dI1xfC-O~D2fYiqzXuyklY~0NF6MAGJVMt1b1rYyJcKbYseuqoRXVT90VTnA50rvEysdnWmpvS6qw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)[^entomology-today][^Russell2018]. The mating sequence of males comprises several FAPs that are organized according to stereotyped transition probabilities[^Russell2018]. 
 
 [^entomology-today]: [Busy Bees: An Up-Close Look at One Bee Species’ Scramble to Mate](https://entomologytoday.org/2018/09/13/busy-bees-up-close-look-one-bee-species-scramble-mate-diadasia-rinconis/)
 [^Russell2018]: [Avery L Russell, Stephen L Buchmann, William de O Sabino, Daniel R Papaj, (2018) Brawls Bring Buzz: Male Size Influences Competition and Courtship in Diadasia rinconis (Hymenoptera: Apidae), Journal of Insect Science, 18(4)](https://doi.org/10.1093/jisesa/iey083)
 
-Males also *mate* with aggregates of larval blister beetles. During attempted copulation, the larvae hitch a ride on the male. When the male bee mates with a female bee, the larvae can transfer to the female and hitch a ride back to the female's nest. The larvae are parasitic and feed off of the provisions in the nest that were intended for the bee larvae.
+*But*, males also *mate* with aggregates of larval blister beetles. During attempted copulation, the larvae hitch a ride on the male. When the male bee later mates with a female bee, the larvae can then transfer to the female and hitch a ride back to the female's nest. The larvae are parasitic and feed off of the provisions in the nest that were intended for the bee larvae.
 
 :::{figure-md}
 :class: figure
@@ -95,7 +95,7 @@ Top Left, a female blister beetle depositing eggs on a plant stalk. Top Right, d
 ---
 > ⏳ 10 min 
 
-***Q: Based on the information given, what do you think could be the sign stimulus that releases mating behavior in the male bee? Name at least two potential alternatives.***
+***Q: Based on the information given, what do you think could be the sign stimulus that releases mating FAPs in the male bee? Name at least two potential alternatives.***
 
 ***Q: What testable predictions could you come up with for those alternative hypotheses?***
 
@@ -121,7 +121,7 @@ Ultimately, to *understand* a behavioral phenotype from an evolutionary perspect
 Mathematical models are abstractions that strive to have predictive power (with varying degrees of precision). Models represent a scientist's best informed guess as to the identity and function of important variables and the ways these variables interact with each other.
 :::
 
-We will start with two common types of evolutionary models: [Optimality Theory](optimality-theory) and [Game Theory](game-theory)
+To of the most common types of evolutionary models are [Optimality Theory](optimality-theory) and [Game Theory](game-theory)
 
 :::{index} optimality theory
 :::
@@ -129,13 +129,13 @@ We will start with two common types of evolutionary models: [Optimality Theory](
 (optimality-theory)=
 ### Optimality Theory
 
-Remember observing and quantifying [vigilance behavior in meerkats](activity-budget-assignment)? From an evolutionary perspective, let's think about how to understand vigilance behavior using an optimality theory model. 
+Remember observing and quantifying [vigilance behavior in meerkats](activity-budget-assignment)? From an evolutionary perspective, let's think about how to understand vigilance behavior using an optimality theory modeling approach. 
 
 ---
 > ⏳ 10
 
 Consider the two alternative phenotypes: *vigilant* and *not vigilant*.  
-Let's start by including two factors in the model:
+Let's start by examining two factors that likely exert selective pressure on this behavioral variation:
 - time available to forage (searching for and eating food)
 - probability of avoiding/escaping a predator
 
@@ -147,7 +147,7 @@ Let's start by including two factors in the model:
 
 ***Q: In terms of time foraging and probability of escape from predation, what is the 'cost' of being not vigilant compared to being vigilant?***
 
-We often come across evolutionary explanations in terms of *costs* and *benefits*. As you see from this example, these terms are relative. Therefore, it is more generalizable to talk in terms of *factors* rather than costs or benefits per se. 
+We often come across evolutionary explanations in terms of *costs* and *benefits*. As you see from this example, these terms are relative. Therefore, it is more *generalizable* to talk in terms of *factors* rather than costs or benefits per se. 
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -155,14 +155,14 @@ We often come across evolutionary explanations in terms of *costs* and *benefits
 ---
 > ⏳ 10
 
-Let's formalize our first optimality theory model in terms of a mathematical expression for $F$, the net fitness of a phenotype.
+Let's formalize an optimality theory model for $F$, the net fitness of a phenotype, in terms of the two factors you just examined.
 
 $$
   F = t + e
 $$
 where $t$ = time foraging (searching for and eating food) and $e$ = probability of escaping a predator.  
 
-If there are multiple possible phenotypes (in this case vigilant or not vigilant), then the phenotype that confers greater total fitness to the animal will be favored by natural selection. Therefore, the solution to an optimality model is to find the point (phenotype) where net fitness ($F$) is maximized.
+If there are multiple possible phenotypes (in this case *vigilant* or *not vigilant*), then, by optimality theory, the phenotype that confers greater total fitness to the animal will be favored by natural selection. Therefore, the solution to an optimality model is to find the point (phenotype) where net fitness ($F$) is maximized.
 
 ***Q: Would the vigilant phenotype or the not vigilant phenotype have a higher value of $t$?***
 
@@ -178,7 +178,7 @@ If there are multiple possible phenotypes (in this case vigilant or not vigilant
 ---
 > ⏳ 10
 
-Consider how environments can differ. Do all environments have the same amount or quality of food? What about predators? As you experienced in the [Natural Selection Simulation](natural-selection-simulation), environments exert selective pressure on phenotypes, which means that changing environments can change the relative fitness of two phenotypes.  
+Consider how environments can differ. Do all environments have the same amount or quality of food? What about predators? As you experienced in the [Natural Selection Simulation](natural-selection-simulation), environments exert selective pressure on phenotypes, which means that changing environments can change the relative fitness of two phenotypes... but how?  
 Let's account for the effect of environment by adding two new variables to the model: 
 - $q$ = the quality or amount of food available
 - $p$ = the number of predators
@@ -191,7 +191,7 @@ $$
 
 ***Q: Based on this revised model, in an environment with a lot of predators and low food quality, which phenotype would you predict to be favored by natural selection?***
 
-***Q: Does this revision of the model change your ability to solve the model?***
+***Q: Does this revision of the model change your ability to solve the model? If so, then in what ways? If not, then why not?***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -199,9 +199,9 @@ $$
 ---
 > ⏳ 10
 
-***Q: Given that the model that you just explored were examples of 'Optimality Theory Models,' how would you define 'optimality theory'?***
+***Q: Given that the models you just explored were examples of 'Optimality Theory Models,' how would you define 'optimality theory'?***
 
-***Q: What happens if your model did not correctly predict vigilance behavior of a population that you were studying?***
+***Q: What would you do next if your model did not correctly predict vigilance behavior of a population that you were studying?***
 
 ⏹️ STOP here for today
 
@@ -212,50 +212,54 @@ $$
 (game-theory)=
 ### Game theory
 
-There are many cases where the fitness associated with a particular behavior depends on what others are doing. Thus, what is best will depend on what everyone else in the population is doing (and therefore on the likelihood of certain types of interactions with certain types of fitness consequences). Game theory is like optimality theory in many ways, but it takes into account *selective pressure from conspecifics* and *the proportion in which other phenotypes exist*. 
+There are many cases in which the fitness associated with a particular behavior depends on what other conspecifics are doing. Thus, what is evolutionarily favored will depend on the distribution of phenotypic variation in the population (and therefore on the likelihood of certain phenotypes interacting, each with different fitness consequences). Game theory is like optimality theory in many ways, but it takes into account ***selective pressure from conspecifics*** and ***the proportion in which other phenotypes exist***. 
 
 ---
 > ⏳ 15
 
-Let's practice with a common model for variation in conflict resolution phenotypes: *fighter* and *pacifist*. 
+Let's work through the logic of a game theory modeling approach using a common example from conflict resolution behavior. In the basic form of this model, there are two possible behavioral phenotypes: *fighter* and *pacifist*. 
 
-:::{admonition} Fighter-Pacifist model
-*Fighters* always fight when challenged until the resource is won. In the simplest case, each fighter has a 50% chance of winning the resource. 
-*Pacifists* try to share the resource, but back down immediately when challenged with a fight (they don't engage in any fighting, which means they give up the resource completely).  
-In the model, let's include two factors that can contribute to an animal's fitness: the *resource* and a *fight*: 
-- $v$ = the energy gained by obtaining the limited resource
-- $c$ = the damage done by losing a fight over a resource
+(gt-model-setup_fp)=
+:::{admonition} Setting up the conflict resolution game theory model
+There are two possible behavioral strategies (phenotypes)
+1. *Fighters* always fight when challenged until the resource is won. In the simplest case, each fighter has a 50% chance of winning the resource. 
+2. *Pacifists* try to share the resource, but back down immediately when challenged with a fight (they don't engage in any fighting, which means they give up the resource completely).  
+
+There are two factors that can contribute to an animal's fitness
+1. $v$ = the energy gained by obtaining the limited resource
+2. $c$ = the damage done by losing a fight over a resource
 :::
 
 What happens when each set of behavioral strategies interact?  
 
 :::{admonition} Play it out 
-Choose two people from the group to be the 'players'. Players act out the game from the perspective of the behavioral *strategies*.  
+Choose two people from the group to be the 'players'. Players act out the game from the perspective of the behavioral *strategies*. There are two different conditions to act out, as described below.
 Choose one person from the group to be the moderator. The moderator starts each round.
+Choose one person from the group to keep track of each player's fitness in the game.
 
-**Condition 1: Pacifists** 
+**Condition 1: A population of Pacifists** 
 Each player represents the pacifist behavior.  
-Choose one player to be the 'focal' player (the one whose fitness gets tallied in the end).  
+Choose one player to be the 'focal' player (the one whose fitness is tracked).  
 
 The moderator places one blue pen on the table. This pen is the 'resource' and it is worth +2 units of fitness.  
-When the moderator says *go*, both players interact over the resource. Decide how the resource will be allocated according to the 'pacifist' behavior.
-After the resource has been allocated, the focal player tallies their net change in fitness after the encounter.  
+When the moderator says *go*, both players interact over the resource. Decide how the resource will be allocated according to the 'pacifist' behavioral strategy described [in the model setup](gt-model-setup_fp).
+After the resource has been allocated, tally the net change in the focal player's fitness as a consequence of the encounter.  
 
 The moderator places the blue pen back on the table and the interaction repeats (trial \#2) when the moderator says *go*.  
 Repeat the interaction for 10 trials total (tallying the focal player's change in net fitness after every encounter)
 
-**Condition 2: Fighters**
+**Condition 2: A population of Fighters**
 Each player represents the fighter behavior.  
-Choose one player to be the 'focal' player (the one whose fitness gets tallied in the end).  
+Choose one player to be the 'focal' player (the one whose fitness is tracked).  
 
 The moderator places one blue pen on the table. This pen is the 'resource' and it is worth +2 units of fitness.  
 The moderator places one red pen on the table. This pen is the consequence of losing a figth and it is worth -1 unit of fitness.
 
-When the moderator says *go*, both players interact over the resource. Decide how the resource and consequence will be allocated according to the 'fighter' behavior (how will you decide who wins the fight on each trial? ...remember that each fighter has a 50% chance of winning the resource).
-After the resource and consequence have been allocated, the focal player tallies their net change in fitness after the encounter (the blue pen is worth +2 and the red pen is worth -1).  
+When the moderator says *go*, both players interact over the resource. Decide how the resource and consequence will be allocated according to the 'fighter' behavior described [in the model setup](gt-model-setup_fp) (how will you decide who wins the fight on each trial? ...remember that each fighter has a 50% chance of winning the resource).
+After the resource and consequence have been allocated, tally the net change in the focal player's fitness as a consequence of the encounter.  
 :::
 
-***Q: Which behavioral strategy would result in a "more fit" population?***
+***Q: Which condition would result in a "more fit" population?***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -263,17 +267,17 @@ After the resource and consequence have been allocated, the focal player tallies
 > ⏳ 10
 
 :::{admonition} Play it out 
-**Condition 2: Pacifist among fighters**
+**Condition 2: Pacifist among a population of Fighters**
 The focal player represents the pacifist behavior. 
 The other player represents the fighter behavior.  
 
 The moderator places one blue pen on the table. This pen is the 'resource' and it is worth +2 units of fitness.  
-The moderator places one red pen on the table. This pen is the consequence of losing a figth and it is worth -1 unit of fitness.
+The moderator places one red pen on the table. This pen is the consequence of losing a fight and it is worth -1 unit of fitness.
 
-When the moderator says *go*, both players interact over the resource. Decide how the resource and consequence will be allocated according to the 'pacifist' behavior encountering a 'fighter' behavior (for example, what happens to the red pen?). After the resource and consequence have been allocated, the focal player tallies their net change in fitness after the encounter (the blue pen is worth +2 and the red pen is worth -1).  
+When the moderator says *go*, both players interact over the resource. Decide how the resource and consequence will be allocated according to the 'pacifist' behavior encountering a 'fighter' behavior as described [in the model setup](gt-model-setup_fp) (for example, what happens to the red pen?). After the resource and consequence have been allocated, tally the net change in the focal player's fitness as a consequence of the encounter.  
 :::
 
-***Q: Make a table that shows the average net fitness (per trial) of each focal behavioral strategy in each behavioral context that you tested.***
+***Q: Make a table that shows the average net fitness of each focal behavioral strategy in each behavioral context that you tested.***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -313,21 +317,21 @@ Consider a new set of conditions. For example, what about an environment in whic
 ⏸️ PAUSE here for class-wide discussion
 
 
-Game theory models like the pacifist : fighter model you have been considering, are often represented in tabular format.
+Game theory models like the pacifist : fighter model you have been considering, are often represented in the following tabular format. It is worth getting familiar with this way of representing game theory models.
 
 :::{figure-md}
 :class: figure
 
 <img src="/images/game-theory-figher-pacifist.jpg" alt="fishy" class="bg-primary mb-1" width="300px">
 
-A tabular representation of the game theory model for *pacifist* versus *fighter* conflict resolution behavioral phenotypes. Each box of the table is split by a diagonal line. The fitness of each phenotype in each player role (green or purple) is written to the left or right (respectively) of each diagonal line.
+A tabular representation of the game theory model of conflict resolution behavior that includes *pacifist* and *fighter* phenotypes. Each box of the table is split by a diagonal line. The fitness of each phenotype in each player role (green or purple) is written to the left or right (respectively) of each diagonal line.
 :::
 
 
 ---
 > ⏳ 20
 
-[Simulating the Evolution of Aggression](https://youtu.be/YNMkADpvO4w)
+Let's watch this [simulation on the evolution of conflict resolution behavior](https://youtu.be/YNMkADpvO4w) to gain more perspective on the logic of game theory models for behavioral evolution. 
 
 ***Q: What is the paradox here?***
 
@@ -340,7 +344,7 @@ A tabular representation of the game theory model for *pacifist* versus *fighter
 - [Observations of the blister beetle Stenoria analis (SCHAUM, 1859) in a colony of the ivy bee Colletes hederae SCHMIDT & WESTRICH, 1993 in the botanical garden of Gießen in 2016 and 2017](https://www.kerbtier.de/Pages/Themenseiten/enStenoria.html) © Hans Bahmer, 2017
 - [Modeling Behavior: Game and Optimality Theory](https://college.holycross.edu/faculty/kprestwi/behavior/ESS/ESS_introModels.html) from Holy Cross College
 - [Game Theory and Evolutionarily Stable Strategies](https://college.holycross.edu/faculty/kprestwi/behavior/ESS/games_intro.html) from Holy Cross College
-- hoy lab tutorial on Hawk Dove not working?
+- [Game Theory Tutorial: Conflict, Probability, Stable Strategies](http://pages.nbb.cornell.edu/Gamebug/conflict.html)
 - [PHET Natural Selection Lab](https://phet.colorado.edu/en/simulations/natural-selection)
 - [Kahn Academy](https://www.khanacademy.org/science/biology/her)
 - [Berkeley's *Understanding Evolution*](https://evolution.berkeley.edu/)

@@ -141,6 +141,11 @@ const thebe_selector_output = ".output, .cell_output"
    Terms, Topics, Concepts
   </a>
  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../ethical-considerations.html">
+   Ethical Considerations for Animal Use
+  </a>
+ </li>
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
@@ -411,7 +416,24 @@ const thebe_selector_output = ".output, .cell_output"
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#reading">
+  <a class="reference internal nav-link" href="#collective-defense">
+   Collective Defense
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#reading">
+     Reading
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#raw-data">
+     Raw Data
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#id1">
    Reading
   </a>
  </li>
@@ -471,7 +493,24 @@ const thebe_selector_output = ".output, .cell_output"
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#reading">
+  <a class="reference internal nav-link" href="#collective-defense">
+   Collective Defense
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#reading">
+     Reading
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#raw-data">
+     Raw Data
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#id1">
    Reading
   </a>
  </li>
@@ -518,8 +557,50 @@ targetting prey and ability to track</p>
 <h2>green beard<a class="headerlink" href="#green-beard" title="Permalink to this headline">¶</a></h2>
 <p><a class="reference external" href="https://youtu.be/goePYJ74Ydg">Simulating the green beard effect</a></p>
 </div>
+<div class="section" id="collective-defense">
+<h2>Collective Defense<a class="headerlink" href="#collective-defense" title="Permalink to this headline">¶</a></h2>
 <div class="section" id="reading">
-<h2>Reading<a class="headerlink" href="#reading" title="Permalink to this headline">¶</a></h2>
+<h3>Reading<a class="headerlink" href="#reading" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p>Meerkat vigilance</p></li>
+<li><p>Barnacle geese <a class="reference external" href="https://www.youtube.com/watch?v=oeJHW5n-PXY">group size vigilance video</a></p>
+<p>In your notebook document the following:</p>
+<ul class="simple">
+<li><p>Flock size</p></li>
+<li><p>The number of times they are in the ‘head up’ position</p></li>
+<li><p>The start and stop time of each ‘head up’ position.</p></li>
+</ul>
+</li>
+<li><p><a class="reference external" href="https://bookdown.org/djc426/behaviouR-R-package-tutorials/field-lab-4-vigilance-behavior.html">vigilance behavior lab</a></p></li>
+</ul>
+<hr>
+<p>Do you think meerkats will be more or less vigilant in the presence of predators? Will their behavior vary depending on the type of predator?</p>
+<p>Videos for Meerkat analysis</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://vimeo.com/80600822">No Predator</a></p></li>
+<li><p><a class="reference external" href="https://vimeo.com/80600821">Simulated Aerial Predator</a></p></li>
+<li><p><a class="reference external" href="https://vimeo.com/71877438">Simulated Terrestrial Predator</a></p></li>
+</ul>
+<p>Set a timer to go off every 10 seconds, and at each interval record the number of meerkats performing each behavior. We will use a modified ethogram that includes only three categories: vigilant, not vigilant or out of site.</p>
+<p>Vigilant: Head raised at or above horizontal plain and eyes open (to include scanning /guarding / raised guarding). Not Vigilant: Eyes closed or head lower than horizontal plane (to include foraging, moving, sleeping, resting). Out of sight: Not visible by the researcher</p>
+<hr>
+</div>
+<div class="section" id="raw-data">
+<h3>Raw Data<a class="headerlink" href="#raw-data" title="Permalink to this headline">¶</a></h3>
+<p>From <a class="reference external" href="https://github.com/DenaJGibbon/behaviouR">behavioR package</a> with the following script to convert to csv:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>!pip install rdata
+import rdata
+import pandas as pd
+path = &#39;/content/MeerkatScanData.rda&#39;
+parsed = rdata.parser.parse_file(path)
+converted = rdata.conversion.convert(parsed)
+converted[&#39;MeerkatScanData&#39;].to_csv(&#39;MeerkatScanData.csv&#39;)
+</pre></div>
+</div>
+</div>
+</div>
+<div class="section" id="id1">
+<h2>Reading<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li><p><a class="reference external" href="http://pages.nbb.cornell.edu/Gamebug/cooperation.html">Cooperation</a></p></li>
 <li><p><a class="reference external" href="https://www.science.org/content/article/why-birds-fly-v-formation">V-formation flight commentary</a></p></li>

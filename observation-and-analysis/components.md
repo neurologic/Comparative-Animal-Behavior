@@ -105,7 +105,7 @@ Activity
 :::
 
 :::{admonition} Why?
-Once you have defined individual behaviors, you can determine what behavior an animal is doing at each moment in time. AND what is that animal *not* doing at that moment in time? Why? What causes a particular behavioral expression over another and what modulates behavioral decisions?
+Once you have defined individual behaviors, you can determine what behavior an animal is doing at each moment in time. AND what is that animal *not* doing at that moment in time? Essentially, behaviors compete for expression and an animal's motivation and its external environment determine which wins. The Nobel laureate [Konrad Lorenz](https://en.wikipedia.org/wiki/Konrad_Lorenz) laid the foundations for an approach to studying animal behavior and categorized behavior into *Fixed Action Pattern* components that are released by *Sign Stimuli*.
 :::
 
 :::{glossary}
@@ -148,7 +148,7 @@ Stickleback fish appearance. Top: female. Bottom: male.
 
 ***Q: What differences do you notice between the appearance of males and females?***
 
-***Q: If aggressive FAPs should only be elicited by the presence of other males, what sensory cues could be used to appropriately trigger FAP expression?***
+***Q: If aggressive FAPs should only be directed toward other males, what sensory cues could be used to appropriately trigger FAP expression?***
 
 To test what *stimulus* (sensory cues/features) triggers aggression FAPs, we need to quantify the behavior somehow. *Bite rate* is commonly used as a metric.
 A *bite* is a component of aggression and can be defined as *contact of the male's mouth against an object*. 
@@ -180,7 +180,7 @@ As a class, let's watch this [video of an experiment on stickleback aggression](
 
 On your own, re-watch [the video](https://youtu.be/ZfcGZCGdGVE) to collect the experimental data you just discussed with your group and complete the following three questions to bring to the next class:
 
-***Q: Based on the data you collected, make a graph of bite rate versus stimulus.***
+***Q: Based on the data you collected, make a graph of bite rate versus variation in a stimulus feature.***
 
 ***Q: Based on the data in your graph, describe the relationship between at least two features of the stimuli and aggressive behavior in male stickleback fish.***
 
@@ -202,7 +202,7 @@ On your own, re-watch [the video](https://youtu.be/ZfcGZCGdGVE) to collect the e
 ---
 > ⏳ 20 min 
 
-Examine the following representation of a theoretical model posed by Lorenz.
+Examine the following representation of a theoretical model for behavior posed by Lorenz.
 
 :::{figure-md} action-specific-potential
 :class: figure
@@ -224,11 +224,11 @@ Lorenz's model of FAP release. A sign stimulus is presented at time = 7.5au.
 
 ***Q: How would you define the green horizontal line in the top plot using any or all of the following terms: action specific energy, time, and/or FAP expression?***
 
-***Q: In the top plot, what is different about the line that starts at time=6au from the lines that start at 0, 3, and 7.5?***
+***Q: In the top plot, what is different about the black line that starts at time=6au from the black lines that start at 0, 3, and 7.5?***
 
 ***Q: In the bottom plot, what is different about the third FAP observed compared to the first, second, and fourth?***
 
-***Q: Based on the information given in the model and your work so far, what does a sign stimulus do for FAPs?***
+***Q: Based on the information given in the model and your work so far, what does a sign stimulus do?***
 
 ***Q: Based on the information given in the model and your work so far, what happens with FAPs in the absence of a sign stimulus?***
 
@@ -243,7 +243,7 @@ We would call this the *spontaneous* increase (as opposed to stimulus-driven inc
 ---
 > ⏳ 15 min 
 
-We can think of action-specific energy as *internal drive* or *motivation* for a particular behavior (FAP). External stimuli contribute to this motivation. As an analogy, think of eating behavior. The liklihood that you will eat a food can depend on the properties of the food itself. 
+We can think of action-specific energy as thd total *motivation* for a particular behavior (FAP). Both internal drive and external stimuli contribute to this motivation. As an analogy, think of eating behavior. The liklihood that you will eat a food can depend on the properties of the food itself. 
 
 ***Q: Fill in the following graph according to your food preferences.***
 
@@ -259,7 +259,7 @@ The *strength* of a stimulus is defined in terms of how much it changes the acti
 
 ***Q: Given your preferences, would a sweet food be a strong or weak stimulus for eating?***
 
-***Q: If you are really really really hungry, would you be more or less likely to eat in response to a weak food stimulus compared to when you are full?***
+***Q: If you are really really really hungry (increased internal drive to eat), would you be more or less likely to eat in response to a weak food stimulus compared to when you are full?***
 
 ***Q: Think (and refer) back to the experiment on stickleback fish aggression that you analyzed. Which stimulus was the strongest for aggression? Which stimulus was the weakest? What evidence do you have to support your answers?***
 

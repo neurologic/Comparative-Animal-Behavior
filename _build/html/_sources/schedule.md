@@ -15,7 +15,7 @@ Any assignments listed on the schedule should be completed before the class star
 | **Sept 27** | Phylogeny | Complete [the phylogeny of behavior assignment](phylogeny-burrowing-assignment) from last class | [](../levels-of-analysis/phylogeny) |
 | Sept 29 | Evolution | Come prepared with [responses to your exploration of this natural selection simulation](natural-selection-simulation) | [Evolution: day 1](../levels-of-analysis/evolution) |
 | **Oct 4** | Evolution | Rubenstein text *pg 183-184*; <br> [P.M. Meire, A. Ervynck (1986) Are oystercatchers (Haematopus ostralegus) selecting the most profitable mussels (Mytilus edulis)?, Animal Behaviour 34(5)](https://doi.org/10.1016/S0003-3472%2886%2980213-5) | [Evolution: day 2](game-theory) |
-| Oct 6 | Neural | [Brain Inspired Podcast: How do we switch behaviors?](https://braininspired.co/podcast/54/) <br> [Huberman Podcast: Understanding and Controlling Aggression](https://hubermanlab.com/understanding-and-controlling-aggression/) | [](../levels-of-analysis/neural) |
+| Oct 6 | Neural | [Huberman Podcast: Understanding and Controlling Aggression](https://hubermanlab.com/understanding-and-controlling-aggression/) | [](../levels-of-analysis/neural) |
 | **Oct 11** | Neural | review Lorenz pg 83-88; <br> [Ronacher, B. Innate releasing mechanisms and fixed action patterns: basic ethological concepts as drivers for neuroethological studies on acoustic communication in Orthoptera. J Comp Physiol A 205, 33–50 (2019)](https://doi.org/10.1007/s00359-018-01311-3) | [](../levels-of-analysis/neural) |
 | Oct 13 | Hormonal | none | [](../levels-of-analysis/hormonal) |
 | **Oct 18** | Endogenous Rhythms | none | [](../levels-of-analysis/endogenous-rhythms) |

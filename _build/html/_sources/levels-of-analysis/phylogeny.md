@@ -192,12 +192,12 @@ An ancestral state reconstruction under Hypothesis \#1 on the phylogenetic tree 
 
 <img src="/data/turtles/turtles_cladogram_LCA0.png" alt="fishy" class="bg-primary mb-1" width="600px">
 
-An ancestral state reconstruction under Hypothesis \#1 on the 7 turtle species. Relatedness and branch lengths were calculated from the MUSCLE alignement data of the 16S ribosomal RNA partial gene sequence using BioPython.
+An ancestral state reconstruction under Hypothesis \#2 on the 7 turtle species. Relatedness and branch lengths were calculated from the MUSCLE alignement data of the 16S ribosomal RNA partial gene sequence using BioPython.
 :::
 
 ***Q: What is the difference between an 'ancestral state reconstruction' and a 'character mapping'?***
 
-***Q: Under which ancestral state reconstruction hypothesis (1 or 2) would colonialism be an inherited trait in green turtles?***
+***Q: Under which ancestral state reconstruction hypothesis (1 or 2) would colonialism be an inherited (versus derived) trait in green turtles?***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -205,17 +205,17 @@ An ancestral state reconstruction under Hypothesis \#1 on the 7 turtle species. 
 ---
 > ⏳ 10 min 
 
-We can provide evidence for/against each of these alternative hypotheses about the LCA behavioral trait by using an *argument of parsimony*. 
+We can collect evidence for/against each alternative hypothesis about the LCA behavioral trait by using an *argument of parsimony*. Answer the following questions to understand the logic of making an argument about LCA behavior based on parsimony.
 
 ***Q: Which requires more events/steps? Evolutionary change or evolutionary stasis?***
 
-***Q: If the LCA of the turtles in Figure ______ was solitary (hypothesis \#2), what is the least number of evolutionary changes that would need to occur to result in the correct behavioral traits of all 7 extant species?***
+***Q: If the LCA of the turtles in Figure ______ was solitary (hypothesis \#2), what is the least number of total evolutionary changes that would need to occur (across the tree) to result in the correct behavioral traits of all 7 extant species?***
 
-***Q: If the LCA of the turtles in Figure ______ was colonial (hypothesis \#1), what is the least number of evolutionary changes that would need to occur to result in the correct behavioral traits of all 7 extant species?***
+***Q: If the LCA of the turtles in Figure ______ was colonial (hypothesis \#1), what is the least number of total evolutionary changes that would need to occur to result in the correct behavioral traits of all 7 extant species?***
 
-***Q: Which alternate hypothesis would require more evolutionary changes?***
+***Q: Which alternative hypothesis would require more evolutionary changes?***
 
-***Q: All else being equal, which hypothesis results in a less likely series of events: "LCA was solitary" or "LCA was colonial"?***
+***Q: All else being equal, which hypothesis results in a less likely series of events: "LCA was solitary" or "LCA was colonial"? (ie. which hypothesis is less parsimonious)***
 
 ***Q: If the method of parsimony is used to reject the less likely hypothesis, then what would be the result of your analysis? In other words, how would you interpret your results in terms of determining the behavioral trait exhibited by the LCA of these 7 turtles?***
 

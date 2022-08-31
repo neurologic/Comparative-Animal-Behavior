@@ -81,7 +81,7 @@ Use the following format for your data record:
 
 Activity budgets are generally presented as the proportion or percent time that an animal spends doing each behavior. 
 
-***Q: What equation would you use to calcualte the activity budget for each behavior in your ethogram?***
+***Q: Come up with an equation that you could use to calcualte the activity budget for each behavior in your ethogram.***
 
 ***Q: Would you include or exclude the time spent 'out of sight' in the reported activity budget? Justify your choice.***
 
@@ -97,7 +97,7 @@ In [this 10-minute video](https://vimeo.com/80602697), one meerkat (Bumble) is h
 
 ***Q: Enter the results of your activity budget calculations here.***
 
-***Q: How would you visually depict/present the activity budget data? Draw a rough sketch (or make an electronic illustration if available to you)***
+***Q: How would you visually depict/present the activity budget data? Draw a sketch.***
 
 ***Q: How similar or different were your results from your partners?***
 
@@ -124,6 +124,7 @@ In [this 10-minute video](https://vimeo.com/80602697), one meerkat (Bumble) is h
 ## Additional Resources
 
 - [Living Links to human evolution research center](https://living-links.org/resources/materials-for-teachers/measuring-behaviour-lesson-plan/)
+- [Ethogram of operating room behavior.](https://dx.doi.org/10.1007%2Fs12160-016-9773-0)
 
 ---
 

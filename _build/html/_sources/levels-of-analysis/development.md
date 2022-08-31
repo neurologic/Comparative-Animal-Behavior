@@ -129,6 +129,10 @@ Volume 20, Issue 2](https://doi.org/10.1016/j.tree.2004.11.017)
 
 ### Epigenetics
 
+***Q: Do all somatic cells (cells of the body tissues) within an individual animal have the same genome? Explain your reasoning.***
+
+***Q: Do all somatic cells have the same protein composition? Explain your reasoning.***
+
 In order to be transcribed and translated, DNA must be accessible to various proteins. DNA accessibility is tightly controlled by molecular tags on the DNA itself and on histone proteins around which it winds. Critically, these tags are flexibly bound to DNA and histone - tags bind or unbind in response to signals from the environment. 
 
 :::{figure-md} epigenetics-simple

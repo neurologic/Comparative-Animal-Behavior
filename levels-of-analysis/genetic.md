@@ -6,7 +6,9 @@
 
 <hr>
 
-## Proteins
+## Genetics Primer
+
+### Proteins
 
 The proteins comprising an animal's body are essential material to all behavioral phenotypes. Proteins provide the physical form of an animal, which grants unique affordances to different animals. Proteins also dictate the functional properties of an animal's nervous system, which orchestrates the actions of behavior directly. 
 
@@ -41,7 +43,7 @@ Image from [ReAgent](https://www.reagent.co.uk/what-are-amino-acids/)
 
 ***Q: For the following protein sequence: Methionine-Glutamic acid-Proline-Tryptophan, write out the "single letter code".***
 
-## Central Dogma
+### Central Dogma
 
 Examine the following deoxyribonucleic acid (DNA), ribonucleic acid (RNA), and amino acid (AA) sequences (single letter code) from the [NCBI GenBank](https://www.ncbi.nlm.nih.gov/nuccore/193788647). Each letter represents an individual molecule. 
 
@@ -57,19 +59,27 @@ AUGGAGCCCUGGCCUCUCCUCCUGCUCUUUAGCCUUUGCUCAGCUGGCCUCGUCCUGGGCUCCGAACAUGAGACCCGUCU
 MEPWPLLLLFSLCSAGLVLGSEHETRLVAKLFKDYSSVVRPVEDHRQVVEVTVGLQLIQLINVDEVNQIVTTNVRLKQGDMVDLPRPSCVTLGVPLFSHLQNEQWVDYNLKWNPDDYGGVKKIHIPSEKIWRPDLVLYNNADGDFAIVKFTKVLLQYTGHITWTPPAIFKSYCEIIVTHFPFDEQNCSMKLGTWTYDGSVVAINPESDQPDLSNFMESGEWVIKESRGWKHSVTYSCCPDTPYLDITYHFVMQRLPLYFIVNVIIPCLLFSFLTGLVFYLPTDSGEKMTLSISVLLSLTVFLLVIVELIPSTSSAVPLIGKYMLFTMVFVIASIIITVIVINTHHRSPSTHVMPNWVRKVFIDTIPNIMFFSTMKRPSREKQDKKIFTEDIDISDISGKPGPPPMGFHSPLIKHPEVKSAIEGIKYIAETMKSDQESNNAAAEWKYVAMVMDHILLGVFMLVCIIGTLAVFAGRLIELNQQG
 :::
 
-***Q: Genes are comprised of DNA molecules. How many DNA comprise the gene for the acetylcholine receptor alpha-1 subunit***
+Genes are comprised of DNA molecules. 
+
+***Q: How many DNA comprise the gene for the acetylcholine receptor alpha-1 subunit***
 
 ***Q: How many unique DNA molecule types are used for gene sequences? What are the single-letter codes for each?***
 
-***Q: mNA is comprised of RNA molecules. How many RNA molecules comprise the mRNA for the acetylcholine receptor alpha-1 subunit?***
+mNA is comprised of RNA molecules.
 
-***Q: mRNA is constructed by RNA polymerase based on the DNA sequence. How does the mRNA sequence relate to the DNA sequence?***
+***Q: How many RNA molecules comprise the mRNA for the acetylcholine receptor alpha-1 subunit?***
 
-Transcription also involves *polyadenylation* (pA) at the end of an mRNA (poly = lots; adenylation = adding adenosine/A nucleotides). 
+mRNA is constructed (transcribed) by RNA polymerase based on the DNA sequence. Transcription also involves *polyadenylation* (pA) at the end of an mRNA (poly = lots; adenylation = adding adenosine/A nucleotides). 
 
-***Q: Protein is comprised of AA molecules. How many AA comprise the protein for the acetylcholine receptor alpha-1 subunit?***
+***Q: How does the mRNA sequence relate to the DNA sequence?***
 
-***Q: Ribosomes in the cell cytoplasm read out mRNA and translate it into the string of amino acid chains that make up the synthesized protein. Therefore, genes "code for" protein structure. How many DNA molecules are used to determine each AA molecule?***
+Protein is comprised of AA molecules. 
+
+***Q: How many AA comprise the protein for the acetylcholine receptor alpha-1 subunit?***
+
+Ribosomes in the cell cytoplasm read out mRNA and, based on mRNA sequence, construct a string of amino acid chains that make up the synthesized protein. Therefore, genes ultimately "code for" protein structure. 
+
+***Q: How many DNA molecules are used to determine each AA molecule?***
 
 ***Q: What is the genetic "code" for Methionine?***
 
@@ -78,17 +88,118 @@ Transcription also involves *polyadenylation* (pA) at the end of an mRNA (poly =
 gene
  a unit of DNA that carries the instructions for making a specific protein or set of proteins. 
 
+genome 
+ the entire DNA sequence (all genetic material) of an animal
 :::
 
-## Genetics differences
+## Experimental Approaches
 
-The *genome* comprises the entire DNA sequence (all genetic material) of an animal.
+### Genes?
 
-***Q: Do all somatic cells (cells of the body tissues) have the same genome? Explain your reasoning.***
+**Case Study: Burrowing Behavior**
 
-***Q: Do all somatic cells have the same protein composition? Explain your reasoning.***
+You have already examined [the phylogeny of burrowing behavior among *Peromyscus*](phylogeny-burrowing-assignment). Are burrowing behavior phenotypes inherited genetically or learned culturally? Research using *P. maniculatus* and *P. polionotus* provide a great example of how to investigate this question. 
 
-Different species exhibit different mating behavior. For example, monogamy and promiscuity are two different behavioral *phenotypes* for mating behavior. 
+:::{figure-md} burrow-Hoekstra-Fig1
+:class: figure
+
+<img src="/images/burrow-Hoekstra-Fig1.png" alt="fishy" width="500px">
+
+The ancestral burrow architecture, built by P. maniculatus, is short (<15 cm)
+and simple. In contrast, adult P. polionotus dig stereotyped burrows with a
+long entrance tunnel, nest chamber, and escape tunnel (total excavation
+length 50 cm).[^hoekstra-2017]
+:::
+
+[^hoekstra-2017]: [Metz, Bedford, Pan, and Hoekstra. (2017) Evolution and Genetics of Precocious Burrowing Behavior in Peromyscus Mice. Current Biology 27(24).](https://doi.org/10.1016/j.cub.2017.10.061)
+
+:::{glossary}
+
+cross-fostering
+ Rearing offspring from animals exhibiting one phenotype with parents exhibiting another phenotype. The phenotype of cross-fostered offspring are usually compared with the phenotype of offspring raised by biological parents. Offspring raised by non-biological parents with the biological parent phenotype would be a better control. 
+
+:::
+
+:::{figure-md} cross-foster-burrow_Hoekstra-Fig2
+:class: figure
+
+<img src="/images/cross-foster-burrow_Hoekstra-Fig2.png" alt="fishy" width="700px">
+
+(A) Schematic of cross-fostering design with P. maniculatus (yellow) and P. polionotus (blue), with cross-fostered pups highlighted in red.
+(B–G) Proportion of mice constructing complete burrows (B and E), proportion of mice building an escape tunnel (C and F), and length of excavations (D and G).
+Sample sizes for each age and foster group are shown. Significance levels are indicated as follows: ns (not significant), p R 0.05.[^hoekstra-2017]
+:::
+
+### What Genes? 
+
+#### Forward Genetics
+
+The identification of genomic regions associated with behavioral phenotypes is a first step in the identification of causal genes responsible for variation in a naturally evolved, complex behavior. 
+
+Gregor Mendel was either clever or lucky enough to study traits of simple inheritance in his pea plants; however, many plant characters of interest to modern geneticists are complex (*quantitative*). Understanding the genetic basis of quantitative traits requires a combination of modern molecular genetic techniques and powerful statistical methods.
+
+**Quantitative Trait Locus (QTL) mapping** is a widely used statistical tool for this purpose. QTL mapping simply involves finding an association between a genetic marker and a phenotype that can be measured.
+
+:::{figure-md} QTL-mapping-plants
+:class: figure
+
+<img src="/images/QTL-mapping-plants.png" alt="fishy" width="400px">
+
+In QTL mapping, the parental alleles are shuffled by *crossing* parents and progeny in various orders to create a large mapping population.[^Mauricio-2001] 
+:::
+
+[^Mauricio-2001]: Figure from [Mauricio, R. Mapping quantitative trait loci in plants: uses and caveats for evolutionary biology. Nat Rev Genet 2, 370–381 (2001).](https://doi.org/10.1038/35072085)
+
+:::{figure-md} QTL-mapping-plants-regression
+:class: figure
+
+<img src="/images/QTL-mapping-plants-regression.png" alt="fishy" width="400px">
+
+The phenotype and the multilocus genotype of each individual in the mapping population are measured. *Markers* along the genome that are specific to each parental genotype are targetted for analysis. There are several different statistical techniques available for QTL mapping. Essentially, it is a regression or correlation.[^Mauricio-2001]  
+:::
+
+Several features of Peromyscus burrowing behavior make it a well-suited system for tackling how genetic change leads to complex behavioral change. 
+- Burrowing behavior is largely innate.
+- A burrow is a behavioral product (“extended phenotype”) that can be measured like a morphological trait. 
+
+To localize the causal regions for burrowing behavior in the genome, hybrid animals from a large cross were assayed for burrowing behavior and then genotyped. Then estimated the percentage of phenotypic variance explained by each QTL.
+
+:::{figure-md} QTL-burrowing
+:class: figure
+
+<img src="/images/QTL-burrowing.png" alt="fishy" width="700px">
+
+QTL analysis of burrowing variation.[^Weber-2013] a, Linkage groups (LGs) 1, 2 and 20 harbour QTLs associated with log-transformed average entrance-tunnel length (black line). Linkage group 5 contains a single QTL associated with escape-tunnel presence (red line). Dotted line represents log odds ratio (lod) significance threshold (genome-wide α = 0.05, lod = ∼3.0). 1.5-lod confidence intervals and scale in centimorgans (cM) are shown in light blue. Dashes indicated genetic markers, and black arrows indicate markers used to define each QTL peak (used in b). b, Phenotypic effect of individual and combined QTLs (linkage groups 1, 2 and 20) on entrance-tunnel length in 272 BC mice. c, Proportion of BC animals that construct escape tunnels for each of the two genotypes. All error bars represent mean ± s.e.m. Blue and yellow lines represent average phenotype of the parents (pure species) used to found the cross. Genotypes are either homozygous P. maniculatus (MM) or heterozygous P. maniculatus/polionotus (MP).
+:::
+
+[^Weber-2013]: Figure from [Weber, J., Peterson, B. & Hoekstra, H. Discrete genetic modules are responsible for complex burrow evolution in Peromyscus mice. Nature 493, 402–405 (2013).](https://doi.org/10.1038/nature11816)
+
+**Genetic Sequencing** is then a necessary (and difficult) step to understand how specific sequence changes cause behavioral changes. 
+
+#### Heritability Patterns
+
+It was previously generally thought that animal behaviors are too complex to be immediately determined by genetic factors. For example, male courtship behavior in Drosophila is a stereotyped sequence of FAPs in which a male follows a female, taps the female, sings a song by vibrating one wing, licks the female’s genitalia and curls the abdomen to attempt copulation. Male courtship behavior is obviously complex, hwowever, it was one of the first behaviors found to be specified by a single gene[^fruitless-dickson]. Male homozygous fruitless mutants have normal genitalia but do not exhibit courtship behavior toward female flies. 
+
+[^fruitless-dickson]: [Ebru Demir and Barry J. Dickson (2005) fruitless Splicing Specifies Male Courtship Behavior in Drosophila. Cell 121(5)](https://doi.org/10.1016/j.cell.2005.04.027)
+
+However, many behaviors are *polygenic*. 
+
+*Heritability patterns* are a useful tool for inferring the number of and relationship among genes contributing to complex behavioral phenotyps. 
+
+Burrowing behavior and parental care behavior have both diverged significantly between two interfertile sister species, P. maniculatus and P. polionotus., for which forward genetic approaches combined with high-throughput genotyping in Peromyscus have been successful in identifying the genetic architecture of complex behavior. 
+
+Example: data distributions from bendesky 2017
+
+Example: compare correlation of behavioral phenotype features from burrowing with parental care
+Tunnel lengths and the presence of escape tunnels (that is, tunnel number) are only weakly correlated in BC mice[^Weber-2013]. Therefore, the complex burrows of P. polionotus comprise at least two separate behavioural modules, one for tunnel length and one for the presence of an escape tunnel.
+
+#### Reverse Genetics
+
+## Case Study: Behavioral differences through genetic differences
+
+Because the genome of an animal dictates its bodily material (including their nervous system), it can determine an animal's behavior. Many people specialize in researching the genetic differences among species and individuals that explain behavioral differences. For example, Thomas Insel studies the genetic basis of mating behavior.
+
+Monogamy and promiscuity are two common *phenotypes* for mating behavior. 
 
 :::{glossary}
 
@@ -100,12 +211,8 @@ promiscuity
 
 ::: 
 
-Because the genome of an animal dictates its bodily material (including their nervous system), it can determine an animal's behavior. 
-
-***Q: In general, would you predict that different behavioral phenotypes are a result of different genes for different phenotypes or a result of sequence variation of the same gene?***
-
-Thomas Insel, head of the National Institute of Mental Health and a pioneer in vole studies, describes voles as "an extraordinary gift to science" in which nature has performed an experiment with which we can ask the question: "what was modified genetically in the brain to get this difference in behavior?"
-Voles (one family of the rodent order), have been model system in which the genetics of mating behavior has been extensively investigated. Unlike most rodents, many voles are monogamous, forming bonds that last long after mating (often for life) and cohabitating more or less permanently in subterranean dens. Prarie voles are one of these robustly monogamous species. Interestingly, prairie voles have near-identical cousins called montane voles that do not form social bonds after mating. 
+Thomas Insel, head of the National Institute of Mental Health and a pioneer in vole studies, describes voles as "an extraordinary gift to science" in which nature has performed an experiment with which we can ask the question: "what was modified genetically in the brain to get this difference in behavior?" In this case, mating behavior.
+Unlike most rodents, many voles are monogamous, forming bonds that last long after mating (often for life) and cohabitating more or less permanently in subterranean dens. Prarie voles are one of these robustly monogamous species. Interestingly, prairie voles have near-identical cousins called montane voles that do not form social bonds after mating. 
 
 The results of one of the first genetic experiments in montane and prarie voles are shown in Fig. ____.
 
@@ -125,19 +232,10 @@ transmembrane domains. The sequences of the genomic clones have been deposited i
 
 [^Young1999]: Young, L., Nilsen, R., Waymire, K. et al. [Increased affiliative response to vasopressin in mice expressing the V1a receptor from a monogamous vole](https://doi.org/10.1038/23475). Nature 400, 766–768 (1999). 
 
-Young et al 1999 [^Young1999] did not find differences in the protein sequence of the V1a receptor gene. Instead, they found differences in the "microsatellite repeats" in the region of the genome read before the gene itself gets read. Although the V1a-R protein iteself is nearly identical between these two species, the protein ends up located in different parts of the brain. Microsatellite repeats do not effect the structure of a protein, but rather regulate where and when it is expressed (transcription and translation).  
+Young et al 1999 [^Young1999] did not find differences in the protein sequence of the V1a receptor gene. Instead, they found differences in the "microsatellite repeats" in the region of the genome read before the gene itself gets read. Although the V1a-R protein iteself is nearly identical between these two species, the protein ends up located in different parts of the brain. Microsatellite repeats do not effect the structure of a protein, but rather regulate where and when it is expressed (transcribed and translated).  
 
 
-## Heritability and Variability
-
-### Cross-fostering experiment
-
-Example: burrowing behavior from Hoekstra
-
-### Polygenic versus monogenic (spectrum)
-
-Example: data distributions from bendesky 2017
-
+## Case Study: Inheritance of complex behavioral syndromes
 
 An animal's behavior is comprised of many phenotypes. For example, one person might: participate in a lot of sports, spend a lot of their time socializing with other people, and read a lot; while another person might: not do any sports, spend most of their time alone, and write a lot. Let's consider that these two people mated. If all of their offspring were either "just like one parent" or "just like the other parent", then it might infer that the genes underlying all three of these behaviors are *linked*. 
 
@@ -175,8 +273,6 @@ genetic linkage
  
 :::
 
-## Supergenes and polymorphisms
-
 ## Alleles and Adaptation
 
 In evolutionary terms, fitness is defined as the population frequency of the allele underlying the trait. 
@@ -195,8 +291,6 @@ In evolutionary terms, fitness is defined as the population frequency of the all
 - [Gene Control](https://learn.genetics.utah.edu/content/epigenetics/control)
 - [NIH Brief Guide to Genomics](https://www.genome.gov/about-genomics/fact-sheets/A-Brief-Guide-to-Genomics)
 - [The evolutionary and genetic history of the pelvic spine](https://youtu.be/Pv4Ca-f4W9Q)
-
-## Follow-up Reading
-
+- [Hu, C. K., York, R. A., Metz, H. C., Bedford, N. L., Fraser, H. B., & Hoekstra, H. E. (2022). cis-Regulatory changes in locomotor genes are associated with the evolution of burrowing behavior. Cell reports, 38(7), 110360.](https://doi.org/10.1016/j.celrep.2022.110360)
 - Robert Plomin, Michael J. Owen and Peter McGuffin (1994) [The Genetic Basis of Complex Human Behaviors](https://www.jstor.org/stable/2883921) Science, Vol. 264, No. 5166
 

@@ -89,7 +89,7 @@ Consider the following table of values for K+ and Na+ across a neuron's membrane
 ***Q: How can you change the membrane potential of a neuron?***
 
 We measure the membrane potential of a neuron using a voltage meter. 
-Neurons have a "resting" membrane potential (in the absence of any synaptic input) and synaptic input can *depolarize* or *hyperpolarize* the membrane potential elative to that resting state. 
+Neurons have a "resting" membrane potential (in the absence of any synaptic input) and synaptic input can *depolarize* or *hyperpolarize* the membrane potential relative to that resting state by changing permeability to specific ions. 
 
 :::{figure-md} potential-meter-rest
 :class: figure

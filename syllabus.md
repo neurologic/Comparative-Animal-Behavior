@@ -61,7 +61,9 @@ Class rosters are provided to the instructor with the student's legal name. I wi
 
 
 ## Classroom Sessions
-Please bring a computer or tablet (or similar) to class. If this is not possible, please discuss with me so that I can help. 
+
+Group work has been shown to enhance professional behaviors and job preparedness, particularly building communication and team
+management skills (Cartwright et al., 2021; Senay, 2015).
 
 Classroom format:
 1. Students are expected to work collaboratively, generally in groups of three or four.
@@ -76,6 +78,9 @@ For group in-class work, specific roles are:[^roles-details]
 - liason
 - facilitator
 - researcher
+
+At least one person from each group needs to bring a computer or tablet (or similar) to class. If this is not possible, please discuss with me so that I can help. 
+
 
 [^roles-details]: Details of the roles:
     - scribe
