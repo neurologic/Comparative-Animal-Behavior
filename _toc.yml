@@ -39,6 +39,9 @@ parts:
         - file: understanding-behavior/cooperation
         - file: understanding-behavior/eusociality
     - file: understanding-behavior/communication
+      sections:
+        - file: understanding-behavior/communication-proximate
+        - file: understanding-behavior/communication-ultimate
     - file: understanding-behavior/family-life
       sections:
         - file: understanding-behavior/sexual-selection

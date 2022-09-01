@@ -132,14 +132,12 @@ Drosophila virgin females cannot form long-term memory. Upon fecundation, the se
 [^sex-peptide-memory-ref]: L. Scheunemann et al. [A sperm peptide enhances long-term memory in female Drosophila](https://doi.org/10.1126/sciadv.aax3432), Science Advances (2019).
 
 
-
-
 ## Additional Resources
 
+- [A neuroendocrine basis for the hierarchical control of frog courtship vocalizations](https://doi.org/10.1016/j.yfrne.2010.12.006)
+- [Hormones and Behavior: Basic Concepts](https://www.reed.edu/biology/courses/BIO342/2015_syllabus/2015_readings/Nelson_2010_EAB.pdf)
+- [NOBA: Hormnones and Behavior](https://nobaproject.com/modules/hormones-behavior)
 - [Mechanisms of hormone action](https://flexbooks.ck12.org/cbook/ck-12-biology-flexbook-2.0/section/13.21/related/lecture/mechanisms-of-hormone-action/)
-
-## Follow-up Reading
-
 - Anita V. Devineni1 and Kristin M. Scaplen (2022) [Neural Circuits Underlying Behavioral Flexibility: Insights From Drosophila](https://doi.org/10.3389/fnbeh.2021.821680). Front. Behav. Neurosci.
 	- Focus on *Modulation by Internal State* Pick one hormone pathway/effect and share it at the next class.
 - Caroline B. Palavicino-Maggio1 and Saheli Sengupta (2022) [The Neuromodulatory Basis of Aggression: Lessons From the Humble Fruit Fly](https://doi.org/10.3389/fnbeh.2022.836666). Front. Behav. Neurosci.

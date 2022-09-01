@@ -59,11 +59,18 @@ Class rosters are provided to the instructor with the student's legal name. I wi
 *(subject to change)*  
 
 
-
 ## Classroom Sessions
 
 Group work has been shown to enhance professional behaviors and job preparedness, particularly building communication and team
-management skills (Cartwright et al., 2021; Senay, 2015).
+management skills (Cartwright et al., 2021[^Cartwright]; Senay, 2015[^Senay]).
+
+[^Cartwright]: Cartwright, N.M., Patil, P., Liddle, D.M., Newton, G., and Monk, J.M. Enhancement of Professional Behaviours and
+Perceptions of Critical Skill Job Preparedness through the Use of a Group Work Contract in Fourth-Year
+Nutritional Science Students. Int. J. High. Educ. 10, 2021.
+
+[^Senay]: Senay, S. (2015). On the impacts of project based learning for workplace preparedness of engineering graduates. In
+10th System of Systems Engineering Conference, (Institute of Electrical and Electronics Engineers Inc.), pp.
+364–367.
 
 Classroom format:
 1. Students are expected to work collaboratively, generally in groups of three or four.
