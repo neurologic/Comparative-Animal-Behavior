@@ -8,7 +8,7 @@
 *Office Hours*: TBD (by appointment; in Shanklin 409 or via Zoom)  
 
 **Classroom Sessions**  
-Tuesdays and Thursdays 8:50-10:10am
+Tuesdays and Thursdays 8:50-10:10am SCIE109
 
 :::{epigraph}
 Education is not the learning of facts, but the training of the mind to think.
@@ -26,17 +26,17 @@ The mind is not a vessel that needs filling, but wood that needs igniting.
 
 As an introduction to the study of animal behavior, this course will examine the factors that control the behavior of vertebrates and invertebrates within evolutionary, and physiological contexts. All animals face similar challenges and we will examine the common, and sometimes unique, behavioral strategies used to meet these challenges. This kind of comparative approach is paramount to ethology, which is the scientific study of animal behavior. Animal behavior is the main subject of this course, and the overarching goal is learning what it means to understand animal behavior through the scientific method. To achieve this goal, you will practice synthesizing knowledge and approaches from diverse fields of science that you have already encountered in your studies: genetics, evolutionary biology and ecology, developmental biology, neuroscience, molecular biology, and psychology (to name a few). 
 
-This class is about more than Animal Behavior as a topic itself. The content of the topic "animal behavior" is vast. This course has been curated to help you develop skills to "think like an animal behavior scientist" - a priority greater than the task of '*knowing*' the details of any specific behaviors. Outside of the course, many of you are unlikely to be regularly applying most (if any) of the specific content knowledge about each sub-topic or behavior that we explore inside this course. This is not to diminish the importance of this content, but rather to emphasize the importance of getting more than just knowledge out of this (and any) classroom experience. In this course (and others) I hope you find inspiration and develop *your own interests*, which you have developed the skills to go on to study in depth in your own unique ways. 
-
-You are encouraged to *scrutinise* and *question* learning material as you explore topics in your own way. I, as the instructor, am here to serve as your coach from the sidelines. The goal is for you to develop your own understanding of the topics and practice the skills needed to be a life-long learner -- skills that you can apply to learning anything, in academia, your career, or life in general. Among the broader skill goals that you will be working on are: Communication, Collaboration, Critical Thinking, and Creativity.
-
-
 Of you I ask:
 - Respect to yourself and others in the class.
 - Independence and self-motivation. This is your education. The learning process belongs to you.
 - That you have fun and explore.
 
 We’ll be working together to create an equitable and inclusive environment of mutual respect, in which we all feel comfortable to share our moments of confusion, ask questions, and challenge our understanding. Everyone should be able to succeed in this course. If you do not feel that is the case please let me know. 
+
+You are encouraged to *scrutinise* and *question* learning material as you explore topics in your own way. I, as the instructor, am here to serve as your coach from the sidelines. The goal is for you to develop your own understanding of the topics and practice the skills needed to be a life-long learner -- skills that you can apply to learning anything, in academia, your career, or life in general. Among the broader skill goals that you will be working on are: Communication, Collaboration, Critical Thinking, and Creativity.
+
+This class is about more than Animal Behavior as a topic itself. The content of the "animal behavior" is vast. This course is curated to mentor you in "thinking like an animal behavior scientist" - a priority greater than the task of '*knowing*' all specific details of behaviors we discuss. Outside of the course, many of you are unlikely to be regularly applying most (if any) of the specific content knowledge about each sub-topic or behavior that we explore inside this course. This is not to diminish the importance of this content, but rather to emphasize the importance of getting more than just content "knowledge" memorization out of this (and any) classroom experience. In this course (and others) I hope you find inspiration and develop *your own interests*, and develop the skills to go on to study those interests in depth in your own unique ways. 
+
 
 :::{epigraph}
 It is important that students bring a certain ragamuffin[^ragamuffin], barefoot irreverence to their studies; they are not here to worship what is known but to question it
@@ -46,7 +46,6 @@ It is important that students bring a certain ragamuffin[^ragamuffin], barefoot 
 
 [^ragamuffin]: Oxford languages defines it as: "*a person, typically a child, in ragged, dirty clothes*". It is also a breed of cat. The term ragamuffin is used affectionately in this context of recognizing the value of rugged scrappiness. Though its roots are in describing a lazy and worthless, or beggarly individual. In the early 19th century the word became associated with the children who would dress up for Thanksgiving as ragamuffins and parade asking for handouts, parodying begging and beggars. I have not found any resources informing that this word is derogatory or discriminatory nor contains any racial undertones. If you are informed otherwise do not hesitate to edit this quote for the syllabus. 
 
-Class rosters are provided to the instructor with the student's legal name. I will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me of this preference early in the semester so that I may make appropriate changes to my records.
 
 ## Course Resources
 - The course website (which you accessed to read this syllabus) contains all course materials that you will need. 
@@ -138,6 +137,9 @@ At least one person from each group needs to bring a computer or tablet (or simi
         - “Let’s wait for (name) to catch up before we move on.”
       - Runs internet queries to help progress group discussion if it gets stuck
 
+**Identity**
+Class rosters are provided to the instructor with the student's legal name. I will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me of this preference early in the semester so that I may make appropriate changes to my records.
+
 **Class Preparation**  
 In preparation for class, complete any "Assignments" listed in the [Schedule](../schedule) page. Sometimes this will include producing work that you bring to the corresponding classroom session, other times it will just include readings or listenings. Readings and listenings are meant to reinforce the concepts that are introduced (either before or after) through classroom activities and discussion.
 
@@ -167,6 +169,15 @@ Due by midnight on the first day of final exams (Dec 13). Your work throughout t
 
 **Email Policy**  
 I do my best to respond to emails within 24 hours. However, I cannot guarantee email communication over the weekend as this time is reserved for family.
+
+**Covid Safety**  
+Covid-19 remains a major public health crisis, and as such a threat to education. In line with peer institutions and CDC guidelines, to protect the particularly vulnerable among us, and to preserve our ability to meet in person, masking is the default for our classroom and lab instruction. Please wear N95, KN95, or KF94 masks. Your mask should fit properly over both your nose and mouth. If you need a mask, please let me know. After the first two weeks of instruction, and upon evidence of low community spread (as defined by the CDC), we may decide to make masking optional after an anonymous survey of the class. Please test yourself at any signs of Covid symptoms. If you have tested positive or have symptoms that you think are Covid related, please do not come to class. We will make arrangements for you.
+
+**Writing Workshop**
+Working on your writing? Don’t go it alone! Instead, make a free one-on-one appointment with peer writing tutors at the Writing Workshop. Trained to help Wesleyan writers at any stage of the writing process, writing tutors are available for online appointments, Sunday - Friday at a range of times. Let us help you get your ideas out of your head and onto paper!  
+Make an appointment by going to Wesportal→ Academics-->Writing Workshop Account. You’ll be asked to make an account before being brought to our online scheduler.  
+Want semester long support? Apply for a writing mentor who will work with you for an hour every week. Focus on specific writing tasks like organization and time management with the help of a trained peer all while earning a .25 credit!  
+[Learn more here](https://www.wesleyan.edu/writing/writingworkshop/resourcesforstudents/index.html) or email Professor [Lauren Silber](mailto:lsilber@wesleyan.edu) or the [Ford Fellow](mailto:writingworks@wesleyan.edu).
 
 **Deadlines**
 Assignment due dates are available from the start of the semester. Students are expected to meet all deadlines. Extracurricular activities (sports, social/volunteer activities) and other academic commitments are unacceptable excuses for rescheduling requests. Rescheduling a test will only be considered in unforeseen and extreme circumstances. 
@@ -207,20 +218,10 @@ It is expressly forbidden to submit work from another course without my permissi
 
 **Skills beyond content** 
 More than eighty percent of employers surveyed indicated that undergraduate education should place more emphasis
-on the following three areas, all of which are targeted process skills in a POGIL learning
-environment:
-•Critical thinking and analytical reasoning
-•Complex problem solving and analysis
-•Written and oral communication
-
-"Process Skills":
-- Communication
-- Assessment, particularly self-assessment
-- Teamwork
-- Management
-- Information Processing
-- Critical Thinking
-- Problem Solving
+on the following three areas:
+- Critical thinking and analytical reasoning
+- Problem solving and analysis
+- Written and oral communication
 
 **Problems versus Exercises**
 A problem exists when one does not know what to do or does not have an internalized
