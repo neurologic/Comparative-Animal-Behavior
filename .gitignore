@@ -4,5 +4,6 @@
 # ignore the build directory
 _build/
 
-# ignore the cummulative exam files directory
-assessment-sum/
+# # do not ignore, instead manage un-published exams in the instructor branch
+# # ignore the cummulative exam files directory
+# assessment-sum/
