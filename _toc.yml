@@ -36,14 +36,14 @@ parts:
     - file: understanding-behavior/escape
     - file: understanding-behavior/social-spectrum
       sections:
-        - file: understanding-behavior/cooperation
-        - file: understanding-behavior/eusociality
+        - file: understanding-behavior/social-spectrum_cooperation
+        - file: understanding-behavior/social-spectrum_eusociality
     - file: understanding-behavior/communication
       sections:
-        - file: understanding-behavior/communication-proximate
-        - file: understanding-behavior/communication-ultimate
+        - file: understanding-behavior/communication_proximate
+        - file: understanding-behavior/communication_ultimate
     - file: understanding-behavior/family-life
       sections:
-        - file: understanding-behavior/sexual-selection
-        - file: understanding-behavior/mating-systems
-        - file: understanding-behavior/parental-care
+        - file: understanding-behavior/family-life_sexual-selection
+        - file: understanding-behavior/family-life_mating-systems
+        - file: understanding-behavior/family-life_parental-care
