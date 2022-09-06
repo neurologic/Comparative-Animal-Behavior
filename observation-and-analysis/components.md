@@ -248,7 +248,7 @@ We would call this the *spontaneous* increase (as opposed to stimulus-driven inc
 ---
 > ⏳ 15 min 
 
-We can think of action-specific energy as thd total *motivation* for a particular behavior (FAP). Both internal drive and external stimuli contribute to this motivation. As an analogy, think of eating behavior. The liklihood that you will eat a food can depend on the properties of the food itself. 
+We can think of action-specific energy as the *motivation* for a particular behavior (FAP). Both internal drive and external stimuli contribute to this motivation. As an analogy, think of eating behavior. The liklihood that you will eat a food can depend on the properties of the food itself. 
 
 ***Q: Fill in the following graph according to your food preferences.***
 
@@ -302,9 +302,9 @@ At each moment in time, only one behavior can occur. Therefore, each possible be
 
 ***Q: In the case of complex FAPs involving a series of different movements, how do you think we can decide whether we are dealing with a single FAP or a series of different ones?***
 
-Lorenz names several other complexities that make it difficult to understand the motivation of an animal based on its behavior and even to understand the behavior itself. Ritualization, superposition, and learning are examples of behavioral phenomena that make it hard to determine the set of behaviors that an animal can do and determine the motivation of an animal. 
+Lorenz names several other complexities that make it difficult to understand the motivation of an animal based on its behavior and even to understand the behavior itself. Ritualization, superimposition, and learning are examples of behavioral phenomena that make it hard to determine the set of behaviors that an animal can do and determine the motivation of an animal. 
 
-***Q: With your group, review, compare, and synthesize your understanding of: 'ritualization, superposition, and learning' from your reading.***
+***Q: With your group, review, compare, and synthesize your understanding of: 'ritualization, superimposition, and learning' from your reading.***
 
 ### Ritualization
 
@@ -312,9 +312,9 @@ Lorenz names several other complexities that make it difficult to understand the
 
 ### Superpositions
 
-***Q: Create your group's summary of superposition.***
+***Q: Create your group's summary of superimposition.***
 
-***Q: How is the issue of 'superposition' of behavior different from or similar to the issue of 'hierarchy' of behavior?***
+***Q: How is the issue of 'superimposition' of behavior different from or similar to the issue of 'hierarchy' of behavior?***
 
 ### Learning
 
