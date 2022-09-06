@@ -4,8 +4,7 @@
 To ask *why* and *how*, we must define *what*. What is animal behavior? This workbook explores its composition and organisation.  
 :::
 
-[Day 1](components_day1)  
-[Day 2](components_day2) 
+[Day 1](components_day1); [Day 2](components_day2) 
 
 <hr>
 
@@ -17,7 +16,7 @@ To ask *why* and *how*, we must define *what*. What is animal behavior? This wor
 ## Units of behavior
 
 :::{admonition} Why?
-Attention to the way we define behavior for a particular study must include considerting appropriate organizationals level and timescales for our level of analysis and our question (ultimate versus proximate, neural versus genetic, etc).
+Attention to the way we define behavior for a particular study must include considerting appropriate organizational level and timescales for our level of analysis and our question (ultimate versus proximate, neural versus genetic, etc).
 :::
 
 --- 
@@ -88,11 +87,17 @@ Activity
 
 ***Q: How do these categories map onto the categories that you came up with earlier? Any thoughts?***
 
-***Q: Pick an animal that you are familiar with (do not spend too much time deliberating over which animal to use). Make an example behavior hierarchy for that animal using either your hierarchical categories, or the moveme, action, and activity hierarchical categories. Do not include all behavior of the animal, just enough to make an example hierarchy of behavior. Diagram the behavior hierarchy and define each behavior that you included at each level. (Do not use any of the examples already given in the figure above).***
+***Q: Pick an animal that you are familiar with (do not spend too much time deliberating over which animal to use). Make an example behavior hierarchy for that animal using either your group's own hierarchical categories, or the "moveme, action, and activity" hierarchical categories. Do not include all behavior of the animal, just enough to make an example hierarchy of behavior. Diagram the behavior hierarchy and define each behavior that you included at each level. (Do not use any of the examples already given in the figure above).***
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
+
+:::{index} fixed action patterns
+:::
+
+:::{index} sign stimuli
+:::
 
 (FAPs-sign-stimuli)=
 ### Fixed Action Patterns (FAP)[^instinctive-motor-pattern][^fap], Releasing Mechanisms, and Sign Stimuli
@@ -101,19 +106,20 @@ Activity
 
 [^fap]: [wiki](https://en.wikipedia.org/wiki/Fixed_action_pattern)
 
-:::{index} fixed action patterns
-:::
 
 :::{admonition} Why?
-Once you have defined individual behaviors, you can determine what behavior an animal is doing at each moment in time. AND what is that animal *not* doing at that moment in time? Essentially, behaviors compete for expression and an animal's motivation and its external environment determine which wins. The Nobel laureate [Konrad Lorenz](https://en.wikipedia.org/wiki/Konrad_Lorenz) laid the foundations for an approach to studying animal behavior and categorized behavior into *Fixed Action Pattern* components that are released by *Sign Stimuli*.
+Once you have defined individual behaviors, you can determine what behavior an animal is doing at each moment in time. AND what that animal is *not* doing at that moment in time. Essentially, behaviors compete for expression and an animal's motivation, its life history, and its external environment determine which wins. The Nobel laureate [Konrad Lorenz](https://en.wikipedia.org/wiki/Konrad_Lorenz) laid the foundations for an approach to studying animal behavior and categorized behavior into *Fixed Action Pattern* components that are released by *Sign Stimuli*.
 :::
 
 :::{glossary}
-Fixed Action Patterns  
-  (FAPs) In a general sense, identifiable behaviors. Historically, the term FAP has been used to mean *instinctive*, but that distinction may not be so necessary/useful[^FAPdefinition]. At an extreme, FAPs are very *stereotyped*.
+Fixed Action Patterns (FAPs) 
+   In a general sense, FAPs are identifiable behaviors. Historically, the term FAP has been used to mean *instinctive*, but that distinction may not be so necessary/useful[^FAPdefinition]. At an extreme, FAPs are very *stereotyped*.
 :::
 
 [^FAPdefinition]: Historically, behaviors are considered FAPs when they are *instinctual* (ie. genetically-determined and *pre-programmed*). Lorenz used the German word 'Erbkoordination' which translates literally as 'inherited co-ordination' to describe them. In a more contemporary mindset, we can think of *behavioral patterns* that need not be purely *pre-programmed* (as you will learn in this course if you have not already... no behavior truly is).
+
+:::{index} egg rolling
+:::
 
 *Egg Rolling* is a common example of FAPs used in introductory animal behavior courses. Female gulls sit on their eggs in the nest to incubate them. Sometimes, the eggs roll out of the nest. The gull, noticing an egg outside of the nest, performs the *egg rolling* behavior in response. As a class, let's watch these two videos of egg rolling:
 - [egg rolling video 1](https://youtu.be/7PcteKRA3zs)
@@ -133,10 +139,9 @@ Fixed Action Patterns
 ---
 > ⏳ 10 min 
 
-:::{index} sign stimuli
+:::{index} stickleback aggression
 :::
-
-Another common "introductory animal behavior course" FAP example is territorial aggression behavior in stickleback fish[^intro-stickleback]. During the breeding season, the male fish select a territory on which they build a nest. When a male stickleback spots another nearby male in his nesting territory, he will launch into a FAP involving aggressive displays designed to scare off the stranger. However, males are not aggressive to nearby females in their territory. 
+Another common "introductory animal behavior course" FAP example is territorial *aggression behavior* in stickleback fish[^intro-stickleback]. During the breeding season, the male fish select a territory on which they build a nest. When a male stickleback spots another nearby male in his nesting territory, he will launch into a FAP involving aggressive displays designed to scare off the stranger. However, males are not aggressive to nearby females in their territory. 
 
 :::{figure-md} stickleback-male-female
 :class: figure
@@ -209,7 +214,7 @@ Examine the following representation of a theoretical model for behavior posed b
 
 <img src="/images/action-specific-potential.png" alt="fishy" class="bg-primary mb-1" width="700px">
 
-Lorenz's model of FAP release. A sign stimulus is presented at time = 7.5au. 
+Lorenz's model of FAP release. A ***sign stimulus*** is presented at time = 7.5au. 
 :::
 
 ***Q: What three variables are represented in Lorenz' model of behavior?***

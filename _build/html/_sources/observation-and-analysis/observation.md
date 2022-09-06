@@ -11,6 +11,9 @@ Scientists use human perceptions, intuition, and feelings, our inner worlds, to 
 ---
 > ⏳ 20 minutes
 
+:::{index} ethogram
+:::
+
 ## Ethograms
 
 :::{admonition} Why?
@@ -20,9 +23,9 @@ I like to sit on my orange and eat my porch.
 Observations of animal behavior cannot be used to advance our understanding unless the language is clearly and objectively defined in a way that is recognized by the broader community. 
 
 You have already watched [this short video](https://vimeo.com/80600819) and named/defined all of the distinct behaviors that you observe.  
-Now, compare your notes among your group and develop an ethogram including both *behavioral actions* and *definitions for each behavior/action*.
 
-***Q: Consolidate your individual work into a final group ethogram (behavior names and definitions). Include ‘other’ and ‘out of view’ as two of your behaviors.***
+
+***Q: Now, compare your notes among your group and develop an consolidated ethogram (a list of behavioral actions and definitions for each behavior/action). Include ‘other’ and ‘out of view’ as two of your behaviors.***
 
 ***Q: Were the behaviors that you and your group originally listed different? In what ways? How different?***
 
@@ -48,7 +51,7 @@ Time is nature's way of keeping everything from happening at once
 
 [^timequote]: [Quote Investigator](https://quoteinvestigator.com/2019/07/06/time/)
 
-Do some behaviors happen more than others? Why might some behaviors happen more than others? The *activity* budget of an animal/species is the distribution of time allocated across its behaviors.
+Do some behaviors happen more than others? Why might some behaviors happen more than others? The *activity budget* of an animal/species is the distribution of time allocated across its behaviors.
 
 As an illustration of the activity budget concept, consider the following poem.
 
@@ -62,12 +65,19 @@ One fish two fish red fish blue fish.
 
 ***Q: As an analogy to behavior, what is the 'activity budget' for each word in this poem?***
 
+Activity budgets are generally presented as the *proportion or percent time* that an animal spends doing each behavior. 
+
+***Q: Come up with a general equation that you could use to calculate the activity budget for any type of similar data (occurences/frequency of items in a list).***
+
 ***Q: What activity budget would you expect by chance for each word in this poem?***
 
 ***Q: What 'activity budget' would you expect 'by chance' for each behavior in an ethogram? Calculate this 'null hypothesis' for an animal with an ethogram of 5 behaviors: X, Y, Z, A, and P.*** 
 
+⏸️ PAUSE here for class-wide discussion
 
-Animal behaviorists use ethograms to determine an animal's *activity budget*. Now that you have your ethogram of meerkat behavior, you will estimate a meerkat activity budget. You will watch a new video of meerkat behavior in which you focus on recording the behavior of a single individual. *You will record the start time of each behavior and the behavior name.* It is helpful to develop a short code that you can use for each behavior category (e.g. drinking could be denoted with a ‘D’). You can take the initial data using any format you choose (e.g. I used a pen and paper) and you can subsequently enter your data into an electronic spreadsheet if it is helpful for you.
+
+
+Animal behaviorists use ethograms to determine an animal's *activity budget*. Now that you have your ethogram of meerkat behavior, you will estimate a meerkat activity budget. You will watch a new video of meerkat behavior in which you focus on recording the behavior of a single individual. *You will record the start time of each behavior and the behavior name.* It is helpful to develop a short code that you can use for each behavior category (e.g. drinking could be denoted with a ‘D’). You can take the initial data using any format you choose (e.g. I used a pen and paper).
 
 Use the following format for your data record:
 
@@ -75,13 +85,12 @@ Use the following format for your data record:
 | --- | --- | --- |
 | name of behavior | cummulative seconds | calculated | 
 
+---
+> ⏳ 10 minutes
+
 ***Q: Which of these columns needs to be filled out during data collection? Which of these columns can be filled out "offline" (after data collection has concluded)?***
 
 ***Q: How would you calculate the duration of each instance of each behavior from your data?***
-
-Activity budgets are generally presented as the proportion or percent time that an animal spends doing each behavior. 
-
-***Q: Come up with an equation that you could use to calcualte the activity budget for each behavior in your ethogram.***
 
 ***Q: Would you include or exclude the time spent 'out of sight' in the reported activity budget? Justify your choice.***
 
@@ -91,7 +100,7 @@ Activity budgets are generally presented as the proportion or percent time that 
 
 
 ---
-> ⏳ 20 minutes
+> ⏳ 10 minutes
 
 In [this 10-minute video](https://vimeo.com/80602697), one meerkat (Bumble) is highlighted throughout. Focus on Bumble's behavior to create a meerkat activity budget. Each person in the group needs to record their own data based on video observation.
 
