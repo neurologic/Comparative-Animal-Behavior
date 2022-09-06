@@ -5,8 +5,10 @@ format: jb-book
 root: welcome
 parts:
   - caption: General
+    chapters:
     - file: assessment-sum/cumulative-exam
       sections:
         - file: assessment-sum/assessment-example
         - file: assessment-sum/assessment_components
     - file: assessment-sum/capstone
+
