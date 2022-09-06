@@ -1,0 +1,8 @@
+# ignore the file literally named 
+.DS_Store
+
+# ignore the build directory
+_build/
+
+# ignore the cummulative exam files directory
+assessment-sum/
