@@ -62,25 +62,21 @@ Set a timer to go off every 10 seconds, and at each interval record the number o
 
 Vigilant: Head raised at or above horizontal plain and eyes open (to include scanning /guarding / raised guarding). Not Vigilant: Eyes closed or head lower than horizontal plane (to include foraging, moving, sleeping, resting). Out of sight: Not visible by the researcher
 
-<hr>
 
-### Raw Data
-
-From [behavioR package](https://github.com/DenaJGibbon/behaviouR) with the following script to convert to csv:
-
-:::{code}
-!pip install rdata
-import rdata
-import pandas as pd
-path = '/content/MeerkatScanData.rda'
-parsed = rdata.parser.parse_file(path)
-converted = rdata.conversion.convert(parsed)
-converted['MeerkatScanData'].to_csv('MeerkatScanData.csv')
-:::
  
-## Reading
-
+## Additional Resources
+- [Neuroscience: A social hub for worms](https://doi.org/10.1038/4581124a)
 - [Cooperation](http://pages.nbb.cornell.edu/Gamebug/cooperation.html)
 - [V-formation flight commentary](https://www.science.org/content/article/why-birds-fly-v-formation)
 - Weimerskirch, H., Martin, J., Clerquin, Y. et al. [Energy saving in flight formation](https://doi.org/10.1038/35099670). Nature 413, 697–698 (2001).
 - Portugal, S., Hubel, T., Fritz, J. et al. [Upwash exploitation and downwash avoidance by flap phasing in ibis formation flight](https://doi.org/10.1038/nature12939). Nature 505, 399–402 (2014).
+- Raw Data from [behavioR package](https://github.com/DenaJGibbon/behaviouR) with the following script to convert to csv:
+	:::{code}
+	!pip install rdata
+	import rdata
+	import pandas as pd
+	path = '/content/MeerkatScanData.rda'
+	parsed = rdata.parser.parse_file(path)
+	converted = rdata.conversion.convert(parsed)
+	converted['MeerkatScanData'].to_csv('MeerkatScanData.csv')
+	:::
