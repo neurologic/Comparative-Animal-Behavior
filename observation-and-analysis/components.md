@@ -137,14 +137,15 @@ Fixed Action Patterns (FAPs)
 
 ***Q12: What else do you notice in these example videos of egg rolling behavior? List comments and questions that you have.***
 
+
 ⏹️ STOP here for today. 
 
+---
 (components_day2)=
-
 
 :::{index} stickleback aggression
 :::
-Territorial *aggression behavior* in stickleback fish is another common "introductory animal behavior course" example of FAPs[^intro-stickleback]. During the breeding season, the male fish select a territory on which they build a nest. When a male stickleback spots another nearby male in his nesting territory, he will launch into a FAP involving aggressive displays designed to scare off the stranger. However, males are not aggressive to nearby females in their territory. 
+Territorial *aggression behavior* in stickleback fish is another common "introductory animal behavior course" example of FAPs[^intro-stickleback]. During the breeding season, the male fish select a territory on which they build a nest. When a male stickleback spots another nearby male in his nesting territory, he will launch into FAP aggressive displays designed to scare off the stranger. However, males are not aggressive to nearby females in their territory. 
 
 [^intro-stickleback]: For example, see the landing page for 'innate behavior' from [Kahn Academy](https://www.khanacademy.org/science/ap-biology/ecology-ap/responses-to-the-environment/a/innate-behaviors). However, note that the reference for this result is a textbook, not [the original article](https://psycnet.apa.org/record/1938-03659-001). The data from the [publication in German](https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0310.1937.tb01422.x) is not available. Based on replications of the original experiments, it turns out that [Tinbergen's results from the 1937 paper may be less clear](https://www.jstor.org/stable/4534445#metadata_info_tab_contents). 
 
@@ -161,7 +162,7 @@ Stickleback fish appearance. Top: female. Bottom: male.
 
 ***Q1: If aggressive FAPs should only be directed toward other males, what sensory cues could be used to appropriately trigger FAP expression?***
 
-To test what *stimulus* (sensory cues/features) triggers aggression FAPs, we need to quantify the behavior somehow. A *bite* is a component of aggression, and a commonly used measure of aggression is ***bite rate***. For this study, let's define a *bite* as *contact of the male's mouth against an object*. 
+To test what *stimulus* (sensory cues/features) triggers aggression FAPs, we need to quantify the behavior somehow. A *bite* is a component of aggression, and a commonly used measure of aggression is ***bite rate***. For this study, let's define a ***bite*** as *contact of the male's mouth against an object*. 
 
 ***Q2: Mathematically define 'bite rate' (ie. how would you calculate it?).***
 
@@ -181,10 +182,15 @@ As a class, let's watch this [video of an experiment on stickleback aggression](
 
 ***Q5: Make a plan for how you would collect data from the video to calculate bite rate for each stimulus. (What data do you need to make that calculation? How will you measure and record that data?).***
 
+
+⏸️ PAUSE here for class-wide discussion
+
+---
+
 :::{admonition} Complete this section for homework and bring your responses to next class
 :name: stickleback-aggression-analysis
 
-On your own, re-watch [the video](https://youtu.be/ZfcGZCGdGVE) to collect the experimental data you just discussed with your group and complete the following three questions to bring to the next class:
+On your own (or in groups is ok too), re-watch [the video](https://youtu.be/ZfcGZCGdGVE) to collect the experimental data you just planned out with your group and complete the following four questions to bring to the next class:
 
 ***HQ1: Summarize, in your own words, what you are testing and what the experimental design was (based on the video).***
 
@@ -195,9 +201,6 @@ On your own, re-watch [the video](https://youtu.be/ZfcGZCGdGVE) to collect the e
 ***HQ4: Based on the statement that 'red coloration is a sign stimulus for stickleback aggression', define 'sign stimulus' generally.***
 
 :::
-
----
-⏸️ PAUSE here for class-wide discussion 
 
 
 ## Action-Specific Potential (ASP; Energy)
@@ -236,11 +239,15 @@ Lorenz's model of behavior in terms of FAPs and their expression/"release". A **
 
 ***Q14: Based on the information given in the model and your work so far, how would you define the term "sign stimulus"?***
 
-FAP's that are expressed in the absence of a *sign stimulus* are called *spontaneous*.
+
+Note that FAP's expressed in the absence of a *sign stimulus* are called *spontaneous*.
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
+
+:::{index} double: motivation ; stimulus strength 
+:::
 
 We can think of action-specific energy as the *motivation* for a particular behavior (FAP). Both internal drive and external stimuli contribute to this motivation. The *strength* of a stimulus is defined in terms of how much it changes the action specific potential for a FAP. 
 
@@ -257,15 +264,18 @@ Relationship between variation in food taste and desire to eat food.
 Think about your own food preferences and whether a sweet food be a strong or weak stimulus for eating. Then, imagine you are are really really really hungry (ie. increased *internal drive* to eat), would you be more or less likely to eat in response to a weak food stimulus compared to when you are full?
 
 ---
-> ⏳ 15 min 
+> ⏳ 10 min 
 
 ***Q15: Complete this sentence by selecting one of the options: The more motivated an animal is toward a specific FAP, the ( higher / lower ) the action specific potential for that FAP.***
 
 ***Q16: Complete this sentence by selecting one of the options: The more motivated an animal is toward a specific FAP, the ( stronger / weaker ) the stimulus needs to be to elicit the FAP.***
 
-The *stimulus threshold* for behavior is defined as the minimum stimulus strength needed to trigger/evoke the behavior. 
+:::{glossary} 
+stimulus threshold
+   the minimum stimulus strength needed to trigger/evoke the behavior
+:::
 
-***Q17: Complete the following plot to show your understanding of the relationship between stimulus threshold and current action specific potential for an FAP.***
+***Q17: Complete the following plot to demonstrate your current understanding of the relationship between stimulus threshold and current action specific potential for an FAP.***
 
 :::{figure-md} stimulus-threshold
 :class: figure
@@ -295,15 +305,15 @@ At each moment in time, only one behavior can occur. Therefore, each possible be
 
 Lorenz names several other complexities that make it difficult to understand the motivation of an animal based on its behavior and even to understand the behavior itself. Ritualization, superimposition, and learning are examples of behavioral phenomena that make it hard to determine the set of behaviors that an animal can do and determine the motivation of an animal. 
 
-***Q: With your group, review, compare, and synthesize your understanding of: 'ritualization, superimposition, and learning' from your reading.***
+With your group, review, compare, and synthesize your understanding (from your reading) of: 'ritualization, superimposition, and learning' in responding to the next three questions.
 
 ### Ritualization
 
-***Q: Create a 1-sentence summary of ritualization.***
+***Q: Create a 1-2 sentence summary of ritualization.***
 
 ### Superpositions
 
-***Q: Create a 1-sentence summary of superimposition.***
+***Q: Create a 1-2 sentence summary of superimposition.***
 
 ***Q: How is the issue of 'superimposition' of behavior different from or similar to the issue of 'hierarchy' of behavior?***
 

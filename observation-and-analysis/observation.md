@@ -8,8 +8,6 @@ Scientists use human perceptions, intuition, and feelings, our inner worlds, to 
 
 [^tracks-shadows]: [Tracks and Shadows](https://www.ucpress.edu/book/9780520292659/tracks-and-shadows)
 
----
-> ⏳ 20 minutes
 
 :::{index} ethogram
 :::
@@ -21,6 +19,9 @@ I like to sit on my orange and eat my porch.
 :::
 
 Observations of animal behavior cannot be used to advance our understanding unless the language is clearly and objectively defined in a way that is recognized by the broader community. 
+
+---
+> ⏳ 20 minutes
 
 You have already watched [this short video](https://vimeo.com/80600819) and named/defined all of the distinct behaviors that you observe.  
 
