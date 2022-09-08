@@ -1,10 +1,12 @@
 # Schedule
 
 Daily schedule of classroom sessions.  
-Any assignments listed on the schedule should be completed before the class starts on that day.  
+Complete homework (listed in the ***Assignments*** column) before class starts on that day.  
+The *Pages* column contains links to materials we will use during class that day and are not part of the homework. 
+
 **Tuesdays** are marked by bold font.  
 
-| **Date** | **Topic** | **Assignment** | **Classroom Session Page(s)** |
+| **Date** | **Topic** | **Assignments** | **In-Class Page(s)** |
 | :---: | :---: | :---: | :---: |
 | **Sept 6** | Welcome and Introduction | none | [](../welcome) <br> [](../syllabus) <br> Tinbergen's Four Analyses <br> Groups |
 | Sept 8 | Components | [Lorenz book](https://drive.google.com/file/d/12rJaGxQjkovlIAYCxjHb4Br0kEClEBrX/view?usp=sharing) *pg 82-89* | [Components: day 1](../observation-and-analysis/components) |

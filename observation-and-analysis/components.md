@@ -6,17 +6,17 @@ To ask *why* and *how*, we must define *what*. What is animal behavior? This wor
 
 [Day 1](components_day1); [Day 2](components_day2) 
 
-<hr>
+<!-- <hr>
 
 > {sub-ref}`wordcount-words` words | {sub-ref}`wordcount-minutes` min read
 
-<hr>
+<hr> -->
 
 (components_day1)=
 ## Units of behavior
 
 :::{admonition} Why?
-Attention to the way we define behavior for a particular study must include considerting appropriate organizational level and timescales for our level of analysis and our question (ultimate versus proximate, neural versus genetic, etc).
+Attention to the way we define behavior for a particular study must include considering the appropriate organizational level and timescales for our level of analysis and our question (ultimate versus proximate, neural versus genetic, etc).
 :::
 
 --- 
@@ -26,9 +26,9 @@ Attention to the way we define behavior for a particular study must include cons
 
 All living organisms are made up of cells. 
 
-***Q: How many different types of cells can you think of?***
+***Q1: How many different types of cells can you think of?***
 
-***Q: Organize the following terms according to levels of composition: cells, organs, bodies, organ systems and tissues.***
+***Q2: Organize the following terms according to nested levels of composition: cells, organs, bodies, organ systems and tissues.***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -37,13 +37,13 @@ All living organisms are made up of cells.
 
 Cells are considered the *fundamental unit* of life. You can use this model from biology to explore the analagous concept in the study of animal behavior.
 
-***Q: How many levels of organization would you split behavior into? Create a name for, and describe, each level. It can help to think of an animal and some of its behavior to use as an example of your categorization and organization.***
+***Q3: What nested levels would you split behavior into? Create a name for, and describe, each level. It can help to think of an animal and some of its behavior to use as an example of your categorization and organization.***
 
-***Q: In your model, what are the fundamental units of behavior? Provide some examples.***
+***Q4: In your model, what are the fundamental units of behavior? Provide some examples.***
 
-***Q: What timescale do these fundamental units of behavior generally occur over?***
+***Q5: What timescale do these fundamental units of behavior generally occur over?***
 
-***Q: What is the timescale of behavior at the highest level you categorized?***
+***Q6: What is the timescale of behavior at the highest level you categorized?***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -52,42 +52,44 @@ Cells are considered the *fundamental unit* of life. You can use this model from
 
 ### Movemes, Actions, Activities
 
-The *levels of organization* that you just explored are examples of *hierarchy*. The hierarchical nature of behavior seems clear, despite a lack of concensus for terminology used to describe its component parts[^AndersonPerona2014][^Datta2019].
+The nested levels of organization that you just explored are examples of *hierarchy*. The hierarchical nature of behavior seems clear, despite a lack of concensus for terminology used to describe its component parts[^AndersonPerona2014][^Datta2019].
 
 [^AndersonPerona2014]: David J.Anderson and Pietro Perona [Toward a Science of Computational Ethology](https://doi.org/10.1016/j.neuron.2014.09.005). Neuron 84:1 (2014).
 
 [^Datta2019]: Datta SR, Anderson DJ, Branson K, Perona P, Leifer A [Computational Neuroethology: A Call to Action](https://doi.org/10.1016/j.neuron.2019.09.038). Neuron 104:11-24 (2019). 
 
-The following figure presents challenges that arise from the hierarchical nature of behavior that we need to grapple with when we study it. 
+The following figure depicts and describes challenges that arise from the hierarchical nature of behavior that we need to grapple with when we study it. 
 
 :::{figure-md} DattaBehaviorHierarchy
 :class: figure
 
 <img src="/images/Datta_2019-ChallengesOfDefiningBehavior.png" alt="fishy" class="bg-primary mb-1" width="700px">
 
-A characteristic sequence of behaviors exhibited by a mouse in its home cage as it moves around the walls (thigmotaxis), approaches some food, eats, and then sleeps (center, mouse cartoons). Several key challenges facing any segmentation of continuous behavior into components are illustrated, including the following two points. **1)** Behaviors need to be labeled, which raises the problem of ‘‘lumping’’ versus ‘‘splitting’’ (red); for example, mice engage in thigmotaxis, behaviors in which the mouse exhibits locomotion and turning behaviors that are deterministically sequenced to generate an action where the animal circumnavigates its cage. Is thigmotaxis a singular or unitary behavior (because its elements are deterministically linked during its expression), or it is a sequence of walking, turning, and walking behaviors? **2)** Should behavior be considered at a single timescale that serially progresses or instead considered a hierarchical process organized at multiple timescales simultaneously (blue)? When the mouse is sniffing and running at the same time, is that a compositional behavior whose basis set includes ‘‘run’’ and ‘‘sniff,’’ or is ‘‘running+sniffing’’ a fundamentally new behavior (purple)?[^Datta2019]
+Center (mouse cartoons): A characteristic sequence of behaviors exhibited by a mouse in its home cage as it moves around the walls (**thigmotaxis**), approaches some food, eats, and then sleeps. Several key challenges facing any segmentation of continuous behavior into components are illustrated, including the following two points.  
+**1)** Behaviors need to be labeled, which raises the problem of *lumping* versus *splitting* (red); for example, mice engage in thigmotaxis (behaviors in which the mouse exhibits locomotion and turning behaviors that are deterministically sequenced to generate an action where the animal circumnavigates its cage). Is thigmotaxis a *singular* or unitary behavior (because its elements are deterministically linked during its expression), or it is a *sequence* of walking, turning, and walking behaviors?  
+**2)** Should behavior be considered at a single timescale that serially progresses or instead considered a hierarchical process organized at multiple timescales simultaneously (blue)? When the mouse is sniffing and running at the same time, is that a *compositional* behavior whose *basis set* includes **run** and **sniff**, or is **running+sniffing** a fundamentally new behavior (purple)?[^Datta2019]
 :::
 
-***Q: Define 'hierarchy' in the context of animal behavior.***
+***Q7: How would you define 'hierarchy' in the context of animal behavior?***
 
-The following language as defined by Anderson and Perona[^AndersonPerona2014] provides a reasonable basis for discussion of the hierarchical nature of behavior. 
+The following language, as defined by Anderson and Perona[^AndersonPerona2014], provides a reasonable basis for discussion of the hierarchical nature of behavior. 
 
 :::{glossary}
 
 Moveme  
-	The simplest meaningful pattern associated with a behavior. Typically involves a short, ballistic trajectory described by a verb, such as a turn, a step, or a wing extension, which cannot be further decomposed. It is analogous to a “phoneme” in language.
+	The simplest meaningful pattern associated with a behavior. Typically involves a short, ballistic trajectory described by a verb, such as a *turn*, a *step*, or a *wing extension*, which cannot be further decomposed. It is analogous to a *phoneme* in language.
 
 Action  
-	A combination of movemes that always occurs in the same stereotypical sequence and that is also described by a verb. Examples of actions include “walk” (step + step + step), thigmotaxis (walk + turn + walk), etc. In language, it would be analogous to a word or to an idiomatic expression.
+	A combination of movemes that always occurs in the same stereotypical sequence and that is also described by a verb. Examples of actions include **walk** (*step* + *step* + *step*), **thigmotaxis** (*walk* + *turn* + *walk*), etc. In language, it would be analogous to a *word* or to an idiomatic *expression*.
 
 Activity  
-	A species-characteristic concatenation of actions and movemes whose structure is typical, ranging from stereotyped to variable. Variability can be observed both in the structure or dynamics of the individual actions that comprise an activity, as well as in the timing and/or sequence of the actions. Examples of activities include nest-building, parenting, etc.
+	A species-characteristic concatenation of actions and movemes whose structure is typical, ranging from stereotyped to variable. Variability can be observed both in the structure or dynamics of the individual actions that comprise an activity, as well as in the timing and/or sequence of the actions. Examples of activities include *nest-building*, *parenting*, etc.
 
 :::
 
-***Q: How do these categories map onto the categories that you came up with earlier? Any thoughts?***
+***Q8: How do these categories defined by Anderson and Perona map onto the categories that you came up with earlier? Any thoughts?***
 
-***Q: Pick an animal that you are familiar with (do not spend too much time deliberating over which animal to use). Make an example behavior hierarchy for that animal using either your group's own hierarchical categories, or the "moveme, action, and activity" hierarchical categories. Do not include all behavior of the animal, just enough to make an example hierarchy of behavior. Diagram the behavior hierarchy and define each behavior that you included at each level. (Do not use any of the examples already given in the figure above).***
+***Q9: Pick an animal that you are familiar with (do not spend too much time deliberating over which animal to use). Make an example behavior hierarchy for that animal using either your group's own hierarchical categories, or the "moveme, action, and activity" hierarchical categories. Do not include all behavior of the animal, just enough to make an example hierarchy of behavior. Diagram the behavior hierarchy and define each behavior that you included at each level. (Do not use any of the examples already given in the figure above).***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -128,20 +130,20 @@ Fixed Action Patterns (FAPs)
 ---
 > ⏳ 10 min 
 
-***Q: Based on the video, define the gull 'egg rolling' behavior objectively.***
+***Q10: Based on the video, define the gull 'egg rolling' behavior objectively.***
 
-***Q: What do you think the function of egg rolling behavior is?***
+***Q11: What do you think the function of egg rolling behavior is?***
 
-***Q: What else do you notice in these example videos of egg rolling behavior? List comments and questions that you have.***
+***Q12: What else do you notice in these example videos of egg rolling behavior? List comments and questions that you have.***
 
-⏸️ PAUSE here for class-wide discussion
+⏸️ PAUSE here for class-wide discussion (we will stop here if we need to based on available time for today)
 
 ---
 > ⏳ 10 min 
 
 :::{index} stickleback aggression
 :::
-Another common "introductory animal behavior course" FAP example is territorial *aggression behavior* in stickleback fish[^intro-stickleback]. During the breeding season, the male fish select a territory on which they build a nest. When a male stickleback spots another nearby male in his nesting territory, he will launch into a FAP involving aggressive displays designed to scare off the stranger. However, males are not aggressive to nearby females in their territory. 
+Territorial *aggression behavior* in stickleback fish is another common "introductory animal behavior course" example of FAPs[^intro-stickleback]. During the breeding season, the male fish select a territory on which they build a nest. When a male stickleback spots another nearby male in his nesting territory, he will launch into a FAP involving aggressive displays designed to scare off the stranger. However, males are not aggressive to nearby females in their territory. 
 
 :::{figure-md} stickleback-male-female
 :class: figure
@@ -151,18 +153,17 @@ Another common "introductory animal behavior course" FAP example is territorial 
 Stickleback fish appearance. Top: female. Bottom: male.
 :::
 
-***Q: What differences do you notice between the appearance of males and females?***
+***Q13: What differences do you notice between the appearance of males and females?***
 
-***Q: If aggressive FAPs should only be directed toward other males, what sensory cues could be used to appropriately trigger FAP expression?***
+***Q14: If aggressive FAPs should only be directed toward other males, what sensory cues could be used to appropriately trigger FAP expression?***
 
-To test what *stimulus* (sensory cues/features) triggers aggression FAPs, we need to quantify the behavior somehow. *Bite rate* is commonly used as a metric.
-A *bite* is a component of aggression and can be defined as *contact of the male's mouth against an object*. 
+To test what *stimulus* (sensory cues/features) triggers aggression FAPs, we need to quantify the behavior somehow. A *bite* is a component of aggression, and a commonly used measure of aggression is *bite rate*. Let's define a *bite* generally as *contact of the male's mouth against an object*. 
 
-***Q: Mathematically define 'bite rate' (how would you calculate it?).***
+***Q15: Mathematically define 'bite rate' (ie. how would you calculate it?).***
 
 [^intro-stickleback]: For example, see the landing page for 'innate behavior' from [Kahn Academy](https://www.khanacademy.org/science/ap-biology/ecology-ap/responses-to-the-environment/a/innate-behaviors). However, note that the reference for this result is a textbook, not [the original article](https://psycnet.apa.org/record/1938-03659-001). The data from the [publication in German](https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0310.1937.tb01422.x) is not available. Based on replications of the original experiments, it turns out that [Tinbergen's results from the 1937 paper may be less clear](https://www.jstor.org/stable/4534445#metadata_info_tab_contents). 
 
-***Q: Would a male stickleback fish's bite rate be higher in the presence of another male or another female?***
+***Q16: If bite rate was a good metric of aggression, would you predict that the bite rate of a male stickleback fish would be higher in the presence of another male or another female?***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -174,22 +175,22 @@ As a class, let's watch this [video of an experiment on stickleback aggression](
 ---
 > ⏳ 5 min
 
-***Q: What was similar among the stimuli presented to the fish? What was different between the stimuli?***
+***Q17: What was similar among the stimuli presented to the fish? What was different between the stimuli?***
 
-***Q: Summarize what was being tested by the experiment shown in the video and the experimental design.***
+***Q18: Summarize what you think was being tested by the experiment shown in the video and what the experimental design was.***
 
-***Q: Make a plan for how you would collect data to calculate bite rate for each stimulus based on the video. (What data do you need to make that calculation? How will you measure and record that data?).***
+***Q19: Make a plan for how you would collect data from the video to calculate bite rate for each stimulus. (What data do you need to make that calculation? How will you measure and record that data?).***
 
 :::{admonition} Complete this section for homework and bring your responses to next class
 :name: stickleback-aggression-analysis
 
 On your own, re-watch [the video](https://youtu.be/ZfcGZCGdGVE) to collect the experimental data you just discussed with your group and complete the following three questions to bring to the next class:
 
-***Q: Based on the data you collected, make a graph of bite rate versus variation in a stimulus feature.***
+***Q20: Based on the data you collected, make a graph of bite rate versus variation in a stimulus feature.***
 
-***Q: Based on the data in your graph, describe the relationship between at least two features of the stimuli and aggressive behavior in male stickleback fish.***
+***Q21: Based on the data in your graph, describe the relationship between at least two features of the stimuli and aggressive behavior in male stickleback fish.***
 
-***Q: Based on the statement that 'red coloration is a sign stimulus for stickleback aggression', define 'sign stimulus' generally.***
+***Q22: Based on the statement that 'red coloration is a sign stimulus for stickleback aggression', define 'sign stimulus' generally.***
 
 :::
 
@@ -214,7 +215,7 @@ Examine the following representation of a theoretical model for behavior posed b
 
 <img src="/images/action-specific-potential.png" alt="fishy" class="bg-primary mb-1" width="700px">
 
-Lorenz's model of FAP release. A ***sign stimulus*** is presented at time = 7.5au. 
+Lorenz's model of behavior in terms of FAPs and their expression/"release". A ***sign stimulus*** is presented at time = 7.5au. 
 :::
 
 ***Q: What three variables are represented in Lorenz' model of behavior?***
@@ -223,7 +224,7 @@ Lorenz's model of FAP release. A ***sign stimulus*** is presented at time = 7.5a
 
 ***Q: What data is being depicted in the bottom 1-D plot?***
 
-***Q: What happens to action specific potential (aka action specific energy) across time?***
+***Q: According to the data in the figure, what is the rate at which action-specific potential increases in the absence of any sign stimulus?***
 
 ***Q: How does the data in the bottom plot relate to the data in the top plot?***
 
@@ -233,15 +234,9 @@ Lorenz's model of FAP release. A ***sign stimulus*** is presented at time = 7.5a
 
 ***Q: In the bottom plot, what is different about the third FAP observed compared to the first, second, and fourth?***
 
-***Q: Based on the information given in the model and your work so far, what does a sign stimulus do?***
+***Q: Based on the information given in the model and your work so far, how would you define the term "sign stimulus"?***
 
-***Q: Based on the information given in the model and your work so far, what happens with FAPs in the absence of a sign stimulus?***
-
-***Q: According to the data in the figure, what is the rate at which action-specific energy increases in the absence of any sign stimulus.***
-
-We would call this the *spontaneous* increase (as opposed to stimulus-driven increase).
-
-***Q: Define 'spontaneous' in this context.***
+FAP's that are expressed in the absence of a *sign stimulus* are called *spontaneous*.
 
 ⏸️ PAUSE here for class-wide discussion
 
