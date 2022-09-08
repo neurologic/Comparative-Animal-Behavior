@@ -4,7 +4,8 @@
 To ask *why* and *how*, we must define *what*. What is animal behavior? This workbook explores its composition and organisation.  
 :::
 
-[Day 1](components_day1); [Day 2](components_day2) 
+[Day 1](components_day1); [Responses template for use on computer if desired](https://docs.google.com/document/d/1FU3ytVqy8rNAnyBCht9hgRTbs49kfI16ygK5BXaqqYs/edit?usp=sharing) ("Save a Copy to Drive" to edit and save your work) 
+[Day 2](components_day2); [Responses template for use on computer if desired](https://docs.google.com/document/d/1nUlvGj40X7bsjRR8JZgKMa_M3C_Cc4ZtRIFB9BSAMIk/edit?usp=sharing) ("Save a Copy to Drive" to edit and save your work)
 
 <!-- <hr>
 
@@ -136,14 +137,16 @@ Fixed Action Patterns (FAPs)
 
 ***Q12: What else do you notice in these example videos of egg rolling behavior? List comments and questions that you have.***
 
-⏸️ PAUSE here for class-wide discussion (we will stop here if we need to based on available time for today)
+⏹️ STOP here for today. 
 
----
-> ⏳ 10 min 
+(components_day2)=
+
 
 :::{index} stickleback aggression
 :::
 Territorial *aggression behavior* in stickleback fish is another common "introductory animal behavior course" example of FAPs[^intro-stickleback]. During the breeding season, the male fish select a territory on which they build a nest. When a male stickleback spots another nearby male in his nesting territory, he will launch into a FAP involving aggressive displays designed to scare off the stranger. However, males are not aggressive to nearby females in their territory. 
+
+[^intro-stickleback]: For example, see the landing page for 'innate behavior' from [Kahn Academy](https://www.khanacademy.org/science/ap-biology/ecology-ap/responses-to-the-environment/a/innate-behaviors). However, note that the reference for this result is a textbook, not [the original article](https://psycnet.apa.org/record/1938-03659-001). The data from the [publication in German](https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0310.1937.tb01422.x) is not available. Based on replications of the original experiments, it turns out that [Tinbergen's results from the 1937 paper may be less clear](https://www.jstor.org/stable/4534445#metadata_info_tab_contents). 
 
 :::{figure-md} stickleback-male-female
 :class: figure
@@ -153,17 +156,16 @@ Territorial *aggression behavior* in stickleback fish is another common "introdu
 Stickleback fish appearance. Top: female. Bottom: male.
 :::
 
-***Q13: What differences do you notice between the appearance of males and females?***
+---
+> ⏳ 5 min 
 
-***Q14: If aggressive FAPs should only be directed toward other males, what sensory cues could be used to appropriately trigger FAP expression?***
+***Q1: If aggressive FAPs should only be directed toward other males, what sensory cues could be used to appropriately trigger FAP expression?***
 
-To test what *stimulus* (sensory cues/features) triggers aggression FAPs, we need to quantify the behavior somehow. A *bite* is a component of aggression, and a commonly used measure of aggression is *bite rate*. Let's define a *bite* generally as *contact of the male's mouth against an object*. 
+To test what *stimulus* (sensory cues/features) triggers aggression FAPs, we need to quantify the behavior somehow. A *bite* is a component of aggression, and a commonly used measure of aggression is ***bite rate***. For this study, let's define a *bite* as *contact of the male's mouth against an object*. 
 
-***Q15: Mathematically define 'bite rate' (ie. how would you calculate it?).***
+***Q2: Mathematically define 'bite rate' (ie. how would you calculate it?).***
 
-[^intro-stickleback]: For example, see the landing page for 'innate behavior' from [Kahn Academy](https://www.khanacademy.org/science/ap-biology/ecology-ap/responses-to-the-environment/a/innate-behaviors). However, note that the reference for this result is a textbook, not [the original article](https://psycnet.apa.org/record/1938-03659-001). The data from the [publication in German](https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0310.1937.tb01422.x) is not available. Based on replications of the original experiments, it turns out that [Tinbergen's results from the 1937 paper may be less clear](https://www.jstor.org/stable/4534445#metadata_info_tab_contents). 
-
-***Q16: If bite rate was a good metric of aggression, would you predict that the bite rate of a male stickleback fish would be higher in the presence of another male or another female?***
+***Q3: If bite rate was a good metric of aggression, would you predict that the bite rate of a male stickleback fish would be higher in the presence of another male or another female?***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -175,31 +177,29 @@ As a class, let's watch this [video of an experiment on stickleback aggression](
 ---
 > ⏳ 5 min
 
-***Q17: What was similar among the stimuli presented to the fish? What was different between the stimuli?***
+***Q4: What was similar among the stimuli presented to the fish? What was different between the stimuli?***
 
-***Q18: Summarize what you think was being tested by the experiment shown in the video and what the experimental design was.***
-
-***Q19: Make a plan for how you would collect data from the video to calculate bite rate for each stimulus. (What data do you need to make that calculation? How will you measure and record that data?).***
+***Q5: Make a plan for how you would collect data from the video to calculate bite rate for each stimulus. (What data do you need to make that calculation? How will you measure and record that data?).***
 
 :::{admonition} Complete this section for homework and bring your responses to next class
 :name: stickleback-aggression-analysis
 
 On your own, re-watch [the video](https://youtu.be/ZfcGZCGdGVE) to collect the experimental data you just discussed with your group and complete the following three questions to bring to the next class:
 
-***Q20: Based on the data you collected, make a graph of bite rate versus variation in a stimulus feature.***
+***HQ1: Summarize, in your own words, what you are testing and what the experimental design was (based on the video).***
 
-***Q21: Based on the data in your graph, describe the relationship between at least two features of the stimuli and aggressive behavior in male stickleback fish.***
+***HQ2: Based on the data you collected, make a graph of bite rate versus variation in a stimulus feature.***
 
-***Q22: Based on the statement that 'red coloration is a sign stimulus for stickleback aggression', define 'sign stimulus' generally.***
+***HQ3: Based on the data in your graph, describe the relationship between at least two features of the stimuli and aggressive behavior in male stickleback fish.***
+
+***HQ4: Based on the statement that 'red coloration is a sign stimulus for stickleback aggression', define 'sign stimulus' generally.***
 
 :::
 
 ---
-⏹️ STOP here for today. 
+⏸️ PAUSE here for class-wide discussion 
 
 
-
-(components_day2)=
 ## Action-Specific Potential (ASP; Energy)
 
 :::{index} action specific potential (energy)
@@ -218,34 +218,33 @@ Examine the following representation of a theoretical model for behavior posed b
 Lorenz's model of behavior in terms of FAPs and their expression/"release". A ***sign stimulus*** is presented at time = 7.5au. 
 :::
 
-***Q: What three variables are represented in Lorenz' model of behavior?***
+***Q6: What three variables are represented in Lorenz' model of behavior?***
 
-***Q: What data is being depicted in the top 2-D plot?***
+***Q7: What data is being depicted in the top 2-D plot?***
 
-***Q: What data is being depicted in the bottom 1-D plot?***
+***Q8: What data is being depicted in the bottom 1-D plot?***
 
-***Q: According to the data in the figure, what is the rate at which action-specific potential increases in the absence of any sign stimulus?***
+***Q9: According to the data in the figure, what is the rate at which action-specific potential increases in the absence of any sign stimulus?***
 
-***Q: How does the data in the bottom plot relate to the data in the top plot?***
+***Q10: How does the data in the bottom plot relate to the data in the top plot?***
 
-***Q: How would you define the green horizontal line in the top plot using any or all of the following terms: action specific energy, time, and/or FAP expression?***
+***Q11: How would you define the green horizontal line in the top plot using any or all of the following terms: action specific energy, time, and/or FAP expression?***
 
-***Q: In the top plot, what is different about the black line that starts at time=6au from the black lines that start at 0, 3, and 7.5?***
+***Q12: In the top plot, what is different about the black line that starts at time=6au from the black lines that start at 0, 3, and 7.5?***
 
-***Q: In the bottom plot, what is different about the third FAP observed compared to the first, second, and fourth?***
+***Q13: In the bottom plot, what is different about the third FAP observed compared to the first, second, and fourth?***
 
-***Q: Based on the information given in the model and your work so far, how would you define the term "sign stimulus"?***
+***Q14: Based on the information given in the model and your work so far, how would you define the term "sign stimulus"?***
 
 FAP's that are expressed in the absence of a *sign stimulus* are called *spontaneous*.
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 15 min 
 
-We can think of action-specific energy as the *motivation* for a particular behavior (FAP). Both internal drive and external stimuli contribute to this motivation. As an analogy, think of eating behavior. The liklihood that you will eat a food can depend on the properties of the food itself. 
+We can think of action-specific energy as the *motivation* for a particular behavior (FAP). Both internal drive and external stimuli contribute to this motivation. The *strength* of a stimulus is defined in terms of how much it changes the action specific potential for a FAP. 
 
-***Q: Fill in the following graph according to your food preferences.***
+As an analogy, let's consider eating behavior. The liklihood that you will eat a food can depend on the properties of the food itself (food preferences effect eating behavior). 
 
 :::{figure-md} stimulus-strength-food
 :class: figure
@@ -255,21 +254,18 @@ We can think of action-specific energy as the *motivation* for a particular beha
 Relationship between variation in food taste and desire to eat food. 
 :::
 
-The *strength* of a stimulus is defined in terms of how much it changes the action specific potential for an FAP. 
+Think about your own food preferences and whether a sweet food be a strong or weak stimulus for eating. Then, imagine you are are really really really hungry (ie. increased *internal drive* to eat), would you be more or less likely to eat in response to a weak food stimulus compared to when you are full?
 
-***Q: Given your preferences, would a sweet food be a strong or weak stimulus for eating?***
+---
+> ⏳ 15 min 
 
-***Q: If you are really really really hungry (increased internal drive to eat), would you be more or less likely to eat in response to a weak food stimulus compared to when you are full?***
+***Q15: Complete this sentence by selecting one of the options: The more motivated an animal is toward a specific FAP, the ( higher / lower ) the action specific potential for that FAP.***
 
-***Q: Think (and refer) back to the experiment on stickleback fish aggression that you analyzed. Which stimulus was the strongest for aggression? Which stimulus was the weakest? What evidence do you have to support your answers?***
-
-***Q: Complete this sentence by selecting one of the options: The more motivated an animal is toward a specific FAP, the ( higher / lower ) the action specific potential for that FAP.***
-
-***Q: Complete this sentence by selecting one of the options: The more motivated an animal is toward a specific FAP, the ( stronger / weaker ) the stimulus needs to be to elicit the FAP.***
+***Q16: Complete this sentence by selecting one of the options: The more motivated an animal is toward a specific FAP, the ( stronger / weaker ) the stimulus needs to be to elicit the FAP.***
 
 The *stimulus threshold* for behavior is defined as the minimum stimulus strength needed to trigger/evoke the behavior. 
 
-***Q: Complete the following plot to show your understanding of the relationship between stimulus threshold and current action specific potential for an FAP.***
+***Q17: Complete the following plot to show your understanding of the relationship between stimulus threshold and current action specific potential for an FAP.***
 
 :::{figure-md} stimulus-threshold
 :class: figure
@@ -280,9 +276,9 @@ Relationship between stimulus strength and the current action specific potential
 :::
 
 ---
-> ⏳ 10 min
+> ⏳ 5 min
 
-***Q: In [the curious behavior of stickleback fish](https://www.jstor.org/stable/10.2307/24944080), Lorenz writes "Sticklebacks will respond to our stimuli only when they are in breeding condition." Relate this statement to Lorenz's model of behavior (... What does breading condition do for action specific potential? How does breeding condition effect the stimulus threshold for eliciting a behavior? etc...)***
+***Q18: In [the curious behavior of stickleback fish](https://www.jstor.org/stable/10.2307/24944080), Lorenz writes "Sticklebacks will respond to our stimuli only when they are in breeding condition." Relate this statement to Lorenz's model of behavior (... What does breading condition do for action specific potential? How does breeding condition effect the stimulus threshold for eliciting a behavior? etc...)***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -303,11 +299,11 @@ Lorenz names several other complexities that make it difficult to understand the
 
 ### Ritualization
 
-***Q: Create your group's summary of ritualization.***
+***Q: Create a 1-sentence summary of ritualization.***
 
 ### Superpositions
 
-***Q: Create your group's summary of superimposition.***
+***Q: Create a 1-sentence summary of superimposition.***
 
 ***Q: How is the issue of 'superimposition' of behavior different from or similar to the issue of 'hierarchy' of behavior?***
 
