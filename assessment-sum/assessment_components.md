@@ -1,11 +1,14 @@
 # Components of Behavior
 
 
-*test to try a patch*
+
 
 :::{admonition} Deadline
 Due by midnight on Monday September 26.
 :::
+
+
+
 
 ## Section 1
 
@@ -45,3 +48,7 @@ Compare the two contexts (**A** and **B**) in Figure 2 to answer the following q
 
 ***Q. Was the stimulus strength at time=4 stronger in A compared to B or weaker in A compared to B?***
 
+
+## Section 3
+
+***Q: Think (and refer) back to the experiment on stickleback fish aggression that you analyzed. Which stimulus was the strongest for aggression? Which stimulus was the weakest? What evidence do you have to support your answers?***
