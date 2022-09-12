@@ -209,7 +209,7 @@ On your own (or in groups is ok too), re-watch [the video](https://youtu.be/ZfcG
 :::
 
 ---
-> ⏳ 20 min 
+> ⏳ 15 min 
 
 Examine the following representation of a theoretical model for behavior posed by Lorenz.
 
@@ -261,7 +261,8 @@ As an analogy, let's consider eating behavior. The liklihood that you will eat a
 Relationship between variation in food taste and desire to eat food. 
 :::
 
-Think about your own food preferences and whether a sweet food be a strong or weak stimulus for eating. Then, imagine you are are really really really hungry (ie. increased *internal drive* to eat), would you be more or less likely to eat in response to a weak food stimulus compared to when you are full?
+Think about your own food preferences and whether a sweet food be a strong or weak stimulus for eating. Then, imagine you are are really really really hungry (ie. increased *internal drive* to eat), would you be more or less likely to eat in response to a weak food stimulus compared to when you are full?  
+Why (in terms of Lorenz's model)?
 
 ---
 > ⏳ 10 min 
@@ -282,7 +283,7 @@ stimulus threshold
 
 <img src="/images/stimulus-threshold.png" alt="fishy" class="bg-primary mb-1" width="400px">
 
-Relationship between stimulus strength and the current action specific potential. 
+Relationship between stimulus threshold and the current action specific potential. 
 :::
 
 ---
@@ -293,7 +294,7 @@ Relationship between stimulus strength and the current action specific potential
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 15 min 
+> ⏳ Rest of class time (preparation for thinking about *ethograms* next class) 
 
 ## Complexities of behavior
 
@@ -301,7 +302,7 @@ Relationship between stimulus strength and the current action specific potential
 At each moment in time, only one behavior can occur. Therefore, each possible behavior is competing with all other behaviors. To complicate our analysis, behaviors happen over time. And different behaviors occur over different durations/timescales.
 :::
 
-***Q: In the case of complex FAPs involving a series of different movements, how do you think we can decide whether we are dealing with a single FAP or a series of different ones?***
+***Q: In the case of complex FAPs/behaviors involving a series of different movements, how do you think we can decide whether we are dealing with a single FAP/behavior or a series of different ones?***
 
 Lorenz names several other complexities that make it difficult to understand the motivation of an animal based on its behavior and even to understand the behavior itself. Ritualization, superimposition, and learning are examples of behavioral phenomena that make it hard to determine the set of behaviors that an animal can do and determine the motivation of an animal. 
 
