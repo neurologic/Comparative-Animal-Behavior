@@ -4,7 +4,7 @@
 To ask *why* and *how*, we must define *what*. What is animal behavior? This workbook explores its composition and organisation.  
 :::
 
-[Day 1](components_day1); [Responses template for use on computer if desired](https://docs.google.com/document/d/1FU3ytVqy8rNAnyBCht9hgRTbs49kfI16ygK5BXaqqYs/edit?usp=sharing) ("Save a Copy to Drive" to edit and save your work) 
+[Day 1](components_day1); [Responses template for use on computer if desired](https://docs.google.com/document/d/1FU3ytVqy8rNAnyBCht9hgRTbs49kfI16ygK5BXaqqYs/edit?usp=sharing) ("Save a Copy to Drive" to edit and save your work)  
 [Day 2](components_day2); [Responses template for use on computer if desired](https://docs.google.com/document/d/1nUlvGj40X7bsjRR8JZgKMa_M3C_Cc4ZtRIFB9BSAMIk/edit?usp=sharing) ("Save a Copy to Drive" to edit and save your work)
 
 <!-- <hr>
@@ -160,7 +160,7 @@ Stickleback fish appearance. Top: female. Bottom: male.
 ---
 > ⏳ 5 min 
 
-***Q1: If aggressive FAPs should only be directed toward other males, what sensory cues could be used to appropriately trigger FAP expression?***
+***Q1: If aggressive FAPs should only be directed toward other males, what sensory cues could be used to appropriately trigger (or suppress) FAP expression?***
 
 To test what *stimulus* (sensory cues/features) triggers aggression FAPs, we need to quantify the behavior somehow. A *bite* is a component of aggression, and a commonly used measure of aggression is ***bite rate***. For this study, let's define a ***bite*** as *contact of the male's mouth against an object*. 
 
@@ -194,9 +194,9 @@ On your own (or in groups is ok too), re-watch [the video](https://youtu.be/ZfcG
 
 ***HQ1: Summarize, in your own words, what you are testing and what the experimental design was (based on the video).***
 
-***HQ2: Based on the data you collected, make a graph of bite rate versus variation in a stimulus feature.***
+***HQ2: Based on the data you collected, make a graph of bite rate versus variation in one stimulus feature.***
 
-***HQ3: Based on the data in your graph, describe the relationship between at least two features of the stimuli and aggressive behavior in male stickleback fish.***
+***HQ3: Based on the data in your graph, describe the relationship between two independent features of the stimuli and aggressive behavior in male stickleback fish.***
 
 ***HQ4: Based on the statement that 'red coloration is a sign stimulus for stickleback aggression', define 'sign stimulus' generally.***
 
