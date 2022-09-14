@@ -1,6 +1,6 @@
 # Observation
 
-:::{admonition} Why?
+:::{epigraph} 
 Scientists use human perceptions, intuition, and feelings, our inner worlds, to forge novel, testable hypotheses about those of other species.
 
 -- Harry Greene[^tracks-shadows]
@@ -8,71 +8,40 @@ Scientists use human perceptions, intuition, and feelings, our inner worlds, to 
 
 [^tracks-shadows]: [Tracks and Shadows](https://www.ucpress.edu/book/9780520292659/tracks-and-shadows)
 
----
+It is one of our tasks, as people who study animal behavior, to observe and record animal behavior. This is an enourmously complex task. 
 
-## Complexities of behavior
-
-:::{admonition} Why?
-At each moment in time, only one behavior can occur. Therefore, each possible behavior is competing with all other behaviors. To complicate our analysis, behaviors happen over time. And different behaviors occur over different durations/timescales.
-:::
-
-Lorenz describes several specific complexities that make it difficult to understand the motivation of an animal based on its behavior and even to understand the behavior itself. Ritualization, superimposition, and learning are examples of behavioral phenomena that make it hard to determine the set of behaviors that an animal can do and determine the motivation of an animal. 
-
----
-> ⏳ Rest of class time (preparation for thinking about *ethograms* next class) 
-
-***Q: In the case of complex FAPs/behaviors involving a series of different movements, how do you think we can decide whether we are dealing with a single FAP/behavior or a series of different ones?***
-
-With your group, review, compare, and synthesize your understanding (from your reading) of: 'ritualization, superimposition, and learning' in responding to the next three questions.
-
-### Ritualization
-
-***Q: Create a 1-2 sentence summary of ritualization.***
-
-### Superpositions
-
-***Q: Create a 1-2 sentence summary of superimposition.***
-
-***Q: How is the issue of 'superimposition' of behavior different from or similar to the issue of 'hierarchy' of behavior?***
-
-### Learning
-
-***Q: How could behavioral learning make it difficult to categorize/define an animal's behavior?***
-
-
+We often implement several simplifying principles. 
+One of the most common is to categorize behavior into "well-defined" *fundamental units.* Another is the assumption that only one behavior can happen at each moment in time. Today, you will learn to observe and analyze animal behavior through ethograms and activity budgets with these principles in mind.
 
 :::{index} ethogram
 :::
 
-## Ethograms
+## Ethogram
 
 :::{admonition} Why?
 I like to sit on my orange and eat my porch.  
 :::
 
-Observations of animal behavior cannot be used to advance our understanding unless the language is clearly and objectively defined in a way that is recognized by the broader community. 
+Reported observations of animal behavior cannot be used to advance our understanding unless the language is clearly and objectively defined in a way that is recognized by the broader community. One of the way that we communicate this language about behavior is through ***ethograms***.
+
+In preparation for learning how to work with ethograms, you reviewed several specific complexities described by Lorenz: *ritualization*, *superimposition*, and *learning* are all phenomena that make it hard to interpret and understand the behavior of an animal. Keeping these complexities in mind will enrich your experience of *ethogram-ing*.
 
 ---
-> ⏳ 20 minutes
+> ⏳ 10 minutes
 
-You have already watched [this short video](https://vimeo.com/80600819) and named/defined all of the distinct behaviors that you observe.  
+You have already watched [this short video](https://vimeo.com/80600819) and named/defined 3-5 distinct behaviors that you observed.  
 
-
-***Q: Now, compare your notes among your group and develop an consolidated ethogram (a list of behavioral actions and definitions for each behavior/action). Include ‘other’ and ‘out of view’ as two of your behaviors.***
-
-***Q: Were the behaviors that you and your group originally listed different? In what ways? How different?***
+***Q: Now, compare your notes among your group and develop a consolidated list of 5 behaviors/actions you observed that you think were the most common. Include a (visual) definition for each behavior/action.***
 
 
 ⏸️ PAUSE here for class-wide discussion
 
-
 ---
-> ⏳ 15 minutes
-
-## Activity Budgets
 
 :::{index} activity budget
 :::
+
+## Activity Budget
 
 ::::{admonition} Why?
 :::{epigraph}
@@ -80,70 +49,84 @@ Time is nature's way of keeping everything from happening at once
 
 -- Ray Cummings[^timequote]
 :::
+
+Another simplifying assumption is that (at each level of behavioral hierarchy), behaviors compete with each other because they cannt happen at the same time. The choices that an animal makes about how it "*chooses*" to spend its time have dramatic influence on the outcomes of its life. Analyzing how an animal spends its time (behaviorally) is an important aspect of studying animal behavior. Do some behaviors happen more than others? Why might some behaviors happen more than others? The ***activity budget*** of an animal/species is the distribution of time allocated across its behaviors.
 ::::
 
 [^timequote]: [Quote Investigator](https://quoteinvestigator.com/2019/07/06/time/)
 
-Do some behaviors happen more than others? Why might some behaviors happen more than others? The *activity budget* of an animal/species is the distribution of time allocated across its behaviors.
-
 As an illustration of the activity budget concept, consider the following poem.
 
 :::{epigraph} 
-One fish two fish red fish blue fish.
+One fish two fish red fish blue fish
 
 --Dr Suess
 :::
 
-***Q: How many possible words are there (given the poem)?***
+The "word budget" for the poem is the right column:
 
-***Q: As an analogy to behavior, what is the 'activity budget' for each word in this poem?***
+| word | number of instances | percent of the poem |
+| :-: | :-: | :-: | 
+| one | 1 | 12.5 | 
+| fish | 4 | 25 | 
+| two | 1 | 12.5 | 
+| red | 1 | 12.5 |
+| blue | 1 | 12.5 |
 
-Activity budgets are generally presented as the *proportion or percent time* that an animal spends doing each behavior. 
 
-***Q: Come up with a general equation that you could use to calculate the activity budget for any type of similar data (occurences/frequency of items in a list).***
+---
+> ⏳ 7 minutes
 
-***Q: What activity budget would you expect by chance for each word in this poem?***
+***Q: How many possible words were there in the poem?***
 
-***Q: What 'activity budget' would you expect 'by chance' for each behavior in an ethogram? Calculate this 'null hypothesis' for an animal with an ethogram of 5 behaviors: X, Y, Z, A, and P.*** 
+***Q: Come up with a general equation that you could use to calculate the budget for any type of similar data (occurences/frequency of each possible item over time).***
+
+***Q: What is the "null hypothesis" for this word budget (ie. what is the budget would you expect by chance if the poem was constructed by randomly using the possible words)?***
+
 
 ⏸️ PAUSE here for class-wide discussion
 
+---
 
+Animal behaviorists use ethograms to determine an animal's *activity budget*. Activity budgets for behavior are generally presented as either the *proportion* or *percent* of time that an animal spends doing each behavior (a form of ***data normalization***).  
 
-Animal behaviorists use ethograms to determine an animal's *activity budget*. Now that you have your ethogram of meerkat behavior, you will estimate a meerkat activity budget. You will watch a new video of meerkat behavior in which you focus on recording the behavior of a single individual. *You will record the start time of each behavior and the behavior name.* It is helpful to develop a short code that you can use for each behavior category (e.g. drinking could be denoted with a ‘D’). You can take the initial data using any format you choose (e.g. I used a pen and paper).
+With your ethograms of meerkat behavior, let's estimate a meerkat's activity budget. 
 
-Use the following format for your data record:
+We will watch a new video of meerkat behavior. You will each focus on recording the behavior of a single individual. Record the start time of each behavior and the behavior name. It is helpful to have a short code that you can use for each behavior category (e.g. drinking could be denoted with a ‘D’). You can take the data using any format you choose (pen and paper or electronic).
+
+Include **other** and **out of sight** as two of your behaviors.
+
+---
+> ⏳ 5 minutes
+
+You will use the following format to record your data:
 
 | **Behavior** | **Start time** | **Duration** |
 | --- | --- | --- |
 | name of behavior | cummulative seconds | calculated | 
 
----
-> ⏳ 10 minutes
 
-***Q: Which of these columns needs to be filled out during data collection? Which of these columns can be filled out "offline" (after data collection has concluded)?***
+***Q: Which of these columns is "measured data" (ie. needs to be filled out while watching the behavior)? Which of these columns is "processed data" (ie. can be filled out after data collection has concluded)?***
 
-***Q: How would you calculate the duration of each instance of each behavior from your data?***
+***Q: How would you calculate the processed data from the measured data?***
 
-***Q: Would you include or exclude the time spent 'out of sight' in the reported activity budget? Justify your choice.***
-
-***Q: Would you include or exclude the time spent doing 'other' behaviors in the reported activity budget? Justify your choice.*** 
 
 ⏸️ PAUSE here for class-wide discussion
 
 
 ---
-> ⏳ 10 minutes
 
-In [this 10-minute video](https://vimeo.com/80602697), one meerkat (Bumble) is highlighted throughout. Focus on Bumble's behavior to create a meerkat activity budget. Each person in the group needs to record their own data based on video observation.
+We will watch [this video](https://vimeo.com/80600822). Each person in the group should collect their own data while we watch together. Focus on only one individual's behavior to collect your data. 
 
-***Q: Enter the results of your activity budget calculations here.***
+---
+> ⏳ 15 minutes
 
-***Q: How would you visually depict/present the activity budget data? Draw a sketch.***
+***Q: Are you going to include or exclude the time spent 'out of sight' and/or 'other' in the activity budget calculation? Justify your choice.***
 
-***Q: How similar or different were your results from your partners?***
+***Q: Calculate the activity budget from your own data and then collect everybody's results on the same plot (using paper and pen/pencil/whatever). Indicate data from different group members using different symbols for the data points.***
 
-⏸️ PAUSE here for class-wide discussion
+
+⏸️ PAUSE here for class-wide discussion 
 
 
 ---
@@ -155,12 +138,14 @@ In [this 10-minute video](https://vimeo.com/80602697), one meerkat (Bumble) is h
 
 ***Q: What might effect an animal's activity budget?***
 
-***Q: Pose at least two alternate hypotheses about meerkat behavior and predictions of those hypotheses that could be tested by calculating and comparing activity budgets under different experimental conditions.***
 
 
 ⏹️ STOP here for today
 
-
+:::{admonition} Making Connections
+- How is the issue of 'superimposition' of behavior different from or similar to the issue of 'hierarchy' of behavior?
+- How could behavioral learning make it difficult to categorize/define an animal's behavior?
+:::
 
 ---
 ## Additional Resources

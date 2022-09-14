@@ -1,5 +1,9 @@
 # Analysis
 
+:::{admonition} Why?
+The distribution of an animal's behaviors across time directly effects its ability to survive, mate, bear offspring, and eat. The methods that we use to obtain data on the distribution of an animal's behavior over time directly effects our interpretation of its strategies for surviving, mating, etc. There is no one perfect solution, but we use some simplifying principles to make progress in our understanding. For example, if we categorize behavior into its *fundamental units*, then we can say that only one behavior is occur at each moment in time. Still, those behaviors happen over time, and different behaviors occur over different durations/timescales. 
+:::
+
 > ⏳ 10 min
 
 ***Q: Discuss your summaries of the sampling methods defined by Altmann[^Altmann] and come up with a single list of key features according to group concensus.***
@@ -164,6 +168,9 @@ These transition matrices can also be represented graphically with circles (beha
 
 ⏹️ STOP here for today
 
+:::{admonition} Making Connections
+***Q: In the case of complex FAPs/behaviors involving a series of different movements, how do you think we can decide whether we are dealing with a single FAP/behavior or a series of different ones?***
+:::
 
 
 ## Additional Resources
