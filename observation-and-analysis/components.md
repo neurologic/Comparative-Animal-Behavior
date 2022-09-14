@@ -286,47 +286,18 @@ stimulus threshold
 Relationship between stimulus threshold and the current action specific potential. 
 :::
 
----
-> ⏳ 5 min
 
-***Q18: In [the curious behavior of stickleback fish](https://www.jstor.org/stable/10.2307/24944080), Lorenz writes "Sticklebacks will respond to our stimuli only when they are in breeding condition." Relate this statement to Lorenz's model of behavior (... What does breading condition do for action specific potential? How does breeding condition effect the stimulus threshold for eliciting a behavior? etc...)***
+:::{admonition} Complete this question for homework and bring your response to next class
+:name: stickleback-aggression-lorenz-model
 
-⏸️ PAUSE here for class-wide discussion
+***HQ5: In [the curious behavior of stickleback fish](https://www.jstor.org/stable/10.2307/24944080), Lorenz writes "Sticklebacks will respond to our stimuli only when they are in breeding condition." Relate this statement to Lorenz's model of behavior (... What does breading condition do for action specific potential? How does breeding condition effect the stimulus threshold for eliciting a behavior? etc...)***
 
----
-
-## Complexities of behavior
-
-:::{admonition} Why?
-At each moment in time, only one behavior can occur. Therefore, each possible behavior is competing with all other behaviors. To complicate our analysis, behaviors happen over time. And different behaviors occur over different durations/timescales.
 :::
-
-Lorenz describes several specific complexities that make it difficult to understand the motivation of an animal based on its behavior and even to understand the behavior itself. Ritualization, superimposition, and learning are examples of behavioral phenomena that make it hard to determine the set of behaviors that an animal can do and determine the motivation of an animal. 
-
----
-> ⏳ Rest of class time (preparation for thinking about *ethograms* next class) 
-
-***Q: In the case of complex FAPs/behaviors involving a series of different movements, how do you think we can decide whether we are dealing with a single FAP/behavior or a series of different ones?***
-
-With your group, review, compare, and synthesize your understanding (from your reading) of: 'ritualization, superimposition, and learning' in responding to the next three questions.
-
-### Ritualization
-
-***Q: Create a 1-2 sentence summary of ritualization.***
-
-### Superpositions
-
-***Q: Create a 1-2 sentence summary of superimposition.***
-
-***Q: How is the issue of 'superimposition' of behavior different from or similar to the issue of 'hierarchy' of behavior?***
-
-### Learning
-
-***Q: How could behavioral learning make it difficult to categorize/define an animal's behavior?***
-
 
 
 ⏹️ STOP here for today
+
+
 
 
 

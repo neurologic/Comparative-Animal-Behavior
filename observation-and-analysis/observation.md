@@ -8,6 +8,38 @@ Scientists use human perceptions, intuition, and feelings, our inner worlds, to 
 
 [^tracks-shadows]: [Tracks and Shadows](https://www.ucpress.edu/book/9780520292659/tracks-and-shadows)
 
+---
+
+## Complexities of behavior
+
+:::{admonition} Why?
+At each moment in time, only one behavior can occur. Therefore, each possible behavior is competing with all other behaviors. To complicate our analysis, behaviors happen over time. And different behaviors occur over different durations/timescales.
+:::
+
+Lorenz describes several specific complexities that make it difficult to understand the motivation of an animal based on its behavior and even to understand the behavior itself. Ritualization, superimposition, and learning are examples of behavioral phenomena that make it hard to determine the set of behaviors that an animal can do and determine the motivation of an animal. 
+
+---
+> ⏳ Rest of class time (preparation for thinking about *ethograms* next class) 
+
+***Q: In the case of complex FAPs/behaviors involving a series of different movements, how do you think we can decide whether we are dealing with a single FAP/behavior or a series of different ones?***
+
+With your group, review, compare, and synthesize your understanding (from your reading) of: 'ritualization, superimposition, and learning' in responding to the next three questions.
+
+### Ritualization
+
+***Q: Create a 1-2 sentence summary of ritualization.***
+
+### Superpositions
+
+***Q: Create a 1-2 sentence summary of superimposition.***
+
+***Q: How is the issue of 'superimposition' of behavior different from or similar to the issue of 'hierarchy' of behavior?***
+
+### Learning
+
+***Q: How could behavioral learning make it difficult to categorize/define an animal's behavior?***
+
+
 
 :::{index} ethogram
 :::
