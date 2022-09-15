@@ -31,7 +31,7 @@ In preparation for learning how to work with ethograms, you reviewed several spe
 
 You have already watched [this short video](https://vimeo.com/80600819) and named/defined 3-5 distinct behaviors that you observed.  
 
-***Q: Now, compare your notes among your group and develop a consolidated list of 5 behaviors/actions you observed that you think were the most common. Include a (visual) definition for each behavior/action.***
+***Q1: Now, compare your notes among your group and develop a consolidated list of 5 behaviors/actions you observed that you think were the most common. Include a (visual) definition for each behavior/action.***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -68,7 +68,7 @@ The "word budget" for the poem is the right column:
 | word | number of instances | percent of the poem |
 | :-: | :-: | :-: | 
 | one | 1 | 12.5 | 
-| fish | 4 | 25 | 
+| fish | 4 | 50 | 
 | two | 1 | 12.5 | 
 | red | 1 | 12.5 |
 | blue | 1 | 12.5 |
@@ -77,11 +77,11 @@ The "word budget" for the poem is the right column:
 ---
 > ⏳ 7 minutes
 
-***Q: How many possible words were there in the poem?***
+***Q2: How many possible words were there in the poem?***
 
-***Q: Come up with a general equation that you could use to calculate the budget for any type of similar data (occurences of possibilities).***
+***Q3: Come up with a general equation that you could use to calculate the budget for any type of similar data (occurences of possibilities).***
 
-***Q: What is the "null hypothesis" for this word budget (ie. what is the budget would you expect by chance if the poem was constructed by randomly using the possible words)?***
+***Q4: What is the "null hypothesis" for this word budget (ie. what is the budget would you expect by chance if the poem was constructed by randomly using the possible words)?***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -96,9 +96,6 @@ We will watch a new video of meerkat behavior. You will each focus on recording 
 
 Include **other** and **out of sight** as two of your behaviors.
 
----
-> ⏳ 5 minutes
-
 You will use the following format to record your data:
 
 | **Behavior** | **Start time** | **Duration** |
@@ -106,9 +103,12 @@ You will use the following format to record your data:
 | name of behavior | cummulative seconds | calculated | 
 
 
-***Q: Which of these columns is "measured data" (ie. needs to be filled out while watching the behavior)? Which of these columns is "processed data" (ie. can be filled out after data collection has concluded)?***
+---
+> ⏳ 5 minutes
 
-***Q: How would you calculate the processed data from the measured data?***
+***Q [skipped and did as a whole class]: Which of these columns is "measured data" (ie. needs to be filled out while watching the behavior)? Which of these columns is "processed data" (ie. can be filled out after data collection has concluded)?***
+
+***Q5: How would you calculate the processed data from the measured data?***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -126,26 +126,17 @@ We can also check in on these webcams:
 ---
 > ⏳ 15 minutes
 
-***Q: Are you going to include or exclude the time spent 'out of sight' and/or 'other' in the activity budget calculation? Justify your choice.***
+***Q6: Are you going to include or exclude the time spent 'out of sight' and/or 'other' in the activity budget calculation? Justify your choice.***
 
-***Q: Calculate the activity budget from your own data and then collect everybody's results on the same plot (using paper and pen/pencil/whatever). Indicate data from different group members using different symbols for the data points.***
-
-
-⏸️ PAUSE here for class-wide discussion 
-
-
----
-> ⏳ rest of class
-
-## Changing priorities
-
-***Q: Do you think the activity budget is something that is a "constant" for each animal or species or do you think it is something that "varies"? Why? And over what timescale?***
-
-***Q: What might effect an animal's activity budget?***
+***Q7: Calculate the activity budget from your own data and then collect everybody's results on the same plot (using paper and pen/pencil/whatever). Indicate data from different group members using different symbols for the data points. Hand in your graph at end of class (you can then leave the response to this one blank on your gradescope submission)***
 
 
 
 ⏹️ STOP here for today
+
+
+---
+
 
 :::{admonition} Making Connections
 - How is the issue of 'superimposition' of behavior different from or similar to the issue of 'hierarchy' of behavior?

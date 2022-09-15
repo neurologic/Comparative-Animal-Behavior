@@ -4,6 +4,15 @@
 The distribution of an animal's behaviors across time directly effects its ability to survive, mate, bear offspring, and eat. The methods that we use to obtain data on the distribution of an animal's behavior over time directly effects our interpretation of its strategies for surviving, mating, etc. There is no one perfect solution, but we use some simplifying principles to make progress in our understanding. For example, if we categorize behavior into its *fundamental units*, then we can say that only one behavior is occur at each moment in time. Still, those behaviors happen over time, and different behaviors occur over different durations/timescales. 
 :::
 
+
+## Changing priorities
+
+***Q: Do you think the activity budget is something that is a "constant" for each animal or species or do you think it is something that "varies"? Why? And over what timescale?***
+
+***Q: What might effect an animal's activity budget?***
+
+
+
 > ⏳ 10 min
 
 ***Q: Discuss your summaries of the sampling methods defined by Altmann[^Altmann] and come up with a single list of key features according to group concensus.***
