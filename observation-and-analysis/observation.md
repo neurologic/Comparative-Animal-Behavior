@@ -79,7 +79,7 @@ The "word budget" for the poem is the right column:
 
 ***Q: How many possible words were there in the poem?***
 
-***Q: Come up with a general equation that you could use to calculate the budget for any type of similar data (occurences/frequency of each possible item over time).***
+***Q: Come up with a general equation that you could use to calculate the budget for any type of similar data (occurences of possibilities).***
 
 ***Q: What is the "null hypothesis" for this word budget (ie. what is the budget would you expect by chance if the poem was constructed by randomly using the possible words)?***
 
@@ -117,6 +117,11 @@ You will use the following format to record your data:
 ---
 
 We will watch [this video](https://vimeo.com/80600822). Each person in the group should collect their own data while we watch together. Focus on only one individual's behavior to collect your data. 
+
+We can also check in on these webcams:
+- [Earth Cam](https://www.earthcam.com/usa/florida/miami/meerkat/?cam=meerkat)
+- [Newquay Zoo, Cornwall, England](https://www.newquayzoo.org.uk/explore/webcams/)
+- [Chattanooga Zoo, Tennessee, USA](https://www.chattzoo.org/explore/video-stream)
 
 ---
 > ⏳ 15 minutes
