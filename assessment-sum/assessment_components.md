@@ -60,14 +60,14 @@ Choose one of these answers and then briefly explain the evidence for your choic
 
 ## Section 3
 
-***Q7: Respond to each of the following by refering back to [your analysis of the experiment used to test sign stimuli for stickleback fish aggression]() :  
+***Q7: Respond to each of the following by refering back to [your analysis of the experiment used to test sign stimuli for stickleback fish aggression](stickleback-aggression-analysis) :  
 		- Which independent stimulus feature that you analyzed was the strongest for evoking/triggering aggression (bites)?  
 		- Which independent stimulus feature that you analyzed was the weakest for evoking/triggering aggression (bites)?   
 		- What evidence do you have to support your answers?***
 
 ## Section 4
 
-***Q8: Based your observation of the egg-rolling behavior in the videos we watched during class (see course website for video links) address the following in your response: (Note that there are a variety of correct answers to this question):  
+***Q8: Based your observation of the egg-rolling behavior in the videos we watched during class ([video 1]() and [video 2]()) (see course website for video links) address the following in your response: (Note that there are a variety of correct answers to this question):  
 		- What do you think is a sign stimulus (a stimulus feature) that triggers/evokes the FAP of egg-rolling.  
 		- What observation(s) led you to formulate that hypothesis?  
 		- Briefly describe an experiment that would enable you to gather evidence for/against that hypotheses.***
