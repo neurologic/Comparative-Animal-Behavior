@@ -67,7 +67,7 @@ Choose one of these answers and then briefly explain the evidence for your choic
 
 ## Section 4
 
-***Q8: Based your observation of the egg-rolling behavior in the videos we watched during class ([video 1]() and [video 2]()) (see course website for video links) address the following in your response: (Note that there are a variety of correct answers to this question):  
+***Q8: Based your observation of the egg-rolling behavior in the videos we watched during class ([video 1](https://youtu.be/7PcteKRA3zs) and [video 2](https://youtu.be/vUNZv-ByPkU)), address the following in your response: (Note that there are a variety of correct answers to this question):  
 		- What do you think is a sign stimulus (a stimulus feature) that triggers/evokes the FAP of egg-rolling.  
 		- What observation(s) led you to formulate that hypothesis?  
 		- Briefly describe an experiment that would enable you to gather evidence for/against that hypotheses.***
