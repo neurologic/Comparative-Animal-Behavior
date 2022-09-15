@@ -1,117 +1,111 @@
 # Analysis
 
 :::{admonition} Why?
-The distribution of an animal's behaviors across time directly effects its ability to survive, mate, bear offspring, and eat. The methods that we use to obtain data on the distribution of an animal's behavior over time directly effects our interpretation of its strategies for surviving, mating, etc. There is no one perfect solution, but we use some simplifying principles to make progress in our understanding. For example, if we categorize behavior into its *fundamental units*, then we can say that only one behavior is occur at each moment in time. Still, those behaviors happen over time, and different behaviors occur over different durations/timescales. 
+Equally important to an animal's behavioral actions is how those actions get distributed through time. The methods that we use to analyze this time allocation therefore directly effects our interpretation of its strategies for surviving, mating, etc. There is no one perfect solution, but there are a variety of standard techniques for collecting and analyzing behavior data that you will work with in this course.  
 :::
 
-
-## Changing priorities
-
-***Q: Do you think the activity budget is something that is a "constant" for each animal or species or do you think it is something that "varies"? Why? And over what timescale?***
-
-***Q: What might effect an animal's activity budget?***
-
-
-
+---
 > ⏳ 10 min
 
-***Q: Discuss your summaries of the sampling methods defined by Altmann[^Altmann] and come up with a single list of key features according to group concensus.***
+## Data Collection
 
-[^Altmann]: [Jeanne Altmann 1973 *Observational Study of Behavior: Sampling Methods* Behaviour
-49(3/4).](https://www.jstor.org/stable/4533591)
+### Focal versus scan sampling
+
+***Q1: You are interested in how manakin birds sequence behavioral actions during courtship rituals. Would it be more appropriate to use focal or scan sampling on a group of 5 birds? Why (one sentence)?*** 
+
+***Q2: You are interested in the activity budget of african elephants under captive versus wild conditions. Would it be more appropriate to use focal or scan sampling on a group of 5 elephants? Why (one sentence)?*** 
+
+### Continuous versus interval sampling
+
+***Q3: Would it be better to use continuous or interval sampling when recording the behavior of multiple animals simultaneously? Better in what way? What would be a downside of that sampling method choice?***
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 10 min
 
-## Focal versus scan sampling
+## Data Analysis: Activity Budgets (continued)
 
-***Q: You are interested in how manakin birds sequence behavioral actions during courtship rituals. Would it be more appropriate to use focal or scan sampling on a group of 5 birds? Why?*** 
+By definition, an **ethogram** is a catalogue of an animal's (entire)[^ethogram-breadth] behavioral repertoire. Therefore, it is considered constant across individuals and within an individual's lifetime. Yesterday, you learned to create an ethogram and then to use that ethogram to calculate an animal's activity budget. 
 
-***Q: You are interested in the activity budget of african elephants under captive versus wild conditions. Would it be more appropriate to use focal or scan sampling on a group of 5 elephants? Why?*** 
+[^ethogram-breadth]: On shorter timescales, researchers sometimes use ethograms that are constructed for a constrained subset of the animal's behavior. For example, if you were studying social behavior you would likely use an ethgoram of social behavior rather than an ethogram of all behavior. 
 
-## Continuous versus interval sampling
+To the extent that an animal allocates its time differently for different behaviors (ie. behaviors are not randomly expressed), activity budgets tend to not be constant...
 
-***Q: Would it be better to use continuous or interval sampling when recording the behavior of multiple animals simultaneously? Better in what way? What would be a downside of that sampling method choice?***
+
+⏸️ PAUSE here for class-wide discussion
+
+
+### Changing priorities influence motivation: case study on vigilance in meerkats
+
+**Vigilant**: Head raised at or above the horizontal plain and eyes open.  
+
+Let's watch [this two-minute video](https://vimeo.com/80600820) of meerkats engaging in vigilance behaviors. 
+
+---
+> ⏳ 5 min
+
+***Q4: What function do you think vigilance could serve?***
+
+***Q5: What are some other behaviors that the animal would not be able to do while vigilant?***
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 10 min
-
-
-## Changing priorities influence motivation: case study on vigilance
-
-**Vigilant**: Head raised at or above horizontal plain and eyes open.  
-
-Watch [this clip](https://vimeo.com/80600820) of meerkats engaging in vigilance behaviors. 
-
-***Q: What function could vigilance serve?***
-
-***Q: What behaviors do you observe when vigilance is not ocurring?***
-
-⏸️ PAUSE here for class-wide discussion
-
----
-:::{admonition} Complete this section for homework and bring your responses to next class
+:::{admonition} Complete this section for homework and bring your responses to next class in a format that you can turn in (written on paper, printed, or emailed to me directly are all fine). They will be graded CR/U. 
 :name: activity-budget-assignment
 
-> ⏳ 20 min
+You will test whether a function of vigilance is to avoid predation. The experiment to test this involves observing, quantifying, and analyzing meerkat behavior under three different *predator* treatment conditions: no predator, terrestrial predator, and aerial predator. The experimental manipulation has already been done for you and the behavior was filmed. 
 
-To test whether vigilance functions in avoiding predation, you will quantify behavior based on a ***simplified ethogram*** including three behaviors:
+You will quantify meerkat behavior under each predator treatment condition based on the following ***simplified ethogram*** including three behaviors:
 1. **vigilant** (head raised at or above horizontal plain and eyes open)
 2. **not vigilant** (eyes closed or head lower than horizontal plane) 
 3. **out of sight** (not visible by you, the researcher)
 
-You will watch three different videos, each with a different *predator* treatment condition. For each video, record the number of meerkats performing each behavior at 10 second intervals. Every person should record their own raw data for this experiment. 
+At 20 second intervals, record the total number of meerkats you observe performing each behavior (do this seperately for all three predator treatment conditions). 
 
-***Q: What type of sampling method[^Altmann] is this?***
+***HQ1: What type of sampling method (from [Altman](https://www.jstor.org/stable/4533591)) is this?***
 
-Experimental videos:
+Now, watch each of the following videos and record your data for each predator treatment condition:
 - [No predator](https://vimeo.com/80600822)
 - [Terrestrial predator](https://vimeo.com/71877438)
 - [Aerial predator](https://vimeo.com/80600821)
 
-***Q: Calculate the activity budget for the three behaviors you recorded and for each of the three conditions. [Upload your results to this form](https://forms.gle/syga4ZzKnCADruZN6).***
+***HQ2: Calculate the activity budget under each of the three conditions. [Upload your results to this form](https://forms.gle/syga4ZzKnCADruZN6).***
 
-***Q: Plot your results.***
+***HQ3: Plot your own results.***
 
-***Q: Use your results to present an argument for or against the hypothesis that "vigilance serves an anti-predator function"***
+***HQ4: Use your results to present an argument for or against the hypothesis that "vigilance serves an anti-predator function"***
 
-***Q: Use your results to present an argument for or against the hypothesis that "vigilance is more useful against terrestrial predators"***
+***HQ5: Use your results to present an argument for or against the hypothesis that "vigilance is more useful against terrestrial predators"***
 
-***Q: What other function(s) did your group hypothesize for vigilance? How would you test another possible function that you posed?***
+***HQ6: What other function(s) did your group hypothesize for vigilance? How would you test another possible function that you posed?***
 
 :::
 
-<!-- ⏸️ PAUSE here for class-wide discussion -->
 
-## Sequences of behavior
+## Data Analysis: Action Sequences 
 
 :::{admonition} Why?
-If you smile at me, you are more likely to hug me than to hit me.
+If you smile at me, you are more likely to hug me than to hit me.  
+
+Are behaviors independent of each other or are some behaviors more likely to follow each other? How behaviors are sequenced across time can be just as important as the behaviors themselves. 
 :::
 
 :::{index} conditional probability
 :::
-
-Are behaviors independent of each other or are some behaviors more likely to follow each other? How behaviors are sequenced across time can be just as important as the behaviors themselves. 
-
----
-> ⏳ 15 min
 
 For any sequence of non-independent events in the world, and where a limited number of outcomes can occur, *conditional probabilities* relate each outcome to one another. Examine the three representations of conditional probability in the following figure.
 
 :::{figure-md} conditional-probability
 <img src="../images/conditional-probability.png" alt="fishy" class="bg-primary mb-1" width="500px">
 
-Three representations for the logic of conditional probability ```(p)```.
+Three representations for the logic of conditional probability ( $p$ ).
 :::
 
-***Q: Add the conditional probabilities of hug and hit (following smile) together.***
+In this section, you will practice analyzing **sequences** of behavior. You will start by revisiting the poem from Dr Suess. Unlike behavior, language *must* be organized sequentially according to specific rules. So it is a good place to start for building intuition on the concept of conditional probability and learning to analyze it. 
 
-Let's learn how to analyze conditional probability by practicing first with a familiar example from language.
+---
+> ⏳ 5 min
 
 :::{epigraph} 
 One fish two fish red fish blue fish.
@@ -119,11 +113,15 @@ One fish two fish red fish blue fish.
 --Dr Suess
 :::
 
-***Q: Make a square table with all possible words from the Dr Suess poem in the rows and all possible words in the columns. In the table, tally each time the word from each column follows the word in each row (ie. for each pair of sequential words, the rows represent the preceding word and the columns the succeeding word).***
+***Q6: Make a square table (rows = columns = possible words in the poem). In the table, tally each time the word from each column follows the word in each row (ie. for each pair of sequential words, the rows represent the preceding word and the columns the succeeding word).***
 
-***Q: Calculate conditional probabilities as $p = t/n$, where $t$ is the number of transitions to a word and $n$ is the total number of times the preceding word ocurred.***
+***Q7: Calculate conditional probabilities as $p = t/n$, where $t$ is the number of transitions to a word and $n$ is the total number of times the preceding word ocurred. Write the conditional probability in each square of the table next to the raw count of occurences.***
 
-You now have a *model* that describes (and predicts) how Dr. Suess' poem is sequenced. It is a special kind of model called a *Markov model*. These types of models are often depicted by nodes and directional edges like in the following gif.
+⏸️ PAUSE here for class-wide discussion
+
+---
+
+You now have a ***model*** that describes (and *predicts*) how words are sequenced to create the Dr. Suess poem. It is a special kind of model called a *Markov model*. These types of models are often depicted by nodes and directional edges like in the following gif.
 
 :::{figure-md} markdown-fig
 <img src="../images/One-Fish-Two-Fish_Markov.gif" alt="fishy" class="bg-primary mb-1" width="600px">
@@ -131,54 +129,45 @@ You now have a *model* that describes (and predicts) how Dr. Suess' poem is sequ
 Markov model of Dr Seuss' fish poem. Top: conditional probabilities. Bottom: sequencing of the poem based on the model. ...think about the poem that would be generated by using this model. 
 :::
 
-⏸️ PAUSE here for class-wide discussion
-
 ---
 > ⏳ 20 min
 
-Examine the following two tables of conditional probability for two sets of behaviors.
-> Note that these are commonly referred to as *transition matrices*. 
+Examine the following two tables of conditional probability for two sets of behaviors (A,B,C and X,Y,Z). Note that these tables are commonly referred to as *transition matrices*. 
 
-One:  
+**Table 1**:  
 |  | A | B | C |
 | --- | --- | --- | --- |
 | A | 0 | 0.2 | 0.8 |
 | B | 0.9 | 0 | 0.1 |
 | C | 0.4 | 0.6 | 0 |  
 
-Two:  
+**Table 2**:  
 |  | X | Y | Z |
 | --- | --- | --- | --- |
-| X | 0.1 | 0.7 | 0.3 |
+| X | 0.1 | 0.7 | 0.2 |
 | Y | 0.1 | 0.4 | 0.5 |
 | Z | 0.8 | 0.2 | 0 |
 
-There are two 'rules' to follow in constructing a transition matrix.
 
-***Q: First, the rows of the transition matrix must total to ________ (fill in the blank with a number).***
-
-***Q: Second, there has to be ( the same / a different ) number of rows as columns (pick one answer).***
+***Q8: The rows of the transition matrix must sum to ________ (fill in the blank with a number).***
 
 You would *read* a transition matrix to predict (and therefore understand) an animal's behavior over time.
 
-***Q: According to matrix \#1, which behavior is most likely to follow behavior A?***
-
-***Q: According to matrix \#1, which behavior is most likely to follow behavior C?***
-
 These transition matrices can also be represented graphically with circles (behaviors) and arrows (conditional probabilities). Examine [this animation of transition matrix number one](https://setosa.io/markov/index.html#%7B%22tm%22%3A%5B%5B0%2C0.2%2C0.8%5D%2C%5B0.9%2C0%2C0.1%5D%2C%5B0.4%2C0.6%2C0%5D%5D%7D) and [this animation of transition matrix number two](https://setosa.io/markov/index.html#%7B%22tm%22%3A%5B%5B0.1%2C0.7%2C0.2%5D%2C%5B0.1%2C0.3%2C0.6%5D%2C%5B0.8%2C0.2%2C0%5D%5D%7D). Note how the transition matrix is formatted at the top right of these animation windows. 
 
-***Q: According to matrix \#1, what is the most likely behavioral sequence (of 5 elements) generated by this species?.***
+***Q9: According to Table \#1, what is the most likely behavioral sequence (of 5 elements) generated by this species?.***
 
-***Q: According to matrix \#2, what is the most likely behavioral sequence (of 5 elements) generated by this species?***
+***Q10: According to Table \#2, what is the least likely behavioral sequence (of 5 elements) generated by this species?***
 
-***Q: According to matrix \#2, what is the least likely behavioral sequence (of 5 elements) generated by this species?***
-
-***Q: Which of the two transition matrices was more likely calculated using continuous sampling methods? Which was more likely calculated using interval sampling methods? Why (what evidence do you have to support that conclusion)?***
+***Q11: Which of the two transition matrices was more likely calculated using continuous sampling methods? Which was more likely calculated using interval sampling methods? Why (what evidence do you have to support that conclusion)?***
 
 ⏹️ STOP here for today
 
+
 :::{admonition} Making Connections
 ***Q: In the case of complex FAPs/behaviors involving a series of different movements, how do you think we can decide whether we are dealing with a single FAP/behavior or a series of different ones?***
+
+***Q: Create an ethogram for an animal you are interested in. Trade ethograms with someone else. Use the ethogram to create a transition matrix of behavior. Make sure to include what samping method you used. Show a table of your raw transition data and describe the calculation used to obtain probability. Use [this url address](https://setosa.io/markov/index.html#%7B%22tm%22%3A%5B%5B0.5%2C0.5%5D%2C%5B0.5%2C0.5%5D%5D%7D) to create an animation of your transition matrix. Edit the transition matrix at the top right based on your results. Then copy the new url and provide the link in your answer.***
 :::
 
 
@@ -234,11 +223,6 @@ These transition matrices can also be represented graphically with circles (beha
     :::
     ::::
 
-
-- :::{admonition} Extension project...
-    :class: dropdown
-    ***Q: Create an ethogram for an animal you are interested in. Trade ethograms with someone else. Use the ethogram to create a transition matrix of behavior. Make sure to include what samping method you used. Show a table of your raw transition data and describe the calculation used to obtain probability. Use [this url address](https://setosa.io/markov/index.html#%7B%22tm%22%3A%5B%5B0.5%2C0.5%5D%2C%5B0.5%2C0.5%5D%5D%7D) to create an animation of your transition matrix. Edit the transition matrix at the top right based on your results. Then copy the new url and provide the link in your answer.***
-    :::
 
 ---
 Some resources in this workshop compiled from: 

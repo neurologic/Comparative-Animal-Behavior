@@ -11,6 +11,7 @@ parts:
     - file: assessment-sum/cumulative-exam
       sections:
         - file: assessment-sum/assessment-example
+        - file: assessment-sum/assessment_components
     - file: assessment-sum/capstone
     - file: genindex
     - file: ethical-considerations
