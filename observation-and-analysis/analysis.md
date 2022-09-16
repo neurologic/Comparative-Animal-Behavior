@@ -32,8 +32,6 @@ By definition, an **ethogram** is a catalogue of an animal's (entire)[^ethogram-
 To the extent that an animal allocates its time differently for different behaviors (ie. behaviors are not randomly expressed), activity budgets tend to not be constant...
 
 
-⏸️ PAUSE here for class-wide discussion
-
 
 ### Changing priorities influence motivation: case study on vigilance in meerkats
 
@@ -115,7 +113,7 @@ One fish two fish red fish blue fish.
 
 ***Q6: Make a square table (rows = columns = possible words in the poem). In the table, tally each time the word from each column follows the word in each row (ie. for each pair of sequential words, the rows represent the preceding word and the columns the succeeding word).***
 
-***Q7: Calculate conditional probabilities as $p = t/n$, where $t$ is the number of transitions to a word and $n$ is the total number of times the preceding word ocurred. Write the conditional probability in each square of the table next to the raw count of occurences.***
+***Q7: Calculate conditional probabilities as $p = t/n$, where $t$ is the number of transitions to a word and $n$ is the total number of transitions from the preceding word observed. Write the conditional probability in each square of the table next to the raw count of occurences (just leave all "zero" probabilities blank).***
 
 ⏸️ PAUSE here for class-wide discussion
 
