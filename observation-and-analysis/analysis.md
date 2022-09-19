@@ -4,6 +4,8 @@
 Equally important to an animal's behavioral actions is how those actions get distributed through time. The methods that we use to analyze this time allocation therefore directly effects our interpretation of its strategies for surviving, mating, etc. There is no one perfect solution, but there are a variety of standard techniques for collecting and analyzing behavior data that you will work with in this course.  
 :::
 
+[Responses template for use on computer if desired](https://docs.google.com/document/d/1PrChe0yjroBATA17Ezda5xz1yMGrAOUKT1w0zEqEP98/edit?usp=sharing)
+
 ---
 > ⏳ 10 min
 
@@ -44,7 +46,7 @@ Let's watch [this two-minute video](https://vimeo.com/80600820) of meerkats enga
 
 ***Q4: What function do you think vigilance could serve?***
 
-***Q5: What are some other behaviors that the animal would not be able to do while vigilant?***
+***Q5: What are other behaviors that the animal would not be able to do while vigilant?***
 
 ⏸️ PAUSE here for class-wide discussion
 
