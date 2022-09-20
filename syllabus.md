@@ -5,7 +5,7 @@
 **Instructor**  
 *Name* : Krista Perks, PhD (they/she)  
 *Email* : kperks@wesleyan.edu  
-*Office Hours*: 12-1 Tuesdays and Wednesdays via Zoom. If no one shows up within the first 10 min I will close the zoom. So if you need to arrive after the first 10 min email me ahead of time. 
+*Office Hours*: 12-1 Tuesdays and Wednesdays [via Zoom](https://wesleyan.zoom.us/j/94621043921?pwd=OC96eEtTMll5QitvUE9YSmtFWWgvdz09). If no one shows up within the first 10 min I will close the zoom. So if you need to arrive after the first 10 min email me ahead of time. 
 
 **Classroom Sessions**  
 Tuesdays and Thursdays 8:50-10:10am SCIE109
