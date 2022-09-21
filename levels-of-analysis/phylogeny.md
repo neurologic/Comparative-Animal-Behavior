@@ -1,13 +1,17 @@
 # Phylogeny
-
+<!-- 
 <hr>
 
 > {sub-ref}`wordcount-words` words | {sub-ref}`wordcount-minutes` min read
 
-<hr>
+<hr> -->
+
+[Day 1](phylogeny_day1); [Responses template for use on computer if desired]()  
+[Day 2](phylogeny_day2); [Responses template for use on computer if desired]() 
 
 :::{index} phylogeny
 :::
+
 
 :::{admonition} Why?
 Animal behaviorists use **phylogenies** to investigate the development of behavior across generations (evolutionary timescales).
@@ -15,15 +19,20 @@ Critically, a **phylogeny** is a hypothesis. Phylogenies can be tested and falsi
 Phylogenies can be based on any animal trait. Commonly, in studying animal behavior, you will encounter phylogenies based on *genetic sequence data*.
 :::
 
----
-> ⏳ 20 min 
+Today and tomorrow, you will be working on understanding what phylogenies are and phylogenetic analyses that are used to study animal behavior. All of the information that you need for today is contained on this page. However, this page also links you to tools that you can use in the future to study the phylogenetic basis of behavior. 
 
+(phylogeny_day1)=
 ## Genetic Sequences
 
-All animals have genes (generally, sequences of nucleutides, usually abbreviated A, T, G, and C). [GenBank](https://www.ncbi.nlm.nih.gov/pubmed/23193287) is the NIH genetic sequence database, an annotated collection of all publicly available DNA sequences. The [nucleotide search](https://www.ncbi.nlm.nih.gov/nucleotide/) lets you search for species names and genes. If you want to use this resource directly, you can refer to the [FAQ](https://www.ncbi.nlm.nih.gov/books/NBK44863/) to get you started. In this document, I provide you with example sequences from the GenBank.
+All animals have genes (generally, sequences of *nucleutides*, usually abbreviated *A*, *T*, *G*, and *C*). [GenBank](https://www.ncbi.nlm.nih.gov/pubmed/23193287) is the NIH genetic sequence database, an annotated collection of all publicly available DNA sequences. The [nucleotide search](https://www.ncbi.nlm.nih.gov/nucleotide/) lets you search for species names and genes. Here, I have provided you with example sequences from the GenBank to refer to.[^genbank]
+
+[^genbank]: If you want to use this resource directly, you can refer to the [FAQ](https://www.ncbi.nlm.nih.gov/books/NBK44863/) to get you started. 
+
+---
+> ⏳ 5 min 
 
 <a id='fasta-files'></a>
-Below are two *FASTA* files downloaded from GenBank. "FASTA" is a common file format used to store genetic sequence data. The files are very simple; they contain a *header* followed by the sequence. Click on the file headers to see its contents. 
+Below are two *FASTA* files downloaded from GenBank. "FASTA" is a common file format used to store genetic sequence data. The files are very simple; they contain a *header* (with *metadata* about the file) followed by a sequence of nucleotide codes. Click on the file headers to see its contents. 
 
 :::{dropdown} HQ377551.1 *Chelonia mydas* isolate Satang_4 16S ribosomal RNA gene, partial sequence; mitochondrial; length 510
 GGCCGCGGTATCCTAACCGTGCAAAGGTAGCGTAATCACTTGTCTTTTAAATAAAGACTAGAATGAATGG  
@@ -48,24 +57,25 @@ GATCAGGACATCCTGATGGTGCAACCGCTATCAAGGGTTCGTTTGTTCAACGATTAACAGTCCCACGTGA
 T
 :::
 
-:::{epigraph} 
-With few exceptions, the cells of all eukaryotic species contain mitochondria. The mitochondrial genome comprises a double-stranded DNA molecule that accounts for 1% to 2% of the total DNA in mammalian cells. 
+***Q: Given the information in the header file, what gene was sequenced?*** 
 
-Typical animal mtDNA has a high mutation rate. The accelerated evolutionary rate of animal mtDNA implies that significant amounts of sequence variation could be observed in closely related species—a useful feature for species identification procedures. 
+***Q: How long is the sequenced gene for each species?*** 
 
--- Yang et al (2014)[^Yang2014]
-:::
 
-[^Yang2014]: Yang, L., Tan, Z., Wang, D. et al. [Species identification through mitochondrial rRNA genetic analysis](https://doi.org/10.1038/srep04089). Sci Rep 4, 4089 (2014). 
+⏸️ PAUSE here for class-wide discussion
 
-***Q: What information contained in the FASTA file's header can you decipher? What can you not decipher?***
+---
 
-***Q: Given the information in the header file, what gene specifically was sequenced for these two species?***  
+From [Yang et al (2014)](https://doi.org/10.1038/srep04089): "With few exceptions, the cells of all eukaryotic species contain mitochondria. The mitochondrial genome comprises a double-stranded DNA molecule that accounts for 1% to 2% of the total DNA in mammalian cells. Typical animal mitochondrial DNA (***mtDNA***) has a high mutation rate. The accelerated evolutionary rate of animal mtDNA implies that significant amounts of sequence variation could be observed in closely related species—a useful feature for species identification procedures."[^yang-2014]
 
+[^yang-2014]: Yang, L., Tan, Z., Wang, D. et al. [Species identification through mitochondrial rRNA genetic analysis](https://doi.org/10.1038/srep04089). Sci Rep 4, 4089 (2014).  
 
 ## From Relatedness to Trees
 
-In a phylogenetic tree, the tips of branches represent *extant* (versus *extinct*) species. The tree is *rooted* with the *last common ancestor* (LCA) of all extant species on the tree (the evolutionarily oldest species of the tree). Each branch point from the root is a point of evolutionary *divergence*. We talk about species being closer to each other on a phylogenetic tree as being more *related* (having a higher *relatedness*).
+---
+> ⏳ 10 min 
+
+In a tree representation of a **phylogeny** (Figure 9), the tips of branches represent *extant* (versus *extinct*) species. The tree is *rooted* with the *last common ancestor* (LCA) of all extant species on the tree (the evolutionarily oldest species of the tree). Each branch point from the root is a point of evolutionary *divergence*. We talk about species being closer to each other on a phylogenetic tree as being more *related* (having a higher *relatedness*).
 
 :::{figure-md} sample-tree
 :class: figure
@@ -75,7 +85,7 @@ In a phylogenetic tree, the tips of branches represent *extant* (versus *extinct
 An example phylogenetic tree.
 :::
 
-The following table reports the number of mtDNA sequence differences between species in [the example phylogeny](sample-tree).
+The following table reports the number of mtDNA sequence differences between species in the example phylogeny (Figure 9).
 
 |  | B | C |
 | :---: | :---: | :---: |
@@ -86,14 +96,9 @@ The following table reports the number of mtDNA sequence differences between spe
 
 ***Q: How many points of divergence are there?***
 
-***Q: If there are fewer branch points between two species, do they have more or fewer differences in their genetic sequence?***
+***Q: If there are fewer branch points between two species, do they have more or fewer differences in their mtDNA sequence?***
 
-***Q: What information could you not get from comparing mtDNA sequences between species?  
-    - which species is ancestral to the other  
-    - how many differences there are between the sequences  
-    - how long ago the species diverged from a common ancestor***
-
-***Q: Given the sequences shown from [the two FASTA files](#fasta-files), why would it be difficult to determine differences in the genetic sequence between species?*** 
+***Q: Given the sequences shown in [the two FASTA files](#fasta-files) that you already examined, why would it be difficult to determine differences in the genetic sequence between species?*** 
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -104,7 +109,7 @@ The following table reports the number of mtDNA sequence differences between spe
 
 ## Sequence Alignment
 
-The online webtool [MUSCLE](https://www.ebi.ac.uk/Tools/msa/muscle/) was developed to align genomic sequences across species. The following is the output of the MUSCLE alignment procedure for a genetic sequence (16S ribosomal RNA partial gene sequence)from 7 species of turtles:
+The online webtool [MUSCLE](https://www.ebi.ac.uk/Tools/msa/muscle/) was developed to align genomic sequences across species. The following is the output of the MUSCLE alignment procedure for a genetic sequence (16S ribosomal RNA partial gene sequence) from 7 species of turtles:
 
 <a id='alignment'></a>
 :::
@@ -121,11 +126,11 @@ Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
 
 ***Q: What does the star mean for a column of letters (molecules in the gene sequence)?*** 
 
-***Q: Compute a metric of "relatedness" between Hawksbill and Loggerhead turtles based on sequence (dis)similarity.***
+***Q: Compute a metric of genetic similarity ("relatedness") between Hawksbill and Loggerhead turtles based on sequence (dis)similarity.***
 
-***Q: Use the same method ot compute the "relatedness" between Hawksbill and Green turtles***
+***Q: Use the same method to compute the relatedness between Hawksbill and Green turtles.***
 
-***Q: If you used [the example phylogeny](sample-tree) for these three turtle species (Hawksbill, Loggerhead, and Green), which letter (A, B, or C) would correspond to each turtle species?***
+***Q: If you used the example phylogeny (Figure 9) for these three turtle species (Hawksbill, Loggerhead, and Green), which letter (A, B, or C) would most likely correspond to each turtle species?***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -135,14 +140,11 @@ Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
 
 ***Q: Based on all of the information provided so far, how would you define 'phylogeny'?*** 
 
-***Q: Why is mitochondrial DNA particularly useful for assembling a phylogeny?***
-
-***Q: Why is a phylogeny a hypothesis? What would an 'alternative hypothesis' be for [the example phylogeny](sample-tree)?***
+***Q: Remember that a phylogeny is a hypothesis. What would an 'alternative hypothesis' be for the example phylogeny (Figure 9)?***
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 10 min 
 
 Readily available computer algorithms can calculate relatedness from *aligned* genetic sequence data and generate a drawing of the most likely phylogeny. 
 
@@ -154,7 +156,16 @@ Readily available computer algorithms can calculate relatedness from *aligned* g
 A phylogenetic tree of 7 turtle species. Relatedness and branch lengths were calculated from the MUSCLE alignement data of the 16S ribosomal RNA partial gene sequence using [BioPython](https://biopython.org/).
 :::
 
+Many published phylogenetic trees exist that you can explore without needing to obtain or analyze any genetics yourself. For example, [here is the entry on OpenTree that includes all 7 turtle species you have just examined](https://tree.opentreeoflife.org/opentree/opentree13.4@ott66469/Cheloniidae). This tree is rooted at *Cheloniidae* (the sea turtles), which is a *monophyletic group*. In this web interface, branches of the tree are sometimes collapsed for visual clarity. Clicking on each branch line in the tree reveals how many extant species derive from that branch. Clicking on each node in the tree roots the visualization at that node (often expanding/collapsing sets of branches as the view changes). Practice navigating around the tree. 
 
+Clicking on the ```i``` icon next to a node brings up a menu with a ```Search EOL for 'node name'``` link. ***EOL*** is the "Encyclopedia of Life". This non-profit is a great resource for biodiversity information. 
+
+
+⏹️ STOP here for today
+
+---
+
+(phylogeny_day2)=
 ## From Trees to Behavioral Evolutionary History
 
 If you search the [Animal Diversity Web](https://animaldiversity.org/) (for example), you will find that, of the 7 turtle species you have just examined, all but one are classified as *solitary*. The green turtle (*Chelonia mydas*) is classified as *colonial*[^colonial].
@@ -230,7 +241,7 @@ We can collect evidence for/against each alternative hypothesis about the LCA be
 
 ***Q: If no one had yet characterized the behavior of Flatback and Leatherback turtles, would it change the results of your analysis? How would you handle this unknownd data in your analysis?***
 
-Many published phylogenetic trees exist that you can explore without needing to obtain or analyze any genetics yourself. For example, [here is the entry on OpenTree that includes all 7 turtle species you have just examined](https://tree.opentreeoflife.org/opentree/opentree13.4@ott66469/Cheloniidae). This tree is rooted at *Cheloniidae* (the sea turtles), which is a *monophyletic group*. In this web interface, branches of the tree are sometimes collapsed for visual clarity. Clicking on each branch line in the tree reveals how many extant species derive from that branch. Clicking on each node in the tree roots the visualization at that node (often expanding/collapsing sets of branches as the view changes). Practice navigating around the tree. 
+
 
 
 ⏹️ STOP here for today
