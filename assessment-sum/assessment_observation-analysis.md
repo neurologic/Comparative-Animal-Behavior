@@ -47,31 +47,44 @@ This experiment was designed to test the effect of flock size on vigilance behav
 
 It takes a lot of observation hours/days/etc to obtain enough data to estimate conditional probabilites among actions in an animal's ethogram. So for this section, you will not be conducting the data collection. Instead, use the provided data to answer the questions. 
 
-The following figures are from the paper titled: [Drosophila melanogaster grooming possesses syntax with distinct rules at different temporal scales](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007105)
+Figures 1-3 are from the paper titled: [Drosophila melanogaster grooming possesses syntax with distinct rules at different temporal scales](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007105)
 
-Grooming in Drosophila melanogaster is characterized by repeated execution of distinct, stereotyped actions. These actions do not always occur in the same order. Mueller et al leverage annotated over 40 hours of video data of flies covered in dust and developed mathematical models (Markov models) to examine action sequencing in D. melanogaster grooming. 
+Grooming in Drosophila melanogaster is characterized by repeated execution of distinct, stereotyped actions. A "dusting" event (the fly gets covered in dust) is one sign stimulus that initiates grooming behavior. These actions do not always occur in the same order. Mueller et al leverage annotated over 40 hours of video data of flies covered in dust and developed mathematical models (Markov models) to examine action sequencing in D. melanogaster grooming. 
 
 This research group categorized grooming into 5 distinct actions: head (h), front leg (f), abdomen (a), back leg (b), wing (w).
 
 :::{image} /images/drosophila-grooming-ethogram.png
-:width: 500
+:width: 400
+:align: center
 :::
-
-A "dusting" event (the fly gets covered in dust) initiates grooming behavior.
 
 ***Q: What is the null hypothesis for the activity budget (percent time) across actions in the grooming ethogram of Drosophila?***
 
 ***Q: How do the following results compare to the null hypothesis? List the actions that happen more than expected. List the actions that occur less than expected.***
 
 :::{image} /images/drosphila-grooming-activity-budget.png
-:width: 200
+:width: 250
+:align: center
 :::
 
-This research group analyzed the conditional probabilities among grooming actions and reported the following results:
+This research group also analyzed the conditional probabilities among grooming actions and reported the following results:
 
 :::{image} /images/drosphila-grooming-markov.png
 :width: 700
+:align: center
 :::
+
+Imagine that you are an undergraduate student working in this research lab. One day, the Principle Investigator (Dr. Carlson) asks you to run more repetitions of a new experiment they just tried. They are excited to publish their results because they think they found a hige effect of temperature on the sequencing pattern of grooming actions. They hand you their preliminary results (the tables below). You look at the results and immediately hand it back, telling them not to get too excited yet. You confidently tell Dr. Carlson that they have analyzed their data incorrectly. 
+
+:::{image} /images/conditional-probability-analysis_incorrect-example.png
+:width: 700
+:align: center
+:::
+
+***Q: How did you know that Dr. Carlson did something wrong with their data analysis just by looking at their results table?***
+
+***Q: You also notice that they likely used (continuous / interval) sampling methods to collect their data rather than (continuous / interval) sampling methods. So you also suggest they they re-do their experiment using (continuous / interval) sampling. (Choose one word from each parenthesis and re-write the sentence. Then write a sentence explaining how you could infer which sampling method they used and why you think they should use a different method to test a hypothesis about action sequencing).***
+
 
 
 
