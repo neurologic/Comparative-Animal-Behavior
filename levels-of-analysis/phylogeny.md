@@ -6,8 +6,8 @@
 
 <hr> -->
 
-[Day 1](phylogeny_day1); [Responses template for use on computer if desired]()  
-[Day 2](phylogeny_day2); [Responses template for use on computer if desired]() 
+[Day 1](phylogeny_day1); [Responses template for use on computer if desired]  
+[Day 2](phylogeny_day2); [Responses template for use on computer if desired]
 
 :::{index} phylogeny
 :::
@@ -72,10 +72,10 @@ From [Yang et al (2014)](https://doi.org/10.1038/srep04089): "With few exception
 
 ## From Relatedness to Trees
 
+In a tree representation of a **phylogeny** (Figure 9), the tips of branches represent *extant* (versus *extinct*) species. The tree is *rooted* with the *last common ancestor* (LCA) of all extant species on the tree (the evolutionarily oldest species of the tree). Each branch point from the root is a point of evolutionary *divergence*. We talk about species being closer to each other on a phylogenetic tree as being more *related* (having a higher *relatedness*).
+
 ---
 > ⏳ 10 min 
-
-In a tree representation of a **phylogeny** (Figure 9), the tips of branches represent *extant* (versus *extinct*) species. The tree is *rooted* with the *last common ancestor* (LCA) of all extant species on the tree (the evolutionarily oldest species of the tree). Each branch point from the root is a point of evolutionary *divergence*. We talk about species being closer to each other on a phylogenetic tree as being more *related* (having a higher *relatedness*).
 
 :::{figure-md} sample-tree
 :class: figure

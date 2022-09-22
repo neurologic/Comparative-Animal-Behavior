@@ -82,6 +82,15 @@ Now, watch each of the following videos and record your data for each predator t
 
 :::
 
+#### Class data from analysis
+
+Left: No Predator, Middle: Terrestrial Predator; Top: Aerial Predator
+
+:::{image} /images/meerkat-vigilance_class-data-FA22.png
+:width: 800
+:::
+
+
 
 ## Data Analysis: Action Sequences 
 
