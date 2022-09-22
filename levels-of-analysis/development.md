@@ -109,6 +109,8 @@ Because foragers are older than nurses in a typical population, examination of b
 
 ***Q: What do epigenetic modifications do?***
 
+***Q: How could hormone-induced changes to histones effect the genetic mechanisms of a behavior.***
+
 
 ## Neural plasticity
 

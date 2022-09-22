@@ -103,6 +103,8 @@ Birds have a light-dependent magnetic compass that is suggested to be mediated b
 
 ## Additional Resources
 
+- [*Journal of Experimental Biology* special issue on **Navigation**](https://journals.biologists.com/jeb/issue/199/1)
+- [Sea Turtles: Navigation and Orientation C. M. F. Lohmann and K. J. Lohmann, University of North Carolina, Chapel Hill, NC, USA. 2010 Elsevier Ltd. All rights reserved.](https://www.reed.edu/biology/342_old/assets/readings/EofAB_Lohman2_turtle_migration.pdf)
 - [Johannes Larsch,  Steven W. Flavell, Qiang Liu, Andrew Gordus, Dirk R. Albrecht, Cornelia I. Bargmann. (2015) A Circuit for Gradient Climbing in C. elegans Chemotaxis. Cell Reports; 12(11).]https://doi.org/10.1016/j.celrep.2015.08.032
 - [Weimerskirch, H., Martin, J., Clerquin, Y. et al. Energy saving in flight formation. Nature 413, 697–698 (2001).](https://doi.org/10.1038/35099670)
 - [Voelkl, B., Portugal, S. J., Unsöld, M., Usherwood, J. R., Wilson, A. M., & Fritz, J. (2015). Matching times of leading and following suggest cooperation through direct reciprocity during V-formation flight in ibis. Proceedings of the National Academy of Sciences of the United States of America, 112(7), 2115–2120. ](https://doi.org/10.1073/pnas.1413589112)

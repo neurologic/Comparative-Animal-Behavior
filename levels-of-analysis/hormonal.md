@@ -1,10 +1,10 @@
 # Hormonal Mechanisms
 
-<hr>
+<!-- <hr>
 
 > {sub-ref}`wordcount-words` words | {sub-ref}`wordcount-minutes` min read
 
-<hr>
+<hr> -->
 
 :::{admonition} Why?
 Animals have a blueprint of behavioral actions that are each controlled by specific genetically-coded neural circuits. However, animals don't (can't) do all of their actions at once... at any moment in time, the intensity of each behavior must be modulated to match the demands of the animal's external environment (resource quality, social cues, etc) as well as internal environment (metabolic demands, internal *state*, etc). 
@@ -20,7 +20,19 @@ neuromodulators
   signaling molecules that may alter neural circuit outputs by modulating the biochemical and electrophysiological properties, metabolic demands, and transcriptional profile of target neurons
 :::
 
-For example, b
+
+## Historical Context[^ref-melon-materials] 
+
+[^ref-melon-materials]: The questions in this first section (in reference to the video you watched before class) were written by Dr. Laverne Melon for her Hormones, Brains, and Behavior course (BIOL 224). 
+
+***Q: This video raises a great opportunity to speak about the elephant in the room: animal experimentation. Experiments on non-human animals have played a significant role in our understanding of physiology in general, and hormones and behavior is no exception. As noted in the video, many of the early experiments-including the very experiments performed by Bayliss and Starling that were the inspiration for the term “Hormones” - utilized dogs (what is left out of the video is that Bayliss was actually a plaintiff in one of the first major protests against vivisection in modern biomedical research, precisely because of his use of dogs in this endocrinology research). Take a few minutes to discuss any apprehension or questions/concerns you may have regarding the use of animals in biomedical research.***   
+
+***Q: Dr. Wass uses a lock and key analogy to describe how hormones interact with their receptors. How is this different from the lock and key analogy often used to describe the actions of neurotransmitters at their receptors.*** 
+
+***Q: How do Berthold’s experiment with the capons and von Halban’s experiments with guinea pig ovaries (the experiments that ended use of oophorectomy as treatment for neurological and psychiatric ailments in women) support a role for non-neuronal chemical signaling in biological function?***
+
+***Q: Why was harvesting “pink thyroid juice” from sheep a successful approach to treating disorders of hypothyroidism yet the same approach applied to treating reduced virility (with goat testis fluid) considered quackery?***
+
 
 ## General Mechanism
 
@@ -42,12 +54,9 @@ Cartoon of a common hormone mechanism of action. The hormone is binding to speci
 
 ***Q: Hormones can either have stimulatory (excitatory) or inhibitory effects on downstream pathways. True/False? Briefly explain.***
 
-***Q: The same hormone can be both stimulatory (excitatory) and inhibitory. True/False? Briefly explain.***
+***Q: The same hormone can be BOTH stimulatory (excitatory) AND inhibitory. True/False? Briefly explain.***
 
 ***Q: Ion channels are a type of membrane channel. How could hormone-induced changes to ion channels in neurons effect behavior?***
-
-***Q: How could hormone-induced changes to histones effect the genetic mechanisms of a behavior.***
-
 
 :::{figure-md} hormone-mechanism-genome
 :class: figure
@@ -141,3 +150,4 @@ Drosophila virgin females cannot form long-term memory. Upon fecundation, the se
 - Anita V. Devineni1 and Kristin M. Scaplen (2022) [Neural Circuits Underlying Behavioral Flexibility: Insights From Drosophila](https://doi.org/10.3389/fnbeh.2021.821680). Front. Behav. Neurosci.
 	- Focus on *Modulation by Internal State* Pick one hormone pathway/effect and share it at the next class.
 - Caroline B. Palavicino-Maggio1 and Saheli Sengupta (2022) [The Neuromodulatory Basis of Aggression: Lessons From the Humble Fruit Fly](https://doi.org/10.3389/fnbeh.2022.836666). Front. Behav. Neurosci.
+
