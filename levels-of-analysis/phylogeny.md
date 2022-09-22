@@ -6,7 +6,7 @@
 
 <hr> -->
 
-[Day 1](phylogeny_day1); [Responses template for use on computer if desired]  
+[Day 1](phylogeny_day1); [Responses template for use on computer if desired](https://docs.google.com/document/d/1Zny7rFlzbYkPHoAMDLy6aPTXH-bod1ODxdhiLQz9AIg/edit?usp=sharing)  
 [Day 2](phylogeny_day2); [Responses template for use on computer if desired]
 
 :::{index} phylogeny
@@ -57,9 +57,9 @@ GATCAGGACATCCTGATGGTGCAACCGCTATCAAGGGTTCGTTTGTTCAACGATTAACAGTCCCACGTGA
 T
 :::
 
-***Q: Given the information in the header file, what gene was sequenced?*** 
+***Q1: Given the information in the header file, what gene was sequenced?*** 
 
-***Q: How long is the sequenced gene for each species?*** 
+***Q2: How long is the sequenced gene for each species?*** 
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -92,13 +92,13 @@ The following table reports the number of mtDNA sequence differences between spe
 | **A** | 5 | 23 |
 | **B** | - | 23 |
 
-***Q: How many extant species are there in the tree?***
+***Q3: How many extant species are there in the tree?***
 
-***Q: How many points of divergence are there?***
+***Q4: How many points of divergence are there?***
 
-***Q: If there are fewer branch points between two species, do they have more or fewer differences in their mtDNA sequence?***
+***Q5: If there are fewer branch points between two species, do they have more or fewer differences in their mtDNA sequence?***
 
-***Q: Given the sequences shown in [the two FASTA files](#fasta-files) that you already examined, why would it be difficult to determine differences in the genetic sequence between species?*** 
+***Q6: Given the sequences shown in [the two FASTA files](#fasta-files) that you already examined, why would it be difficult to determine differences in the genetic sequence between species?*** 
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -124,13 +124,13 @@ Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
 :::
 
 
-***Q: What does the star mean for a column of letters (molecules in the gene sequence)?*** 
+***Q7: What does the star mean for a column of letters (molecules in the gene sequence)?*** 
 
-***Q: Compute a metric of genetic similarity ("relatedness") between Hawksbill and Loggerhead turtles based on sequence (dis)similarity.***
+***Q8: Compute a metric of genetic similarity ("relatedness") between Hawksbill and Loggerhead turtles based on sequence (dis)similarity.***
 
-***Q: Use the same method to compute the relatedness between Hawksbill and Green turtles.***
+***Q9: Use the same method to compute the relatedness between Hawksbill and Green turtles.***
 
-***Q: If you used the example phylogeny (Figure 9) for these three turtle species (Hawksbill, Loggerhead, and Green), which letter (A, B, or C) would most likely correspond to each turtle species?***
+***Q10: If you used the example phylogeny (Figure 9) for these three turtle species (Hawksbill, Loggerhead, and Green), which letter (A, B, or C) would most likely correspond to each turtle species?***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -138,9 +138,9 @@ Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
 ---
 > ⏳ 5 min 
 
-***Q: Based on all of the information provided so far, how would you define 'phylogeny'?*** 
+***Q11: Based on all of the information provided so far, how would you define 'phylogeny'?*** 
 
-***Q: Remember that a phylogeny is a hypothesis. What would an 'alternative hypothesis' be for the example phylogeny (Figure 9)?***
+***Q12: Remember that a phylogeny is a hypothesis. What would an 'alternative hypothesis' be for the example phylogeny (Figure 9)?***
 
 ⏸️ PAUSE here for class-wide discussion
 
