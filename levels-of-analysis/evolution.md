@@ -3,7 +3,7 @@
 [Day 1](evolution_day1)  
 [Day 2](game-theory)
 
-:::{admonition} Complete this section prior to class and bring your responses with you
+:::{admonition} Complete this section prior to class and bring your responses with you (but you do not need to hand them in)
 :name: natural-selection-simulation
 
 > ⏳ 20 min 
@@ -18,28 +18,29 @@ Once you start the simulation, *add a mate* and introduce a dominant mutation. L
         allowfullscreen>
 </iframe>
 
-***Q: In this simulation, which bunny phenotype could vary?***
+***HQ1: In this simulation, which bunny phenotype could vary?***
 
-***Q: In this simulation, what were the three potential selective pressures that you could manipulate?***
+***HQ2: In this simulation, what were the three potential selective pressures that you could manipulate?***
 
-***Q: In this simulation, what were the selective pressures that effected relative phenotype distributions in the bunny species?***
-
-⏹️ STOP here for homework in preparation of class
+***HQ3: In this simulation, what were the selective pressures that effected relative phenotype distributions in the bunny species?***
 
 :::
 
 (evolution_day1)=
 ## General evolutionary concepts
 
-> ⏳ 10 min 
+A soft warm-up for class.
+
+---
+> ⏳ 5 min 
 
 To the best of your group's ability...
 
-***Q: Define 'adaptation'***
+***Q1: Define 'adaptation'***
 
-***Q: What is the main difference between 'evolution' and 'natural selection'?***
+***Q2: What is the main difference between 'evolution' and 'natural selection'?***
 
-***Q: Does natural selection cause variation in a traits over time?***
+***Q3: Does natural selection cause trait variation?***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -48,19 +49,19 @@ To the best of your group's ability...
 
 ## Selective Pressure
 
-:::{admonition} Assumptions
-A fundamental assumption in the contemporary study of animal behaivor, is that behavior is an adaptation to changing needs and a changing environment that maximizes evolutionary fitness[^fitness] (it evolves by natural selection). Another key assumption is that behavioral phenotypes are *heritable* across generations (that there is a strong *genetic* component, though we won't get into any actual genetics yet)[^heritability].
+:::{admonition} Why?
+A fundamental assumption in the contemporary study of animal behaivor, is that behavior is both **heritable**[^heritability] and an **adaptation** (to changing needs and to a changing environment) that maximizes evolutionary fitness[^fitness] (ie. it evolves by **natural selection**). 
 :::
 
 [^fitness]: In other words, behavior can convey reproductive advantage. We won't by more explicit about fitness from the perspective of alleles themselves until we have reviewed Genetics as a class. When we talk about fitness, we can think about how well an animal survives. When we talk about phenotypes as adaptations and their evolution, we ultimately do need to think about fitness in terms of the frequencies of gene alleles that give rise to those phenotypes. Allele frequency over generations depends little on the survivability of an individual animal, and more on how much that animal reproduces (and how well its offspring reproduce).
 
-[^heritability]: If an individual has an advantageous trait, then it is more likely to reproduce. Since traits pass from parents to offspring (*heritability*), then offspring are likely to inherit advantageous
-traits. Over time, advantageous traits become more common in a population.
+[^heritability]: A key assumption is that behavioral phenotypes are *heritable* across generations (that there is a strong *genetic* component, though we won't get into any actual genetics yet). If an individual has an advantageous trait, then it is more likely to reproduce. Since traits pass from parents to offspring (*heritability*), then offspring are likely to inherit advantageous traits. Over time, advantageous traits become more common in a population.
 
 
-## Case Study on adaptation: exploitation of behavioral patterns
 
-Behavioral patterns that are stereotyped (ie. FAPs) are, by definition, predictable. As you know from [experiments that test for sign stimuli of FAPs](FAPs-sign-stimuli), if a sign stimulus is encountered, then the FAP will be released, regardless of the source of that sign stimulus[^unless-inhibited]. This *sign stimulus : FAP* pair can be thought of as a code. ***Code breaking*** describes the "inappropriate" release of an FAP by another animal. 
+### Case Study on adaptation: exploitation of behavioral patterns
+
+Behavioral patterns that are stereotyped (ie. FAPs) are, by definition, predictable. As you know from [experiments that test for sign stimuli of FAPs](FAPs-sign-stimuli), if a sign stimulus is encountered, then the FAP will be released, regardless of the source of that sign stimulus[^unless-inhibited]. This ***sign stimulus*** **:** ***FAP*** pair can be thought of as a *code*. ***Code breaking*** describes the "inappropriate" release of an FAP by another animal. 
 
 [^unless-inhibited]: There are many examples of the effect of a sign stimulus being inhibited by a concurrent, but different, stimulus. The effects of sign stimuli can also be enhanced by additional stimuli. 
 
@@ -73,55 +74,48 @@ In solitary ground nesting bee species (that includes the bee families: *Andreni
 
 <img src="/images/solitary-bee-female.png" alt="fishy" class="bg-primary mb-1" width="500px">
 
-Left, a female solitary bee collecting pollen. Right, a female solitary bee provisioning its egg in a nest.
+**Left**: a female solitary bee collecting pollen. **Right**: a female solitary bee provisioning its egg in a nest.
 :::
 
 
-Males desperately seek females to mate with. They patrol nesting areas in large numbers and form [‘mating balls’ in which multiple males grapple with each other and attempt to pair up with the female](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jinsectscience/18/4/10.1093_jisesa_iey083/2/iey083_suppl_supplementary_online_resource_4.mp4?Expires=1662209471&Signature=Xcqvmc4xBv4Sb6dRayNr5imKMWW3S4SblcADJfI~r04kU0sOjtsHy-TaBWHqoOAB3D7ESd9awMmnwbeNEprqywMoOUhhT~mRRMUKctFxEaoN8smR953C1a2qsmI~-u3MNdDB0jfjwXiRBIASJKyIKVD8DTDLyPYmHq6k4cFGkPz2JUwim-maUvWUrV5SszZXDa5E4hMvIqUCr-UirLTNbddge5STeot3Yf2VR4cwvW1FoNTmpEqTzMVYDmrdJxP9DWimVicj6dI1xfC-O~D2fYiqzXuyklY~0NF6MAGJVMt1b1rYyJcKbYseuqoRXVT90VTnA50rvEysdnWmpvS6qw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)[^entomology-today][^Russell2018]. The mating sequence of males comprises several FAPs that are organized according to stereotyped transition probabilities[^Russell2018]. 
+Males desperately seek females to mate with. They patrol nesting areas in large numbers and form [‘mating balls’ in which multiple males grapple with each other and attempt to pair up with the female](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jinsectscience/18/4/10.1093_jisesa_iey083/2/iey083_suppl_supplementary_online_resource_4.mp4?Expires=1662209471&Signature=Xcqvmc4xBv4Sb6dRayNr5imKMWW3S4SblcADJfI~r04kU0sOjtsHy-TaBWHqoOAB3D7ESd9awMmnwbeNEprqywMoOUhhT~mRRMUKctFxEaoN8smR953C1a2qsmI~-u3MNdDB0jfjwXiRBIASJKyIKVD8DTDLyPYmHq6k4cFGkPz2JUwim-maUvWUrV5SszZXDa5E4hMvIqUCr-UirLTNbddge5STeot3Yf2VR4cwvW1FoNTmpEqTzMVYDmrdJxP9DWimVicj6dI1xfC-O~D2fYiqzXuyklY~0NF6MAGJVMt1b1rYyJcKbYseuqoRXVT90VTnA50rvEysdnWmpvS6qw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)[^entomology-today][^Russell2018]. The mating sequence of males comprises several **FAP**s that are organized according to *stereotyped transition probabilities*[^Russell2018]. 
 
 [^entomology-today]: [Busy Bees: An Up-Close Look at One Bee Species’ Scramble to Mate](https://entomologytoday.org/2018/09/13/busy-bees-up-close-look-one-bee-species-scramble-mate-diadasia-rinconis/)
 [^Russell2018]: [Avery L Russell, Stephen L Buchmann, William de O Sabino, Daniel R Papaj, (2018) Brawls Bring Buzz: Male Size Influences Competition and Courtship in Diadasia rinconis (Hymenoptera: Apidae), Journal of Insect Science, 18(4)](https://doi.org/10.1093/jisesa/iey083)
 
-*But*, males also *mate* with aggregates of larval blister beetles. During attempted copulation, the larvae hitch a ride on the male. When the male bee later mates with a female bee, the larvae can then transfer to the female and hitch a ride back to the female's nest. The larvae are parasitic and feed off of the provisions in the nest that were intended for the bee larvae.
+*But*, males *also* "mate" with aggregates of larval blister beetles. During attempted copulation, the larvae hitch a ride on the male. When the male bee later mates with a female bee, the larvae can then transfer to the female and hitch a ride back to the female's nest. The larvae are parasitic and feed off of the provisions in the nest that were intended for the bee larvae.
 
 :::{figure-md}
 :class: figure
 
 <img src="/images/blister-beetle-aggregates.png" alt="fishy" class="bg-primary mb-1" width="400px">
 
-Top Left, a female blister beetle depositing eggs on a plant stalk. Top Right, days after hatching, the larval blister beetles aggregate with their brown heads pointing outward. Bottom, a male mates with a female bee after a mating attempt with the aggregation of larval blister beetles.
+**Top Left**: A female blister beetle depositing eggs on a plant stalk. **Top Right**: Days after hatching, the larval blister beetles aggregate with their brown heads pointing outward. **Bottom**. A male mates with a female bee after a mating attempt with the aggregation of larval blister beetles.
 :::
 
 ---
 > ⏳ 10 min 
 
-***Q: Based on the information given, what do you think could be the sign stimulus that releases mating FAPs in the male bee? Name at least two potential alternatives.***
+***Q4: Based on the information given, what do you think could be the sign stimulus that releases mating FAPs in the male bee? Name at least two potential alternatives.***
 
-***Q: What testable predictions could you come up with for those alternative hypotheses?***
+***Q5: Under the assumption that behaviors are adaptations, what is the paradox exhibited by this example of solitary bee mating behavior?***
 
-***Q: What experiment would enable you to distinguish between your alternative hypotheses?***
+***Q6: Brainstorm potential selective pressures effecting the existence of this mating behavior (sign stimulus : FAP pair) in male bees*** 
+
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 5
-
-***Q: Under the assumption that behaviors are adaptations, what is the paradox exhibited by this example of solitary bee mating behavior?***
-
-***Q: Brainstorm all of the potential selective pressures effecting the existence of this mating behavior (sign stimulus : FAP pair) in male bees*** 
-
-
-⏸️ PAUSE here for class-wide discussion
-
 
 ## Evolutionary Models
 
 :::{admonition} Why?
-Ultimately, to *understand* a behavioral phenotype from an evolutionary perspective means to be able to predict phenotypes of extant species. This involves both correctly identifying the adaptive role that the behavior plays and the selective pressures that exert evolutionary force on the behavior.
-Mathematical models are abstractions that strive to have predictive power (with varying degrees of precision). Models represent a scientist's best informed guess as to the identity and function of important variables and the ways these variables interact with each other.
+Ultimately, to *understand* a behavioral phenotype from an evolutionary perspective means to be able to predict phenotypes of extant species. This involves both correctly identifying the adaptive role of the behavior and the selective pressures on the behavior. 
+
+Mathematical models are abstractions that strive to have predictive power (with varying degrees of precision). Models represent a best informed guess as to the ***identity and function of important variables*** and ***how these variables interact***.
 :::
 
-To of the most common types of evolutionary models are [Optimality Theory](optimality-theory) and [Game Theory](game-theory)
+Two of the most common types of evolutionary models are [Optimality Theory](optimality-theory) and [Game Theory](game-theory)
 
 :::{index} optimality theory
 :::
@@ -129,28 +123,33 @@ To of the most common types of evolutionary models are [Optimality Theory](optim
 (optimality-theory)=
 ### Optimality Theory
 
-Remember observing and quantifying [vigilance behavior in meerkats](activity-budget-assignment)? From an evolutionary perspective, let's think about how to understand vigilance behavior using an optimality theory modeling approach. 
+Remember observing and quantifying [vigilance behavior in meerkats](activity-budget-assignment)? From an evolutionary perspective, let's learn how to understand vigilance behavior using an optimality theory modeling approach. 
 
----
-> ⏳ 10
+Consider the two alternative behavioral phenotypes: 
+1. ***vigilant***: animals are sometimes vigilant
+2. ***not vigilant***: animals are never vigilant.  
 
-Consider the two alternative phenotypes: *vigilant* and *not vigilant*.  
 Let's start by examining two factors that likely exert selective pressure on this behavioral variation:
 - time available to forage (searching for and eating food)
 - probability of avoiding/escaping a predator
 
-***Q: In terms of time foraging and probability of escape from predation, what is the 'benefit' of being vigilant compared to being not vigilant?***
+---
+> ⏳ 5
 
-***Q: In terms of time foraging and probability of escape from predation, what is the 'cost' of being vigilant compared to being not vigilant?***
+***Q7: In terms of time foraging and/or probability of escape from predation, what is the 'benefit' of a vigilant phenotype compared to not vigilant?***
 
-***Q: In terms of time foraging and probability of escape from predation, what is the 'benefit' of being not vigilant compared to being vigilant?***
+***Q8: In terms of time foraging and probability of escape from predation, what is the 'cost' of a vigilant phenotype compared to not vigilant?***
 
-***Q: In terms of time foraging and probability of escape from predation, what is the 'cost' of being not vigilant compared to being vigilant?***
+***Q9: In terms of time foraging and probability of escape from predation, what is the 'benefit' of a not vigilant phenotype compared to vigilant?***
 
-We often come across evolutionary explanations in terms of *costs* and *benefits*. As you see from this example, these terms are relative. Therefore, it is more *generalizable* to talk in terms of *factors* rather than costs or benefits per se. 
+***Q10: In terms of time foraging and probability of escape from predation, what is the 'cost' of a not vigilant phenotype compared to vigilant?***
 
 
 ⏸️ PAUSE here for class-wide discussion
+
+---
+
+We often come across evolutionary explanations in terms of *costs* and *benefits*. As you see from this example, these terms are relative. Therefore, it is more *generalizable* to talk in terms of ***factors*** rather than costs or benefits per se. 
 
 ---
 > ⏳ 10
@@ -160,25 +159,25 @@ Let's formalize an optimality theory model for $F$, the net fitness of a phenoty
 $$
   F = t + e
 $$
-where $t$ = time foraging (searching for and eating food) and $e$ = probability of escaping a predator.  
+where $t$ = foraging success (amount and quality of food eaten) and $e$ = predator escape success.  
 
-If there are multiple possible phenotypes (in this case *vigilant* or *not vigilant*), then, by optimality theory, the phenotype that confers greater total fitness to the animal will be favored by natural selection. Therefore, the solution to an optimality model is to find the point (phenotype) where net fitness ($F$) is maximized.
+If there are multiple possible phenotypes (in this case *vigilant* or *not vigilant*), then, by optimality theory, the phenotype that confers greater total fitness to the animal will be favored by natural selection. Therefore, the solution to an optimality model is to figure out which phenotype has a highest net fitness ($F$).
 
-***Q: Would the vigilant phenotype or the not vigilant phenotype have a higher value of $t$?***
+***Q11: Would the vigilant phenotype or the not vigilant phenotype have a higher value of $t$?***
 
-***Q: Would the vigilant phenotype or the not vigilant phenotype have a higher value of $e$?***
+***Q12: Would the vigilant phenotype or the not vigilant phenotype have a higher value of $e$?***
 
-***Q: Given this information, can you determine which phenotype has a higher net fitness? Choose some arbitrary (but logical) values for the variables $t$ and $e$ in your model***
+***Q13: Given this information, can you determine which phenotype has a higher net fitness? Choose some arbitrary (but logical) values for the variables $t$ and $e$ in the model to make your prediction.***
 
-***Q: What kinds of issues are you encountering in using the model to predict which phenotype is more fit?***
+***Q14: What kinds of issues are you encountering in using the model to predict which phenotype is more fit?***
 
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 10
 
 Consider how environments can differ. Do all environments have the same amount or quality of food? What about predators? As you experienced in the [Natural Selection Simulation](natural-selection-simulation), environments exert selective pressure on phenotypes, which means that changing environments can change the relative fitness of two phenotypes... but how?  
+
 Let's account for the effect of environment by adding two new variables to the model: 
 - $q$ = the quality or amount of food available
 - $p$ = the number of predators
@@ -189,19 +188,16 @@ $$
   F = q*t + p*e
 $$
 
-***Q: Based on this revised model, in an environment with a lot of predators and low food quality, which phenotype would you predict to be favored by natural selection?***
-
-***Q: Does this revision of the model change your ability to solve the model? If so, then in what ways? If not, then why not?***
-
-
-⏸️ PAUSE here for class-wide discussion
-
 ---
 > ⏳ 10
 
-***Q: Given that the models you just explored were examples of 'Optimality Theory Models,' how would you define 'optimality theory'?***
+***Q15: Based on this revised model, in an environment with a lot of predators and low food quality, which phenotype would you predict to be favored by natural selection?***
 
-***Q: What would you do next if your model did not correctly predict vigilance behavior of a population that you were studying?***
+***Q16: Does this revision of the model change your ability to solve the model? If so, then in what ways? If not, then why not?***
+
+***Q17: Given that the models you just explored were examples of 'Optimality Theory Models,' how would you define 'optimality theory'?***
+
+***Q18: What would you do next if your model did not correctly predict vigilance behavior of a population that you were studying?***
 
 ⏹️ STOP here for today
 

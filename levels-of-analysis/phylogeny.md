@@ -148,10 +148,8 @@ Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
 
 Readily available computer algorithms can calculate relatedness from *aligned* genetic sequence data and generate a drawing of the most likely phylogeny. 
 
-:::{figure-md} turtles_cladogram_black
-:class: figure
-
-<img src="/data/turtles/turtles_cladogram_black.png" alt="fishy" class="bg-primary mb-1" width="600px">
+:::{figure} /images/turtles_cladogram_black.png
+:width: 600
 
 A phylogenetic tree of 7 turtle species. Relatedness and branch lengths were calculated from the MUSCLE alignement data of the 16S ribosomal RNA partial gene sequence using [BioPython](https://biopython.org/).
 :::
@@ -168,45 +166,28 @@ Clicking on the ```i``` icon next to a node brings up a menu with a ```Search EO
 (phylogeny_day2)=
 ## From Trees to Behavioral Evolutionary History
 
-If you search the [Animal Diversity Web](https://animaldiversity.org/) (for example), you will find that, of the 7 turtle species you have just examined, all but one are classified as *solitary*. The green turtle (*Chelonia mydas*) is classified as *colonial*[^colonial].
+If you search the [Animal Diversity Web](https://animaldiversity.org/) (for example), you will find that, of the 7 turtle species you have just examined, all but one are classified as *solitary*. The green turtle (*Chelonia mydas*) is classified as *colonial*[^colonial]. 
+
+From a phylogenetic perspective, why is the green turtle colonial? Either colonialism is an *inherited* behavior or colonialism is a *derived* behavior. In order to determine whether colonialism is derived or inherited, we need to test all alternative hypotheses for the ancestral state reconstruction. 
 
 [^colonial]: "Used loosely to describe any group of organisms living together or in close proximity to each other - for example nesting shorebirds that live in large colonies. More specifically refers to a group of organisms in which members act as specialized subunits (a continuous, modular society) - as in clonal organisms." - [ADW](https://animaldiversity.org/accounts/Chelonia_mydas/#behavior)"
 
-:::{figure-md} turtles_cladogram_character-map
-:class: figure
+---
+> ⏳ 10 min 
 
-<img src="/data/turtles/turtles_cladogram_character-map.png" alt="fishy" class="bg-primary mb-1" width="600px">
+:::{figure} /images/turtles-charmap-lca.png
+:width: 800
 
-A character mapping of social behavior on the phylogeny of 7 turtle species. Green = colonial. Orange = solitary.
+Graphical representations of character mapping and ancestral state reconstruction. **A)** Character mapping of social behavior on the turtle phylogeny. Green = colonial. Orange = solitary. **B)** Ancestral state reconstruction under Hypothesis \#1 on the turtle phylogeny. **C)** Ancestral state reconstruction under Hypothesis \#2 on the turtle phylogeny. To construct the turtle phylogeny, relatedness and branch lengths were calculated from the *MUSCLE* alignement data of the 16S ribosomal RNA partial gene sequence using *BioPython*.
 :::
 
 ***Q: Based on the information given, what do you think 'character mapping' is?***
 
-From a phylogenetic perspective, why is the green turtle colonial? There are two alternative explanations: that colonialism is a phylogenetically *inherited* behavior or that colonialism is a phylogenetically *derived* behavior. 
+***Q: Under Hypothesis \#1, the LCA of this turtle phylogeny had ______________ behavior (fill in the blank).*** 
 
-Examine the following two *ancestral state reconstruction* hypotheses and their graphical representation. 
+***Q: Under Hypothesis \#2, the LCA of this turtle phylogeny had ______________ behavior (fill in the blank).*** 
 
-**Hypothesis \#1**: The LCA of this turtle phylogeny was colonial.  
-
-:::{figure-md} turtles_cladogram_LCA1
-:class: figure
-
-<img src="/data/turtles/turtles_cladogram_LCA1.png" alt="fishy" class="bg-primary mb-1" width="600px">
-
-An ancestral state reconstruction under Hypothesis \#1 on the phylogenetic tree of 7 turtle species. Relatedness and branch lengths were calculated from the MUSCLE alignement data of the 16S ribosomal RNA partial gene sequence using BioPython.
-:::
-
-***Hypothesis \#2***: The LCA of this turtle phylogeny was solitary.  
-
-:::{figure-md} turtles_cladogram_LCA0
-:class: figure
-
-<img src="/data/turtles/turtles_cladogram_LCA0.png" alt="fishy" class="bg-primary mb-1" width="600px">
-
-An ancestral state reconstruction under Hypothesis \#2 on the 7 turtle species. Relatedness and branch lengths were calculated from the MUSCLE alignement data of the 16S ribosomal RNA partial gene sequence using BioPython.
-:::
-
-***Q: What is the difference between an 'ancestral state reconstruction' and a 'character mapping'?***
+***Q: How is a character mapping different than an ancestral state reconstruction?***
 
 ***Q: Under which ancestral state reconstruction hypothesis (1 or 2) would colonialism be an inherited (versus derived) trait in green turtles?***
 
@@ -214,39 +195,68 @@ An ancestral state reconstruction under Hypothesis \#2 on the 7 turtle species. 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 10 min 
+> ⏳ 15 min 
 
-We can collect evidence for/against each alternative hypothesis about the LCA behavioral trait by using an *argument of parsimony*. Answer the following questions to understand the logic of making an argument about LCA behavior based on parsimony.
+One common way to assess alternative hypotheses for the LCA behavioral trait is to use an *argument of* ***parsimony***. Answer the following questions to understand the logic of making an argument about LCA behavior based on ***parsimony***.
 
-***Q: Which requires more events/steps? Evolutionary change or evolutionary stasis?***
+***Q: If the LCA of the turtles in Figure ______ was solitary, what is the least number of total evolutionary changes that would need to occur (across the tree) to result in the correct behavioral traits of all 7 extant species?***
 
-***Q: If the LCA of the turtles in Figure ______ was solitary (hypothesis \#2), what is the least number of total evolutionary changes that would need to occur (across the tree) to result in the correct behavioral traits of all 7 extant species?***
-
-***Q: If the LCA of the turtles in Figure ______ was colonial (hypothesis \#1), what is the least number of total evolutionary changes that would need to occur to result in the correct behavioral traits of all 7 extant species?***
+***Q: If the LCA of the turtles in Figure ______ was colonial, what is the least number of total evolutionary changes that would need to occur to result in the correct behavioral traits of all 7 extant species?***
 
 ***Q: Which alternative hypothesis would require more evolutionary changes?***
 
-***Q: All else being equal, which hypothesis results in a less likely series of events: "LCA was solitary" or "LCA was colonial"? (ie. which hypothesis is less parsimonious)***
+By an argument of parsimony, we would conclude that it is less likely that the LCA was colonial. 
 
-***Q: If the method of parsimony is used to reject the less likely hypothesis, then what would be the result of your analysis? In other words, how would you interpret your results in terms of determining the behavioral trait exhibited by the LCA of these 7 turtles?***
+***Q: Which is more likely: evolutionary change or evolutionary stasis?***
 
+***Q: Create your definition for the "argument of parsimony".***
+
+***Q: If no one had yet characterized the behavior of Flatback and Leatherback turtles, would it change the results of your analysis? How would you handle this unknown data in your analysis?***
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 10 min 
+
+### Case Study: Vocal Learning
+
+:::{figure} /images/phylogeny-vocal-learning-comparison.png
+:width: 900
+
+Phylogeny of *Neoaves* (By clicking on the image you can zoom in).  
+**A)** From the *Animal Behavior, 9th edition* textbook by Rubenstein and Alcock (2009). Phylogeny data generated using DNA-DNA hybridization[^dna-hybridization] and published by Eliot A. Brenowitz in *Evolution of the vocal control system in the avian brain*[^brenowitz-1991]. Character mapping of vocal learnering highlighted in green, blue, and red.  
+**B)** From Suh et al (2011)[^suh-2011]. Phylogeny data generated using Mesozoic retroposons[^retroposons] and analysis utilizing ***maximum parsimony***. New taxa *Eufalconimorphae* (falcons+parrots+passerines) and *Psittacopasserae* (parrots+passerines) are highlighted.
+:::
+
+[^brenowitz-1991]: [Eliot A. Brenowitz (1991) *Evolution of the vocal control system in the avian brain*. Seminars in Neuroscience; 3(5).](https://doi.org/10.1016/1044-5765%2891%2990030-R)
+
+[^dna-hybridization]: (from [wiki](https://en.wikipedia.org/wiki/DNA%E2%80%93DNA_hybridization)) The DNA of one organism is labelled, then mixed with the unlabelled DNA to be compared against. The mixture is incubated to allow DNA strands to dissociate and then cooled to form renewed hybrid double-stranded DNA. Hybridized sequences with a high degree of similarity will bind more firmly, and require more energy to separate them: i.e. they separate when heated at a higher temperature than dissimilar sequences, a process known as "DNA melting". To assess the melting profile of the hybridized DNA, the double-stranded DNA is bound to a column and the mixture is heated in small steps. At each step, the column is washed; sequences that melt become single-stranded and wash off the column. The temperatures at which labelled DNA comes off the column reflects the amount of similarity between sequences (and the self-hybridization sample serves as a control). These results are combined to determine the degree of genetic similarity between organisms. One method was introduced for hybridizing large numbers of DNA samples against large numbers of DNA probes on a single membrane. These samples would have to be separated in their own lanes inside the membranes and then the membrane would have to be rotated to a different angle where it would result in simultaneous hybridization with many different DNA probes.
 
 
-***Q: What is the minimum subset of this phylogenetic tree that you would need to provide evidence that colonialism is a derived trait in green turtles?***
+[^suh-2011]: [Suh, A., Paus, M., Kiefmann, M. et al. Mesozoic retroposons reveal parrots as the closest living relatives of passerine birds. Nat Commun 2, 443 (2011).](https://doi.org/10.1038/ncomms1448)
 
-***Q: If no one had yet characterized the behavior of Flatback and Leatherback turtles, would it change the results of your analysis? How would you handle this unknownd data in your analysis?***
+[^retroposons]: (from [Suh et al 2011](https://doi.org/10.1038/ncomms1448)) Retroposons, jumping genetic elements that copy via RNA intermediates and insert nearly randomly anywhere in the genome (although some biases of insertion and retention have been proposed15), provide (by inheritance) virtually homoplasy-free evidence of relatedness that is detectable for more than 100 million years. Because parallel insertions or exact excisions are highly unlikely, presence/absence patterns of retroposons at orthologous genomic loci are powerful, clear-cut phylogenetic markers capable of resolving long-standing uncertainties.
 
+---
+> ⏳ 15 min 
 
+:::{figure} /images/phylogeny-vocal-learning-comparison-drawn.png
+:width: 900
+
+Character mapping of vocal learning behavior on the phylogeny of *Neoaves* from Brenowitz (1991)[^brenowitz-1991] in **A** and **B** and off of Suh et al (2011)[^suh-2011] in **C**.
+:::
+
+***Q: Use the phylogeny in Figure 12A to draw and analyze (using parsimony) the two alternate ancestral state reconstruction hypotheses for the LCA of all song learners (arrow).***   
+
+***Q: How would your analysis change using the same (but simplified) phylogeny in Figure 12B?*** 
+
+***Q: Use the phylogeny in Figure 12C to draw and analyze (using parsimony) the two alternate ancestral state reconstruction hypotheses for the LCA of all song learners.***  
+
+***Q: How does your understanding of vocal learning behavior change based on the two phylogenetic hypotheses (Brenowitz versus Suh)?*** 
 
 
 ⏹️ STOP here for today
 
-:::{admonition} Complete this section for homework and bring your responses to next class
+:::{admonition} Complete this section for homework and bring your responses to next class in a format that you can turn in (written on paper, printed, or emailed to me directly are all fine). They will be graded CR/U. 
 :name: phylogeny-burrowing-assignment
 
 1. Examine Figure 2 from [Weber and Hoekstra (2009). The evolution of burrowing behaviour in deer mice (genus Peromyscus)](https://doi.org/10.1016/j.anbehav.2008.10.031). Perform an ancestral state reconstruction for burrowing behavior among these species by examining alternate hypotheses for the LCA and analyzing the results using an argument of parsimony. Bring your analysis to class.[^Hu-Hoekstra-review]
