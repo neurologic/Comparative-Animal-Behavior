@@ -181,15 +181,15 @@ From a phylogenetic perspective, why is the green turtle colonial? Either coloni
 Graphical representations of character mapping and ancestral state reconstruction. **A)** Character mapping of social behavior on the turtle phylogeny. Green = colonial. Orange = solitary. **B)** Ancestral state reconstruction under Hypothesis \#1 on the turtle phylogeny. **C)** Ancestral state reconstruction under Hypothesis \#2 on the turtle phylogeny. To construct the turtle phylogeny, relatedness and branch lengths were calculated from the *MUSCLE* alignement data of the 16S ribosomal RNA partial gene sequence using *BioPython*.
 :::
 
-***Q: Based on the information given, what do you think 'character mapping' is?***
+***Q1: Based on the information given, what do you think 'character mapping' is?***
 
-***Q: Under Hypothesis \#1, the LCA of this turtle phylogeny had ______________ behavior (fill in the blank).*** 
+***Q2: Under Hypothesis \#1, the LCA of this turtle phylogeny exhibited ______________ behavior (fill in the blank).*** 
 
-***Q: Under Hypothesis \#2, the LCA of this turtle phylogeny had ______________ behavior (fill in the blank).*** 
+***Q3: Under Hypothesis \#2, the LCA of this turtle phylogeny exhibited ______________ behavior (fill in the blank).*** 
 
-***Q: How is a character mapping different than an ancestral state reconstruction?***
+***Q4: How is a character mapping different than an ancestral state reconstruction?***
 
-***Q: Under which ancestral state reconstruction hypothesis (1 or 2) would colonialism be an inherited (versus derived) trait in green turtles?***
+***Q5: Under which ancestral state reconstruction hypothesis (1 or 2) would colonialism be an inherited (versus derived) trait in green turtles?***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -199,19 +199,19 @@ Graphical representations of character mapping and ancestral state reconstructio
 
 One common way to assess alternative hypotheses for the LCA behavioral trait is to use an *argument of* ***parsimony***. Answer the following questions to understand the logic of making an argument about LCA behavior based on ***parsimony***.
 
-***Q: If the LCA of the turtles in Figure ______ was solitary, what is the least number of total evolutionary changes that would need to occur (across the tree) to result in the correct behavioral traits of all 7 extant species?***
+***Q6: If the LCA of the turtles in Figure 11 was solitary, what is the least number of total evolutionary changes that would need to occur (across the tree) to result in the correct behavioral traits of all 7 extant species?***
 
-***Q: If the LCA of the turtles in Figure ______ was colonial, what is the least number of total evolutionary changes that would need to occur to result in the correct behavioral traits of all 7 extant species?***
+***Q7: If the LCA of the turtles in Figure 11 was colonial, what is the least number of total evolutionary changes that would need to occur to result in the correct behavioral traits of all 7 extant species?***
 
-***Q: Which alternative hypothesis would require more evolutionary changes?***
+***Q8: Which alternative hypothesis would require more evolutionary changes?***
 
 By an argument of parsimony, we would conclude that it is less likely that the LCA was colonial. 
 
-***Q: Which is more likely: evolutionary change or evolutionary stasis?***
+***Q9: From that conclusion, which would you infer is more likely: evolutionary change or evolutionary stasis?***
 
-***Q: Create your definition for the "argument of parsimony".***
+***Q10: Create your definition for the "argument of parsimony".***
 
-***Q: If no one had yet characterized the behavior of Flatback and Leatherback turtles, would it change the results of your analysis? How would you handle this unknown data in your analysis?***
+***Q11: If no one had yet characterized the behavior of Flatback and Leatherback turtles, would it change the results of your analysis? How would you handle this unknown data in your analysis?***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -245,13 +245,13 @@ Phylogeny of *Neoaves* (By clicking on the image you can zoom in).
 Character mapping of vocal learning behavior on the phylogeny of *Neoaves* from Brenowitz (1991)[^brenowitz-1991] in **A** and **B** and off of Suh et al (2011)[^suh-2011] in **C**.
 :::
 
-***Q: Use the phylogeny in Figure 12A to draw and analyze (using parsimony) the two alternate ancestral state reconstruction hypotheses for the LCA of all song learners (arrow).***   
+***Q12: Use the phylogeny in Figure 13A to analyze (using parsimony) the two alternative ancestral state reconstruction hypotheses for the LCA of all song learners (arrow).***   
 
-***Q: How would your analysis change using the same (but simplified) phylogeny in Figure 12B?*** 
+***Q13: How would your analysis change using the same (but simplified) phylogeny in Figure 13B?*** 
 
-***Q: Use the phylogeny in Figure 12C to draw and analyze (using parsimony) the two alternate ancestral state reconstruction hypotheses for the LCA of all song learners.***  
+***Q14: Use the phylogeny in Figure 13C to analyze (using parsimony) the two alternate ancestral state reconstruction hypotheses for the LCA of all song learners.***  
 
-***Q: How does your understanding of vocal learning behavior change based on the two phylogenetic hypotheses (Brenowitz versus Suh)?*** 
+***Q15: How does your understanding of vocal learning behavior change based on the two phylogenetic hypotheses (Brenowitz versus Suh)?*** 
 
 
 ⏹️ STOP here for today
