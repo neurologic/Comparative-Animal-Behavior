@@ -7,7 +7,7 @@
 <hr> -->
 
 [Day 1](phylogeny_day1); [Responses template for use on computer if desired](https://docs.google.com/document/d/1Zny7rFlzbYkPHoAMDLy6aPTXH-bod1ODxdhiLQz9AIg/edit?usp=sharing)  
-[Day 2](phylogeny_day2); [Responses template for use on computer if desired]
+[Day 2](phylogeny_day2); [Responses template for use on computer if desired](https://docs.google.com/document/d/1mqKfBa3jPaanVQRGTZ3KtieONeU9ocnquhBuTntxnUM/edit?usp=sharing)
 
 :::{index} phylogeny
 :::
@@ -187,7 +187,7 @@ Graphical representations of character mapping and ancestral state reconstructio
 
 ***Q3: Under Hypothesis \#2, the LCA of this turtle phylogeny exhibited ______________ behavior (fill in the blank).*** 
 
-***Q4: How is a character mapping different than an ancestral state reconstruction?***
+***Q4: How is character mapping different than ancestral state reconstruction?***
 
 ***Q5: Under which ancestral state reconstruction hypothesis (1 or 2) would colonialism be an inherited (versus derived) trait in green turtles?***
 
@@ -242,7 +242,7 @@ Phylogeny of *Neoaves* (By clicking on the image you can zoom in).
 :::{figure} /images/phylogeny-vocal-learning-comparison-drawn.png
 :width: 900
 
-Character mapping of vocal learning behavior on the phylogeny of *Neoaves* from Brenowitz (1991)[^brenowitz-1991] in **A** and **B** and off of Suh et al (2011)[^suh-2011] in **C**.
+Character mapping of vocal learning behavior on the phylogeny of *Neoaves* from Brenowitz (1991)[^brenowitz-1991] in **A** and **B** and off of Suh et al (2011)[^suh-2011] in **C**. Blue: vocal learners, Yellow: vocal non-learners.
 :::
 
 ***Q12: Use the phylogeny in Figure 13A to analyze (using parsimony) the two alternative ancestral state reconstruction hypotheses for the LCA of all song learners (arrow).***   
