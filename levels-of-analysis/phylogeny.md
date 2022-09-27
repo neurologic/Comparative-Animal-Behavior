@@ -72,7 +72,7 @@ From [Yang et al (2014)](https://doi.org/10.1038/srep04089): "With few exception
 
 ## From Relatedness to Trees
 
-In a tree representation of a **phylogeny** (Figure 9), the tips of branches represent *extant* (versus *extinct*) species. The tree is *rooted* with the *last common ancestor* (LCA) of all extant species on the tree (the evolutionarily oldest species of the tree). Each branch point from the root is a point of evolutionary *divergence*. We talk about species being closer to each other on a phylogenetic tree as being more *related* (having a higher *relatedness*).
+In a tree representation of a **phylogeny** (Figure 9), the tips of branches represent *extant* (versus *extinct*) species. The tree is *rooted* with the ***Last Common Ancestor*** (**LCA**) of all extant species on the tree (the evolutionarily oldest species of the tree). Each branch point from the root is a point of evolutionary *divergence*. We talk about species being closer to each other on a phylogenetic tree as being more *related* (having a higher *relatedness*).
 
 ---
 > ⏳ 10 min 
