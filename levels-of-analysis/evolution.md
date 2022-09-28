@@ -1,12 +1,12 @@
 # Evolution
 
-[Day 1](evolution_day1)  
-[Day 2](game-theory)
+[Day 1](evolution_day1); [Responses template for use on computer if desired](https://docs.google.com/document/d/1Tz0iU8VG9O7BDL44alGmGt5CVBvecdRQEe_dC-J_a2M/edit?usp=sharing)  
+[Day 2](game-theory); [Responses template for use on computer if desired]
 
 :::{admonition} Complete this section prior to class and bring your responses with you (but you do not need to hand them in)
 :name: natural-selection-simulation
 
-> ⏳ 20 min 
+> ⏳ 10-20 min 
 
 Use the ***Intro*** section of the following simulation to examine the interaction between selection pressures and the phenotypic distribution of a population. Focus on the phenotypes, phenotype frequencies, and selection pressures. Do not focus on the issues of dominant/recessive alleles and allele frequency. 
 
