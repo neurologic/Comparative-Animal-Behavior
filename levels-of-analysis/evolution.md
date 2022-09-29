@@ -1,7 +1,7 @@
 # Evolution
 
 [Day 1](evolution_day1); [Responses template for use on computer if desired](https://docs.google.com/document/d/1Tz0iU8VG9O7BDL44alGmGt5CVBvecdRQEe_dC-J_a2M/edit?usp=sharing)  
-[Day 2](game-theory); [Responses template for use on computer if desired]
+[Day 2](game-theory); [Responses template for use on computer if desired](https://docs.google.com/document/d/1Tz0iU8VG9O7BDL44alGmGt5CVBvecdRQEe_dC-J_a2M/edit?usp=sharing)
 
 :::{admonition} Complete this section prior to class and bring your responses with you (but you do not need to hand them in)
 :name: natural-selection-simulation
@@ -78,7 +78,7 @@ In solitary ground nesting bee species (that includes the bee families: *Andreni
 :::
 
 
-Males desperately seek females to mate with. They patrol nesting areas in large numbers and form [‘mating balls’ in which multiple males grapple with each other and attempt to pair up with the female](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jinsectscience/18/4/10.1093_jisesa_iey083/2/iey083_suppl_supplementary_online_resource_4.mp4?Expires=1662209471&Signature=Xcqvmc4xBv4Sb6dRayNr5imKMWW3S4SblcADJfI~r04kU0sOjtsHy-TaBWHqoOAB3D7ESd9awMmnwbeNEprqywMoOUhhT~mRRMUKctFxEaoN8smR953C1a2qsmI~-u3MNdDB0jfjwXiRBIASJKyIKVD8DTDLyPYmHq6k4cFGkPz2JUwim-maUvWUrV5SszZXDa5E4hMvIqUCr-UirLTNbddge5STeot3Yf2VR4cwvW1FoNTmpEqTzMVYDmrdJxP9DWimVicj6dI1xfC-O~D2fYiqzXuyklY~0NF6MAGJVMt1b1rYyJcKbYseuqoRXVT90VTnA50rvEysdnWmpvS6qw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)[^entomology-today][^Russell2018]. The mating sequence of males comprises several **FAP**s that are organized according to *stereotyped transition probabilities*[^Russell2018]. 
+Males desperately seek females to mate with. They patrol nesting areas in large numbers and form [‘mating balls’ in which multiple males grapple with each other and attempt to pair up with the female](https://drive.google.com/file/d/1T7isPKjRl9pPdahiWVQ_21c2Z3nN3vq-/view?usp=sharing)[^entomology-today][^Russell2018]. The mating sequence of males comprises several **FAP**s that are organized according to *stereotyped transition probabilities*[^Russell2018]. 
 
 [^entomology-today]: [Busy Bees: An Up-Close Look at One Bee Species’ Scramble to Mate](https://entomologytoday.org/2018/09/13/busy-bees-up-close-look-one-bee-species-scramble-mate-diadasia-rinconis/)
 [^Russell2018]: [Avery L Russell, Stephen L Buchmann, William de O Sabino, Daniel R Papaj, (2018) Brawls Bring Buzz: Male Size Influences Competition and Courtship in Diadasia rinconis (Hymenoptera: Apidae), Journal of Insect Science, 18(4)](https://doi.org/10.1093/jisesa/iey083)
@@ -213,7 +213,7 @@ There are many cases in which the fitness associated with a particular behavior 
 ---
 > ⏳ 15
 
-Let's work through the logic of a game theory modeling approach using a common example from conflict resolution behavior. In the basic form of this model, there are two possible behavioral phenotypes: *fighter* and *pacifist*. 
+Let's work through the logic of a game theory modeling approach by role-playing a common example from conflict resolution behavior. In the basic form of this model, there are two possible behavioral phenotypes: *fighter* and *pacifist*. 
 
 (gt-model-setup_fp)=
 :::{admonition} Setting up the conflict resolution game theory model
@@ -337,6 +337,8 @@ Let's watch this [simulation on the evolution of conflict resolution behavior](h
 ---
 ## Additional Resources
 
+- [Optimality Theory section from Rubenstein and Alcock text](https://drive.google.com/file/d/11ixpv0rAw6nJ9arHLuvGWjU15dcFxF7B/view?usp=sharing)
+- [Game Theory section from Rubenstein and Alcock text](https://drive.google.com/file/d/1M4vDEonIg9XLL4c8I5S4Xe0E5Rw5EiME/view?usp=sharing)
 - [Observations of the blister beetle Stenoria analis (SCHAUM, 1859) in a colony of the ivy bee Colletes hederae SCHMIDT & WESTRICH, 1993 in the botanical garden of Gießen in 2016 and 2017](https://www.kerbtier.de/Pages/Themenseiten/enStenoria.html) © Hans Bahmer, 2017
 - [Modeling Behavior: Game and Optimality Theory](https://college.holycross.edu/faculty/kprestwi/behavior/ESS/ESS_introModels.html) from Holy Cross College
 - [Game Theory and Evolutionarily Stable Strategies](https://college.holycross.edu/faculty/kprestwi/behavior/ESS/games_intro.html) from Holy Cross College
