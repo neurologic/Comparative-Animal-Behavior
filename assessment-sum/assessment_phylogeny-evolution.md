@@ -3,7 +3,7 @@
 
 **Case Study: Social behavior in Bathyergidae**
 
-There are, broadly, several categories of social behavior: solitary, social, and eusocial
+There are, broadly, several majore categories of social behavior: solitary, social, and eusocial
 
 :::{glossary}
 
