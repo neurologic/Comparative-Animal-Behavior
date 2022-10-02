@@ -208,7 +208,9 @@ $$
 (game-theory)=
 ### Game theory
 
-There are many cases in which the fitness associated with a particular behavior depends on what other conspecifics are doing. Thus, what is evolutionarily favored will depend on the distribution of phenotypic variation in the population (and therefore on the likelihood of certain phenotypes interacting, each with different fitness consequences). Game theory is like optimality theory in many ways, but it takes into account ***selective pressure from conspecifics*** and ***the proportion in which other phenotypes exist***. 
+There are many cases in which the fitness associated with a particular behavior depends on what other *conspecifics*[^conspecifics-def] are doing. Thus, what is evolutionarily favored will depend on the distribution of phenotypic variation in the population (and therefore on the likelihood of certain phenotypes interacting, each with different fitness consequences). Game theory is like optimality theory in many ways, but it takes into account ***selective pressure from conspecifics*** and ***the proportion in which other phenotypes exist***. 
+
+[^conspecifics-def]: *Conspecifics* are individuals of the same species. In understanding the evolution of behavior, we consider phenotypic variation *within* a species, not between species.  
 
 ---
 > ⏳ 15
@@ -219,7 +221,7 @@ Let's work through the logic of a game theory modeling approach by role-playing 
 :::{admonition} Setting up the conflict resolution game theory model
 There are two possible behavioral strategies (phenotypes)
 1. *Fighters* always fight when challenged until the resource is won. In the simplest case, each fighter has a 50% chance of winning the resource. 
-2. *Pacifists* try to share the resource, but back down immediately when challenged with a fight (they don't engage in any fighting, which means they give up the resource completely).  
+2. *Pacifists* share the resource, and back down immediately when challenged with a fight (they don't engage in any fighting, which means they give up the resource completely when challenged, but also don't get injured from fighting).  
 
 There are two factors that can contribute to an animal's fitness
 1. $v$ = the energy gained by obtaining the limited resource
@@ -235,27 +237,25 @@ Choose one person from the group to keep track of each player's fitness in the g
 
 **Condition 1: A population of Pacifists** 
 Each player represents the pacifist behavior.  
-Choose one player to be the 'focal' player (the one whose fitness is tracked).  
 
 The moderator places one blue pen on the table. This pen is the 'resource' and it is worth +2 units of fitness.  
 When the moderator says *go*, both players interact over the resource. Decide how the resource will be allocated according to the 'pacifist' behavioral strategy described [in the model setup](gt-model-setup_fp).
-After the resource has been allocated, tally the net change in the focal player's fitness as a consequence of the encounter.  
+After the resource has been allocated, tally the net change in each player's fitness as a consequence of the encounter.  
 
 The moderator places the blue pen back on the table and the interaction repeats (trial \#2) when the moderator says *go*.  
-Repeat the interaction for 10 trials total (tallying the focal player's change in net fitness after every encounter)
+Repeat the interaction for 10 trials total (tallying each player's change in net fitness after every encounter)
 
 **Condition 2: A population of Fighters**
 Each player represents the fighter behavior.  
-Choose one player to be the 'focal' player (the one whose fitness is tracked).  
 
 The moderator places one blue pen on the table. This pen is the 'resource' and it is worth +2 units of fitness.  
 The moderator places one red pen on the table. This pen is the consequence of losing a figth and it is worth -1 unit of fitness.
 
-When the moderator says *go*, both players interact over the resource. Decide how the resource and consequence will be allocated according to the 'fighter' behavior described [in the model setup](gt-model-setup_fp) (how will you decide who wins the fight on each trial? ...remember that each fighter has a 50% chance of winning the resource).
-After the resource and consequence have been allocated, tally the net change in the focal player's fitness as a consequence of the encounter.  
+When the moderator says *go*, both players interact over the resource. Decide how the resource and consequence will be allocated according to the 'fighter' behavior described [in the model setup](gt-model-setup_fp).
+After the resource and consequence have been allocated, tally the net change in each player's fitness as a consequence of the encounter.  
 :::
 
-***Q: Which condition would result in a "more fit" population?***
+***Q1: Which behavioral strategy would result in a "more fit" population?***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -263,22 +263,20 @@ After the resource and consequence have been allocated, tally the net change in 
 > ⏳ 10
 
 :::{admonition} Play it out 
-**Condition 2: Pacifist among a population of Fighters**
-The focal player represents the pacifist behavior. 
+**Condition 3: Pacifist and Fighters mix**
+One player represents the pacifist behavior. 
 The other player represents the fighter behavior.  
 
-The moderator places one blue pen on the table. This pen is the 'resource' and it is worth +2 units of fitness.  
-The moderator places one red pen on the table. This pen is the consequence of losing a fight and it is worth -1 unit of fitness.
+The values of $v$ and $c$ are the same as in Condition #2. The moderator places one blue pen on the table representing a 'resource' worth +2 units of fitness. The moderator places one red pen on the table representing the consequence of losing a fight and it is worth -1 unit of fitness.
 
-When the moderator says *go*, both players interact over the resource. Decide how the resource and consequence will be allocated according to the 'pacifist' behavior encountering a 'fighter' behavior as described [in the model setup](gt-model-setup_fp) (for example, what happens to the red pen?). After the resource and consequence have been allocated, tally the net change in the focal player's fitness as a consequence of the encounter.  
+When the moderator says *go*, both players interact over the resource. Decide how the resource and consequence will be allocated according to the 'pacifist' behavior encountering a 'fighter' behavior (and vice versa) as described [in the model setup](gt-model-setup_fp). After the resource and consequence have been allocated, tally the net change in each player's fitness as a consequence of the encounter.  
 :::
 
-***Q: Make a table that shows the average net fitness of each focal behavioral strategy in each behavioral context that you tested.***
+***Q2: Based on your results of all three simulations, make a table that shows the average net fitness that you tallied for each behavioral strategy (pacifist and fighter) in each behavioral context (pacifist and fighter).***
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 10
 
 The game theory model that you have been playing out can be summarized in general terms according to the following equations.
 
@@ -293,25 +291,25 @@ Fighters always gain the resource against pacifists and do so without a fight, w
 
 The conditions that you acted out were: $v=2$ and $c=1$.  
 
-***Q: Under the conditions that you acted out, use the model equations to determine which strategy has a greater net fitness in a population of all fighters.***
+Under these conditions, let's use the model equations to determine which strategy has a greater net fitness in a population of all fighters. By doing so, we can determine whether (*under these conditions*) fighting is a **stable** behavior or a behavior that would be **invaded by** pacifist behavior.
 
-***Q: Under the conditions that you acted out, use the model equations to determine which strategy has a greater net fitness in a population of all pacifists.***
+---
+> ⏳ 10
+
+***Q3: Under the conditions that you acted out, use the model equations to determine which strategy has a greater net fitness in a population of all pacifists.***
+
+***Q4: According to this evolutionary model, the fitness of the fighter phenotype (DOES / DOES NOT) depend on the behavioral phenotype of conspecifics. When conspecifics are all fighters, the average fitness of fighting is ________. When conspecifics are all pacifists, the average fitness of fighting is (ALSO / INSTEAD) ________. (choose one parenthetical option and fill in the blanks)***
+
+Consider a new set of conditions. For example, what about an environment in which there are more predators. In this environment, the cost of losing a fight may be greater because if you are injured, you have a high probability of being eaten by a predator. Consider that $v=2$ and $c=3$.  
+
+***Q5: In this different environment, where $v=2$ and $c=3$, which strategy has a greater net fitness in a population of all fighters?***
+
+***Q6: In this different environment, where $v=2$ and $c=3$, which strategy has a greater net fitness in a population of all pacifists?***
 
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 10
-
-Consider a new set of conditions. For example, what about an environment in which there are more predators. In this environment, the cost of losing a fight is greater because if you are injured, you have a high probability of being eaten by a predator. Consider that $v=2$ and $c=3$.  
-
-***Q: In this different environment, where $v=2$ and $c=3$, which strategy has a greater net fitness in a population of all fighters?***
-
-***Q: In this different environment, where $v=2$ and $c=3$, which strategy has a greater net fitness in a population of all pacifists?***
-
-
-⏸️ PAUSE here for class-wide discussion
-
 
 Game theory models like the pacifist : fighter model you have been considering, are often represented in the following tabular format. It is worth getting familiar with this way of representing game theory models.
 
@@ -323,20 +321,53 @@ Game theory models like the pacifist : fighter model you have been considering, 
 A tabular representation of the game theory model of conflict resolution behavior that includes *pacifist* and *fighter* phenotypes. Each box of the table is split by a diagonal line. The fitness of each phenotype in each player role (green or purple) is written to the left or right (respectively) of each diagonal line.
 :::
 
+#### Solving the model
+
+Game theory models are solved a bit differently than Optimality Theory. The task is to determine ***under what conditions*** (values of the variables/factors) is each behavior(s) ***stable***. 
+
+For example, fighting is stable when the strategy *cannot be invaded by* the pacifist strategy. This is only true when pacifists have a lower average fitness than fighters when in a population of fighters (ie. a *mutant* pacifist). Mathematically, this statement would be written:
+Fighting is a stable strategy when ${v-c}/2 > 0$. Simplifying the equation gives the condition: $v > c$.
 
 ---
-> ⏳ 20
+> ⏳ 10
 
-Let's watch this [simulation on the evolution of conflict resolution behavior](https://youtu.be/YNMkADpvO4w) to gain more perspective on the logic of game theory models for behavioral evolution. 
+***Q7: Are there conditions under which pacifist would be a stable behavior? To solve, set up the relevant inequalities and simplify. Then state in terms of a sentence.***
 
-***Q: What is the paradox here?***
+***Q8: Are there conditions under which the evolutionarily stable state of a species would include both pacifists and fighters?***
 
+
+⏸️ PAUSE here for class-wide discussion
+
+---
+
+#### Understanding MIXED behavioral phenotypes
+
+It is possible that there are conditions under which neither behavioral phenotypes are evolutionarily stable, but a population consisting of both co-existing phenotypes is. For example, we know of behavioral phenotypes that have higher fitness than the alternative only when that alternative exists.
+
+Here are a few as examples:
+- *sitter* versus *rover* foraging behavior (https://doi.org/10.1038/nature05764)
+- *singing* versus *silent* mate attraction behavior ([crickets](https://doi-org.ezproxy.wesleyan.edu/10.1098/rsbl.2006.0539)) 
+- *fighter* versus *pacifist* resource conflict resolution (when the cost of losing a fight is high)
+- *sneaky* versus *dominant* versus *monogamous* mating behavior (side-blotched lizards)
+
+<div class="pbs-viral-player-wrapper" style="position: relative; padding-top: calc(56.25% + 43px);"><iframe src="https://player.pbs.org/viralplayer/2365819768/" allowfullscreen allow="encrypted-media" style="position: absolute; top: 0; width: 100%; height: 100%; border: 0;"></iframe></div>
+
+|  | Dominant | Sneaky | Monogamous |
+| :--- | :---: | :---: | :---: |
+| **Dominant** | F | F - 1 | F + 1 |
+| **Sneaky** | F + 1 | F | F - 1 |
+| **Monogamous** | F - 1 | F + 1 | F |
 
 ⏹️ STOP here for today
 
 ---
+
 ## Additional Resources
 
+- [This video](https://youtu.be/YNMkADpvO4w) is a simulation on the evolution of conflict resolution behaviors that provides a nice perspective on the logic of game theory models in understanding behavior. Think about, what is the paradox here? 
+- Silent versus Satellite Crickets: [To mate or be eaten: tree cricket behaviour in the presence of a predator]https://www.britishecologicalsociety.org/to-mate-or-be-eaten-tree-cricket-behaviour-in-the-presence-of-a-predator/ and [Silent night: adaptive disappearance of a sexual signal in a parasitized population of field crickets](https://doi-org.ezproxy.wesleyan.edu/10.1098/rsbl.2006.0539) and [A simulation model of the effects of frequency dependence,
+density dependence and parasitoid flies on
+the fitness of male field crickets](https://doi.org/10.1016/j.ecolmodel.2003.07.001)
 - [Optimality Theory section from Rubenstein and Alcock text](https://drive.google.com/file/d/11ixpv0rAw6nJ9arHLuvGWjU15dcFxF7B/view?usp=sharing)
 - [Game Theory section from Rubenstein and Alcock text](https://drive.google.com/file/d/1M4vDEonIg9XLL4c8I5S4Xe0E5Rw5EiME/view?usp=sharing)
 - [Observations of the blister beetle Stenoria analis (SCHAUM, 1859) in a colony of the ivy bee Colletes hederae SCHMIDT & WESTRICH, 1993 in the botanical garden of Gießen in 2016 and 2017](https://www.kerbtier.de/Pages/Themenseiten/enStenoria.html) © Hans Bahmer, 2017
