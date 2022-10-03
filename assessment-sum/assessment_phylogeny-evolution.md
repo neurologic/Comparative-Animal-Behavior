@@ -1,5 +1,63 @@
 # Phylogeny and Evolution
 
+## Section 1: Migratory Behavior
+
+:::{image} /images/phylogeny-migration-exam-example.png
+:width: 600
+:align: center
+:::
+
+**Figure 1:** *The 13 extant species shown comprise the Genus: thrush. Yellow = migrate. Blue = resident (do not migrate)*. 
+
+
+***Q1: Figure 1 shows a [ phylogeny / character mapping / ancestral state reconstruction ] of migratory behavior among the genus thrushes. (Choose one and re-write the sentence)***
+
+***Q2: Based on an argument of parsimony, consider the phylogeny of all species from the last common ancestor (LCA) at "A" (green arrow). If the LCA at A was _______________, there would have been _______ evolutionary changes. If the LCA at A was _______________, there would have been ___________ evolutionary changes. (Re-write the sentence with the blanks filled in based on the results under each alternative hypothesis)***
+
+***Q3: How would an analysis starting from "B" (red arrow) change your conclusions (based on an argument of parsimony) about the LCA at "A"?***
+
+***Q4: Finally, by performing an ancestral state reconstruction of the LCA at "C" (black arrow), you would conclude that _____________ behavior evolved independently _________ times among thrush. In other words, ________________ is a [derived / inherited] trait among thrush.***
+
+
+## Section 2: Advertisement behavior in crickets
+
+:::{image} /images/optimality-theory-cricket-singing-exam-example.png
+:width: 200
+:align: center
+:::
+
+**Figure 2:** *Optimality theory model of two alternative behavioral phenotypes of advertisement behavior in male crickets. There are two factors hypothesized to exert selective pressure on advertisement behavior in crickets. $m$ = mating success; $k$ = risk of predation.*
+
+***Q5: According to the optimality theory model (Figure 2), for the singing phenotype to be evolutionarily stable over the silent phenotype, the increase in mating success from singing must be [bigger / smaller] than the increase in _________________ due to singing.***
+
+***Q6: The risk of predation ($k$) could depend on:
+		1. the fitness ($F$) of the singing phenotype
+		2. the number of predators in the environment
+		3. whether singing increased or decreased mating sucess
+(Select one answer. Provide an explanation why the answers that you did not choose were incorrect)***
+
+:::{image} /images/optimality-theory-crickets-mock-data-exam-example.png
+:width: 400
+:align: center
+:::
+
+**Figure 3:** *Example data to answer question 7. Value of $m$ in each condition plotted with the symbol ```m```. Value of $k$ in each condition plotted with the symbol ```k```.* 
+
+***Q7: Which predicts singing as the optimal phenotype? (the data in A or the data in B)***
+
+:::{image} /images/game-theory-cricket-singing-exam-example.png
+:width: 300
+:align: center
+:::
+
+**Figure 4:** *Game theory model of two alternative behavioral phenotypes of advertisement behavior in male crickets. Singing male crickets advertise themselves to potential female mates by singing. Silent male crickets do not advertise themselves to female mates. However, silent male crickets are attracted to the song of singing male crickets and try to sneak mating with females that are also attracted to the songs. There are three factors hypothesized to exert selective pressure on advertisement behavior in crickets. $k$ = the risk/likelihood of predation; $b$ = boost to mating success gained by singing compared to being silent; $n$ = mating success without any singing advertisements.* **NOTE KP: EDIT -N to just N**
+
+***Q: ***
+
+***Q: ***
+
+
+
 
 Silent versus Satellite Crickets: [To mate or be eaten: tree cricket behaviour in the presence of a predator]https://www.britishecologicalsociety.org/to-mate-or-be-eaten-tree-cricket-behaviour-in-the-presence-of-a-predator/ and [Silent night: adaptive disappearance of a sexual signal in a parasitized population of field crickets](https://doi-org.ezproxy.wesleyan.edu/10.1098/rsbl.2006.0539) and [A simulation model of the effects of frequency dependence,
 density dependence and parasitoid flies on
