@@ -350,15 +350,25 @@ Here are a few as examples:
 
 <div class="pbs-viral-player-wrapper" style="position: relative; padding-top: calc(56.25% + 43px);"><iframe src="https://player.pbs.org/viralplayer/2365819768/" allowfullscreen allow="encrypted-media" style="position: absolute; top: 0; width: 100%; height: 100%; border: 0;"></iframe></div>
 
+The game theory model below summarizes the relative fitness of each mating behavior in the context of all others. These mating phenotypes have also been observed simultaneously in several other species of anmimals. $F$ is the baseline fitness. 
+
 |  | Dominant | Sneaky | Monogamous |
 | :--- | :---: | :---: | :---: |
 | **Dominant** | F | F - 1 | F + 1 |
 | **Sneaky** | F + 1 | F | F - 1 |
 | **Monogamous** | F - 1 | F + 1 | F |
 
-Let's investigate the following together:
-1. If the population was initialized with fewer dominant phenotypes and equal sneaky and monogamous, which phenotype would we expect to increase in frequency: sneaky or monogamous? 
-2. Then, once that phenotype dominated, which phenotype would have the highest net fitness?
+Simulating this game theory model gives the following result:
+
+:::{image} /images/game-theory-simulation-lizards.png
+:width: 600
+:::
+
+All three behavioral phenotype exists *simultaneously* at evolutionary equilibrium (after many generations of time). No one individual behaivor is ever evolutionarily stable (ie. we would never predict a population of only Dominant mating behavior). The three phenotype variants exist with a frequency of 33.333% (1/3).
+
+Let's think about the following together:
+1. If the population was initialized with fewer dominant phenotypes (ie. there are very few dominant individuals in the population) and equal sneaky and monogamous, which phenotype would we expect to increase in frequency: sneaky or monogamous? 
+2. Once that phenotype dominated, which phenotype would then have the highest net fitness?
 
 We can simulate \#1 and \#2 to test our predictions. This [Demo Simulation](http://pages.nbb.cornell.edu/Gamebug/gbg/gbg.html) (popup) is a good resource for gaining more intution for the interactions among phenotypes. 
 
