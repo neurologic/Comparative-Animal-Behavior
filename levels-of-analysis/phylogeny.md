@@ -242,7 +242,7 @@ Phylogeny of *Neoaves* (By clicking on the image you can zoom in).
 :::{figure} /images/phylogeny-vocal-learning-comparison-drawn.png
 :width: 900
 
-Character mapping of vocal learning behavior on the phylogeny of *Neoaves* from Brenowitz (1991)[^brenowitz-1991] in **A** and **B** and off of Suh et al (2011)[^suh-2011] in **C**. Blue: vocal learners, Yellow: vocal non-learners.
+Character mapping of vocal learning behavior on the phylogeny of *Neoaves* from Brenowitz (1991)[^brenowitz-1991] in **A** and **B** and off of Suh et al (2011)[^suh-2011] in **C**. Yellow: vocal learners, Blue: vocal non-learners.
 :::
 
 ***Q12: Use the phylogeny in Figure 13A to analyze (using parsimony) the two alternative ancestral state reconstruction hypotheses for the LCA of all song learners (arrow).***   

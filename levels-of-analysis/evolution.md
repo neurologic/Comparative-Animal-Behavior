@@ -282,7 +282,7 @@ The game theory model that you have been playing out can be summarized in genera
 
 |  | In a population of fighters | In a population of pacifists |
 | :--- | :---: | :---: |
-| **Average net fitness for a fighter** | ${v-c}/2$ | $v$ |
+| **Average net fitness for a fighter** | ${(v-c)}/2$ | $v$ |
 | **Average net fitness for a pacifist** | 0 | $v/2$ |
 
 After a fighter encounters another fighter, its fitness changes by $ F = v $ if it wins but $ F = -c $ if it loses. Since it wins 1/2 the time, the average fitness is $v/2 - c/2$.
@@ -311,14 +311,12 @@ Consider a new set of conditions. For example, what about an environment in whic
 
 ---
 
-Game theory models like the pacifist : fighter model you have been considering, are often represented in the following tabular format. It is worth getting familiar with this way of representing game theory models.
+Game theory models like the pacifist : fighter model you have been considering, are often represented in the following tabular format. It is worth getting familiar with this way of representing game theory models, because using the table aids in model analyis (makes the process of solving the model more *algorithmic*).
 
-:::{figure-md}
-:class: figure
+:::{figure} /images/game-theory-figher-pacifist.png
+:width: 600
 
-<img src="/images/game-theory-figher-pacifist.jpg" alt="fishy" class="bg-primary mb-1" width="300px">
-
-A tabular representation of the game theory model of conflict resolution behavior that includes *pacifist* and *fighter* phenotypes. Each box of the table is split by a diagonal line. The fitness of each phenotype in each player role (green or purple) is written to the left or right (respectively) of each diagonal line.
+A tabular representation of the game theory model of conflict resolution behavior that includes *pacifist* and *fighter* phenotypes. **A**) Each box of the table is split by a diagonal line. The fitness of each phenotype in each player role (green or purple) is written to the left or right (respectively) of each diagonal line. **B**) An equivalent representation of this model. Because this model is *symmetric* (there is only one type of individual/role that could exhibit each behavior), the payoffs can be represented once for individuals (left) in each phenotype context (top).
 :::
 
 #### Solving the model
@@ -326,14 +324,14 @@ A tabular representation of the game theory model of conflict resolution behavio
 Game theory models are solved a bit differently than Optimality Theory. The task is to determine ***under what conditions*** (values of the variables/factors) is each behavior(s) ***stable***. 
 
 For example, fighting is stable when the strategy *cannot be invaded by* the pacifist strategy. This is only true when pacifists have a lower average fitness than fighters when in a population of fighters (ie. a *mutant* pacifist). Mathematically, this statement would be written:
-Fighting is a stable strategy when ${v-c}/2 > 0$. Simplifying the equation gives the condition: $v > c$.
+Fighting is a stable strategy when ${(v-c)}/2 > 0$. Simplifying the equation gives the condition: $v > c$.
 
 ---
 > ⏳ 10
 
-***Q7: Are there conditions under which pacifist would be a stable behavior? To solve, set up the relevant inequalities and simplify. Then state in terms of a sentence.***
+***Q7: Are there conditions under which pacifist would be a stable behavior? To solve, set up the relevant inequalities and simplify to find the conditions under which pacifist would be stable. Then state in terms of a sentence.***
 
-***Q8: Are there conditions under which the evolutionarily stable state of a species would include both pacifists and fighters?***
+***Q8: Are there conditions under which the evolutionarily stable state of a species would include both pacifists and fighters? How many inequalities do you need to set up for this analysis? What are the conditions that need to be satisfied? Solve for the conditions under which a population at evolutionary equilibrium would comprise both pacifists and fighers simultaneously.***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -342,13 +340,13 @@ Fighting is a stable strategy when ${v-c}/2 > 0$. Simplifying the equation gives
 
 #### Understanding MIXED behavioral phenotypes
 
-It is possible that there are conditions under which neither behavioral phenotypes are evolutionarily stable, but a population consisting of both co-existing phenotypes is. For example, we know of behavioral phenotypes that have higher fitness than the alternative only when that alternative exists.
+It is possible that there are conditions under which neither behavioral phenotypes alone are evolutionarily stable, but a population consisting of both co-existing phenotypes is. For example, we know of behavioral phenotypes that have higher fitness than the alternative only when that alternative exists.
 
 Here are a few as examples:
-- *sitter* versus *rover* foraging behavior (https://doi.org/10.1038/nature05764)
+- *sitter* versus *rover* foraging behavior ([fruit flies](https://doi.org/10.1038/nature05764))
 - *singing* versus *silent* mate attraction behavior ([crickets](https://doi-org.ezproxy.wesleyan.edu/10.1098/rsbl.2006.0539)) 
 - *fighter* versus *pacifist* resource conflict resolution (when the cost of losing a fight is high)
-- *sneaky* versus *dominant* versus *monogamous* mating behavior (side-blotched lizards)
+- *sneaky* versus *dominant* versus *monogamous* mating behavior (side-blotched lizards... see video and game theory model below)
 
 <div class="pbs-viral-player-wrapper" style="position: relative; padding-top: calc(56.25% + 43px);"><iframe src="https://player.pbs.org/viralplayer/2365819768/" allowfullscreen allow="encrypted-media" style="position: absolute; top: 0; width: 100%; height: 100%; border: 0;"></iframe></div>
 
@@ -357,6 +355,12 @@ Here are a few as examples:
 | **Dominant** | F | F - 1 | F + 1 |
 | **Sneaky** | F + 1 | F | F - 1 |
 | **Monogamous** | F - 1 | F + 1 | F |
+
+Let's investigate the following together:
+1. If the population was initialized with fewer dominant phenotypes and equal sneaky and monogamous, which phenotype would we expect to increase in frequency: sneaky or monogamous? 
+2. Then, once that phenotype dominated, which phenotype would have the highest net fitness?
+
+We can simulate \#1 and \#2 to test our predictions. This [Demo Simulation](http://pages.nbb.cornell.edu/Gamebug/gbg/gbg.html) (popup) is a good resource for gaining more intution for the interactions among phenotypes. 
 
 ⏹️ STOP here for today
 
