@@ -19,7 +19,17 @@
 ***Q4: Finally, by performing an ancestral state reconstruction of the LCA at "C" (black arrow), you would conclude that _____________ behavior evolved independently _________ times among thrush. In other words, ________________ is a [derived / inherited] trait among thrush.***
 
 
-## Section 2: Advertisement behavior in crickets
+## Section 2: Mate-finding behavior in crickets
+
+In crickets, there are two major phenotype variants for mate-finding behavior: ***singing*** and ***silent***. 
+
+***Silent*** crickets travel around to search silently for potential mates.
+
+***Singing*** crickets have specialized wing anatomy (with a *file* and a *scraper* that they use to produce a species-specific [song](https://youtu.be/GP5NpXcYc8A). This song attracts females to them (rather than them needing to go searching for females). 
+
+The songs of singing male crickets are very attractive to females. They are able to attract more females than they would otherwise be able to find by silent searching. However, predators of crickets can also hear the song. Singing crickets attract predators and singing therefore increases their predation risk compared to if they were silent. 
+
+We can use either optimality theory or game theory to examine the evolutionary explanations for these mate-finding phenotype variants. First, you will investigate an optimality theory model (Figure 2), then you will investigate a game theory model (Figure 4), and finally you will compare the two. 
 
 :::{image} /images/optimality-theory-cricket-singing-exam-example.png
 :width: 200
@@ -30,11 +40,14 @@
 
 ***Q5: According to the optimality theory model (Figure 2), for the singing phenotype to be evolutionarily stable over the silent phenotype, the increase in mating success from singing must be [bigger / smaller] than the increase in _________________ due to singing.***
 
-***Q6: The risk of predation ($k$) could depend on:
-		1. the fitness ($F$) of the singing phenotype
-		2. the number of predators in the environment
-		3. whether singing increased or decreased mating sucess
-(Select one answer. Provide an explanation why the answers that you did not choose were incorrect)***
+***Q6: According to the optimality theory model (Figure 2), the average fitness of the singing phenotype could depend on:  
+		1. whether conspecifics sang or were silent  
+		2. the number of predators in the environment  
+		3. whether $m > k$ or $m < k$ for the silent phenotype  
+(Select the one correct choice. Then provide an explanation why the two answers that you did not choose were incorrect)***
+
+
+***Q7: Examine the data in Figure 3. Under which condition (A or B) would you predict singing will be the optimal phenotype (versus silent)?***
 
 :::{image} /images/optimality-theory-crickets-mock-data-exam-example.png
 :width: 400
@@ -43,7 +56,6 @@
 
 **Figure 3:** *Example data to answer question 7. Value of $m$ in each condition plotted with the symbol ```m```. Value of $k$ in each condition plotted with the symbol ```k```.* 
 
-***Q7: Which predicts singing as the optimal phenotype? (the data in A or the data in B)***
 
 :::{image} /images/game-theory-cricket-singing-exam-example.png
 :width: 300
