@@ -379,7 +379,7 @@ We can simulate \#1 and \#2 to test our predictions. This [Demo Simulation](http
 ## Additional Resources
 
 - [This video](https://youtu.be/YNMkADpvO4w) is a simulation on the evolution of conflict resolution behaviors that provides a nice perspective on the logic of game theory models in understanding behavior. Think about, what is the paradox here? 
-- Silent versus Satellite Crickets: [To mate or be eaten: tree cricket behaviour in the presence of a predator]https://www.britishecologicalsociety.org/to-mate-or-be-eaten-tree-cricket-behaviour-in-the-presence-of-a-predator/ and [Silent night: adaptive disappearance of a sexual signal in a parasitized population of field crickets](https://doi-org.ezproxy.wesleyan.edu/10.1098/rsbl.2006.0539) and [A simulation model of the effects of frequency dependence,
+- Silent versus Satellite Crickets: [To mate or be eaten: tree cricket behaviour in the presence of a predator](https://www.britishecologicalsociety.org/to-mate-or-be-eaten-tree-cricket-behaviour-in-the-presence-of-a-predator/) and [Silent night: adaptive disappearance of a sexual signal in a parasitized population of field crickets](https://doi-org.ezproxy.wesleyan.edu/10.1098/rsbl.2006.0539) and [A simulation model of the effects of frequency dependence,
 density dependence and parasitoid flies on
 the fitness of male field crickets](https://doi.org/10.1016/j.ecolmodel.2003.07.001)
 - [Optimality Theory section from Rubenstein and Alcock text](https://drive.google.com/file/d/11ixpv0rAw6nJ9arHLuvGWjU15dcFxF7B/view?usp=sharing)
