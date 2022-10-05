@@ -73,9 +73,9 @@ Consider the following table of relative ion permeability (*conductance*, $g$) a
 <a id="table2"></a>
 | $g_{Na+}$ | $g_{K+}$ | $g_{Cl-}$| membrane potential (mV) |
 | :---: | :---: | :---: | :---: |
-| 0.2 | 0.8 | 0 | 0.2\*(61) + 0.8\*(-97) = **-65.4** |
+| 0.2 | 0.8 | 0 | 0.2\*(+61) + 0.8\*(-97) = **-65.4** |
 | 0 | 0 | 1 | 1\*(-64) = **-64** |
-| 0.8 | 0.2 | 0 | 48.4 19.4 = **+29** |
+| 0.8 | 0.2 | 0 | 0.8\*(+61) + 0.2\*(-97) = **+29** |
 
 
 ***Q1: If the membrane is only permeable to K+ ions, what would be the voltage across the cell's membrane?***
