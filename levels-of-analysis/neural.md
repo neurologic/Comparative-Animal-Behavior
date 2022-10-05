@@ -19,7 +19,7 @@ Introductory discussion based on Podcast.
 
 ### Cell types: neurons
 
-:::{figure} /images/neuron-anatomy.png
+:::{figure} /images/Neuron-Anatomy.png
 :width: 800
 
 Basic neuron anatomy. Neuron morphology is diverse (left), but follows a basic template of 'parts': axon, dendrite, cell body (right). Importantly, like other cells, neurons are enclosed by a barrier that controls permeability and movement of solutes across it.
