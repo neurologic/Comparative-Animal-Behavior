@@ -1,5 +1,18 @@
 # Phylogeny and Evolution
 
+:::{admonition} Deadline
+Due by midnight on Monday October 10.
+:::
+
+:::{admonition} Honor Code
+This exam is open note/book/web, but must be done independently. Do not consult any other people (regardless of whether they are in or out of this course) in answering the questions. Handing in responses to assignment for grading serves as your signature of the honor code.
+:::
+
+Answer all questions either electronically or by hand. Label each of your answers with the corresponding question number (Q1 - Q12). Scan or convert your document to a good quality PDF. Upload to gradescope by the deadline. 
+
+Please don't hesitate to ask for clarifation on the wording of questions and/or expectations.
+
+
 ## Section 1: Migratory Behavior
 *(This section could take you \~25 minutes total)*
 
