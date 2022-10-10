@@ -110,7 +110,7 @@ Find the mathematical conditions (simplified inequalitie(s)) when a population c
 A population comprised of all singers would be evolutionarily stable when:  
 		a) the risk of predation due to singing is less than the increase in mating success due to singing.   
 		b) the risk of predation due to singing is greater than the increase in mating success due to singing.  
-		c) $b$ is actually a negative numbner.  
+		c) $b$ is actually a negative number.  
 		d) the risk of predation due to singing is less than both the increase in mating success due to singing and the decrease in mating success due to the absence of singers in the population.***
 
 ***Q11 (3 point; \~ 5 minutes): (Refer to Figure 4 and show your work) Under what mathematical conditions would you predict a population comprising both singing and silent crickets simultaneously (ie. a mixed phenotype population)?***

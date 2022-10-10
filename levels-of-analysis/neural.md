@@ -1,6 +1,6 @@
 # Neural Mechanisms
 
-[Day 1](neural_day1)
+[Day 1](neural_day1)  
 [Day 2](neural_day2)
 <!-- <hr>
 
@@ -229,7 +229,7 @@ A) Motor neurons synapse onto muscles. B) Motor neurons vary their rate (frequen
 
 Sensors are special types of neurons that change their membrane potential in response to changes in physical energy in the environment. Physical energy can take the form of light, pressure, movement, etc. 
 
-Let's consider a sensor that hyperpolarizes in response to an increase in light (example mechanism in the margin figure) and depolarizes in response to an increase in light. The hyperpolarization decreases its synaptic release of molecules (*neurotransmitters*). This sensor provides inhibitory synaptic input to a "post-synaptic" neuron. 
+Let's consider a sensor that hyperpolarizes in response to an increase in light (example mechanism in the margin figure) and depolarizes in response to an decrease in light. The hyperpolarization decreases its synaptic release of molecules (*neurotransmitters*). Let's say this sensor neuron (SN) provides inhibitory synaptic input to a "post-synaptic" (PN) neuron (Figure 27A). 
 
 :::{figure} /images/sensor-circuit.png
 :width: 600
@@ -237,9 +237,15 @@ Let's consider a sensor that hyperpolarizes in response to an increase in light 
 **A)** A sensor neuron (SN) that hyperpolarizes in response to light synapses onto a post-synaptic neuron (PN). The synapse is inhibitory for the PN. **B)** Synaptic release from the sensor is proportional to its membrane potential. **C)** Example changes in membrane potential for the SN and PN in response to a change in the light stimulus over time. 
 :::
 
+---
+> ⏳ 3 min 
+
 ***Q1: What happens to the membrane potential of the post-synaptic neuron when there is a flash of light onto the sensor?***
 
 
+⏸️ PAUSE here for class-wide discussion
+
+---
 ### Circuits
 
 When groups of neurons connect with each other via inhibitory or excitatory synapses to form circuits, complex outputs can emerge. 
@@ -251,14 +257,14 @@ When groups of neurons connect with each other via inhibitory or excitatory syna
 
 A) Two excitatory synapses in a row. If the first neuron depolarized and spiked, the second neuron would then depolarize soon after and may spike as well. If the first neuron hyperpolarized, it would not spike and the second neuron would just stay at its *resting* membrane potential (no change in its output).   
 B) An excitatory synapse followed by an inhibitory synapse. If the first neuron depolarized and spiked, the second neuron would then hyperpolarize soon after.     
-C) Convergence and divergence in heterogeneous neural circuits. 
+C) Examples of ***convergence*** and ***divergence*** in heterogeneous neural circuits. 
 :::
 
 
 ---
 > ⏳ 5 min 
 
-***Q2: Draw a neural circuit composed of an auditory sensor neuron, a motor neuron and a muscle. The sensor neuron is depolarized by sudden increases in the amplitude of sound. The circuit should contract the muscle when the sound amplitude in the environment suddenly increases.***
+***Q2: Draw a neural circuit composed of an auditory sensor neuron, a motor neuron and a muscle. The sensor neuron is depolarized by sudden increases in the amplitude of sound (and the depolarization increases its spiking output). The circuit should contract the muscle when the sound amplitude in the environment suddenly increases.***
 
 ***Q3: Draw a neural circuit composed of the same three neurons as in Q2. The circuit should contract the muscle when the sound amplitude in the environment suddenly decreases. Hint: you can make any neuron have a "resting" membrane potential above spike threshold (so that it is spiking in the absense of synaptic input).***
 
@@ -281,7 +287,7 @@ Neuroscience seeks to understand how neural circuits orchestrate behavior. In ge
 :width: 600
 
 Acoustic behavior of *Gryllus campestris*[^hedwig-2006].  A male sings in front of its burrow by rubbing the elevated front wings together. The calling song consists of single sound pulses (syllables) grouped
-into chirps. Attracted by the calling song a female performs phonotaxis and walks towards the singing male using acoustic cues for orientation. 
+into chirps. Females attracted by the calling song perform phonotaxis and walks towards the singing male using acoustic cues for orientation. 
 :::
 
 [^hedwig-2006]: Figure from [Hediwg (2006) Pulses, patterns and paths: neurobiology of acoustic behaviour in crickets. J Comp Physiol A](https://doi.org/10.1007/s00359-006-0115-8). Modified after Roesel von Rosenhof (1749).
@@ -290,28 +296,36 @@ into chirps. Attracted by the calling song a female performs phonotaxis and walk
 
 #### Command versus Pattern
 
-Stereotyped motor patterns (for example, FAPs) are orchestrated by neural circuits that pattern the contraction among sets of muscles. These circuits need to be activated by a ***command*** signal. But, remarkably, the command signal itself (the spiking output of a neuron) does not need to be patterned. 
+:::{index} command neuron
+:::
+
+Stereotyped motor patterns (for example, FAPs) are orchestrated by neural circuits that pattern the contraction among sets of muscles. These circuits are activated by a ***command*** signal (after a decision has been made to do the action). But, remarkably, the command signal itself (the spiking output of a command neuron) does not need to be patterned. We can demonstrate this by using experimental techniques that alter the spiking activity of specific neurons. 
 
 :::{figure} /images/cricket-singing-command-neuron.png
-:width: 700
+:width: 900
 
 Command neuron controlling calling song[^hedwig-2006]. Neuron: A recording of the command neuron's membrane potential across time in the brain of Gryllus bimaculatus. Increasing the neurons spike activity (AP/s) elicits the generation of calling song (Sound): the cricket lifts its wings and starts to sing (Forewing).
 :::
 
-The **command neuron** causes the cricket to sing, but its activity is unpatterned. What causes the patterning of the movement required to produce the patterned song?
+The **command neuron** ("Neuron" in Figure 30) causes the cricket to sing, but its activity is unpatterned. What causes the patterning of the movement required to produce the patterned song?
 
 :::{glossary} 
 central pattern generator (CPG)
-  A neural circuit that can produce patterned output in the absence of patterned input. In other words, it is a circuit that is self-sufficient at producing a stereotyped pattern of spikes that regularly changes over time.
+  A neural circuit that can produce patterned output in the absence of patterned input. In other words, it is a circuit that (once activated) is self-sufficient at producing a stereotyped pattern of spikes that regularly changes over time.
 :::
 
 :::{figure} /images/cricket-cpg-diagram.png
 :width: 800
 
-**A)** The anatomy of a chirp. The cricket's wings have a file and a scraper. When the cricket closes both of its wings together, the scraper rubs the file and vibrates the wings, producing sound. **B)** The pattern of activity among wing opener and closer muscles, wing movement (open and closed), and sound. **C)** A central pattern generator for wing movement that is comprised of motor neurons (MN) that synapse on wing opener and closer muscles and interneurons (IN). The INs provide excitatory input to MNs. MNs provide excitator input to muscles (thus contracting them). INs are also provide synaptic input to each other. 
+**A)** The anatomy of a chirp. The cricket's wings have a file and a scraper. When the cricket closes both of its wings together, the scraper rubs the file and vibrates the wings, producing sound. **B)** The pattern of activity among wing opener and closer muscles, wing position (open and closed), and sound. **C)** A central pattern generator for wing movement that is comprised of motor neurons (MN) that synapse on wing opener and closer muscles and interneurons (IN). The INs provide excitatory input to MNs. MNs provide excitator input to muscles (thus contracting them). INs are also provide synaptic input to each other. 
 ::: 
 
-***Q4: The synaptic input from each IN to the other was left undefined in C. Do these need to be excitatory or inhibitory synapses? Why?***
+---
+> ⏳ 5-10 min 
+
+***Q4: The synaptic input from each IN to the other was left undefined in Figure 31C. Do these need to be excitatory or inhibitory synapses? Why?***
+
+Usually, ***multiple CPGs need to be coordinated with each other*** to generate even simple behavioral actions. 
 
 ::::{margin} 
 :::{image} /images/cricket-hemisection.png
@@ -321,25 +335,29 @@ central pattern generator (CPG)
 :::{figure} /images/cricket-cpg-bilateral-coordination.png
 :width: 400
 
-The entire CPG circuit in Figure 31 can be represented by a circle with a tilde symbol. Often, multiple CPGs need to be coordinated with each other. There is a wing CPG on each side of the animal's body. A command neuron can excite the CPG circuits with unpatterned input. 
+Entire CPG circuits (like the one in Figure 31) are often represented by a circle with a tilde symbol. In this example, there is a wing CPG on each side of the cricket's body that controls the open/close movement of each wing. When the command neuron is *activated*, it excites both CPG circuits with unpatterned input. 
 :::
 
-***Q5: The CPGs for wing movement on each side of the cricket's body need to be coordinated with each other. What synaptic connection is needed from each CPG to the other?***
+***Q5: The CPGs for wing movement on each side of the cricket's body need to be coorectly coordinated with each other to generate song (they need to close together at the same time). To achieve this action, what synaptic connection is needed from each CPG to the other?***
+
+⏸️ PAUSE here for class-wide discussion
+
+---
 
 :::{index} sensory filter
 :::
 
 #### Sensory Filtering
 
-Not all sensory stimuli are the same. Stimuli have lots of different ***features***. In the case of cricket song, we will consider two features: the *syllable period* (SP) and the loudness (amplitude). Both of these features can vary across a wide range. 
+Not all sensory stimuli are the same. Stimuli have lots of different ***features***. In the case of cricket song, we will consider two features: the *syllable period* (SP) and the loudness (amplitude). Both of these features can vary across a wide range. Different species generate song with distinct **SP**. For example, different individuals may sing with different amplitude. Amplitude can also vary with environmental features such as distance from the source. 
 
-***Sensory filtering*** results from the stimulus specificity of sensors. Sensors only respond to specific types of physical energy in the world (light, sound, odor) - we refer to these as *modalities*. Then within each modality, different sensors respond best to specific features of a stimulus (frequency of sound, wavelength of light). Each stimulus feature can vary along a continuum, and sensors are even specific to a range of feature values (500 nanometer light, 200 Hz sound). 
+***Sensory filtering*** results from the stimulus *specificity* of sensors. Sensors only respond to specific types of physical energy in the world (light, sound, odor) - we refer to these as *modalities*. Then within each modality, different sensors respond best to specific features of a stimulus (frequency of sound, wavelength of light). Stimulus feature themselves can then vary along a continuum. Sensors are even specific to a range of feature values (500 nanometer light, 200 Hz sound) within a given stimulus modality or category. 
 
-Withouth sensory filtering, there would be no specificity in behavioral responses to stimuli.   
+***Without sensory filtering, there would be no specificity in behavioral responses to stimuli.***   
 
-Female crickets move toward male cricket song. We call this *phonotaxis* and it is an FAP. It would not be adaptive for female crickets to phonotax in response to all sound, so there are sensory filters in their nervous system that are more *sensitive to* the song of a male cricket than to anything else. Different species of crickets have songs with different *syllable period*. The sensory filters are most *sensitive to* conspecific song. 
+For example, female crickets move toward male cricket song when they hear it. We call this ***phonotaxis*** and it is an FAP. It would be maladaptive for female crickets to phonotax in response to all sound. Therefore, there are sensory filters in the female cricket nervous system that are more *sensitive to* the song of a male cricket than to anything else. In addition, these sensory filters are most *sensitive to* the species-specific SP of conspecific male song.  
 
-So what does *sensitive to* mean?  
+So what does ***sensitive to*** mean? We will examine this in the next set of figures and questions.
 
 :::{figure} /images/crickets-phonotaxis-sensory-filter.png
 :width: 800
@@ -347,15 +365,24 @@ So what does *sensitive to* mean?
 Sensory filtering for species-specific song[^hedwig-2006]. **A**) Trackball system for analysing cricket phonotaxis. [See also this video of the behavior](https://youtu.be/oVL82zuPbLU) **B**) Sound patterns to test sensory tuning for conspecific song. **C**) Tuning curve of phonotaxis demonstrates the strongest response to SP34–SP42, which corresponds to the natural range of SP. Phonotaxis declined at shorter or longer syllable periods.
 :::
 
-So, at a basic level, what is a neural mechaism of phonotaxis? Sensory stimuli are transformed into changes in neuron membrane potential by sensors. Sensors then synapse onto *decision* centers in the brain, which trigger specific FAPs. If a certain threshold is reached by a sensory filter, then the FAP will be triggered.  
+At a basic level, let's think about a ***neural mechanism for FAPs***: 
+1. Sensory stimuli are transformed into changes in neuron membrane potential by sensors. 
+2. Sensors then synapse onto *decision* centers in the brain, which trigger specific FAPs. 
+3. If a certain threshold is reached by a sensory filter, then the FAP will be triggered (carried out by coordinated CPGs).
+
 The flow of information is: sensory stimuli --> sensory filter --> decision --> FAP. 
 
+Therefore, we can infer a lot about sensory filters in the nervous system by examining behavioral responses. Additionally, we can observe how the stimulus threshold for behavior is related to the stimulus threshold for spiking in neurons.  
+
 :::{figure} /images/cricket-sensory-filtering.png
-:width: 600
+:width: 700
 :align: center
 
-Both the amplitude and the SP of song effect the membrane potential of a sensory filter. 
+**A)** The song amplitude needed to evoke phonotaxis behavior (the inverse of the Figure 33C). **B&C)** Both the amplitude and the SP of song effect the membrane potential of a sensory filter. Above a certain membrane potential, the sensory filter neuron(s) will spike and activate post-synaptic (*downstream*) decision-making neurons. 
 :::
+
+---
+> ⏳ 5 min 
 
 ***Q6: The song amplitude needed to evoke an FAP is most closely related to the:  
 a. sensory threshold in Lorenz's model  
@@ -371,19 +398,27 @@ c. the action specific potential in Lorenz's model***
 The membrane potential response (y-axis) to stimuli of different amplitudes (x-axis) and SP values (color). If the sensory filter spike threshold is reached, an FAP is produced in response. 
 :::
 
+⏸️ PAUSE here for class-wide discussion
+
+---
 
 ### Case Study: Aggression in Mice
 
-Aggression is a social behavior essential for securing resources and defending oneself and family. Many animals have aggressive FAPs. Across animals, we find that the release of FAPs depends, not just on the presence of external *sign stimuli*, but on the internal state of the animal. 
+Aggression is a social behavior essential for securing resources and defending oneself and family. Many animals have aggressive FAPs. Across animals, we find that the release of FAPs depends, not just on the presence of external *sign stimuli* (detected using ***sensory filters***), but on the internal state of the animal. 
+
+
 
 :::{image} /images/aggression-summary-factors.png
 :width: 800
 :::
 
-"Regions of the brain in the core aggression circuit are more specialized for aggression: activating any of those regions evokes attack, often in a time-locked manner, while inactivating any of those regions impairs or even abolishes natural aggression. The fact that aggression can be triggered as well as blocked from each of those regions supports the idea that these regions form one integrated circuit. 
+:::{epigraph}
+Regions of the brain in the core aggression circuit are more specialized for aggression: activating any of those regions evokes attack, often in a time-locked manner, while inactivating any of those regions impairs or even abolishes natural aggression. The fact that aggression can be triggered as well as blocked from each of those regions supports the idea that these regions form one integrated circuit. 
 
-The ventrolateral nucleus of the ventromedial hypothalamus (VMHvl) is perhaps the best studied region for aggression in recent years, with the vast majority of the studies done in mice. Electrical stimulation or pharmacological manipulation in the VMHvl can elicit aggression in cats, chickens, opossums and monkeys. In male and female mice, optogenetic activation of VMHvl cells, especially those expressing estrogen receptor alpha (Esr1), elicited time-locked attack toward both natural (other mice) and suboptimal targets (gloves filled with water or air; or socially inappropriate attacks at conspecifics). Upon male-intruder introduction, VMHvl cells show an elevation in baseline activity, which is sustained throughout the duration of the intruder’s presence and minutes after removal of the intruder. During male–male investigation and attack, VMHvl activity increases further, and then returns to the elevated baseline at the offset of the behavioral episode. Thus, the VMHvl cells appear to carry information regarding aggressive arousal state, aggression-provoking sensory cues and the motor execution of
-attacks."[^dayu-review]
+The ventrolateral nucleus of the ventromedial hypothalamus (VMHvl) is perhaps the best studied region for aggression in recent years, with the vast majority of the studies done in mice. Electrical stimulation or pharmacological manipulation in the VMHvl can elicit aggression in cats, chickens, opossums and monkeys. In male and female mice, optogenetic activation of VMHvl cells, especially those expressing estrogen receptor alpha (Esr1), elicited time-locked attack toward both natural (other mice) and suboptimal targets (gloves filled with water or air; or socially inappropriate attacks at conspecifics). Upon male-intruder introduction, VMHvl cells show an elevation in baseline activity, which is sustained throughout the duration of the intruder’s presence and minutes after removal of the intruder. During male–male investigation and attack, VMHvl activity increases further, and then returns to the elevated baseline at the offset of the behavioral episode. Thus, the VMHvl cells appear to carry information regarding aggressive arousal state, aggression-provoking sensory cues and the motor execution of attacks.
+
+-- Julieta Lischinsky and Dayu Lin (2020)[^dayu-review]
+:::
 
 [^dayu-review]: [Lischinsky, J.E., Lin, D. Neural mechanisms of aggression across species. Nat Neurosci 23, 1317–1328 (2020).](https://doi.org/10.1038/s41593-020-00715-2)
 
@@ -398,6 +433,11 @@ Neuroanatomical pathways for aggression in mice. Yellow indicates regions for pr
 
 Serotonin receptor mechanism of action on neuron membrane conductance
 :::
+
+---
+> ⏳ 15 min 
+
+Examine the model in Figure 38 and use what you know about neural mechanisms to answer the following questions. 
 
 :::{figure} /images/aggression-circuit-mice-ala-Lorenz.png
 :width: 700
@@ -416,6 +456,11 @@ a. sensory neurons in the olfactory bulb
 b. VMHvl neurons  
 c. neurons in the motor output circuits  
 Why did you select the choice you made versus the other options?***
+
+
+⏹️ STOP here for today
+
+---
 
 ## Additional Resources
 - [BI 054 Kanaka Rajan: How Do We Switch Behaviors?](https://braininspired.co/podcast/54/)
