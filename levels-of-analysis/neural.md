@@ -1,7 +1,7 @@
 # Neural Mechanisms
 
-[Day 1](neural_day1)  
-[Day 2](neural_day2)
+[Day 1](neural_day1) [Responses template](https://docs.google.com/document/d/1txaHaVDibTuiB4_2mr1WneP8xJVigVH68vWp49NoDBk/edit?usp=sharing)
+[Day 2](neural_day2) [Responses template](https://docs.google.com/document/d/1SBlEPubuV9EBKuyrnPJBuZ9B38r5cX3utFBfz3C1DN8/edit?usp=sharing)
 <!-- <hr>
 
 > {sub-ref}`wordcount-words` words | {sub-ref}`wordcount-minutes` min read
@@ -104,7 +104,7 @@ Consider the following table of relative ion permeability ("*conductance*", $g$)
 Membrane permeability is controlled by special proteins in the membrane called *ion channels*. Different ion channels are specific for the permeability of different ions. Also, different ion channels have different criteria for being "open" (ie. increasing the conductance for their ion).  
 - Some ion channels always let their ion through. 
 - Some ion channels are *gated by* voltage and only let their ion through when the membrane potential is above or below certain voltage levels. 
-- Some ion channels are *gated by* the binding of molecules to their surface. 
+- Some ion channels are *gated by* the binding of molecules or proteins to their surface. 
 
 :::{figure} /images/ion-channel-cartoon-general.jpeg
 :width: 600
@@ -135,7 +135,7 @@ B) Red: depolarizing. Blue: hyperpolarizing.
 
 ---
 
-A neuron is **activated** when it is depolarized above it's spike threshold (and therefore generates a spike). Spikes are a special type of "non-linear" voltage event. They are special because they cause "*synaptic events*" (see next section). 
+A neuron is **activated** when it is depolarized above it's spike threshold (and therefore generates a spike). Spikes are a special type of "non-linear" voltage event. They are special because they cause "*synaptic events*" (see next section). As a general heuristic, keep in mind that more membrane depolarization leads to more spikes.
 
 :::{figure} /images/voltage-spike-plot.png
 :width: 300
@@ -190,7 +190,7 @@ For a neurotransmitter to change ion permeability of a neuron, the neuron must h
 :::{figure} /images/synaptic-potential.png
 :width: 700
 
-Example synaptic connectivity and the result on post-synaptic membrane potential. A) Excitatory synaptic connection. Ai) Depolarization above a specific value causes a brief voltage *spike* event. B) Inhibitory synaptic connection.  
+Example synaptic connectivity (left; ball and stick diagrams) and the result on post-synaptic membrane potential (right; gray) for: A) Excitatory synaptic connection and B) Inhibitory synaptic connection. Ai) Depolarization above a specific value (green; spike threshold) causes a brief voltage *spike* event. Orange bar denotes time during which the pre-synaptic neuron is spiking (ie. the synapse is activated). 
 ::: 
 
 Consider the K+, Na+, and Cl- equilibrium potentials established in [table 1 and 2](#table1) (shown in the margin to the right). 
@@ -198,7 +198,7 @@ Consider the K+, Na+, and Cl- equilibrium potentials established in [table 1 and
 
 ***Q5: Let neuron \#2 have a "resting" K+ to Na+ conductance ratio of 0.8 to 0.2, and no Cl- conductance. What would be the "resting" membrane potential of neuron #2?***
 
-***Q6: To produce the result shown in A, would you predict that neuron \#2 had neurotransmitter receptors that were permeable to K+, Na+, or Cl-? Why?***
+***Q6: To produce the result shown in Ai and Aii (excitatory post-synaptic potential in response to pre-synaptic spikes), would you predict that neuron \#2 had neurotransmitter receptors that were permeable to K+, Na+, or Cl-? Why?***
 
 ***Q7: To produce the result shown in B, would you predict that neuron \#2 had neurotransmitter receptors that were permeable to K+, Na+, or Cl-? Why?***
 
@@ -212,7 +212,16 @@ Consider the K+, Na+, and Cl- equilibrium potentials established in [table 1 and
 (neural_day2)=
 ### Muscles
 
-Muscles contract (shorten) when their membrane becomes depolarized. When muscles attach across two sides of a joint, the joint angle reduces when the muscle shortens. This is the foundation of all movement, and therefore of behavior. 
+::::{margin} The role of Calcium in muscle contraction
+:::{image} /images/role-of-actin-and-mysion.jpeg
+:::
+::::
+
+Muscles contract (shorten) when their membrane becomes depolarized. When muscles attach across two sides of a joint, the joint angle reduces when the muscle shortens. This is the foundation of all movement, and therefore of behavior. Examine the relationship between motor neuron spike rate, muscle membrane potential, and muscle length to understand the neural mechanism of muscle activity.[^muscle-mechanism-detail] 
+
+[^muscle-mechanism-detail]: More detail on the mechanism of muscle activity for those interested in digging down another level of explanation. Motor neurons release acetylcholine from their axon terminals when their membrane potential goes above spike threshold. The post-synaptic receptors on muscle cells become permeable to sodium (Na+) when they bind acetylcholine. This leads to a cascade of depolarization that eventually triggers voltage-gated Calcium ion channels in the muscle cell. The increase in intracellular Calcium then enables [a conformational change in the muscle fibers that shortens (contracts) the muscle](https://gfycat.com/cheeryelderlycommongonolek) (example mechanism in the margin image).
+    :::{image} /images/muscle-activation.gif
+    :::  
 
 :::{figure} /images/motor-output.png
 :width: 700
@@ -227,9 +236,9 @@ A) Motor neurons synapse onto muscles. B) Motor neurons vary their rate (frequen
 :::
 ::::
 
-Sensors are special types of neurons that change their membrane potential in response to changes in physical energy in the environment. Physical energy can take the form of light, pressure, movement, etc. 
+Sensors are special types of neurons that change their membrane potential in response to changes in physical energy in the environment. In other words, they transform physical stimulus energy into electrical energy. Physical energy can take the form of light, pressure, odor, etc. 
 
-Let's consider a sensor that hyperpolarizes in response to an increase in light (example mechanism in the margin figure) and depolarizes in response to an decrease in light. The hyperpolarization decreases its synaptic release of molecules (*neurotransmitters*). Let's say this sensor neuron (SN) provides inhibitory synaptic input to a "post-synaptic" (PN) neuron (Figure 27A). 
+Let's consider a sensor that hyperpolarizes in response to an increase in light (example mechanism in the margin image) and depolarizes in response to an decrease in light. The hyperpolarization decreases its synaptic release of molecules (*neurotransmitters*). Let's say this sensor neuron (SN) provides inhibitory synaptic input to a "post-synaptic" (PN) neuron (Figure 27A). 
 
 :::{figure} /images/sensor-circuit.png
 :width: 600
@@ -240,7 +249,7 @@ Let's consider a sensor that hyperpolarizes in response to an increase in light 
 ---
 > ⏳ 3 min 
 
-***Q1: What happens to the membrane potential of the post-synaptic neuron when there is a flash of light onto the sensor?***
+***Q1: What happens to the membrane potential of the post-synaptic neuron (PN, Figure 27C) when more light shines on the sensor (ie. the sensory stimulus goes from dark to light)?***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -248,7 +257,7 @@ Let's consider a sensor that hyperpolarizes in response to an increase in light 
 ---
 ### Circuits
 
-When groups of neurons connect with each other via inhibitory or excitatory synapses to form circuits, complex outputs can emerge. 
+When groups of neurons connect with each other via inhibitory or excitatory synapses to form circuits, complex outputs can emerge. Later today, we will examine a specific example of this phenomenon: Central Pattern Generator (CPG) circuits.
 
 :::{figure-md} neural-circuits
 :class: figure
@@ -264,9 +273,9 @@ C) Examples of ***convergence*** and ***divergence*** in heterogeneous neural ci
 ---
 > ⏳ 5 min 
 
-***Q2: Draw a neural circuit composed of an auditory sensor neuron, a motor neuron and a muscle. The sensor neuron is depolarized by sudden increases in the amplitude of sound (and the depolarization increases its spiking output). The circuit should contract the muscle when the sound amplitude in the environment suddenly increases.***
+***Q2: Draw a neural circuit composed of an auditory sensor neuron, a motor neuron and a muscle. The circuit needs to contract the muscle when the sound amplitude in the environment suddenly increases. In your ciruit, use a sensor neuron that is depolarized by sudden increases in the amplitude of sound (and, remember, depolarization increases its spiking output).***
 
-***Q3: Draw a neural circuit composed of the same three neurons as in Q2. The circuit should contract the muscle when the sound amplitude in the environment suddenly decreases. Hint: you can make any neuron have a "resting" membrane potential above spike threshold (so that it is spiking in the absense of synaptic input).***
+***Q3: Draw a neural circuit composed of the same three neurons as in Q2. The circuit needs to contract the muscle when the sound amplitude in the environment suddenly decreases. Hint: you can make any neuron have a "resting" membrane potential above spike threshold (so that it is spiking in the absense of synaptic input).***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -287,7 +296,7 @@ Neuroscience seeks to understand how neural circuits orchestrate behavior. In ge
 :width: 600
 
 Acoustic behavior of *Gryllus campestris*[^hedwig-2006].  A male sings in front of its burrow by rubbing the elevated front wings together. The calling song consists of single sound pulses (syllables) grouped
-into chirps. Females attracted by the calling song perform phonotaxis and walks towards the singing male using acoustic cues for orientation. 
+into chirps. This behavior is stereotypically patterned across time. Females attracted by the calling song perform phonotaxis and walks towards the singing male using acoustic cues for orientation. This behavior involves walking and orienting (navigating).
 :::
 
 [^hedwig-2006]: Figure from [Hediwg (2006) Pulses, patterns and paths: neurobiology of acoustic behaviour in crickets. J Comp Physiol A](https://doi.org/10.1007/s00359-006-0115-8). Modified after Roesel von Rosenhof (1749).
@@ -338,7 +347,7 @@ Usually, ***multiple CPGs need to be coordinated with each other*** to generate 
 Entire CPG circuits (like the one in Figure 31) are often represented by a circle with a tilde symbol. In this example, there is a wing CPG on each side of the cricket's body that controls the open/close movement of each wing. When the command neuron is *activated*, it excites both CPG circuits with unpatterned input. 
 :::
 
-***Q5: The CPGs for wing movement on each side of the cricket's body need to be coorectly coordinated with each other to generate song (they need to close together at the same time). To achieve this action, what synaptic connection is needed from each CPG to the other?***
+***Q5: The CPGs for wing movement on each side of the cricket's body need to be correctly coordinated with each other to generate song (they need to close together at the same time). To achieve this action, what type of synaptic connection (inhibitory or excitatory) is needed from each CPG to the other?***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -351,7 +360,7 @@ Entire CPG circuits (like the one in Figure 31) are often represented by a circl
 
 Not all sensory stimuli are the same. Stimuli have lots of different ***features***. In the case of cricket song, we will consider two features: the *syllable period* (SP) and the loudness (amplitude). Both of these features can vary across a wide range. Different species generate song with distinct **SP**. For example, different individuals may sing with different amplitude. Amplitude can also vary with environmental features such as distance from the source. 
 
-***Sensory filtering*** results from the stimulus *specificity* of sensors. Sensors only respond to specific types of physical energy in the world (light, sound, odor) - we refer to these as *modalities*. Then within each modality, different sensors respond best to specific features of a stimulus (frequency of sound, wavelength of light). Stimulus feature themselves can then vary along a continuum. Sensors are even specific to a range of feature values (500 nanometer light, 200 Hz sound) within a given stimulus modality or category. 
+***Sensory filtering*** results from the stimulus *specificity* of sensors. Sensors only respond to specific types of physical energy in the world (light, sound, odor) - we refer to these as *modalities*. Then within each modality, different sensors respond best to specific features of a stimulus (frequency of sound, wavelength of light). Stimulus features themselves can then vary along a continuum. Sensors are often specific to just a small range of feature values (500 nanometer light, 200 Hz sound) within a given stimulus modality or category. 
 
 ***Without sensory filtering, there would be no specificity in behavioral responses to stimuli.***   
 
@@ -373,6 +382,11 @@ At a basic level, let's think about a ***neural mechanism for FAPs***:
 The flow of information is: sensory stimuli --> sensory filter --> decision --> FAP. 
 
 Therefore, we can infer a lot about sensory filters in the nervous system by examining behavioral responses. Additionally, we can observe how the stimulus threshold for behavior is related to the stimulus threshold for spiking in neurons.  
+
+::::{margin} Phonotaxis as a function of SP (Figure 33C)
+:::{image} /images/cricket-phonotaxis-versus-sp.png
+:::
+::::
 
 :::{figure} /images/cricket-sensory-filtering.png
 :width: 700
@@ -397,65 +411,6 @@ c. the action specific potential in Lorenz's model***
 
 The membrane potential response (y-axis) to stimuli of different amplitudes (x-axis) and SP values (color). If the sensory filter spike threshold is reached, an FAP is produced in response. 
 :::
-
-⏸️ PAUSE here for class-wide discussion
-
----
-
-### Case Study: Aggression in Mice
-
-Aggression is a social behavior essential for securing resources and defending oneself and family. Many animals have aggressive FAPs. Across animals, we find that the release of FAPs depends, not just on the presence of external *sign stimuli* (detected using ***sensory filters***), but on the internal state of the animal. 
-
-
-
-:::{image} /images/aggression-summary-factors.png
-:width: 800
-:::
-
-:::{epigraph}
-Regions of the brain in the core aggression circuit are more specialized for aggression: activating any of those regions evokes attack, often in a time-locked manner, while inactivating any of those regions impairs or even abolishes natural aggression. The fact that aggression can be triggered as well as blocked from each of those regions supports the idea that these regions form one integrated circuit. 
-
-The ventrolateral nucleus of the ventromedial hypothalamus (VMHvl) is perhaps the best studied region for aggression in recent years, with the vast majority of the studies done in mice. Electrical stimulation or pharmacological manipulation in the VMHvl can elicit aggression in cats, chickens, opossums and monkeys. In male and female mice, optogenetic activation of VMHvl cells, especially those expressing estrogen receptor alpha (Esr1), elicited time-locked attack toward both natural (other mice) and suboptimal targets (gloves filled with water or air; or socially inappropriate attacks at conspecifics). Upon male-intruder introduction, VMHvl cells show an elevation in baseline activity, which is sustained throughout the duration of the intruder’s presence and minutes after removal of the intruder. During male–male investigation and attack, VMHvl activity increases further, and then returns to the elevated baseline at the offset of the behavioral episode. Thus, the VMHvl cells appear to carry information regarding aggressive arousal state, aggression-provoking sensory cues and the motor execution of attacks.
-
--- Julieta Lischinsky and Dayu Lin (2020)[^dayu-review]
-:::
-
-[^dayu-review]: [Lischinsky, J.E., Lin, D. Neural mechanisms of aggression across species. Nat Neurosci 23, 1317–1328 (2020).](https://doi.org/10.1038/s41593-020-00715-2)
-
-:::{figure} /images/aggression-neuroanatomical-mouse.png
-:width: 800
-
-Neuroanatomical pathways for aggression in mice. Yellow indicates regions for processing sensory inputs; orange indicates regions belonging to core aggression circuit (CAC); red indicates regions relevant for motor output; purple indicates regions for top-down control and lilac indicates regions where dopamine neurons reside. AOB, accessory olfactory bulb; MOB, main olfactory bulb; CoAp, posterior cortical amygdala nucleus; Hyp, hypothalamus; MPOA, medial preoptic area; Hip, hippocampus; Str, striatum. From [Neural mechanisms of aggression across species](https://doi.org/10.1038/s41593-020-00715-2), a by Julieta E. Lischinsky and Dayu Lin (2020).
-:::
-
-:::{figure} /images/5HT-1B_receptor-signalling.png
-:width: 500
-
-Serotonin receptor mechanism of action on neuron membrane conductance
-:::
-
----
-> ⏳ 15 min 
-
-Examine the model in Figure 38 and use what you know about neural mechanisms to answer the following questions. 
-
-:::{figure} /images/aggression-circuit-mice-ala-Lorenz.png
-:width: 700
-
-A Lorenz model of behavior for a male mouse defending its territory. Top: action-specific potential across time (black). Middle: the time during which external or internal stimuli (orange, green and blue) were present. Bottom: time of attack FAPs. 
-:::
-
-***Q8: Which color most likely corresponds to the presence of a dominant (threatening) intruder? In terms of the data in the top figure, what is your evidence for this?***
-
-***Q9: Which color most likely corresponds to the presence of a submissive (non-threatening) intruder? In terms of the data in the top figure, what is your evidence for this?***
-
-***Q10: Which color most likely corresponds to the presence of serotonin in the animals? In terms of the data in the top figure, what is your evidence for this?***
-
-***Q11: The action-specific potential most closely models the membrane potential of:  
-a. sensory neurons in the olfactory bulb  
-b. VMHvl neurons  
-c. neurons in the motor output circuits  
-Why did you select the choice you made versus the other options?***
 
 
 ⏹️ STOP here for today

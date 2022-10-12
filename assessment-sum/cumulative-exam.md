@@ -13,4 +13,11 @@ The assignments will be released on a rolling schedule approximately 1-2 class s
 | Communication and Social[^attention-date] | Nov 22 (Th) | Nov 30 (W) |
 | Family Life[^attention-date] | Dec 6 (Th) | Dec 9 (F) |
 
+**PROPOSED ALTERNATIVES FOR WORKING AROUND HOLIDAYS BETTER**
+| Topic | Release Date | Due Date (midnight) |
+| :---: | :---: | :---: |
+| Neural, Hormonal, Rhythms | Oct 27 (Th) | Oct 31 (M) |
+| Genetics and Development & Navigation and Escape | Nov 10 (Th) | Nov 14 (M) |
+| Communication, Social, and Family Life[^attention-date] | Dec 1 (Th) | Dec 6 (Tu) |
+
 [^attention-date]: Note the abnormal days of the week due to Fall Break (Oct 24-25), Thanksgiving Break (Nov 23-27), and end of semester.
