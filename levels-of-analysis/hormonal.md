@@ -46,7 +46,7 @@ Let's start today with a discussion related to [The Fantastical World Of Hormone
 [^ref-melon-materials]: The questions in this first section (in reference to the video you watched before class) were written by Dr. Laverne Melon for her Hormones, Brains, and Behavior course (BIOL 224). 
 
 ---
-> ⏳ 15 min 
+> ⏳ 10 min 
 
 ***Q1: This video raises a great opportunity to speak about the elephant in the room: animal experimentation. Experiments on non-human animals have played a significant role in our understanding of physiology in general, and hormones and behavior is no exception. As noted in the video, many of the early experiments-including the very experiments performed by Bayliss and Starling that were the inspiration for the term “Hormones” - utilized dogs (what is left out of the video is that Bayliss was actually a plaintiff in one of the first major protests against vivisection in modern biomedical research, precisely because of his use of dogs in this endocrinology research). Take a few minutes to discuss any apprehension or questions/concerns you may have regarding the use of animals in biomedical research.***   
 <!-- 
@@ -121,6 +121,8 @@ The ventrolateral nucleus of the ventromedial hypothalamus (VMHvl) is perhaps th
 
 Neuroanatomical pathways for aggression in mice. Yellow indicates regions for processing sensory inputs; orange indicates regions belonging to core aggression circuit (CAC); red indicates regions relevant for motor output; purple indicates regions for top-down control and lilac indicates regions where dopamine neurons reside. AOB, accessory olfactory bulb; MOB, main olfactory bulb; CoAp, posterior cortical amygdala nucleus; Hyp, hypothalamus; MPOA, medial preoptic area; Hip, hippocampus; Str, striatum. From [Neural mechanisms of aggression across species](https://doi.org/10.1038/s41593-020-00715-2), a by Julieta E. Lischinsky and Dayu Lin (2020).
 :::
+
+Serotonin is a molecule that acts both as a neurotransmitter and as a neurohormone. In the context of aggression, it is one of the hormones that modulates the motivation ("readiness") to be aggressive. One mechanism of action is a change in neuron membrane ion conductance (in neurons that have the 5HT1B or 5HT1A receptor specifically)[^dayu-review].
 
 :::{figure} /images/5HT-1B_receptor-signalling.png
 :width: 500
