@@ -48,13 +48,13 @@ Let's start today with a discussion related to [The Fantastical World Of Hormone
 ---
 > ⏳ 15 min 
 
-***Q:1 This video raises a great opportunity to speak about the elephant in the room: animal experimentation. Experiments on non-human animals have played a significant role in our understanding of physiology in general, and hormones and behavior is no exception. As noted in the video, many of the early experiments-including the very experiments performed by Bayliss and Starling that were the inspiration for the term “Hormones” - utilized dogs (what is left out of the video is that Bayliss was actually a plaintiff in one of the first major protests against vivisection in modern biomedical research, precisely because of his use of dogs in this endocrinology research). Take a few minutes to discuss any apprehension or questions/concerns you may have regarding the use of animals in biomedical research.***   
+***Q1: This video raises a great opportunity to speak about the elephant in the room: animal experimentation. Experiments on non-human animals have played a significant role in our understanding of physiology in general, and hormones and behavior is no exception. As noted in the video, many of the early experiments-including the very experiments performed by Bayliss and Starling that were the inspiration for the term “Hormones” - utilized dogs (what is left out of the video is that Bayliss was actually a plaintiff in one of the first major protests against vivisection in modern biomedical research, precisely because of his use of dogs in this endocrinology research). Take a few minutes to discuss any apprehension or questions/concerns you may have regarding the use of animals in biomedical research.***   
+<!-- 
+***Q2: Dr. Wass uses a lock and key analogy to describe how hormones interact with their receptors. How is this different from the lock and key analogy often used to describe the actions of neurotransmitters at their receptors.***  -->
 
-***Q2: Dr. Wass uses a lock and key analogy to describe how hormones interact with their receptors. How is this different from the lock and key analogy often used to describe the actions of neurotransmitters at their receptors.*** 
+***Q2: How do Berthold’s experiment with the capons and von Halban’s experiments with guinea pig ovaries (the experiments that ended use of oophorectomy as treatment for neurological and psychiatric ailments in women) support a role for non-neuronal chemical signaling in biological function?***
 
-***Q3: How do Berthold’s experiment with the capons and von Halban’s experiments with guinea pig ovaries (the experiments that ended use of oophorectomy as treatment for neurological and psychiatric ailments in women) support a role for non-neuronal chemical signaling in biological function?***
-
-***Q4: Why was harvesting “pink thyroid juice” from sheep a successful approach to treating disorders of hypothyroidism yet the same approach applied to treating reduced virility (with goat testis fluid) considered quackery?***
+***Q3: Why was harvesting “pink thyroid juice” from sheep a successful approach to treating disorders of hypothyroidism yet the same approach applied to treating reduced virility (with goat testis fluid) considered quackery?***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -87,13 +87,11 @@ The following questions should prime you to think about hormone mechanims of act
 ---
 > ⏳ 10 min 
 
-***Q5: Ion channels are a type of membrane protein permeable to specific ions. Hormone-induced changes to membrane ion channels could effect behavior by what neural mechanism(s)?***
+***Q4: The same hormone can be stimulatory (excitatory) for one neuron but inhibitory for another neuron. True/False? Briefly explain.***
 
-***Q6: The same hormone can be stimulatory (excitatory) for one neuron but inhibitory for another neuron. True/False? Briefly explain.***
+***Q5: Why are molecules such as cAMP necessary for water-soluble hormones (but not lipid-soluble hormones) to effect gene expression?***
 
-***Q7: Why are molecules such as cAMP necessary for water-soluble hormones (but not lipid-soluble hormones) to effect gene expression?***
-
-***Q8: What is the effect of a hormone if there are no receptors for the hormone?***
+***Q6: What is the effect of a hormone if there are no receptors for the hormone?***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -141,13 +139,11 @@ Examine the model in Figure 38 and use what you know about neural mechanisms to 
 A Lorenz model of behavior for a male mouse defending its territory. Top: action-specific potential across time (black). Middle: the time during which external or internal stimuli (orange, green and blue) were present. Bottom: time of attack FAPs. 
 :::
 
-***Q9: Which "time of stimulus" color most likely corresponds to the presence of a dominant (threatening) intruder? In terms of the data in the top figure, what is your evidence for this?***
+***Q7: Which "time of stimulus" color most likely corresponds to the presence of a dominant (threatening) intruder (versus a submissive) intruder? In terms of the data in the top figure, what is your evidence for this?***
 
-***Q10: Which "time of stimulus" color most likely corresponds to the presence of a submissive (non-threatening) intruder? In terms of the data in the top figure, what is your evidence for this?***
+***Q8: Which "time of stimulus" color most likely corresponds to the presence of serotonin in the animals? In terms of the data in the top figure, what is your evidence for this?***
 
-***Q11: Which "time of stimulus" color most likely corresponds to the presence of serotonin in the animals? In terms of the data in the top figure, what is your evidence for this?***
-
-***Q12: The action-specific potential most closely models the membrane potential of:  
+***Q9: The action-specific potential most closely models the membrane potential of:  
 a. sensory neurons in the olfactory bulb  
 b. VMHvl neurons  
 c. neurons in the motor output circuits  
@@ -161,22 +157,25 @@ Why did you select the choice you made versus the other options?***
 
 Behavior in virgin animals often differs dramatically from behavior in mated animals. In fruit flies, male gonads manufacture a peptide termed '*sex peptide*' that gets transferred to females during insemination. Sex peptide provides a long-lasting signal that effects multiple mating behavior neural circuits in a female fly. For example, virgin females do not lay eggs and do not crave salt (NaCl) or yeast. However, after mating, females lay lots of eggs and crave/eat lots of salt and yeast (salt and yeast are necessary nutrients for egg production). 
 
-:::{figure-md} sex-peptide
-:class: figure
+:::{figure} /images/sex-peptide-circuit-simple.png
+:width: 700
 
-<img src="/images/sex-peptide-circuit-simple.png" alt="fishy" class="bg-primary mb-1" width="500px" style="background-color:white">
-
-Sex Peptide stimulates both egg production and anticipatory appetites necessary to support reproduction through the SPSN-SAG neuronal circuit. Left: virgin female. Right: sex peptide is transferred to the female during mating. The fly central nervous system (yellow) is shown from above within the boxed region. SAG and SPSN neurons are highlighed. SAG = sex peptide abdominal ganglion neuron (green); SPSN = sex peptide sensory neuron (purple). SPSN axon terminals synapse on SAG dendrites in the abdominal ganglion. SAG neurons send axons to the head ganglion. Sex peptide is sensed by neuron dendrites the uterus of the female. SPSNs are normally *active*, meaning they continuously produce voltage spike events (green). SPSNs excite SAGs. SAGs inhibit egg laying and salt/yeast appetites.[^sex-peptide-dispatch][^sex-peptide-prediction]
+Sex Peptide stimulates both egg production and anticipatory appetites necessary to support reproduction through the SPSN-SAG neuronal circuit. Left: virgin female. Right: sex peptide is transferred to the female during mating. The fly central nervous system (yellow) is shown from above within the boxed region. SAG and SPSN neurons are highlighed. SAG = sex peptide abdominal ganglion neuron (green); SPSN = sex peptide sensory neuron (purple). SPSN axon terminals synapse on SAG dendrites in the abdominal ganglion. SAG neurons send axons to the head ganglion. Sex peptide is sensed by neuron dendrites the uterus of the female. In the absence of sex peptide, SPSNs are *active*, meaning they continuously produce voltage spike events (green). SPSNs excite SAGs. SAGs inhibit egg laying and salt/yeast appetites.[^sex-peptide-dispatch][^sex-peptide-prediction]
 :::
 
 [^sex-peptide-dispatch]: Eric Kubli and Daniel Bopp (2012) [Sexual Behavior: How Sex Peptide Flips the Postmating Switch of Female Flies](https://doi.org/10.1016/j.cub.2012.04.058). Current Biology, 22(13): R520-R522
 [^sex-peptide-prediction]: Samuel J Walkera, Dennis Goldschmidt, and Carlos Ribeiro (2017) [Craving for the future: the brain as a nutritional prediction system](https://doi.org/10.1016/j.cois.2017.07.013). Current Opinion in Insect Science, 23: 96-103.
 
-***Q13: In this neural circuit, which type of neuron (SAG or SPSN) has receptors for sex peptide?***
+---
+> ⏳ 10 min 
 
-***Q14: Does sex peptide inhibit or excite the SPSN?***
+***Q10: In terms of the Lorenz model, sex peptide likely [ increases / decreases ] the action specific potential for egg laying behavior. (select one bracketed word to complete the sentence)***
 
-***Q15: Why does the SAG neuron produce voltage spike events in virgin females, but not mated females?***
+***Q11: The drosophila nervous system must have gustatory (ie. taste) sensory filters for specific types of foods. What is the evidence from this case study that supports this statement?*** 
+
+***Q12: Let's say that the gustatory sensory filter is an excitatory command neuron for eating FAPs. Do you predict that the membrane potential response of the gustatory sensory filter is more depolarized or more hyperpolarized in the presence of Yeast in virgin females compared to mated females?***
+
+***Q13: Why does the SAG neuron produce voltage spike events in virgin females, but not mated females? Explain in terms of both a hormonal and a neural mechanism.***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -185,10 +184,8 @@ Sex Peptide stimulates both egg production and anticipatory appetites necessary 
 
 Sex peptide has LOTS of modulatory effects on the nervous system (in both females and males). Interestingly, sex peptide was recently shown to enhance long term memory of female fruit flies.
 
-:::{figure-md} sex-peptide-memory
-:class: figure
-
-<img src="/images/sex-peptide-memory.png" alt="fishy" class="bg-primary mb-1" width="600px" style="background-color:white">
+:::{figure} /images/sex-peptide-memory.png
+:width: 700
 
 Drosophila virgin females cannot form long-term memory. Upon fecundation, the sex peptide is transferred from the male testis to the female ovary. From there, the sex peptide reaches the brain and activates a pair of neurons that controls long-term memory formation. SPN = sex peptide receptive neurons in the brain; VNC = ventral nerve cord; MIP = myoinhibitory peptide (released from SPNs); Dnc PDE = Dunce phosphodiesterase that degrades cAMP; PKA = protein kinase A. PKA activity puts SPNs in an 'activatable' state for long-term memory formation. As a default state, Dnc PDE inhibits the cAMP-PKA pathway within SPNs, which inhibits long-term memory formation. PKA activation leads to the release of MIP, which increases the effects of sex peptide, further increasing long-term memory formation. [^sex-peptide-memory-ref]
 :::
