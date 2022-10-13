@@ -1,5 +1,6 @@
 # Hormonal Mechanisms
 
+[Responses template if needed](https://docs.google.com/document/d/1MbH6NQxLMKNX-ggjVsU-rrv8boN3jsjZTvV5sFqYBqw/edit?usp=sharing)
 <!-- <hr>
 
 > {sub-ref}`wordcount-words` words | {sub-ref}`wordcount-minutes` min read
@@ -58,6 +59,17 @@ Let's start today with a discussion related to [The Fantastical World Of Hormone
 
 ⏸️ PAUSE here for class-wide discussion
 
+For behavior, hormone effects on the nervous system and neuron physiology are the main mechanism of action. 
+
+Some hormone circulation is even local to the brain (does not need to go through the blood to get to the brain). For example, neurons in the *hypothalamus* of the brain (specifically the *paraventricular nucleus*) produce oxytocin. These oxytocin neurons project widely throughout the brain, where they "dump" oxytocin onto neural circuits. Oxytocin then modulates neural processing. 
+
+:::{figure} /images/oxytocin-circuitry.png
+
+This scheme summarizes all available data from male and female including lactating rats regarding OXT neuronal projections, sites of OXT release, e.g., during stress exposure, mating, parturition, suckling, and OXT receptors within brain target regions, as outlined in detail in Grinevich and Neumann (2021)[^oxytocin-review]. OXTergic projections originating from the PVN are depicted as black lines, connecting brain region where OXTR expression has been detected. Brain regions where OXT release has directly been shown by microdialysis are highlighted.
+:::
+
+[^oxytocin-review]: [Brain oxytocin: how puzzle stones from animal studies translate into psychiatry. Mol Psychiatry 26, 265–279(2021)](https://doi.org/10.1038/s41380-020-0802-9)
+
 ---
 
 ## General Mechanism
@@ -71,7 +83,7 @@ Let's start today with a discussion related to [The Fantastical World Of Hormone
 
 <img src="/images/hormone-mechanism-cell-surface.png" alt="fishy" class="bg-primary mb-1" width="700px">
 
-Cartoon of a common hormone mechanism of action. The hormone is binding to specific receptors on the cell's surface. Receptor binding triggers a conformational change that causes *G-proteins* to bind to adenylate cyclase proteins. When G-protein binds adenylate cyclase, cAMP is produced, which then triggers protein kinases to act on their specific downstream targets. R = hormone receptor, G = G-protein, ATP = adenosine triphosphate, cAMP = cyclic adenonsine monophosphate
+Cartoon of a common hormone mechanism of action. Hormone molecules bind to specific receptors on the cell's surface (unique to that hormone). Hormone binding triggers a conformational change in the receptor protein that causes *G-proteins* to bind to adenylate cyclase proteins. When G-protein binds adenylate cyclase, cAMP is produced, which can then triggers a wide variety of protein kinases to act on their specific downstream targets. R = hormone receptor, G = G-protein, ATP = adenosine triphosphate, cAMP = cyclic adenonsine monophosphate
 :::
 
 :::{figure-md} hormone-mechanism-genome
@@ -79,7 +91,7 @@ Cartoon of a common hormone mechanism of action. The hormone is binding to speci
 
 <img src="/images/hormone-mechanism-genome.png" alt="fishy" class="bg-primary mb-1" width="700px">
 
-Cartoon of a common hormone mechanism of action. The hormone binds directly with its receptor inside the cell. In this case, the hormone and its receptor form a transcription factor that alters gene expression directly. Image from [cK-12](https://flexbooks.ck12.org/cbook/ck-12-biology-flexbook-2.0/section/13.21/primary/lesson/hormones-bio/). 
+Cartoon of a common hormone mechanism of action. Hormone molecules bind to specific receptors *inside* the cell. In this case, the hormone and its receptor form a transcription factor that alters gene expression directly. Image from [cK-12](https://flexbooks.ck12.org/cbook/ck-12-biology-flexbook-2.0/section/13.21/primary/lesson/hormones-bio/). 
 :::
 
 The following questions should prime you to think about hormone mechanims of action on behavior and check your current understanding of the concept. 
@@ -87,18 +99,20 @@ The following questions should prime you to think about hormone mechanims of act
 ---
 > ⏳ 10 min 
 
-***Q4: The same hormone can be stimulatory (excitatory) for one neuron but inhibitory for another neuron. True/False? Briefly explain.***
+***Q4: The same hormone can be stimulatory (excitatory) some neurons while simultaneously inhibiting other neurons. True/False? Briefly explain.***
 
 ***Q5: Why are molecules such as cAMP necessary for water-soluble hormones (but not lipid-soluble hormones) to effect gene expression?***
 
 ***Q6: What is the effect of a hormone if there are no receptors for the hormone?***
+
+***Q7: Think about how neuron and neural circuits work to orchestrate behavior. What do you think is a neural mechanism (or neuron property) that hormones could tap into to change behavior?***
 
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
 
-### Case Study: Aggression in Mice
+## Case Study: Aggression in Mice
 
 Aggression is a social behavior essential for securing resources and defending oneself and family. Many animals have aggressive FAPs. Across animals, we find that the release of FAPs depends, not just on the presence of external ***sign stimuli*** (detected using ***sensory filters***), but also on the ***internal state*** of the animal. 
 
@@ -109,7 +123,7 @@ Aggression is a social behavior essential for securing resources and defending o
 :::{epigraph}
 Regions of the brain in the core aggression circuit are more specialized for aggression: activating any of those regions evokes attack, often in a time-locked manner, while inactivating any of those regions impairs or even abolishes natural aggression. The fact that aggression can be triggered as well as blocked from each of those regions supports the idea that these regions form one integrated circuit. 
 
-The ventrolateral nucleus of the ventromedial hypothalamus (VMHvl) is perhaps the best studied region for aggression in recent years, with the vast majority of the studies done in mice. Electrical stimulation or pharmacological manipulation in the VMHvl can elicit aggression in cats, chickens, opossums and monkeys. In male and female mice, optogenetic activation of VMHvl cells, especially those expressing estrogen receptor alpha (Esr1), elicited time-locked attack toward both natural (other mice) and suboptimal targets (gloves filled with water or air; or socially inappropriate attacks at conspecifics). Upon male-intruder introduction, VMHvl cells show an elevation in baseline activity, which is sustained throughout the duration of the intruder’s presence and minutes after removal of the intruder. During male–male investigation and attack, VMHvl activity increases further, and then returns to the elevated baseline at the offset of the behavioral episode. Thus, the VMHvl cells appear to carry information regarding aggressive arousal state, aggression-provoking sensory cues and the motor execution of attacks.
+The ventrolateral nucleus of the ventromedial hypothalamus (VMHvl) is perhaps the best studied region for aggression in recent years, with the vast majority of the studies done in mice. Electrical stimulation or pharmacological manipulation in the VMHvl can elicit aggression in cats, chickens, opossums and monkeys. In male and female mice, ***optogenetic activation of VMHvl cells, especially those expressing estrogen receptor alpha (Esr1), elicited time-locked attack*** toward both natural (other mice) and suboptimal targets (gloves filled with water or air; or socially inappropriate attacks at conspecifics). Upon male-intruder introduction, VMHvl cells show ***an elevation in baseline activity, which is sustained throughout the duration of the intruder’s presence and minutes after removal of the intruder***. During male–male ***investigation and attack, VMHvl activity increases further***, and then returns to the elevated baseline at the offset of the behavioral episode. Thus, the VMHvl cells appear to carry information regarding aggressive *arousal state*, aggression-provoking *sensory cues* and the *motor execution* of attacks.
 
 -- Julieta Lischinsky and Dayu Lin (2020)[^dayu-review]
 :::
@@ -122,7 +136,7 @@ The ventrolateral nucleus of the ventromedial hypothalamus (VMHvl) is perhaps th
 Neuroanatomical pathways for aggression in mice. Yellow indicates regions for processing sensory inputs; orange indicates regions belonging to core aggression circuit (CAC); red indicates regions relevant for motor output; purple indicates regions for top-down control and lilac indicates regions where dopamine neurons reside. AOB, accessory olfactory bulb; MOB, main olfactory bulb; CoAp, posterior cortical amygdala nucleus; Hyp, hypothalamus; MPOA, medial preoptic area; Hip, hippocampus; Str, striatum. From [Neural mechanisms of aggression across species](https://doi.org/10.1038/s41593-020-00715-2), a by Julieta E. Lischinsky and Dayu Lin (2020).
 :::
 
-Serotonin is a molecule that acts both as a neurotransmitter and as a neurohormone. In the context of aggression, it is one of the hormones that modulates the motivation ("readiness") to be aggressive. One mechanism of action is a change in neuron membrane ion conductance (in neurons that have the 5HT1B or 5HT1A receptor specifically)[^dayu-review].
+Serotonin is a molecule that acts both as a neurotransmitter and as a neurohormone. In the context of aggression, it is one of the hormones that modulates the motivation ("readiness") to be aggressive. Neurons in the VMHvl express serotonin receptors. One mechanism of action for serotonin (via the 5HT1B or 5HT1A receptor specifically) is a change in neuron membrane ion conductance[^dayu-review].
 
 :::{figure} /images/5HT-1B_receptor-signalling.png
 :width: 500
@@ -133,7 +147,7 @@ Serotonin receptor mechanism of action on neuron membrane conductance. This sero
 ---
 > ⏳ 15 min 
 
-Examine the model in Figure 38 and use what you know about neural mechanisms to answer the following questions. 
+Examine the model in Figure 42 and use what you know about neural mechanisms to answer the following questions. 
 
 :::{figure} /images/aggression-circuit-mice-ala-Lorenz.png
 :width: 700
@@ -141,11 +155,11 @@ Examine the model in Figure 38 and use what you know about neural mechanisms to 
 A Lorenz model of behavior for a male mouse defending its territory. Top: action-specific potential across time (black). Middle: the time during which external or internal stimuli (orange, green and blue) were present. Bottom: time of attack FAPs. 
 :::
 
-***Q7: Which "time of stimulus" color most likely corresponds to the presence of a dominant (threatening) intruder (versus a submissive) intruder? In terms of the data in the top figure, what is your evidence for this?***
+***Q8: Which "time of stimulus" color most likely corresponds to the presence of a dominant (threatening) intruder (versus a submissive) intruder? In terms of the data in the top figure, what is your evidence for this?***
 
-***Q8: Which "time of stimulus" color most likely corresponds to the presence of serotonin in the animals? In terms of the data in the top figure, what is your evidence for this?***
+***Q9: Which "time of stimulus" color most likely corresponds to the presence of serotonin in the animals? In terms of the data in the top figure, what is your evidence for this?***
 
-***Q9: The action-specific potential most closely models the membrane potential of:  
+***Q10: The action-specific potential most closely models the membrane potential of:  
 a. sensory neurons in the olfactory bulb  
 b. VMHvl neurons  
 c. neurons in the motor output circuits  
@@ -171,13 +185,13 @@ Sex Peptide stimulates both egg production and anticipatory appetites necessary 
 ---
 > ⏳ 10 min 
 
-***Q10: In terms of the Lorenz model, sex peptide likely [ increases / decreases ] the action specific potential for egg laying behavior. (select one bracketed word to complete the sentence)***
+***Q11: In terms of the Lorenz model, sex peptide likely [ increases / decreases ] the action specific potential for egg laying behavior. (select one bracketed word to complete the sentence)***
 
-***Q11: The drosophila nervous system must have gustatory (ie. taste) sensory filters for specific types of foods. What is the evidence from this case study that supports this statement?*** 
+***Q12: The drosophila nervous system must have gustatory (ie. taste) sensory filters for specific types of foods. What is the evidence from this case study that supports this statement?*** 
 
-***Q12: Let's say that the gustatory sensory filter is an excitatory command neuron for eating FAPs. Do you predict that the membrane potential response of the gustatory sensory filter is more depolarized or more hyperpolarized in the presence of Yeast in virgin females compared to mated females?***
+***Q13: Let's say that the gustatory sensory filter is an excitatory command neuron for eating FAPs. Do you predict that the membrane potential response of the gustatory sensory filter is more depolarized or more hyperpolarized in the presence of Yeast in virgin females compared to mated females?***
 
-***Q13: Why does the SAG neuron produce voltage spike events in virgin females, but not mated females? Explain in terms of both a hormonal and a neural mechanism.***
+***Q14: Why does the SAG neuron produce voltage spike events in virgin females, but not mated females? Explain in terms of both a hormonal and a neural mechanism.***
 
 
 ⏸️ PAUSE here for class-wide discussion

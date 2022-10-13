@@ -7,17 +7,20 @@ The assignments will be released on a rolling schedule approximately 1-2 class s
 | Components of Behavior | Sept 15 (Th) | Sept 19 (M) |
 | Observation and Analysis | Sept 22 (Th) | Sept 26 (M) |
 | Phylogeny and Evolution | Oct 6 (Th) | Oct 10 (M) |
+| Neural, Hormonal, Rhythms | Oct 27 (Th) | Oct 31 (M) |
+| Genetics and Development & Navigation and Escape | Nov 10 (Th) | Nov 14 (M) |
+| Communication, Social, and Family Life[^attention-date] | Dec 1 (Th) | Dec 5 (M) |
+
+:::{dropdown} Original schedule for Oct 20 - end of semester
+This original schedule let exam periods span over fall break and thanksgiving. The original schedule covered the same material in 5 rather than 3 exam chunks.
+
+| Topic | Release Date | Due Date (midnight) |
+| :---: | :---: | :---: |
 | Neural, Hormonal, Rhythms[^attention-date] | Oct 20 (Th) | Oct 26 (W) |
 | Genetics and Development | Nov 3 (Th) | Nov 7 (M) |
 | Navigation and Escape | Nov 10 (Th) | Nov 14 (M) |
 | Communication and Social[^attention-date] | Nov 22 (Th) | Nov 30 (W) |
-| Family Life[^attention-date] | Dec 6 (Th) | Dec 9 (F) |
+| Family Life[^attention-date] | Dec 6 (Tu) | Dec 9 (F) |
+:::
 
-**PROPOSED ALTERNATIVES FOR WORKING AROUND HOLIDAYS BETTER**
-| Topic | Release Date | Due Date (midnight) |
-| :---: | :---: | :---: |
-| Neural, Hormonal, Rhythms | Oct 27 (Th) | Oct 31 (M) |
-| Genetics and Development & Navigation and Escape | Nov 10 (Th) | Nov 14 (M) |
-| Communication, Social, and Family Life[^attention-date] | Dec 1 (Th) | Dec 6 (Tu) |
-
-[^attention-date]: Note the abnormal days of the week due to Fall Break (Oct 24-25), Thanksgiving Break (Nov 23-27), and end of semester.
+[^attention-date]: Note the abnormal days of the week due to end of semester.
