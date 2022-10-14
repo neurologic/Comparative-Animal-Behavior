@@ -1,10 +1,10 @@
 # Genetic Mechanisms
-
+<!-- 
 <hr>
 
 > {sub-ref}`wordcount-words` words | {sub-ref}`wordcount-minutes` min read
 
-<hr>
+<hr> -->
 
 ## Genetics Primer
 
@@ -26,10 +26,8 @@ An example protein animated in 3-D (a large ribosomal subunit). Ribosomes "build
 
 <img src="/images/71-AcetylcholineReceptor-2bg9-composite.png" alt="fishy" width="200px">
 
-An example protein - the acetylcholine receptor. This protein is found in muscle cells and is necessary for muscle contraction in response to synaptic input from motor neurons. When acetylcholine binds to the receptor, the receptor lets specific ions through the membrane. Top: side view with cell membrane in gray. Bottom: top view with acetylcholine binding sites in red. Image from [PDB-101](https://pdb101.rcsb.org/motm/71)
+An example protein - the acetylcholine receptor. This protein is found in muscle cells and is necessary for muscle contraction in response to synaptic input from motor neurons. When acetylcholine binds to the receptor, the receptor increases its permeability to specific ions. Top: side view with cell membrane in gray. Bottom: top view with acetylcholine binding sites in red. Image from [PDB-101](https://pdb101.rcsb.org/motm/71)
 :::
-
-***Q: Think back to the "[neural mechanisms](../levels-of-analysis/neural/#table1)" work you have done. What ions do you think the acetylcholine receptor lets through the membrane when bound by acetylcholine? Why?***
 
 ### Protein Composition
 
@@ -41,8 +39,6 @@ An example protein - the acetylcholine receptor. This protein is found in muscle
 Amino Acid units that comprise protein.  
 Image from [ReAgent](https://www.reagent.co.uk/what-are-amino-acids/)
 :::
-
-***Q: For the following protein sequence: Methionine-Glutamic acid-Proline-Tryptophan, write out the "single letter code".***
 
 :::{figure-md} Nucleic-Acids
 :class: figure
@@ -69,19 +65,7 @@ AUGGAGCCCUGGCCUCUCCUCCUGCUCUUUAGCCUUUGCUCAGCUGGCCUCGUCCUGGGCUCCGAACAUGAGACCCGUCU
 MEPWPLLLLFSLCSAGLVLGSEHETRLVAKLFKDYSSVVRPVEDHRQVVEVTVGLQLIQLINVDEVNQIVTTNVRLKQGDMVDLPRPSCVTLGVPLFSHLQNEQWVDYNLKWNPDDYGGVKKIHIPSEKIWRPDLVLYNNADGDFAIVKFTKVLLQYTGHITWTPPAIFKSYCEIIVTHFPFDEQNCSMKLGTWTYDGSVVAINPESDQPDLSNFMESGEWVIKESRGWKHSVTYSCCPDTPYLDITYHFVMQRLPLYFIVNVIIPCLLFSFLTGLVFYLPTDSGEKMTLSISVLLSLTVFLLVIVELIPSTSSAVPLIGKYMLFTMVFVIASIIITVIVINTHHRSPSTHVMPNWVRKVFIDTIPNIMFFSTMKRPSREKQDKKIFTEDIDISDISGKPGPPPMGFHSPLIKHPEVKSAIEGIKYIAETMKSDQESNNAAAEWKYVAMVMDHILLGVFMLVCIIGTLAVFAGRLIELNQQG
 :::
 
-***Q: How many nucleic acid molecules comprise the gene for the acetylcholine receptor alpha-1 subunit?***
-
-***Q: How many nucleic acid molecules molecules comprise the mRNA for the acetylcholine receptor alpha-1 subunit?***
-
-***Q: How does the mRNA sequence relate to the DNA sequence?***
-
-***Q: How many amino acid molecules comprise the protein for the acetylcholine receptor alpha-1 subunit?***
-
-Ribosomes in the cell cytoplasm read out mRNA and, based on mRNA sequence, construct a string of amino acid chains that make up the synthesized protein. Therefore, genes ultimately "code for" protein structure. 
-
-***Q: How many nucleic acids in a gene are used to determine each AA molecule?***
-
-***Q: What is the genetic "code" for Methionine?***
+The mRNA sequence is a copy of the DNA sequence (with a slight modification of bases). Ribosomes in the cell cytoplasm read out mRNA and, based on mRNA sequence, construct a string of amino acid chains that make up the synthesized protein. Therefore, genes ultimately "code for" protein structure. 
 
 :::{glossary}
 
