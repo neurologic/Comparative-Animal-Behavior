@@ -57,9 +57,10 @@ Let's start today with a discussion related to [The Fantastical World Of Hormone
 
 ***Q3: Why was harvesting “pink thyroid juice” from sheep a successful approach to treating disorders of hypothyroidism yet the same approach applied to treating reduced virility (with goat testis fluid) considered quackery?***
 
----
 
 ⏸️ PAUSE here for class-wide discussion
+
+---
 
 For behavior, hormone effects on the nervous system and neuron physiology are the main mechanism of action. 
 
