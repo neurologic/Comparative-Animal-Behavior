@@ -22,7 +22,7 @@ Activity throughout each day is plotted as the height of individual bars across 
 
 ---
 
-Internal clocks alone are generally not sufficient to synchronize behavior among a population.
+Internal clocks alone are generally not sufficient to synchronize behavior among a population. Variability both within and across individuals de-synchrnizes the cyclic pattern of behavior across individuals. 
 
 :::{figure} /images/cricket-alan-group-synchronization.png
 :width: 800
@@ -37,26 +37,26 @@ What keeps track of time?
 :::{figure} /images/crickets-localizing-scn.png
 :width: 800
 
-Left: The cricket nervous system is shown in yellow overlaid on a dorsal view of the body. The brain ganglia are located in the head. Neurons in the retina (where light receptors are located for the visual system) project to the optic lobe, which then projects to the central ganglia. Right: Actograms of normal stridulation behavior for crickets with an intact nervous system, a nervous system where the retinal projections were severed (A, red), and a nervous system where the optic lobe projections were severed (B, blue). 
+Left: The cricket nervous system is shown in yellow overlaid on a dorsal view of the body. The brain ganglia are located in the head. Neurons in the retina (where light sensors are located) project to the optic lobe, which then projects to the central ganglia. Right: Actograms of normal stridulation behavior for crickets with an intact nervous system, a nervous system where the retinal projections were severed (A, red), and a nervous system where the optic lobe projections were severed (B, blue). 
 :::
 
 ---
 > ⏳ 5 min 
 
-***Q3: Where is the circadian clock located? What is your evidence for this (based on the experiment shown in Figure 47)?***
+***Q3: Where in the cricket brain is the circadian clock located? What is your evidence for this (based on the experiment shown in Figure 47)?***
 
-***Q4: How does Figure 47A provide evidence for a circadian clock entrainment mechanism?***
+***Q4: How does Figure 47A provide evidence that there must be a biological mechanism that entrains the circadian clock?***
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
 
-The circadian clock is rooted in a molecular/genetic mechanism. Suppressive recurrent feedback on gene expression combined with protein degredation enables a central *pacemaker* to keep a temporal rhythm.  
+The circadian clock is rooted in a molecular/genetic mechanism. A gene expression negative feedback loop combined with protein degredation enables a central *pacemaker* to keep a temporal rhythm.  
 
 :::{figure} /images/circadian-clock.gif
 :width: 500
 
-Animation of the transcription-translation feedback loop by [Sarrah Hussein](https://wordpress.lehigh.edu/portraits-of-the-brain/). If the animation does not start, click on the image to enlarge and initiate it. "Refresh" the navigation bar to repeat the animation as needed.
+Animation of the transcription-translation feedback loop by [Sarrah Hussein](https://wordpress.lehigh.edu/portraits-of-the-brain/). If the animation does not start, click on the image to enlarge and initiate it, then "refresh" the navigation bar to repeat the animation as needed.
 :::
 
 ::::{margin}
@@ -83,7 +83,10 @@ Graphical Abstract from [Harvey et al (2020) Ion Channels Controlling Circadian 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/71jC0CXOcPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Circadian Rhythms, Case Study: Melatonin 
+## Circadian Rhythms, Case Study: Melatonin and Mating Behavior
+
+
+Male midshipman fish generate a vocalization called a "hum" to attract females. The hum by rapdily contracting their drumming muscle on their swim bladder. Each hum can last for a long duration (hours). Mating behavior in these fish is nocturnal. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nNB-hoKwa0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -91,37 +94,50 @@ Graphical Abstract from [Harvey et al (2020) Ion Channels Controlling Circadian 
 ---
 > ⏳ 5 min 
 
-A research group at Cornell University investigated the mechanism of circadian humming behavior in midshipman fish[^feng-bass-2016]. They manipulated both light and hormone levels. 
+The research group of Andy Bass at Cornell University investigated the mechanism of circadian humming behavior in midshipman fish[^feng-bass-2016]. To do so, they manipulated both light and hormone levels. 
+
+This research group first investigated the circadian rhythm of humming. 
 
 [^feng-bass-2016]: [Ni Y. Feng, Andrew H. Bass (2016) “Singing” Fish Rely on Circadian Rhythm and Melatonin for the Timing of Nocturnal Courtship Vocalization. Current Biology; 26(19)](https://doi.org/10.1016/j.cub.2016.07.079)
 
 :::{figure} /images/midshipman-LL-treatment.png
 :width: 400
 
-Experimental paradigm alternated between bouts of LD and bouts of DD cycles.
+The first experimental paradigm used alternating bouts of LD and DD circadian cycles. In the actogram, white background denotes light and gray denotes darkness. The humming activity is marked in black throughout each day.
 :::
 
 ***Q5: Do midshipman fish have a circadian clock for singing behavior? What is your evidence for this?***
+
+***Q6: What activity pattern would you predict in constant light conditions?***
 
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
 
-***Melatonin*** (a hormone) is primarily produced by the pineal gland at night (under the control of SCN spiking activity). Therefore, this clock-hormone pathway translates the external light-dark cycle into an internal hormonal message. Constant light is an effective, non-invasive method for decreasing melatonin synthesis. The same research group[^feng-bass-2016] also utilized this manipulation to measure how melatonin modulated singing behavior.  
+***Melatonin*** (a hormone) is primarily produced by the pineal gland at night (under the control of SCN spiking activity)[^melatonin-feedback]. Therefore, this clock-hormone pathway translates the external light-dark cycle into an internal hormonal message. Light inhibits melatonin production (in part by increasing the spiking activity of SCN neurons). Constant light is therefore an effective, non-invasive method for decreasing melatonin synthesis. The same research group of Andy Bass utilized this manipulation to investigate how melatonin modulated singing behavior[^feng-bass-2016].  
+
+[^melatonin-feedback]: Interestingly, melatonin also effects SCN activity. SCN neurons have melatonin receptors and melatonin binding reduces the neurons' spiking activity. 
 
 ---
 > ⏳ 5 min 
 
+::::{margin} LD:DD treatment. See original Figure 51 for details.
+:::{image} /images/midshipman-LL-treatment.png
+:::
+::::
+
 :::{figure} /images/midshipman-LL-hum-duration.png
 :width: 700
 
-A) Experimental paradigm consisted of LD conditions transitioning to LL. At the LD to LL transition, groups of fish were either treated with exogenous melatonin (experimental gorup), or treated with nothing (control groups). The exogenous melatonin in the experimental group was administered using an "implant" (meaning melatonin is slowly and constantly released into the blood). B) Effects on total daily hum duration. C) Effects on hum activity.
+A) The second experimental paradigm used a transition from LD conditions to LL conditions. At the LD to LL transition, groups of fish were either treated with exogenous melatonin (*2-iMel*; experimental gorup), or treated with placebo (control group). The exogenous melatonin in the experimental group was administered using an "implant" (meaning melatonin is slowly and constantly released into the blood). B) Effects on total daily hum duration. C) Effects on hum activity.
 :::
 
-***Q6: Does the hormone melatonin have an excitatory or inhibitory effect on humming? What is your evidence for this?***
+***Q7: Does the hormone melatonin have an excitatory or inhibitory effect on humming behavior? What is your evidence for this?***
 
-***Q7: Under DD conditions, the fish exhibited free-run hum activity (Figure 51). However, under LL conditions in this experiment, the fish exhibited arhythmic hum activity (Figure 52C). Can you think of any explanations for this discrepancy? Hint: think about the melatonin.***
+***Q8: Under DD conditions, the fish exhibited free-run hum activity (Figure 51). However, under LL conditions, the fish now exhibited what kind of activity pattern?***
+
+***Q9: Can you think of any reasons why an endogenous circadian pattern of humming was not recovered in the experimental group (Figure 52C)?***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -158,7 +174,7 @@ Melatonin's opposing effects acros phylogenetic history[^feng-bass-2016].
 :width: 600
 :::
 
-### Endogenous Rhythms
+### Endogenous rhythms and entrainment
 
 :::{image} /images/endogenous-circannual-hibernation.png
 :width: 600
@@ -168,7 +184,11 @@ Melatonin's opposing effects acros phylogenetic history[^feng-bass-2016].
 :width: 700
 :::
 
+Based on this experimental data, which species (squirrels or stonechats) would you infer lived in an environment with more predictably timed changes in the weather?
+
 ### Circadian sensitivity to light
+
+A common mechanism for timing yearly cycles of behavior relies on ***photoperiodism***: the ability to detect the *photoperiod* (day length). This is accomplished by a mechanism with a circadian cycle of sensitivity to light. This mechanism would be insensitive to light from dawn until wintertime dusk. Sensitivity would increase between the winter and summer dusk times. 
 
 Photoperiodism (circadian cycles of sensitivity to light) can provide a mechanism for timing circannual behaviors such as reproduction.
 :::{image} /images/photoperiodism-circannual.png
@@ -177,7 +197,7 @@ Photoperiodism (circadian cycles of sensitivity to light) can provide a mechanis
 
 ### Unpredictable cues
 
-In some cases, unpredictable cues may be more informative than predictable ones for reproductive timing
+In some cases, unpredictable cues (such as rain fall) may be more informative than predictable ones (such as annual changes in day length) for reproductive timing
 
 :::{image} /images/unpredictable-cues.png
 :width: 600
