@@ -1,4 +1,7 @@
 # Genetic Mechanisms
+
+[Responses template if needed](https://docs.google.com/document/d/1Nj0aQW8-ykBQd3riqBY8xzJuSdCwo2Oh-QOml3HAOGo/edit?usp=sharing)
+
 <!-- 
 <hr>
 
@@ -11,6 +14,8 @@ Genes exert their effects on behavior via the proteins and protein expression th
 :::
 
 ## Genetics Primer
+
+Just to remind you of the sorts of molecules we are thinking about today.
 
 ### Proteins
 
@@ -82,7 +87,7 @@ genome
 
 ## Sexual Reproduction: mixing things up
 
-An animal's behavior is comprised of many phenotypes. For example, one person might: participate in a lot of sports, spend a lot of their time socializing with other people, and read a lot; while another person might: not do any sports, spend most of their time alone, and write a lot. Let's consider that these two people mated. If all of their offspring were either "just like one parent" or "just like the other parent", then it might infer that the genes underlying all three of these behaviors are *linked*.
+An animal's behavior is comprised of many phenotypes. For example, one person might: participate in a lot of sports, spend a lot of their time socializing with other people, and read a lot; while another person might: not do any sports, spend most of their time alone, and write a lot. Let's consider that these two people mated. If all of their offspring were either "just like one parent" or "just like the other parent", then it might infer that the genes underlying all three of these behaviors are *linked*. 
 
 :::{glossary}
 
@@ -91,16 +96,18 @@ genetic linkage
  
 ::: 
 
+In animal behavior, we often think of multi-trait phenotypes as *personalities* or *syndromes*. The ability of traits to be correlated with each other depends on the mechanisms of heritability and sexual reproduction. 
+
 ### Independent Assortment
 
-In sexual reproduction, gametes are produced from the genome of a parent. Genes on separate chromosomes *assort independently* because of the random orientation of homologous chromosome pairs during meiosis. 
+In sexual reproduction, gametes are produced from the genome of a parent. For each chromosome (DNA strand), each gamete carries one of the two parental versions. During meiosis (before the pairs of parental chromosomes are reduced to individual chromosomes), chromosome pairs line up with random orientation across the midline. Therefore, genes on separate chromosomes *assort independently* - ie. they ***get randomly mixed up***. Importantly, *independent assortment* results in suites of traits that are ***uncorrelated*** across individuals (in otherwords, individuals each get a random mix of phenotype possibilities... at least for phenotypes controlled by genes on separate chromosomes).  
 
 :::{figure-md} Making-Gametes-KhanAcademy
 :class: figure
 
 <img src="/images/Making-Gametes-KhanAcademy.png" alt="fishy" width="500px">
 
-The homologues of each pair separate in the first stage of meiosis. In this process, which side the male parent and female parent chromosomes of each pair go to is random. When we are following two genes, this results in four types of gametes that are produced with equal frequency. Image from [Khan Academy](https://www.khanacademy.org/science/ap-biology/heredity/non-mendelian-genetics/a/linkage-mapping)
+The homologues of each chromosome pair separate in the first stage of meiosis. In this process, which side the male parent and female parent chromosomes of each pair go to is random. When we are following two genes, this results in four types of gametes that are produced with equal frequency (ie. randomly mixed). Image from [Khan Academy](https://www.khanacademy.org/science/ap-biology/heredity/non-mendelian-genetics/a/linkage-mapping)
 
 :::
 
@@ -120,26 +127,33 @@ Independent assortment and recombination both contribute the the genetic variati
 
 ### Gene-Phenotype Trends
 
-The biochemistry of heritability through sexual reproduction leads to predictable associations:
-1. between the number of genes and the distribution of phenotypes 
-2. between genetic linkage and correlations among different phenotypes
+The biochemistry of heritability through sexual reproduction leads to relationships between:
+1. the number of genes and the distribution of phenotypes 
+2. genetic linkage and correlations among different phenotypes
 
-These predictable associations scaffold an approach to studying the genetic mechanisms of animal behavior.
+These two predictable associations scaffold popular approaches to studying the genetic mechanisms of animal behavior. Figure 61 shows these relationships in more detail.
 
 :::{figure} /images/gene-phenotype-trends.png
 :width: 500
 
-Many animals burrow, but different species exhibit different types of burrowing behavior. Consider three main features to burrowing behavior that can be measured: tunnel length (X), tunnel depth (Y), and the presence of an escape tunnel (Z). Maybe one species digs short, shallow tunnels with no excape while another species digs long, deep tunnels with an excape. There are many different *genetic architectures* that could explain these species differences. Four examples are given: one *monogenetic* architecture and three *polygenic* architectures. Each of these different genetic architectures would yield different results if the two species were interbred. The results of genetic crosses can therefore be used to infer basic features of the genetic architecture for behavior. 
+Many animals burrow, but different species exhibit different types of burrowing behavior. Consider three main features to burrowing behavior that can be measured: tunnel length (X), tunnel depth (Y), and the presence of an escape tunnel (Z). Maybe one species digs *short, shallow tunnels with no escape* while another species digs *long, deep tunnels with an escape*. There are many different ***genetic architectures*** (ie. genotype patterns) that could explain these species differences. Four examples are given: one ***monogenetic*** architecture and three ***polygenic*** architectures. Each of these different genetic architectures would yield different phenotype distribution and correlation if the two species were interbred. ***The results of a genetic cross can therefore be used to infer basic features of the genetic architecture for behavior***. 
 :::
 
 ---
 > ⏳ 10 min 
 
-***Q1: How many total potential gamete allele combinations are there for genotype patterns \#2 and \#3***
+In Figure 61, 'linked' means that the genes (letters) on the same chromosome (gray bars) do not get separated during recombination (crossover events).
 
-***Q2: Based on the data for genotype pattern \#4, which gene(s) would you conclude coded for behaviors X, which genes for Y, and which genes for Z?*** 
+***Q1: How many total potential gamete allele combinations are there for genotype pattern \#3?***
 
-***Q3: If you genetically crossed (ie. mated) two individuals expressing different phenotypic variants of a behavior (ie. singing versus silent mating strategies), what would you need to measure/calculate in order to infer how many distinct chromosomal regions contribute to the behavior?***
+***Q2: In a population with a high correlation between traits X and Y, you would expect which of the following sets of phenotypes:
+    1. Individuals with long deep tunnels and individuals with short shallow tunnels
+    2. Individuals with long tunnels, individuals with short tunnels, individuals with shallow tunnels, individuals with deep tunnels.
+    3. Individuals with long deep tunnels, individuals with short shallow tunnels, individuals with long shallow tunnels, and individuals with short deep tunnels***
+
+***Q3: Based on the data for genotype pattern \#4, which gene(s) (A, B, R) would you conclude coded for behaviors X, which genes for Y, and which genes for Z? What is the evidence?*** 
+
+***Q4: When behavioral traits are genetically linked, it [ DECREASES / INCREASES ] (choose one) the number of different possible behavioral phenotypes in the population?***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -170,7 +184,7 @@ length 50 cm).[^hoekstra-2017]
 [^hoekstra-2017]: [Metz, Bedford, Pan, and Hoekstra. (2017) Evolution and Genetics of Precocious Burrowing Behavior in Peromyscus Mice. Current Biology 27(24).](https://doi.org/10.1016/j.cub.2017.10.061)
 
 
-Now, let's examine some genetic mechanistic questions. Ultimately, we want to identify genes that control burrowing behavior (ie. what genes explain phenotypic variation in the behavior). But first, we need to know if genes control the behavior at all. In other words, are burrowing behavior phenotypes ***inherited genetically or learned culturally***? Research using *P. maniculatus* and *P. polionotus* provide a great example of how to investigate these questions[^burrowing-behav-advantages]. 
+Now, let's examine some ***genetic mechanistic questions***. Ultimately, we want to identify genes that control burrowing behavior (ie. ***what genes explain phenotype variation in the behavior across animals/species***). But first, we need to know ***if genes control the behavior at all***. In other words, are burrowing behavior phenotypes ***inherited genetically or learned culturally***? Research using *P. maniculatus* and *P. polionotus* provide a great example of how to investigate these questions[^burrowing-behav-advantages]. 
 
 [^burrowing-behav-advantages]: Several features of Peromyscus burrowing behavior make it a well-suited system for tackling how genetic change leads to complex behavioral change. 
     - Burrowing behavior is largely innate.
@@ -186,7 +200,7 @@ Now, let's examine some genetic mechanistic questions. Ultimately, we want to id
 #### Cross Fostering
 
 
-To **cross-foster**, you rear offspring from animals exhibiting one phenotype with parents exhibiting another phenotype. The phenotype of cross-fostered offspring are then compared with the phenotype of offspring raised by biological parents. 
+To **cross-foster** animals, you rear offspring from animals exhibiting one phenotype for a trait with parents exhibiting another phenotype. The phenotype of cross-fostered offspring are then compared with the phenotype of offspring raised by biological parents. Cross-fostering experiments isolate pre-natal from post-natal factors effecting behavior. 
 
 
 :::{figure-md} cross-foster-burrow_Hoekstra-Fig2
@@ -202,11 +216,11 @@ Sample sizes for each age and foster group are shown. Significance levels are in
 ---
 > ⏳ 10 min 
 
-***Q4: What two metrics of burrowing behavior were used to quantify the burrowing behavioral phenotypes?***
+***Q5: What two metrics were used to quantify the behavioral phenotypes?***
 
-***Q5: Based on the data in Figure 63, you would conclude that burrowing behavior is ( genetically inherited / culturally learned ). (Select one answer choice). What evidence supports your conclusion?***
+***Q6: Based on the data in Figure 63, you would conclude that burrowing behavior is [ GENETICALLY INHERITED / CULTURALLY LEARNED ] (Select one answer choice). What evidence supports your conclusion?***
 
-***Q6: Plot the results that you would predict under the hypothesis that burrowing behavior is ( genetically inherited / culturally learned ). (Select and plot whichever you did not select for the last question)***
+***Q7: What "proportion digging escape tunnel" results would you predict under the hypothesis that burrowing behavior is [ GENETICALLY INHERITED / CULTURALLY LEARNED ] (Select whichever hypothesis is the alternative to your conclusion in Q6)***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -221,19 +235,16 @@ Once it has been determined that a behavior is inherited, there are three common
 
 #### 1: Genetic Cross
 
-Burrowing behavior has diverged significantly between two interfertile sister species, P. maniculatus and P. polionotus. Because they are interfertile, they can be genetically *crossed* (ie. mated). Genetic crosses afford powerful insight into the genetic basis of phenotypic variation (as you examined in Figure 61). Phenotype *heritability patterns* are a useful tool for inferring the number of and relationship among genes contributing to complex behavioral phenotyps. 
+Genetic crosses afford powerful insight into the genetic basis of phenotypic variation (as you examined in Figure 61). Phenotype *heritability patterns* are a useful tool for inferring the number of and relationship among genes contributing to complex behavioral phenotyps. 
+
+Burrowing behavior has diverged significantly between two interfertile sister species, P. maniculatus and P. polionotus. Because they are interfertile, they can be genetically *crossed* (ie. mated). 
 
 :::{figure} /images/burrowing-cross-design.png
 :width: 450
 
-Cross design for identifying the genetic architecture of burrowing differences
-between P. maniculatus (red) and P. polionotus (blue). The two species are crossed to
-generate F1 hybrids, which have a chromosome from each of the parents (red and
-blue). F1 hybrids, which produce P. polionotus-like burrows, are then backcrossed
-to P. maniculatus. The resultant backcross generation (BC) shows a range of burrow
-architectures: burrows that resemble the parents (short entrance tunnel without
-an escape tunnel, and long entrance tunnel with an escape tunnel) as well as new
-architectures (short entrance tunnel with an escape tunnel, and long entrance tunnel without an escape).[^Hu-Hoekstra-2017]
+Genetic cross design used to infer the genetic architecture of burrowing behavior. P. maniculatus (red) and P. polionotus (blue). The two species are crossed to generate F1 hybrids, which have a chromosome from each of the parents (red and
+blue). F1 hybrids, which produce P. polionotus-like burrows, are then backcrossed to P. maniculatus. The resultant backcross generation (BC) shows a range of burrow architectures: burrows that resemble the parents (short entrance tunnel without
+an escape tunnel, and long entrance tunnel with an escape tunnel) as well as new architectures (short entrance tunnel with an escape tunnel, and long entrance tunnel without an escape).[^Hu-Hoekstra-2017]
 :::
 
 [^Hu-Hoekstra-2017]: Hu, C. K., & Hoekstra, H. E. (2017). Peromyscus burrowing: A model system for behavioral evolution. Seminars in cell & developmental biology, 61, 107–114. https://doi.org/10.1016/j.semcdb.2016.08.001
@@ -257,19 +268,19 @@ interquartile ranges (median $\pm$ s.d.).[^Hu-Hoekstra-2017]
 :::
 ::::
 
-***Q7: Based on the data in Figure 65, the phenotypic variation in burrowing behavior among the BC generation is [ greater / less ] the parental generation? (Select One Choice)***
+***Q8: Based on the data in Figure 65, the phenotypic variation in burrowing behavior among the BC generation is [ GREATER / LESS ] (select one choice) the parental generation?***
 
-***Q8: Based on the data in Figure 65, would you conclude that burrowing behavior has a monogenic or polygenic architecture? Use the model in Figure 61 to explain your reasoning.***
+***Q9: Based on the data in Figure 65, would you conclude that burrowing behavior has a monogenic or polygenic architecture? Use the model in Figure 61 to explain your reasoning.***
 
 
-**Table 1**: *Correlations in backcross mice among two measures of entrance tunnel length (max and average) and the presence of an escape tunnel (where -1: anticorrelated, 0: uncorrelated, and 1: positively correlated)*
+**Table 1**: *Correlations in backcross mice among two measures of entrance tunnel length (max and average) and the presence of an escape tunnel, where -1: anticorrelated, 0: uncorrelated, and 1: positively correlated*
 
 | Trait | Escape Presence | Max Entrance |
 | :---: | :---: | :---: | 
 | **Max Entrance** | 0.29 |  | 
 | **Avg Entrance** | 0.23 | 0.94 |
 
-***Q9: Based on the results in Table 1, would you conclude that tunnel length and the presence of an escape behavior are orchestrated by different sets of genes or by the same genes? Use the model in Figure 61 to explain your reasoning.***
+***Q10: Based on the results in Table 1, would you conclude that tunnel length and the presence of an escape behavior are orchestrated by linked or unlinked genes? Use the model in Figure 61 to explain your reasoning.***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -282,14 +293,14 @@ interquartile ranges (median $\pm$ s.d.).[^Hu-Hoekstra-2017]
 
 The identification of genomic regions associated with behavioral phenotypes is a first step in the identification of causal genes responsible for variation in a naturally evolved, complex behavior. 
 
-Gregor Mendel was either clever or lucky enough to study traits of simple inheritance in his pea plants; however, many phenotypes of interest to modern geneticists are complex (*quantitative*). Understanding the genetic basis of quantitative traits requires a combination of modern molecular genetic techniques and powerful statistical methods.
+Gregor Mendel was either clever or lucky enough to study traits of simple inheritance in his pea plants; however, many phenotypes of interest to modern geneticists are complex (***quantitative***). Understanding the genetic basis of quantitative traits requires a combination of modern molecular genetic techniques and powerful statistical methods.
 
-**Quantitative Trait Locus (QTL) mapping** is a widely used statistical tool for this purpose. QTL mapping simply involves finding an association between a genetic marker and a phenotype that can be measured.
+**Quantitative Trait Locus (QTL) mapping** is a widely used statistical tool for this purpose. QTL mapping simply involves ***finding an association between a genetic marker and a phenotype*** that can be measured. ***The genetic marker contains information about which parental genome that section of chromosome came from***. 
 
 :::{figure} /images/QTL-mapping-plants.png
 :width: 350
 
-In QTL mapping, the parental alleles are shuffled by *crossing* parents and progeny to create a large *mapping population*.[^Mauricio-2001] In this example, genetic material from Parent 2 at the location of the black arrow seems associated with low trichome density. 
+In QTL mapping, the parental alleles are shuffled by *genetically crossing* parents and progeny to create a large ***mapping population***.[^Mauricio-2001] In this example, genetic material from Parent 2 (blue) at the location of the black arrow seems associated with low trichome density. 
 :::
 
 [^Mauricio-2001]: Figure from [Mauricio, R. Mapping quantitative trait loci in plants: uses and caveats for evolutionary biology. Nat Rev Genet 2, 370–381 (2001).](https://doi.org/10.1038/35072085)
@@ -297,10 +308,10 @@ In QTL mapping, the parental alleles are shuffled by *crossing* parents and prog
 :::{figure} /images/QTL-mapping-plants-regression.png
 :width: 300
 
-The phenotype and the multilocus genotype of each individual in the mapping population are measured. *Markers* along the genome that are specific to each parental genotype are targetted for analysis. There are several different statistical techniques available for QTL mapping. Essentially, it is a regression or correlation.[^Mauricio-2001]  
+The phenotype and the ***multilocus*** genotype of each individual in the mapping population are measured. *Markers* along the genome that are specific to each parental genotype are targetted for analysis. There are several different statistical techniques available for QTL mapping. Essentially, it is a regression or correlation. In this example, there is a correlation between genotype and phenotype at this marker location (A)[^Mauricio-2001].  
 :::
 
-To localize the causal regions for burrowing behavior in the genome, hybrid animals from a large genetic cross of P. maniculatus and P. polionotus were assayed for burrowing behavior and then genotyped. QTL mapping techniques were used to identify regions that explain phenotypic variation in burrowing. 
+To localize the causal regions for burrowing behavior in the genome, hybrid animals from a large genetic cross of *P. maniculatus* and *P. polionotus* were assayed for burrowing behavior and then genotyped. QTL mapping techniques were used to identify regions that explain phenotypic variation in the hybrid animals. 
 
 :::{figure-md} QTL-burrowing
 :class: figure
@@ -312,9 +323,11 @@ QTL analysis of burrowing variation.[^Weber-2013] a, Linkage groups (LGs; ie. re
 
 [^Weber-2013]: Figure from [Weber, J., Peterson, B. & Hoekstra, H. Discrete genetic modules are responsible for complex burrow evolution in Peromyscus mice. Nature 493, 402–405 (2013).](https://doi.org/10.1038/nature11816)
 
-***Q10: If a chromosomal region is a "QTL" for a behavior, then differences in __________ at that region, will likely cause differences in ____________.***
+***Q11: If a chromosomal region is a "QTL" for a behavior, then differences in the __________ at that region, will likely cause differences in ____________.***
 
-***Q11: The results of QTL mapping provides information about whether genes that control a behavior are linked or not. (TRUE or FALSE? Why / why not?)***
+***Q12: The results of QTL mapping provides information about whether genes that control a behavior are linked or not. (TRUE or FALSE? Why / why not?)***
+
+***Q13: LG 5 is not a QTL for entrance tunnel length. What would the results plot look like for entrance tunnel length as a function of LG 5 genotype?***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -327,9 +340,9 @@ After narrowing down a chromosomal region that explains some fraction of pheonty
 
 #### 3: Reverse Genetics
 
-It was previously generally thought that animal behaviors are too complex to be immediately determined by genetic factors. For example, male courtship behavior in Drosophila is a stereotyped sequence of FAPs in which a male follows a female, taps the female, sings a song by vibrating one wing, licks the female’s genitalia and curls the abdomen to attempt copulation. Male courtship behavior is obviously complex, however, it was one of the first behaviors found to be specified by a single gene. 
+For a long time, it was thought that animal behaviors are too complex to be immediately determined by genetic factors. For example, male courtship behavior in Drosophila is a stereotyped sequence of FAPs in which a male follows a female, taps the female, sings a song by vibrating one wing, licks the female’s genitalia and curls the abdomen to attempt copulation. Male courtship behavior is obviously complex, however, it was one of the first behaviors found to be specified by a single gene. 
 
-Using a *reverse genetic* approach, Demir and Diskson (2005)[^fruitless-dickson] showed that the fruitless gene is transcribed and translated differently in male and female flies. By splicing the fruitless gene in a "male" way (ie. a targeted manipulatino of the suspected gene of interest), they were able to ***induce*** male courtship behavior in female flies. Male homozygous fruitless mutants had normal genitalia but did not exhibit courtship behavior toward female flies. 
+Using a *reverse genetic* approach, Demir and Diskson (2005)[^fruitless-dickson] showed that the fruitless gene is transcribed and translated differently in male and female flies. For a reverse genetic approach, they manipulated the genome directly. Splicing the fruitless gene in a "male" way (ie. a targeted manipulation of the suspected gene of interest), ***induced*** male courtship behavior in female flies. Male homozygous fruitless mutants had normal genitalia but did not exhibit courtship behavior toward female flies. 
 
 [^fruitless-dickson]: [Ebru Demir and Barry J. Dickson (2005) fruitless Splicing Specifies Male Courtship Behavior in Drosophila. Cell 121(5)](https://doi.org/10.1016/j.cell.2005.04.027)
 
@@ -372,6 +385,8 @@ transmembrane domains. The sequences of the genomic clones have been deposited i
 [^Young1999]: Young, L., Nilsen, R., Waymire, K. et al. [Increased affiliative response to vasopressin in mice expressing the V1a receptor from a monogamous vole](https://doi.org/10.1038/23475). Nature 400, 766–768 (1999). 
 
 Young et al 1999 [^Young1999] did not find differences in the protein sequence of the V1a receptor gene. Instead, they found differences in the "microsatellite repeats" in the region of the genome read before the gene itself gets read. Although the V1a-R protein iteself is nearly identical between these two species, the protein ends up located in different parts of the brain. Microsatellite repeats do not effect the structure of a protein, but rather regulate where and when it is expressed (transcribed and translated).  
+
+We can return to this example when we talk about mating behavior.
 
 
 
