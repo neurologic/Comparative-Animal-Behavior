@@ -153,8 +153,8 @@ This graph shows the first evidence of hormone-mediated maternal effects in mamm
 [^Holekamp2013]: [Holekamp Kay E., Swanson Eli M. and Van Meter Page E. 2013Developmental constraints on behavioural flexibilityPhil. Trans. R. Soc. B36820120350](https://doi.org/10.1098/rstb.2012.0350) Figure 1b
 
 
-FAPs for aggression differ between males and females. 
-***Think about what this implies about the genetic, neural, and development mechanisms of aggression in males versus females.** 
+FAPs for aggression differ between males and females.  
+***Think about what this implies about the genetic, neural, and development mechanisms of aggression in males versus females.*** 
 > Do males and females have different alleles of the aggression genes (ie. are they sex-linked genes) or are there separate genes for male versus female aggression behaviors?
 > Do males and females have similar or different neural circuits for aggression? Which parts of the circuit might be different and which parts might be similar? 
 > Could a male fly be induced to develop female aggressive behaviors?
@@ -169,18 +169,32 @@ Motor programs used in fruit fly aggression. **A)** The Venn diagram shows the d
 [^Sengupta2022]: [Caroline B. Palavicino-Maggio and Saheli Sengupta (2022) The Neuromodulatory Basis of Aggression: Lessons From the Humble Fruit Fly. Front. Behav. Neurosci.](https://doi.org/10.3389/fnbeh.2022.836666) Figure 1
 
 
-
 ## Neural plasticity (ie. learning)
+
+:::{glossary} 
+
+imprinting
+ Famously described by zoologist Konrad Lorenz in the 1930s, ***imprinting*** occurs when an animal forms an attachment to the first thing it sees upon hatching. Lorenz discovered that newly hatched goslings would follow the first moving object they saw — often Lorenz himself. Researchers continue to examine imprinting as an example of tightly constrained learning that involves genetic predispositions. The imprinting of a young animal on one object necessarily closes down the possibility of its imprinting on others. There is normally a relatively restricted period in the first few hours or days of life during which imprinting can occur.
+
+associative learning
+ involves a behavioral response to one stimulus being transferred to another stimulus through repeated temporal association. For example, salivating at the sound of a dinner bell after you have learned that a dinner bell is a signal that dinner is available. 
+
+operant conditioning
+ involves the use of reward and punishment to modify behavioral responses to specific stimuli and requires personal experience to learn favorable stimulus-response relationships. For example, always wearing the same outfit on the day of a big presentation because the first time you wore it you gave the best presentation of your life. Or not challenging authority if you have been consistently been punished by challenging authority (ie. avoiding punishment). 
+
+cultural transmission
+ is the process of passing along non-inherited behavioral scripts across generations. Culture represents a collection of behavioral scripts that are generally agreed upon by a group of individuals. These behavioral scripts can be adaptive (learned) or arbitrary.
+
+:::
+
+Importantly, the ability to learn is genetically-encoded even though the learned material itself is not. 
+
 
 ## Transgenerational epigenetics
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pBkVx12yc2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
-## Summary
-What about 'species typical' behavior that is variable? Why does an animal behave the way it does? Maybe because of conditions it encountered during development, or even adulthood. Environments influence behavioral development. The environment can modulate development, generating sources of phenotypic variation. And events that happen during development can effect an animal's fitness as an adult. Early life conditions can have positive, negative, or no effects on behavioral development and fitness, either current or future, depending on the species and environment in which it lives.
+<iframe src="https://omny.fm/shows/clear-vivid-with-alan-alda/bianca-jones-marlin-preparing-kids-for-survival/embed" width="100%" height="180" allow="autoplay; clipboard-write" frameborder="0" title="Bianca Jones Marlin: Preparing Kids for Survival"></iframe>
 
 ## Additional Resources
 
