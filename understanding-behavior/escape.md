@@ -1,5 +1,18 @@
 # Escape
 
+:::{figure} /images/tritonia-escape.png
+
+Tritonia escape
+:::
+
+Workshop a central pattern generator (CPG) circuit for tritonia escape. 
+
+:::{figure} /images/mauthner-circuit.jpg
+
+The Mauthner cell escape circuit: sensory neuron, Mauthner cell, motor neurons, and muscles. The first step of the Mauthner-mediated escape is a ***c-shaped*** bend away from the source of the threatening stimulus.
+:::
+
+
 ## Reading
 
 - [Jun Liu, Monika Scholz (2020) Neural Circuits: Turning away from danger eLife 9:e59910](https://doi.org/10.7554/eLife.59910)

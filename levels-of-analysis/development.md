@@ -1,5 +1,7 @@
 # Development
 
+[Responses template if needed](https://docs.google.com/document/d/1-bB2-g43qwvfuGxjSpsZkHzYLy8W1fO84w2Kdw5nvnk/edit?usp=sharing)
+
 ::::{admonition} Why?
 
 :::{epigraph}

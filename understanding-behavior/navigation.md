@@ -1,95 +1,78 @@
 # Navigation
 
-## Searching
-
-### Case Study: c. elegans
-
-:::{figure-md} chemotax-circuit-celegans
-:class: figure
-
-<img src="/images/chemotax-circuit-celegans.jpg" alt="fishy" width="500px">
-
-Neural basis of chemotaxic behavior in worms.[^Larsch-2015]
-:::
-
-[^Larsch-2015]: [Johannes Larsch,  Steven W. Flavell, Qiang Liu, Andrew Gordus, Dirk R. Albrecht, Cornelia I. Bargmann. (2015) A Circuit for Gradient Climbing in C. elegans Chemotaxis. Cell Reports; 12(11).](https://doi.org/10.1016/j.celrep.2015.08.032)
-
-The innate capacity to chemoattract towards food cues was presumably shaped over evolutionary time scales to maximize fitness. This raises the possibility that animals will adhere to neuroeconomic-driven theories that postulate rationality in decision-making processes. Iwanir et al (2019)[^Iwanir] found that C. elegans worms violate key rational decision-making paradigms. Behavioral analysis of mutant strains demonstrates that the violations of rational optimal foraging are mediated by specific sensory neurons.
-
-[^Iwanir]: [Iwanir, S., Ruach, R., Itskovits, E. et al. Irrational behavior in C. elegans arises from asymmetric modulatory effects within single sensory neurons. Nat Commun 10, 3202 (2019).](https://doi.org/10.1038/s41467-019-11163-3)
-
-## Migration
-
-### Case Study: Pelicans and Ibis
-
-:::{figure-md} migration-formation-ibises
-:class: figure
-
-<img src="/images/migration-formation-ibises.jpg" alt="fishy" width="500px">
-
-Catching air. Northern bald ibises (Geronticus eremita) migrate in the perfect formation to take advantage of updrafts. MARKUS UNSÖLD (WALDRAPPTEAM).[^science-media-vformation]
-:::
-
-[^science-media-vformation]: [Why Birds Fly in a V Formation: Study in ibises suggests the animals are giving each other a lift (2014)]https://www.science.org/content/article/why-birds-fly-v-formation#
-
-Why migrate in groups?
-- Dilution hypothesis (reduced risk of predation by being in group)?
-- avoid getting separated?
-- selfish herd (reduce risk of predation by putting other individuals between you and predator)?
-- leader is better at finding the way?
-- reduced energy? (but only for the followers?)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SKXUJx2tCdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-:::{figure-md} migration-pelican
-:class: figure
-
-<img src="/images/migration-pelican.png" alt="fishy" width="400px">
-
-Wing-beat frequency and heart rate of pelicans engaged
-in various types of flight (mean51 s.d.). Birds flying over a river
-following a motor boat cruising at a constant speed of 48 km h11
-flew at an average altitude of 1 m above the water, initially alone
-at a distance from the boat (‘alone at 1 m’), but then joining other
-birds in formation (‘in formation’). Numbering of circles indicates
-the position in the formation, ‘1’ being the leader. In formation
-flights, only birds in or behind the third position were used to
-measure heart rate, to avoid the possible effects of motor-boat
-turbulence on flight pattern. Wing-beat frequency of the lead and
-second birds was measured in groups flying far from the boat.
-Birds flying with an ultralight aeroplane cruising at 55–60 km h11
-at an altitude of about 50 m were not able or willing to fly in the
-wake of the aircraft, and generally flew at a distance, using a
-flapping flight, at a speed of 45–50 km h11 (‘alone at 50 m’).
-Pelicans following the plane finished their flight of 3 km with a
-glide of 2–3 min (‘gliding’) before landing on the water. Heart
-rates averaged 77.6515.2 beats per min (b.p.m.) when resting,
-and reached 198.2518.7 and 204.9515.7 b.p.m. when
-paddling in water and when walking, respectively.[^Weimerskirch-2001]
-:::
-
-### Case Study: Blackcap
-
-The European blackcap exhibits enormous variation in migration and is renowned for research on its evolution and genetic basis.
-
-[Migration, it’s in their genes](https://elifesciences.org/digests/54462/migration-it-s-in-their-genes)[^Delmore-2020]  
-
-[^Delmore-2020]: [Kira Delmore, Juan Carlos Illera, Javier Pérez-Tris, Gernot Segelbacher, Juan S Lugo Ramos, Gillian Durieux, Jun Ishigohoka, Miriam Liedvogel (2020) The evolutionary history and genomics of European blackcap migration eLife 9:e54462](https://doi.org/10.7554/eLife.54462)
+Animals navigate in many different contexts. At the very least, navigation is a ***directed*** behavior in some way. It often requires that animals know where they are, know where they are going, and can compute the difference between the two.
 
 
-## Knowing where you are
+## Knowing where you are and where you are going
 
 ### Distance (Case Study: Ants)
 
-[Wittlinger, M., Wehner, R., & Wolf, H. (2006). The ant odometer: stepping on stilts and stumps. Science (New York, N.Y.), 312(5782), 1965–1967.](https://doi.org/10.1126/science.1126912)
+The navigation strategies of *Cataglyphis* ants have been extensively studied for decades. These ants are *thermophiles* that thrive in harsh desert environments. Remarkably, they can navigate long distances with few visual landmarks. 
+
+::::{margin} Tracking Ants
+:::{image} /images/tracking-ants.png
+:::
+::::
+
+:::{figure} /images/ant-navigation-route.png
+:width: 400
+
+*Cataglyphis* ants can return home directly after foraging along a path of over 200 m. 
+:::
+
+A simple ***displacement*** experiment shows that ants can tell how far they need to (and have) travelled.
+
+::::{margin} Displacement Experimental Setup
+:::{image} /images/displacement-experiment-setup.png
+:::
+::::
+
+:::{figure} /images/foraging-and-displaced-return.png
+:width: 300
+
+After embarking on a foraging run from the home nest (a) to a food site, an ant is displaced to a new location and released (b). Black dots represent the location of the ant at regular time intervals. The graph in (b) shows that the ant does not keep walking once it hits the expected location of the nest (relative to the foraging site) but instead starts searching behavior. 
+:::
+
+So how do they know how far they have gone? Wittlinger, Wehner, and Wolf[^Wittlinger-Wehner] hypothesized that ants were using "pacing" (counting steps) to estimate distance. To test this hypothesis, they manipulated the lengths of ants legs when they displaced ants from the foraging site to the release site. 
+
+:::{figure} /images/ant-pedometer-expt.png
+:width: 500
+
+**A**) Ant legs were either extended or shortened compared to the normal length control. **B**) The time spent at each location along the return run (*search density*) was quantified as a readout of where the ants expected the nest to be.
+:::
+
+:::{figure} /images/ant-opticflow-expt.png
+:width: 300
+
+**A**) One the return run, a striped grating was either moved faster than the ant, or moved in the opposite direction of the ant's travel. **B**) The distance travelled before searching for the home nest, as a function of the speed of the manipulated visual display.
+:::
+
+[^Wittlinger-Wehner]: [Wittlinger, M., Wehner, R., & Wolf, H. (2006). The ant odometer: stepping on stilts and stumps. Science (New York, N.Y.), 312(5782), 1965–1967.](https://doi.org/10.1126/science.1126912)
 
 ### Direction (Case Study: Migratory Birds)
 
+Many bird species migrate long distances. Even in the absence of visual cues, birds orient toward a specific direction when they take off to migrate
 
-:::{figure-md} magnetic-compass-direction
-:class: figure
+:::{figure} /images/testing-migration-direction.png
+:width: 600
 
-<img src="/images/magnetic-compass-direction.png" alt="fishy" width="800px">
+The apparatus shown in the photo (left) and the diagram (middle) is used to measure what direction a bird tries to migrate. The bird leaps from the center of the funnel and scratches the sides in the direction that they are headed (but they cannot actually fly out). The *polar plot* graph (right) shows the results.
+:::
+
+Research has shown that the earth's magnetic field provides a common directional cue used by birds.
+
+::::{margin} Many insects use the polarization pattern of sunlight as a direction cue
+:::{image} /images/polarized-light.png
+:::
+::::
+
+::::{margin} Rhodopsin molecules are sensitive to the polarity of light and are aligned with each other in insect eyes. 
+:::{image} /images/arthropod-eye-polarization-sense.png
+:::
+::::
+
+:::{figure} /images/magnetic-compass-direction.png
+:width: 800
 
 Manipulating the magnetic field to understand the compass mechanism.
 :::
@@ -99,6 +82,57 @@ Birds have a light-dependent magnetic compass that is suggested to be mediated b
 [^Muheim-2015]: [Polarized light modulates light-dependent magnetic compass orientation in birds](https://doi.org/10.1073/pnas.1513391113)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PRYmx7Lk9F0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Ants can also use magnetic field cues, but the biological mechanism of sensory transduction is not known.
+
+:::{figure} /images/ant-magnetic-field-expt.png
+:width: 500
+
+This experiment demonstrates that ants can use a magnetic field to determine their orientation in space. **A**) experimental setup in which the magnetic field around an ant can be controlled. **B**) Two different experimental conditions with the orientation of the magnatic field rotated 90 degrees. **C**) When ants leave the nest for a foraging trip, they perform "look backs" toward the nest site. Comparing the orange to the blue condition shows that the ants use magnetic field cues to determine the direction of the nest relative to where they are heading. 
+:::
+
+### The Neural Compass
+
+:::{figure} /images/central-complex-phylogeny.png
+:width: 700
+
+The central complex is a brain structure that, across all insects, provides the animal with the ability to keep track of where it is heading. 
+:::
+
+:::{figure} /images/protocerebral-bridge-cues.png
+:width: 700
+
+The protocerebral bridge is comprised of neurons that are each *tuned to* a specific direction. The direction is determined by whichever sensory cues that animal uses.
+:::
+
+## Case Study: *c. elegans* searching behavior
+
+Research in the nematode worm *c. elegans* has provided some of the most well-understood proximate explanations for chemotaxis behavior (orienting and moving toward odor sources). 
+
+:::{figure} /images/chemotax-circuit-celegans.jpg
+:width: 400
+
+Neural basis of chemotaxic behavior in worms.[^Larsch-2015] A relatively simple neural circuit explains the behavior in which worms navigate toward the location of food. Instead of explicitly "following" an odor concentration gradient, "turning" FAPs are suppressed when odor concentration is increasing. 
+:::
+
+[^Larsch-2015]: [Johannes Larsch,  Steven W. Flavell, Qiang Liu, Andrew Gordus, Dirk R. Albrecht, Cornelia I. Bargmann. (2015) A Circuit for Gradient Climbing in C. elegans Chemotaxis. Cell Reports; 12(11).](https://doi.org/10.1016/j.celrep.2015.08.032)
+
+The innate capacity to chemoattract towards food cues was presumably shaped over evolutionary time scales to maximize fitness. This raises the possibility that animals will adhere to basic principles of rational (ie adaptive) decision making. Iwanir et al (2019)[^Iwanir] found that C. elegans worms violate key rational decision-making paradigms. For example, if they preferred odor A over odor B, and odor B over odor C, they would *not* necessarily prefer odor A over odor C. Behavioral analysis of mutant strains demonstrates that the violations of rational optimal foraging are mediated by specific sensory neurons.
+
+[^Iwanir]: [Iwanir, S., Ruach, R., Itskovits, E. et al. Irrational behavior in C. elegans arises from asymmetric modulatory effects within single sensory neurons. Nat Commun 10, 3202 (2019).](https://doi.org/10.1038/s41467-019-11163-3)
+
+## Case Study: European Blackcap migration behavior
+
+The European blackcap exhibits enormous variation in migration and is renowned for research on its evolution and genetic basis.
+
+Migration is a multi-trait phenotype (ie. *syndromes*) and different blackcap populations differ in their propensity to migrate as well as the orientation and the distance of migration. Some blackcaps travel rather short distances, others much further, and some populations do not migrate at all. Populations that share the same breeding grounds in the summer may migrate in different directions in the autumn. These features make it a good species to study the genetic variation between populations that migrate in different directions and over different distances.[^blackcap-migration-ed]
+
+[^blackcap-migration-ed]: [Migration, it’s in their genes](https://elifesciences.org/digests/54462/migration-it-s-in-their-genes)
+
+ Delmore et al.[^Delmore-2020] sequenced the genome of blackcaps to investigate the phylogeny of migratory behavior among these populations. The genomes of 110 blackcaps from several populations that take different annual migrations were analyzed. The analysis revealed that populations began to diverge in their migratory behavior \~30,000 years ago and that only a small set of genes code for their differences in migration. In particular, genetic differences underlying different migratory behavior tend to be in the parts of the genome that control whether a given gene is switched on or off rather than in the genes themselves.
+
+[^Delmore-2020]: [Kira Delmore, Juan Carlos Illera, Javier Pérez-Tris, Gernot Segelbacher, Juan S Lugo Ramos, Gillian Durieux, Jun Ishigohoka, Miriam Liedvogel (2020) The evolutionary history and genomics of European blackcap migration eLife 9:e54462](https://doi.org/10.7554/eLife.54462)
 
 
 ## Additional Resources
