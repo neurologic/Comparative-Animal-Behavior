@@ -57,7 +57,7 @@ In this experiment, phenotypically indistinct salamander larvae were housed toge
 ***Q1: How does this experiment provide evidence that the phenotypic variation in foraging behavior among salamanders is a polyphenism versus a polymorphism?***
 
 ***Q2: Which of the following statements would you agree with (select all that apply and write a brief statement of your reasoning for each statement that you agree with):  
-	a. Mechanisms that alter either DNA or histone methylation are activated by neural sensory filters that are sensitive to the touch of conspecifics  
+	a. Mechanisms that alter either gene expression are activated by neural sensory filters that are sensitive to the touch of conspecifics  
 	b. The fitness of the cannibal phenotype is higher than the fitness of the normal phenotype  
 	c. The fitness of the cannibal phenotype increases when a larger fraction of the population are normal phenotype  
 	d. It would be more appropriate to model an evolutionary explanation of foraging behavior in salamanders using game theory than optimality theory.***
