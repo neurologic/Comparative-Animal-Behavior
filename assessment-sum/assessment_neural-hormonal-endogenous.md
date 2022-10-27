@@ -11,7 +11,7 @@ This exam is open note/book/web, but must be done independently. Do not consult 
 
 Answer all questions either electronically or by hand. Label each of your answers with the corresponding question number (Q1 - Q10). Scan or convert your document to a good quality PDF. Upload to gradescope by the deadline. 
 
-***Please don't hesitate to ask for clarifation on the wording of questions and/or expectations.*** I have revised the format of the text so that key expectations are highlighted (rather than using bold font for the entire question).
+***Please don't hesitate to ask for clarifation on the wording of questions and/or expectations.*** I have revised the format of the text so that key expectations are highlighted (rather than using bold font for the entire question). For any multiple choice question that asks for an explanation of your reasoning: I am looking for a correct answer selection as well as reasoning for selecting that answer - the reasoning should logically (and unabiguously) explain for your answer selection. Not all multiple choice questions require for reasoning.
 
 
 ## Section 1
@@ -20,7 +20,7 @@ Answer all questions either electronically or by hand. Label each of your answer
 
 A research group found that depolarizing (ie. activating) neurons in the Central Nucleus of the Amygdala (CeA) in a mouse immediately causes that mouse to produce FAPs for hunting behavior. Under natural conditions, neurons in CeA depolarize more (via input from a sensory filter) in response to a prey stimulus that is “stronger.” A stronger stimulus could be something that is moving faster and/or shaped more like a delicious insect. 
 
-**Q1 (3 points; \~5 minutes)**: This result is most relevant for explaining ____________ for specific behaviors in Lorenz’s model.  
+**Q1 (3 points; \~5 minutes)**: The result that CeA depolarization triggers hunting FAPs is most relevant for explaining ____________ for specific behaviors in Lorenz’s model.  
 (***Choose one option*** from the list below that fills in the blank most appropriately. THEN, ***briefly state why*** you chose that answer.)  
 a) motivation  
 b) innate releasing mechanisms  
@@ -32,7 +32,7 @@ e) instincts
 **Q2 (2 points; \~3 minutes)**: Under natural conditions, visual sensory filters are responsible for making sure that mice only perform hunting FAPs toward prey items (such as crickets) and not toward inanimate objects or conspecifics. ***Complete the plot below*** so that it is consistent with the responses you would predict from a sensory filter that ***inhibits*** (hyperpolarizes) neurons in the CeA. 
 
 :::{image} ../images/sensory-filter-exam-plot.png
-:width: 200
+:width: 250
 :align: center
 :::
 
@@ -62,18 +62,25 @@ d) spontaneous drive
 
 ## Section 2
 
-*(This section could take you \~20 minutes total)*
+*(This section could take you \~25 minutes total)*
 
 :::{image} /images/CPG-connections.png
 :width: 400
 :align: center
 :::
 
-**Figure 1** A central pattern generator (CPG) for locomotion. Inhibitory synapses are denoted with a filled circle line ending. Excitatory synapses are denoted with a bar line ending. **Limb CPG**: The extensor (E) and flexor (F) motor neurons for each limb communicate with each other via inhibitory synapses. Each limb CPG (for all four limbs of a quadrapedal animal) is represented in the Gait CPG as a circle with a tilde symbol inside. **Gait CPG**: Limb CPGs are connected with each other to coordinate the movement among all limbs during locomotion. **TABLE**: The table at the bottom shows three different gait patterns (**A**, **B**, and **C**). At each moment in time (from left to right), the horizontal bars denote when the extensor muscle for each limb is contracted. 
+**Figure 1** A central pattern generator (CPG) for locomotion. *Inhibitory synapses* are denoted with a *filled circle* line ending. *Excitatory synapses* are denoted with a *bar* line ending. **Limb CPG**: The extensor (E) and flexor (F) motor neurons for each limb communicate with each other via inhibitory synapses. Each limb CPG (for all four limbs of a quadrapedal animal) is represented in the Gait CPG as a circle with a *tilde* symbol inside. **Gait CPG**: Limb CPGs are connected with each other to coordinate the movement among all limbs during locomotion.  
 
-**Q6 (2 points; \~5 minutes)**: Which of the gait patterns shown in the Figure 1 table (**A**, **B**, or **C**) would the Gait CPG in Figure 1 produce? (***Choose the one correct option***)
+**Table 1**: The table below shows three different gait patterns (**A**, **B**, and **C**). At each moment in time (from left to right), the horizontal bars denote when the extensor muscle for each limb is contracted.
 
-**Q7 (3 points; \~7 minutes)**: The excitatory command neuron (*not shown*) that activates this Gait CPG in Figure 1 has receptors for melatonin. In an animal that locomotes more at night than during the day, would you expect melatonin to ***decrease or increase*** the membrane potential of the command neuron? ***Briefly explain why***.
+:::{image} /images/CPG-connections-output-options.png
+:width: 400
+:align: center
+:::
+
+**Q6 (3 points; \~7 minutes)**: Which of the gait patterns shown in Table 1 (**A**, **B**, or **C**) would the Gait CPG in Figure 1 produce? (***Choose the one correct option. Then briefly explain your reasoning.***)
+
+**Q7 (3 points; \~7 minutes)**: The excitatory command neuron (*not shown*) that activates the Gait CPG in Figure 1 has receptors for melatonin. In an animal that locomotes more at night than during the day, would you expect melatonin to ***hyperpolarize or depolarize*** the membrane potential of the command neuron? ***Answer the question and then briefly explain your reasoning***.
 
 
 ## Section 3
@@ -92,9 +99,9 @@ d) spontaneous drive
 (***Choose the one correct option*** from the list below. THEN ***briefly explain*** your reasoning.)  
 a) The rodent does not have an endogenous clock  
 b) The rodent has an endogenous clock  
-c) The rodent’s endogenous clock is entrained by darkness. 
+c) The rodent’s endogenous clock does not work in constant darkness. 
 
-**Q9 (2 points; \~5 minutes)**: During times of increased predation risk, this rodent is known to follow the activity pattern in Figure 2B. Which of the following statements best describes the results shown in Figure 2B:  
+**Q9 (2 points; \~5 minutes)**: During times of increased predation risk, this rodent is known to follow the activity pattern in ***Figure 2B***. Which of the following statements best describes the results shown in Figure 2B:  
 (***Choose the one correct option*** from the list below.)  
 a) The rodent is least active during darkness.  
 b) The rodent’s behavior cannot be predicted by the time of day, instead it uses light to entrain its endogenous rhythm.  
