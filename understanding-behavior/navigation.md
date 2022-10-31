@@ -5,7 +5,124 @@ Animals navigate in many different contexts. At the very least, navigation is a 
 
 ## Knowing where you are and where you are going
 
-### Distance (Case Study: Ants)
+***Q1: What cues can you think of that animals could use to tell which direction they need to move?***
+
+***Q2: If you were given a compass-based "heading" starting in this classroom, how would you maintain that heading without the compass while you travelled 1 mile away from the classroom?***
+
+
+## Direction
+
+### Earth's Magnetic Field
+
+:::{figure} /images/magnetic-field-inclination-intensity.png
+:width: 500
+
+The arrows near the Earth’s
+surface indicate the intensity (lengths of arrows), direction (direction of arrowhead), and angle of inclination (steepness of the arrows in
+relation to the surface of the Earth) of the magnetic field at a particular site.
+:::
+
+:::{figure} /images/world-magnetic-model.png
+:width: 500
+
+Total intensity (yellow lines) and inclination (red lines) of the Earth’s magnetic field according to the World Magnetic Model
+(WMM) 2000 (http://geomag.usgs.gov/). The total intensity is shown in 5000 nT steps and the inclination is shown in 10  steps.
+:::
+
+
+#### Case Study: Migratory Birds
+
+Many bird species migrate long distances. Even in the absence of visual cues, birds orient toward a specific direction when they take off to migrate. What tools do they use to navigate?
+
+:::{figure} /images/Emlen-funnel.png
+:width: 600
+
+Inside this funnel-shaped, circular cage, which can either be lined with a recording
+paper (such as typewriter correction paper or thermal paper) or blank newspaper and an inkpad at the bottom, songbirds will hop. Either
+method results in marks (scratch marks or ink blotches, respectively) on the paper, which indicate the direction the bird was hopping.
+During migration, songbirds will tend to hop in the direction in which they would be flying when placed in Emlen funnels during dusk or
+evening. To test for solely magnetic orientation, visual cues can be blocked by covering the funnel with opaque, white Plexiglas.
+:::
+
+:::{figure} /images/testing-migration-direction.png
+:width: 300
+
+This *polar plot* graph shows the results of an Emlen funnel experiment. Triangles mark the direction of each scratch and the center arrow is the mean vector of intended travel estimated from the raw data.
+:::
+
+Research has shown that the earth's magnetic field provides a common directional cue used by birds.
+
+:::{figure} /images/magnetic-compass-direction.png
+:width: 800
+
+Manipulating the magnetic field to understand the compass mechanism.
+:::
+
+:::{figure} /images/avian-compass.png
+:width: 300
+
+The birds’ inclination compass is not sensitive to
+the direction of the magnetic field, but rather its alignment and sign of inclination. Birds do not distinguish between ‘north’ and ‘south,’
+but between ‘equatorwards’ and ‘polewards.’ The side of the magnetic axis where the magnetic field lines meet with the horizon
+always leads toward the pole, in both the northern and the southern hemispheres, and the side where the field lines and the horizon
+diverge always leads toward the magnetic equator.
+:::
+
+Birds have a light-dependent magnetic compass that is suggested to be mediated by light-induced, biochemical reactions in specialized magnetoreceptor molecules in the avian retina. Overhead polarized light modulates radical pair-based magnetic compass orientation.[^Muheim-2015]
+
+[^Muheim-2015]: [Polarized light modulates light-dependent magnetic compass orientation in birds](https://doi.org/10.1073/pnas.1513391113)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PRYmx7Lk9F0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Birds would be able to
+‘see’ the magnetic field lines as a three-dimensional pattern
+of light irradiance (i.e., brightness) or color variation
+in their visual field or through a dedicated parallel pathway
+in the brain.
+
+Ants can also use magnetic field cues, but the biological mechanism of sensory transduction is not known.
+
+:::{figure} /images/ant-magnetic-field-expt.png
+:width: 500
+
+This experiment demonstrates that ants can use a magnetic field to determine their orientation in space. **A**) experimental setup in which the magnetic field around an ant can be controlled. **B**) Two different experimental conditions with the orientation of the magnatic field rotated 90 degrees. **C**) When ants leave the nest for a foraging trip, they perform "look backs" toward the nest site. Comparing the orange to the blue condition shows that the ants use magnetic field cues to determine the direction of the nest relative to where they are heading. 
+:::
+
+
+### Light polarization
+
+
+:::{figure} /images/polarized-light.png
+:width: 600
+
+Many insects use the polarization pattern of sunlight as a direction cue
+:::
+
+
+:::{figure} /images/arthropod-eye-polarization-sense.png
+:width: 400
+
+Rhodopsin molecules are sensitive to the polarity of light and are aligned with each other in insect eyes. 
+:::
+
+
+***Q: What do you notice about the location of the sun on the horizon throughout the year? How would this impact the ability of animals to use sunlight polarization cues for global heading?***
+
+### The Neural Compass
+
+:::{figure} /images/central-complex-phylogeny.png
+:width: 700
+
+The central complex is a brain structure that, across all insects, provides the animal with the ability to keep track of where it is heading. 
+:::
+
+:::{figure} /images/protocerebral-bridge-cues.png
+:width: 700
+
+The protocerebral bridge is comprised of neurons that are each *tuned to* a specific direction. The direction is determined by whichever sensory cues that animal uses.
+:::
+
+## Distance (Case Study: Ants)
 
 The navigation strategies of *Cataglyphis* ants have been extensively studied for decades. These ants are *thermophiles* that thrive in harsh desert environments. Remarkably, they can navigate long distances with few visual landmarks. 
 
@@ -49,63 +166,6 @@ So how do they know how far they have gone? Wittlinger, Wehner, and Wolf[^Wittli
 
 [^Wittlinger-Wehner]: [Wittlinger, M., Wehner, R., & Wolf, H. (2006). The ant odometer: stepping on stilts and stumps. Science (New York, N.Y.), 312(5782), 1965–1967.](https://doi.org/10.1126/science.1126912)
 
-### Direction (Case Study: Migratory Birds)
-
-Many bird species migrate long distances. Even in the absence of visual cues, birds orient toward a specific direction when they take off to migrate
-
-:::{figure} /images/testing-migration-direction.png
-:width: 600
-
-The apparatus shown in the photo (left) and the diagram (middle) is used to measure what direction a bird tries to migrate. The bird leaps from the center of the funnel and scratches the sides in the direction that they are headed (but they cannot actually fly out). The *polar plot* graph (right) shows the results.
-:::
-
-Research has shown that the earth's magnetic field provides a common directional cue used by birds.
-
-::::{margin} Many insects use the polarization pattern of sunlight as a direction cue
-:::{image} /images/polarized-light.png
-:::
-::::
-
-::::{margin} Rhodopsin molecules are sensitive to the polarity of light and are aligned with each other in insect eyes. 
-:::{image} /images/arthropod-eye-polarization-sense.png
-:::
-::::
-
-:::{figure} /images/magnetic-compass-direction.png
-:width: 800
-
-Manipulating the magnetic field to understand the compass mechanism.
-:::
-
-Birds have a light-dependent magnetic compass that is suggested to be mediated by light-induced, biochemical reactions in specialized magnetoreceptor molecules in the avian retina. Overhead polarized light modulates radical pair-based magnetic compass orientation.[^Muheim-2015]
-
-[^Muheim-2015]: [Polarized light modulates light-dependent magnetic compass orientation in birds](https://doi.org/10.1073/pnas.1513391113)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PRYmx7Lk9F0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-Ants can also use magnetic field cues, but the biological mechanism of sensory transduction is not known.
-
-:::{figure} /images/ant-magnetic-field-expt.png
-:width: 500
-
-This experiment demonstrates that ants can use a magnetic field to determine their orientation in space. **A**) experimental setup in which the magnetic field around an ant can be controlled. **B**) Two different experimental conditions with the orientation of the magnatic field rotated 90 degrees. **C**) When ants leave the nest for a foraging trip, they perform "look backs" toward the nest site. Comparing the orange to the blue condition shows that the ants use magnetic field cues to determine the direction of the nest relative to where they are heading. 
-:::
-
-### The Neural Compass
-
-:::{figure} /images/central-complex-phylogeny.png
-:width: 700
-
-The central complex is a brain structure that, across all insects, provides the animal with the ability to keep track of where it is heading. 
-:::
-
-:::{figure} /images/protocerebral-bridge-cues.png
-:width: 700
-
-The protocerebral bridge is comprised of neurons that are each *tuned to* a specific direction. The direction is determined by whichever sensory cues that animal uses.
-:::
-
 ## Case Study: *c. elegans* searching behavior
 
 Research in the nematode worm *c. elegans* has provided some of the most well-understood proximate explanations for chemotaxis behavior (orienting and moving toward odor sources). 
@@ -139,6 +199,7 @@ Migration is a multi-trait phenotype (ie. *syndromes*) and different blackcap po
 
 - [*Journal of Experimental Biology* special issue on **Navigation**](https://journals.biologists.com/jeb/issue/199/1)
 - [Sea Turtles: Navigation and Orientation C. M. F. Lohmann and K. J. Lohmann, University of North Carolina, Chapel Hill, NC, USA. 2010 Elsevier Ltd. All rights reserved.](https://www.reed.edu/biology/342_old/assets/readings/EofAB_Lohman2_turtle_migration.pdf)
+- [Magnetic Orientation in Migratory Songbirds](https://doi.org/10.1016/B978-0-08-045337-8.00363-6)
 - [Johannes Larsch,  Steven W. Flavell, Qiang Liu, Andrew Gordus, Dirk R. Albrecht, Cornelia I. Bargmann. (2015) A Circuit for Gradient Climbing in C. elegans Chemotaxis. Cell Reports; 12(11).]https://doi.org/10.1016/j.celrep.2015.08.032
 - [Weimerskirch, H., Martin, J., Clerquin, Y. et al. Energy saving in flight formation. Nature 413, 697–698 (2001).](https://doi.org/10.1038/35099670)
 - [Voelkl, B., Portugal, S. J., Unsöld, M., Usherwood, J. R., Wilson, A. M., & Fritz, J. (2015). Matching times of leading and following suggest cooperation through direct reciprocity during V-formation flight in ibis. Proceedings of the National Academy of Sciences of the United States of America, 112(7), 2115–2120. ](https://doi.org/10.1073/pnas.1413589112)
