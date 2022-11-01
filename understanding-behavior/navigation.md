@@ -5,9 +5,13 @@ Animals navigate in many different contexts. At the very least, navigation is a 
 
 ## Knowing where you are and where you are going
 
-***Q1: What cues can you think of that animals could use to tell which direction they need to move?***
+***Q1: How would you give someone directions from one of your classrooms to another classroom?***
 
 ***Q2: If you were given a compass-based "heading" starting in this classroom, how would you maintain that heading without the compass while you travelled 1 mile away from the classroom?***
+
+***Q3: What cues do Loggerhead sea turtles use to tell which direction they are headed in or need to go?***
+
+***Q4: Can you think of any other cues that animals could use to tell which direction they are headed or need to go?***
 
 
 ## Direction
@@ -15,7 +19,7 @@ Animals navigate in many different contexts. At the very least, navigation is a 
 ### Earth's Magnetic Field
 
 :::{figure} /images/magnetic-field-inclination-intensity.png
-:width: 500
+:width: 400
 
 The arrows near the Earth’s
 surface indicate the intensity (lengths of arrows), direction (direction of arrowhead), and angle of inclination (steepness of the arrows in
@@ -23,7 +27,7 @@ relation to the surface of the Earth) of the magnetic field at a particular site
 :::
 
 :::{figure} /images/world-magnetic-model.png
-:width: 500
+:width: 600
 
 Total intensity (yellow lines) and inclination (red lines) of the Earth’s magnetic field according to the World Magnetic Model
 (WMM) 2000 (http://geomag.usgs.gov/). The total intensity is shown in 5000 nT steps and the inclination is shown in 10  steps.
@@ -32,7 +36,13 @@ Total intensity (yellow lines) and inclination (red lines) of the Earth’s magn
 
 #### Case Study: Migratory Birds
 
-Many bird species migrate long distances. Even in the absence of visual cues, birds orient toward a specific direction when they take off to migrate. What tools do they use to navigate?
+Many bird species migrate long distances. Even in the absence of visual cues, birds orient toward a specific direction when they take off to migrate. What tools do they use to navigate during migration? How do we investigate what cues they use to migrate?
+
+Minimally, we need to be able to measure direction of migration and to manipulate cues. 
+
+To measure migration direction in a controlled environment, *Emlen funnels* are commonly used. The urge of migrants to move
+into migratory direction is so strong that even captive
+birds head into the respective direction in their cages.
 
 :::{figure} /images/Emlen-funnel.png
 :width: 600
@@ -45,48 +55,80 @@ evening. To test for solely magnetic orientation, visual cues can be blocked by 
 :::
 
 :::{figure} /images/testing-migration-direction.png
-:width: 300
+:width: 200
 
 This *polar plot* graph shows the results of an Emlen funnel experiment. Triangles mark the direction of each scratch and the center arrow is the mean vector of intended travel estimated from the raw data.
 :::
 
-Research has shown that the earth's magnetic field provides a common directional cue used by birds.
+The earth's magnetic field is a potential cue that birds could use to obtain consistent direction information across long distances. Manipulating a magnetic field takes a lot of specialized equipment, but is totally do-able. 
+
+:::{figure} /images/magnetic-field-manipulation.png
+:width: 400
+
+A magnetic cube coil for manipulation of the Earth’s
+magnetic field. On the table in the center of this coil are several
+Emlen funnels for testing bird orientation. Each is covered with
+opaque, translucent Plexiglas, which will block out visual cues
+but allow some light to enter the funnel. The coil is doubly
+wrapped with copper wires, which allow two magnetic vectors to
+be created in order to change the magnetic field so that it can
+point toward geographic north, east, south, or west depending
+on which wire(s) electric current is applied to.
+:::
+
+
+As humans, we are most familiar with a "north"/"south" compass. An ***inclination compass*** is not sensitive to the direction of the magnetic field, but rather its alignment and sign of inclination. Animals that use an inclanation compass do not distinguish between ‘north’ and ‘south,’
+but between ‘equatorwards’ and ‘polewards.’ 
+
+:::{figure} /images/inclination-compass.png
+:width: 500
+
+Inclination Compass. The diagram shows a vertical section through the geomagnetic field to illustrate
+the functional mode of the inclination compass. At different locations on the earth, the magnetic field vector intersects the gravitational vector at different angles and orientations. N, S, magnetic
+North and South. H, magnetic vector, with He, the vector of the
+geomagnetic field; Hh, Hv, horizontal and vertical component,
+respectively; g, gravity vector. » p «, » e « , ‘poleward’ and
+‘equatorward’, the readings of the inclination compass. The bird
+flies ‘poleward’. From Wiltschko and Wiltschko (2005) Magnetic orientation and magnetoreception in birds and other animals.
+:::
 
 :::{figure} /images/magnetic-compass-direction.png
-:width: 800
+:width: 400
 
-Manipulating the magnetic field to understand the compass mechanism.
+Top: Migration direction in each condition. Bottom: diagram of the magnetic field manipulation in each condition. 
 :::
 
-:::{figure} /images/avian-compass.png
-:width: 300
+***Q5: How does this experiment demonstrate that birds use the earth's magnetic field to determine migration direction? What additional manipulation would you need to do to show the same for humans (humans with the aid of our compasses).***
 
-The birds’ inclination compass is not sensitive to
-the direction of the magnetic field, but rather its alignment and sign of inclination. Birds do not distinguish between ‘north’ and ‘south,’
-but between ‘equatorwards’ and ‘polewards.’ The side of the magnetic axis where the magnetic field lines meet with the horizon
-always leads toward the pole, in both the northern and the southern hemispheres, and the side where the field lines and the horizon
-diverge always leads toward the magnetic equator.
-:::
-
-Birds have a light-dependent magnetic compass that is suggested to be mediated by light-induced, biochemical reactions in specialized magnetoreceptor molecules in the avian retina. Overhead polarized light modulates radical pair-based magnetic compass orientation.[^Muheim-2015]
+It seems that birds have a light-dependent magnetic compass that is mediated by "radical particle" biochemical reactions in specialized magnetoreceptor molecules in the avian retina. Overhead polarized light modulates radical pair-based magnetic compass orientation.[^Muheim-2015]
 
 [^Muheim-2015]: [Polarized light modulates light-dependent magnetic compass orientation in birds](https://doi.org/10.1073/pnas.1513391113)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PRYmx7Lk9F0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Birds would be able to
-‘see’ the magnetic field lines as a three-dimensional pattern
-of light irradiance (i.e., brightness) or color variation
-in their visual field or through a dedicated parallel pathway
-in the brain.
+Birds would be able to ‘see’ the magnetic field lines as a three-dimensional pattern of light irradiance (i.e., brightness) or color variation in their visual field or through a dedicated parallel pathway in the brain.
 
 Ants can also use magnetic field cues, but the biological mechanism of sensory transduction is not known.
 
 :::{figure} /images/ant-magnetic-field-expt.png
-:width: 500
+:width: 700
 
 This experiment demonstrates that ants can use a magnetic field to determine their orientation in space. **A**) experimental setup in which the magnetic field around an ant can be controlled. **B**) Two different experimental conditions with the orientation of the magnatic field rotated 90 degrees. **C**) When ants leave the nest for a foraging trip, they perform "look backs" toward the nest site. Comparing the orange to the blue condition shows that the ants use magnetic field cues to determine the direction of the nest relative to where they are heading. 
 :::
+
+Birds are very social species that often migrate in large flocks. Does migratory direction across generations get learned from parental populations or is it genetically-encoded?
+
+:::{figure} /images/blackcap-migration-genetic-test.png
+:width: 600
+
+A displacement experiment in which blackcap nestlings from two different parental populations were hand-reared and their orientation was later tested at the same
+site and under identical conditions. The map shows blackcap breeding (stippled) areas with major migration routes shown by arrows (based on tagging
+recovery experiments). Circular diagrams show individual mean vectors of orientation of hand-raised birds from west (left) and east (right) of the central European migratory divide. Each vector is based on 8–15 active tests using a modified Emlen funnel technique 
+:::
+
+***Q6: What does this experiment tell us about the genetic basis of migratory behavior in blackcaps? What experiment would your group decide to follow up with next and why?***
+
+***Q7: From the perspective of proximate mechanisms, would you consider the magnetic compass bearing of Loggerhead sea turtles as something that is genetically-inherited or learned? What is your evidence from the reading?***
 
 
 ### Light polarization
@@ -105,22 +147,38 @@ Many insects use the polarization pattern of sunlight as a direction cue
 Rhodopsin molecules are sensitive to the polarity of light and are aligned with each other in insect eyes. 
 :::
 
-
-***Q: What do you notice about the location of the sun on the horizon throughout the year? How would this impact the ability of animals to use sunlight polarization cues for global heading?***
+What do you notice about the location of the sun on the horizon throughout the year? How would this impact the ability of animals to use sunlight polarization cues for global heading?
 
 ### The Neural Compass
+
+The ***central complex*** is a brain structure that, across all insects, provides the animal with the ability to keep track of where it is heading. Neurons in the central complex are "tuned to" ("encode") the heading direction. When an animal changes its heading, a different set of central complex neurons becomes active. 
 
 :::{figure} /images/central-complex-phylogeny.png
 :width: 700
 
-The central complex is a brain structure that, across all insects, provides the animal with the ability to keep track of where it is heading. 
+A phylogeny of insects showing anatomical similarity of the central complex.
 :::
 
 :::{figure} /images/protocerebral-bridge-cues.png
 :width: 700
 
-The protocerebral bridge is comprised of neurons that are each *tuned to* a specific direction. The direction is determined by whichever sensory cues that animal uses.
+The protocerebral bridge is comprised of neurons that are each *tuned to* a specific direction - they have the highest spike rate when the animal is headed in their preferred direction. The direction is determined by whichever sensory cues that animal uses.
 :::
+
+## Path Integration
+
+When an animal goes out foraging for food, it must navigate back to its home after it finds food. What path do animals take and how do they navigate that journey?
+
+:::{figure} /images/path-integration-prediction.png
+:width: 600
+
+The **foraging journey** of an ant is shown on the left. Two potential trajectories back home are given in **A** and **B**.
+:::
+
+***Q8: Which path do you think the ant will take home? A or B?***
+
+***Q9: What information do the animals need to keep track of where they have travelled, and subsequently how to find their way home?***
+
 
 ## Distance (Case Study: Ants)
 
@@ -190,7 +248,7 @@ Migration is a multi-trait phenotype (ie. *syndromes*) and different blackcap po
 
 [^blackcap-migration-ed]: [Migration, it’s in their genes](https://elifesciences.org/digests/54462/migration-it-s-in-their-genes)
 
- Delmore et al.[^Delmore-2020] sequenced the genome of blackcaps to investigate the phylogeny of migratory behavior among these populations. The genomes of 110 blackcaps from several populations that take different annual migrations were analyzed. The analysis revealed that populations began to diverge in their migratory behavior \~30,000 years ago and that only a small set of genes code for their differences in migration. In particular, genetic differences underlying different migratory behavior tend to be in the parts of the genome that control whether a given gene is switched on or off rather than in the genes themselves.
+Delmore et al.[^Delmore-2020] sequenced the genome of blackcaps to investigate the phylogeny of migratory behavior among these populations. The genomes of 110 blackcaps from several populations that take different annual migrations were analyzed. The analysis revealed that populations began to diverge in their migratory behavior \~30,000 years ago and that only a small set of genes code for their differences in migration. In particular, genetic differences underlying different migratory behavior tend to be in the parts of the genome that control whether a given gene is switched on or off rather than in the genes themselves.
 
 [^Delmore-2020]: [Kira Delmore, Juan Carlos Illera, Javier Pérez-Tris, Gernot Segelbacher, Juan S Lugo Ramos, Gillian Durieux, Jun Ishigohoka, Miriam Liedvogel (2020) The evolutionary history and genomics of European blackcap migration eLife 9:e54462](https://doi.org/10.7554/eLife.54462)
 
