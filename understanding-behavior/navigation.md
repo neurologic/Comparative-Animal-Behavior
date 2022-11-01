@@ -216,10 +216,12 @@ So how do they know how far they have gone? Wittlinger, Wehner, and Wolf[^Wittli
 **A**) Ant legs were either extended or shortened compared to the normal length control. **B**) The time spent at each location along the return run (*search density*) was quantified as a readout of where the ants expected the nest to be.
 :::
 
+Ants (and other insects, expecially flying ones) can also use ***optic flow*** cues to estimate distance travelled. 
+
 :::{figure} /images/ant-opticflow-expt.png
 :width: 300
 
-**A**) One the return run, a striped grating was either moved faster than the ant, or moved in the opposite direction of the ant's travel. **B**) The distance travelled before searching for the home nest, as a function of the speed of the manipulated visual display.
+**A**) On the return run (from a found food site back to home), a striped grating was either moved faster than the ant (in the same direction of travel), or moved in the opposite direction of the ant's travel. **B**) The distance travelled before searching for the home nest, as a function of the speed of the manipulated visual display.
 :::
 
 [^Wittlinger-Wehner]: [Wittlinger, M., Wehner, R., & Wolf, H. (2006). The ant odometer: stepping on stilts and stumps. Science (New York, N.Y.), 312(5782), 1965–1967.](https://doi.org/10.1126/science.1126912)
