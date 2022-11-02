@@ -94,6 +94,10 @@ The Mauthner cell escape circuit (From Catania 2011[^Catania-2011]). An auditory
 
 [^Catania-2011]: [Catania K. C. (2011). The brain and behavior of the tentacled snake. Annals of the New York Academy of Sciences, 1225, 83–89.](https://doi.org/10.1111/j.1749-6632.2011.05959.x)
 
+#### Development
+
+***Q: What kinds of developmental explanations/questions can you think to ask about c-start escape behavior in fish?***
+
 ## Escape FAP code-breaking by the tentacled snake
 
 The following high-speed video taken by Kenneth Catania shows how the tentacled snake uses a body fake to trick fish into fleeing toward the snake's head. The video also shows how the snake aims its strike to a location where it expects the fish's head to be instead of tracking its movement.
