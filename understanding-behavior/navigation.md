@@ -5,10 +5,10 @@
 Animals navigate in many different contexts. At the very least, navigation is a ***directed*** behavior in some way. It often requires that animals know where they are, know where they are going, and can compute the difference between the two.
 
 
-## Knowing where you are and where you are going
-
 ---
 > ⏳ 10 min 
+
+## Knowing where you are and where you are going
 
 ***Q1: How would you give someone directions from one of your classrooms to another classroom?***
 
