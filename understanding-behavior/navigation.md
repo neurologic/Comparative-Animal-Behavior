@@ -1,9 +1,14 @@
 # Navigation
 
+[Responses template if you need it](https://docs.google.com/document/d/10TiT6DRMhufHsMX2CLQSzIffDFFm6X1F5GiS-TMUBHI/edit?usp=sharing)
+
 Animals navigate in many different contexts. At the very least, navigation is a ***directed*** behavior in some way. It often requires that animals know where they are, know where they are going, and can compute the difference between the two.
 
 
 ## Knowing where you are and where you are going
+
+---
+> ⏳ 10 min 
 
 ***Q1: How would you give someone directions from one of your classrooms to another classroom?***
 
@@ -12,6 +17,11 @@ Animals navigate in many different contexts. At the very least, navigation is a 
 ***Q3: What cues do Loggerhead sea turtles use to tell which direction they are headed in or need to go?***
 
 ***Q4: Can you think of any other cues that animals could use to tell which direction they are headed or need to go?***
+
+
+⏸️ PAUSE here for class-wide discussion
+
+---
 
 
 ## Direction
@@ -98,7 +108,14 @@ flies ‘poleward’. From Wiltschko and Wiltschko (2005) Magnetic orientation a
 Top: Migration direction in each condition. Bottom: diagram of the magnetic field manipulation in each condition. 
 :::
 
+---
+> ⏳ 3 min 
+
 ***Q5: How does this experiment demonstrate that birds use the earth's magnetic field to determine migration direction? What additional manipulation would you need to do to show the same for humans (humans with the aid of our compasses).***
+
+⏸️ PAUSE here for class-wide discussion
+
+---
 
 It seems that birds have a light-dependent magnetic compass that is mediated by "radical particle" biochemical reactions in specialized magnetoreceptor molecules in the avian retina. Overhead polarized light modulates radical pair-based magnetic compass orientation.[^Muheim-2015]
 
@@ -126,10 +143,16 @@ site and under identical conditions. The map shows blackcap breeding (stippled) 
 recovery experiments). Circular diagrams show individual mean vectors of orientation of hand-raised birds from west (left) and east (right) of the central European migratory divide. Each vector is based on 8–15 active tests using a modified Emlen funnel technique 
 :::
 
+---
+> ⏳ 5 min 
+
 ***Q6: What does this experiment tell us about the genetic basis of migratory behavior in blackcaps? What experiment would your group decide to follow up with next and why?***
 
 ***Q7: From the perspective of proximate mechanisms, would you consider the magnetic compass bearing of Loggerhead sea turtles as something that is genetically-inherited or learned? What is your evidence from the reading?***
 
+⏸️ PAUSE here for class-wide discussion
+
+--- 
 
 ### Light polarization
 
@@ -175,10 +198,16 @@ When an animal goes out foraging for food, it must navigate back to its home aft
 The **foraging journey** of an ant is shown on the left. Two potential trajectories back home are given in **A** and **B**.
 :::
 
+---
+> ⏳ 5 min 
+
 ***Q8: Which path do you think the ant will take home? A or B?***
 
 ***Q9: What information do the animals need to keep track of where they have travelled, and subsequently how to find their way home?***
 
+⏸️ PAUSE here for class-wide discussion
+
+---
 
 ## Distance (Case Study: Ants)
 
