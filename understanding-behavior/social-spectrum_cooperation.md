@@ -1,27 +1,73 @@
 # Grouping and Cooperation
 
+There is a spectrum of social behavior that ranges from ***not solitary*** to ***eusocial***. The categories along this spectrum are shifty. The main concepts today are ***grouping*** and ***cooperation***.
 
-## The effect of group size on vigilance
+## Grouping
 
-Record the following:
+### Case Study: An Insect’s Extreme Makeover
 
-Flock size
-The number of times they are in the ‘head up’ position
-The start and stop time of each ‘head up’ position.
-I recommend using a stopwatch for this. Here is a link to the video (https://www.youtube.com/watch?v=oeJHW5n-PXY):
+:::{image} /images/locust-phases.png
+::: 
+:::{admonition} MARTIN ENSERINK, Science 2004
+*Schistocerca gregaria*, the desert locust, is a dull-looking, shy insect that tends to stay put, avoid other locusts, fly by night, and never cause trouble. And then there’s the desert locust, Schistocerca gregaria, a conspicuous yellow-and-black—or bright pink when not fully mature—thrill seeker that bands together in swarms of billions that cross vast distances in broad daylight and devour tons of vegetation in their path. 
 
-Calculate the total number of ‘head up’ behaviors and the total duration of ‘head up’ for each flock size and enter into the following data sheet. Then share with your partner.
+So striking is the difference between the desert locust’s “solitary” and “gregarious” phases that it wasn’t until 1921 that Russian entomologist Boris Uvarov realized they were the same species. And only recently have scientists begun to piece together a detailed picture of how the insect switches from one phase to the other. University of Oxford entomologist Stephen Simpson, the uncontested leader in this small field, hopes that this understanding may eventually help prevent plagues. “The phase change is the defining feature of locust biology,” he says,“and also the main problem.”  
 
-## Dilution versus confusion
+The makeover is the locust’s answer to harsh life in the desert, Simpson explains. Most of the time, the sparse vegetation can sustain only small numbers of desert locusts, and they do best by staying out of one another’s way. After intense rain, however, plant life explodes and locust numbers skyrocket; when the inevitable drought sets in, the insects find themselves coalescing in high numbers around shrinking food
+supplies. This increased density is what triggers the shift from solitary to gregarious—presumably because, once they run out of food, the insects need to migrate and, like many species, they seek safety in numbers. 
+
+Researchers have long known that the locust’s behavior is the first thing to change. A solitary locust becomes more attracted to its mates and more active after spending just 4 hours in a crowded cage, for instance. The spectacular morphological transformation, on the other hand, can take several generations to complete. 
+
+When densities drop (for instance, when enough members of a swarm die) the process reverses.
+:::
+
+---
+> ⏳ 10 min 
+
+***Q1: What are some ultimate explanations provided by Enserink? What are some proximate explanations?***
+
+***Q2: In general, why might individuals be better off solitary?***
+
+***Q3: In what scenarios could grouping increase individual fitness?*** 
+
+⏸️ PAUSE here for class-wide discussion
+
+---
+
+### Case Study: The effect of group size on vigilance
+
+:::{figure} /images/feeding-vigilance.png
+:width: 400
+
+Feeding and vigilance behavior
+:::
+
+:::{figure} /images/vigilance-group-size-results.png
+:width: 700
+
+Results from analysis of vigilance behavior from [this video](https://youtu.be/oeJHW5n-PXY)
+:::
+
+### Case Study: Dilution versus confusion
 
 mayflies... number versus death rate
 targetting prey and ability to track 
 
-## Mobbing
+### Case Study: Mobbing
 
 kittyhawk gulls versus cliff nesting - phylogeny
 
-## Genetic Switch Case Study: Locusts
+
+---
+> ⏳ 5 min 
+
+## Cooperation
+
+***Q4: Cooperation seems helpful... are there any negative consequences of cooperating?***
+
+⏸️ PAUSE here for class-wide discussion
+
+---
 
 ## Grouping versus Cooperation
 
@@ -120,8 +166,8 @@ Vigilant: Head raised at or above horizontal plain and eyes open (to include sca
 - [V-formation flight commentary](https://www.science.org/content/article/why-birds-fly-v-formation)
 - Weimerskirch, H., Martin, J., Clerquin, Y. et al. [Energy saving in flight formation](https://doi.org/10.1038/35099670). Nature 413, 697–698 (2001).
 - Portugal, S., Hubel, T., Fritz, J. et al. [Upwash exploitation and downwash avoidance by flap phasing in ibis formation flight](https://doi.org/10.1038/nature12939). Nature 505, 399–402 (2014).
-- Raw Data from [behavioR package](https://github.com/DenaJGibbon/behaviouR) with the following script to convert to csv:
-	:::{code}
+- :::{dropdown} Raw Data from [behavioR package](https://github.com/DenaJGibbon/behaviouR) with the following script to convert to csv:
+	```
 	!pip install rdata
 	import rdata
 	import pandas as pd
@@ -129,4 +175,6 @@ Vigilant: Head raised at or above horizontal plain and eyes open (to include sca
 	parsed = rdata.parser.parse_file(path)
 	converted = rdata.conversion.convert(parsed)
 	converted['MeerkatScanData'].to_csv('MeerkatScanData.csv')
+	```
 	:::
+- [Serotonin Mediates Behavioral Gregarization Underlying Swarm Formation in Desert Locusts](https://doi.org/10.1126/science.1165939)
