@@ -1,10 +1,8 @@
 # Grouping and Cooperation
 
-There is a spectrum of social behavior that ranges from ***not solitary*** to ***eusocial***. The categories along this spectrum are shifty. The main concepts today are ***grouping*** and ***cooperation***.
+There is a spectrum of social behavior that ranges from ***not solitary*** to ***eusocial***. The categories along this spectrum are shifty. The main concepts considered today are ***grouping*** and ***cooperation***.
 
-## Grouping
-
-### Case Study: An Insect’s Extreme Makeover
+## Case Study: An Insect’s Extreme Makeover
 
 :::{image} /images/locust-phases.png
 ::: 
@@ -24,140 +22,203 @@ When densities drop (for instance, when enough members of a swarm die) the proce
 ---
 > ⏳ 10 min 
 
-***Q1: What are some ultimate explanations provided by Enserink? What are some proximate explanations?***
+***Q1: What are some ultimate explanations provided by Enserink about social behavior in locusts? What are some proximate explanations?***
 
-***Q2: In general, why might individuals be better off solitary?***
+***Q2: In general, why might individuals be better off solitary? (ie. what are some negative fitness effects of grouping).***
 
-***Q3: In what scenarios could grouping increase individual fitness?*** 
+***Q3: In general, what functions could grouping provide that would increase individual fitness?*** 
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
 
-### Case Study: The effect of group size on vigilance
+## Why group?
+
+### Passive Defense
+
+When the only "action" taken is to group.
+
+#### Dilution Effect
+
+Grouping may reduce the probability of any one individual being captured by predators. 
+
+:::{figure} /images/dilution-effect-butterflies.png
+:width: 300
+
+Risk to individual pierid butterflies of
+capture by smooth-billed anis as a function of the number of butterflies in clusters. For each cluster size, the mean number of butterflies captured was calculated and divided by cluster size to obtain the risk for individual butterflies in that size cluster. The number of butterflies captured per 15 min increased as the number of butterflies
+present increased, but reached a threshold beyond which
+the capture rate did not increase. The capture rate per individual butterfly (individual risk) decreased with group
+size up to a group of 40 individuals and remained low
+with further increases. An
+individual ani was unable to catch more than 16, regardless of group size. From Burger and Gochfeld 2001[^Burger-Gochfeld]
+:::
+
+[^Burger-Gochfeld]: [Burger, J., & Gochfeld, M. (2001). Smooth-billed ani (Crotophaga ani) predation on butterflies in Mato Grosso, Brazil: risk decreases with increased group size. Behavioral Ecology and Sociobiology, 49, 482-492.](https://doi.org/10.1007/s002650100327)
+
+#### Confusion Effect
+
+Grouping may reduce the likelihood of predators capturing prey because of their inability to single out and attack individual prey. It confuses predators that have difficulty tracking a single object.
+
+Hogan et al used a video game simulation to test this hypothesis.
+
+:::{figure} /images/confusion-effect-simulation-results.png
+:width: 400
+
+Results of the predator targeting simulation. Participant mean targeting error plotted against the natural logarithm of flock size. From Hogan et al 2017[^Hogan-2017](https://doi.org/10.1098/rsos.160564)
+:::
+
+[^Hogan-2017]: [The confusion effect when attacking simulated three-dimensional starling flocks]
+
+### Active Defense
+
+Specicalized anti-predator behaviors. 
+
+#### Case Study: The effect of group size on vigilance
 
 :::{figure} /images/feeding-vigilance.png
 :width: 400
 
-Feeding and vigilance behavior
+Feeding and vigilance behavior[^asab-vigilance-practical].
 :::
+
+[^asab-vigilance-practical]: [ASAB: Vigilance Behaviour in Barnacle Geese](https://static1.squarespace.com/static/55759105e4b0156262b76f6f/t/57d1bf59e58c62f0666aa5a9/1473363803399/EDU+ASAB+Vigilance+behaviour+barnacle+geese.pdf)
 
 :::{figure} /images/vigilance-group-size-results.png
 :width: 700
 
-Results from analysis of vigilance behavior from [this video](https://youtu.be/oeJHW5n-PXY)
+Example results from analysis of vigilance behavior from [this video](https://youtu.be/oeJHW5n-PXY)
 :::
-
-### Case Study: Dilution versus confusion
-
-mayflies... number versus death rate
-targetting prey and ability to track 
-
-### Case Study: Mobbing
-
-kittyhawk gulls versus cliff nesting - phylogeny
-
 
 ---
 > ⏳ 5 min 
 
-## Cooperation
-
-***Q4: Cooperation seems helpful... are there any negative consequences of cooperating?***
+***Q4: Explain these results that you collected in terms of a trade-off between feeding and vigilance behaviors and a function for grouping.***
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
 
-## Grouping versus Cooperation
+#### Case Study: Mobbing
 
-Is there a difference?
+Active predator defenses like mobbing can increase the likelihood that the prey animals will escape. However, it can also takes time and energy, increases the likelihood of injury or death, and such a gregarious display can end up attracting more predators. 
 
-## Migration
+Black-headed gulss are a colonial ground-nesting species that group mob potential predators (dive-bombing them, pooping on them, etc). A ***hypothesis*** is that that mobbing potential predators distracts them from finding and therefore predating gull egg nests. 
 
-### Case Study: Pelicans and Ibis
+One ***prediction*** of this hypothesis is that mobbing should force distracted predators to expand more searching effort than they would otherwise. Kruuk (1964) observed that mobbed crows cannot look around comfortable for gull nests when they are being mobbed, abd therefore are probably less likely to find them.  
+
+Another ***prediction*** is that the benefit experienced by mobbing gulls should be directly proportional to the extent that predators are actually mobbed (ie. if the function if mobbing is to reduce egg predation, then mobbing should reduce egg predation). Kruuk tested this by placing chicken eggs along a line that spanned from the inside to the outside a gull nesting colony. 
+
+:::{figure} /images/mobbing-eggs-chickens.png
+:width: 400
+
+Crows were attacked more inside the gull colony (red). Crows ate less of the eggs inside the gull colony (blue). 
+::: 
+
+We can also include a comparative (ie ***phylogenetic***) approach to explain mobbing in gulls. In this case, a key ***prediction*** is that, if mobbing is an evolved response to predation on eggs and nestlings, then gull species whose nests were at a lower risk of predation should not exhibit mobbing behavior. If the risk of nest predation is lower, then there is less of a positive selective pressure on mobbing from reduced predation, and this would alter the oucome of a cost-benefit model. Cliff-nesting species have relatively few nest predators because it is hard for small mammals to scale cliffs in search of prey and predatory birds have difficulty maneuvernig near cliffs in turbulent coastal wind. 
+
+Kittiwakes are a gull species that nest on vertical coastal cliffs. The adults are also smaller than black-headed gulls and therefore more vulnerable to predator attacks themselves. Kittiwakes indeed do not mob their predators. Additionally, we find that distantly-related colonial-nesting birds (like bank swallows) have evolved mobbing behavior. Even some colonially nesting mammals have evolved mobbing behavior (for example California ground squirrels *Otospermophilus beecheyi*).
+
+:::{figure} /images/mobbing-phylogeny.png
+:width: 600
+
+Convergent and divergent evolution of mobbing behavior across swallows (*Hirundinidae*) and gulls (*Laridae*). The last common ancestor of swallows and gulls occurred long ago and they are in different families. All else being equal, such distantly related animals would be expected to behave differently. More similarly related species (for example within *Laridae*) would be expected to behave similarly because of how much genetic material they share. 
+:::
+
+
+## The evolutionary problem with altruism
+
+**Mutual benefit** is when a social behavior results in increased fitness of all individuals involved. **Altruism** occurs when the recipient of a social act gains fitness, but the donor of the social act decreases its fitness. Therefore, the existence of altruistic behavior presents a paradox for evolutionary theorists because fitness is thought to be the main variable effecting evolutionary change (ie natural selection). 
+
+At first, it may seem that ***cooperative altruism*** could result in mutual benefit when averaged over time (ie. when everyone you encounter are also altruists, you lose fitness by helping others, but you gain fitness when others help you). However, **selfishness** is the evolutionary thorn in the side of altruism. Selfishness occurs when an individual does not reciprocate an altruistic act. 
+
+An evolutionary examination of altruism is often formulated in a game theory model in which:
+1. When altruists interact, they exchange the cost and benefit of altruism
+2. When altruists interact with selfish individuals, the altruist pays the cost and the selfish individual receives the benefit
+3. When selfish individuals interact, they receive no benefit but expend no cost. 
+
+The basic payoff structure is shown below:
+
+| |Altruist |Selfish|
+|:--: |:--:|:--:
+|**Altruist**| b - c | -c |
+|**Selfish**| b | 0 |
+
+---
+> ⏳ 5 min 
+
+***Q5: Solve this game theory model to show why you would never predict to observe altruistic cooperation.***
+
+***Q6: Based on this model, would you predict that both selfish and altruist behavioral phenotypes could co-exist in a population? Why / why not?***
+
+⏸️ PAUSE here for class-wide discussion
+
+---
+
+
+### Case Study: Migration in Pelicans and Ibis
 
 :::{figure-md} migration-formation-ibises
 :class: figure
 
 <img src="/images/migration-formation-ibises.jpg" alt="fishy" width="500px">
 
-Catching air. Northern bald ibises (Geronticus eremita) migrate in the perfect formation to take advantage of updrafts. MARKUS UNSÖLD (WALDRAPPTEAM).[^science-media-vformation]
+Catching air. Northern bald ibises (Geronticus eremita) migrate in the perfect V-formation. MARKUS UNSÖLD (WALDRAPPTEAM).[^science-media-vformation]
 :::
 
 [^science-media-vformation]: [Why Birds Fly in a V Formation: Study in ibises suggests the animals are giving each other a lift (2014)]https://www.science.org/content/article/why-birds-fly-v-formation#
 
-Why migrate in groups?
-- Dilution hypothesis (reduced risk of predation by being in group)?
-- avoid getting separated?
-- selfish herd (reduce risk of predation by putting other individuals between you and predator)?
-- leader is better at finding the way?
-- reduced energy? (but only for the followers?)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fKkzqk3RMLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SKXUJx2tCdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+These aerodynamic accomplishments were previously not thought possible for birds because of the complex flight dynamics and sensory feedback that would be required to perform such a feat[^Portugal-2014].
 
-:::{figure-md} migration-pelican
-:class: figure
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/SKXUJx2tCdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-<img src="/images/migration-pelican.png" alt="fishy" width="400px">
+However, birds at different positions in the formation expend different amounts of energy. What Royal Veterinary College study didn't explain was why birds voluntarily choose to fly at the front where there's no aerodynamic advantage to be had.
+
+:::{figure} /images/migration-pelican.png
+:width: 400
 
 Wing-beat frequency and heart rate of pelicans engaged
-in various types of flight (mean51 s.d.). Birds flying over a river
-following a motor boat cruising at a constant speed of 48 km h11
-flew at an average altitude of 1 m above the water, initially alone
-at a distance from the boat (‘alone at 1 m’), but then joining other
-birds in formation (‘in formation’). Numbering of circles indicates
-the position in the formation, ‘1’ being the leader. In formation
-flights, only birds in or behind the third position were used to
-measure heart rate, to avoid the possible effects of motor-boat
-turbulence on flight pattern. Wing-beat frequency of the lead and
-second birds was measured in groups flying far from the boat.
-Birds flying with an ultralight aeroplane cruising at 55–60 km h11
-at an altitude of about 50 m were not able or willing to fly in the
-wake of the aircraft, and generally flew at a distance, using a
-flapping flight, at a speed of 45–50 km h11 (‘alone at 50 m’).
-Pelicans following the plane finished their flight of 3 km with a
-glide of 2–3 min (‘gliding’) before landing on the water. Heart
-rates averaged 77.6515.2 beats per min (b.p.m.) when resting,
-and reached 198.2518.7 and 204.9515.7 b.p.m. when
-paddling in water and when walking, respectively.[^Weimerskirch-2001]
+in various types of flight (mean +- s.d.)[^Weimerskirch-2001].
 :::
 
-## The evolutionary problem with cooperation
+<!-- :::{figure-md} /images/migration-cooperation.png
+:width: 400
 
-## green beard
+The colour code refers to the duration (in seconds) a bird was present in each 0.25 m × 0.25 m grid. Although individual birds showed some bias towards the front, back, left or right regions of the V formation, these positions were not maintained rigidly. From Portugal et al (2014)[^Portugal-2014]
+::: -->
+
+[^Portugal-2014]: [Portugal, S., Hubel, T., Fritz, J. et al. Upwash exploitation and downwash avoidance by flap phasing in ibis formation flight. Nature 505, 399–402 (2014).](https://doi.org/10.1038/nature12939)
+
+<!-- Why migrate in groups?
+- Dilution hypothesis (reduced risk of predation by being in group)?
+- avoid getting separated?
+- leader is better at finding the way?
+- reduced energy by following others? -->
+
+We do know[^Voelkl-2015] that juvenile Northern bald ibis (Geronticus eremita) take turns and precisely matching times they spend in the advantageous trailing position and in the disadvantageous front position. Specifically, birds match the time they spend in the wake of each other by frequent pairwise switches of the leading position.
+
+[^Voelkl-2015]: [Matching times of leading and following suggest cooperation through direct reciprocity during V-formation flight in ibis](https://doi.org/10.1073/pnas.1413589112)
+
+Given that humans and other animals do in fact cooperate, the challenge to the evolutionary theorist has been to find some mechanism that will permit altruism to resist elimination or to eliminate more selfish alternatives. 
+
+Interestingly, in the case of V-formation migration, an explanation based on ***competition*** rather than ***cooperation*** is also difficult to rule out. 
+
+One example of a hypothesized solution to the cooperation dilemma is the ***snowdrift*** model. The Snowdrift model derives its name from the following situation: two drivers are trapped on either side of a snowdrift and have the options of staying in the car or removing the snowdrift. Letting the opponent do all the work is the best option but if the other player stays in the car it is better to shovel because you still obtain a benefit from your behavior in addition to a cost (Sugden 1986). Hence, in this game, cooperation yields a benefit (b) that is accessible to both players (i.e. free passage to go home), whereas the cost (c; i.e. removing the snowdrift) is shared between cooperators.
+
+The basic payoff structure is shown below (values in parenthesis are an example under the conditions b > c):
+
+| |Altruist |Selfish|
+|:--: |:--:|:--:
+|**Altruist**| b - c/2 (200) | b - c (100) |
+|**Selfish**| b (300) | 0 (0) |
+
+Some argue that the payoff structure of in-wake flying resembles the structure of a snowdrift game. In the snowdrift game, a noncooperator meeting a cooperator gains the highest payoff, but a noncooperator meeting another noncooperator earns even less from an interaction than a cooperator meeting a noncooperator
+
+### Green Beard
 
 [Simulating the green beard effect](https://youtu.be/goePYJ74Ydg)
-
-
-## Collective Defense
-
-### Reading
-- Meerkat vigilance 
-- Barnacle geese [group size vigilance video](https://www.youtube.com/watch?v=oeJHW5n-PXY)
-
-	In your notebook document the following:
-
-	- Flock size
-	- The number of times they are in the ‘head up’ position
-	- The start and stop time of each ‘head up’ position.
-
-- [vigilance behavior lab](https://bookdown.org/djc426/behaviouR-R-package-tutorials/field-lab-4-vigilance-behavior.html)
-
-
-<hr>
-
-Do you think meerkats will be more or less vigilant in the presence of predators? Will their behavior vary depending on the type of predator?
-
-Videos for Meerkat analysis
-- [No Predator](https://vimeo.com/80600822)
-- [Simulated Aerial Predator](https://vimeo.com/80600821)
-- [Simulated Terrestrial Predator](https://vimeo.com/71877438)
-
-Set a timer to go off every 10 seconds, and at each interval record the number of meerkats performing each behavior. We will use a modified ethogram that includes only three categories: vigilant, not vigilant or out of site.
-
-Vigilant: Head raised at or above horizontal plain and eyes open (to include scanning /guarding / raised guarding). Not Vigilant: Eyes closed or head lower than horizontal plane (to include foraging, moving, sleeping, resting). Out of sight: Not visible by the researcher
-
 
  
 ## Additional Resources
@@ -178,3 +239,6 @@ Vigilant: Head raised at or above horizontal plain and eyes open (to include sca
 	```
 	:::
 - [Serotonin Mediates Behavioral Gregarization Underlying Swarm Formation in Desert Locusts](https://doi.org/10.1126/science.1165939)
+- [Phenotypic Transformation Affects Associative Learning in the Desert Locust](https://doi.org/10.1016/j.cub.2013.10.016)
+- [Lewin-Epstein, O., Aharonov, R. & Hadany, L. Microbes can help explain the evolution of host altruism. Nat Commun 8, 14040 (2017).](https://doi.org/10.1038/ncomms14040)
+- [Matching times of leading and following suggest cooperation through direct reciprocity during V-formation flight in ibis](https://doi.org/10.1073/pnas.1413589112)
