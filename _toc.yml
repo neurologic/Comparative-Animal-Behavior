@@ -15,7 +15,7 @@ parts:
         - file: assessment-sum/assessment_observation-analysis
         - file: assessment-sum/assessment_phylogeny-evolution
         - file: assessment-sum/assessment_neural-hormonal-endogenous
-        # - file: assessment-sum/assessment_genes_devel_nav_escape
+        - file: assessment-sum/assessment_genes_devel_nav_escape
     - file: assessment-sum/capstone
     - file: genindex
     - file: ethical-considerations

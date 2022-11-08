@@ -1,5 +1,7 @@
 # Grouping and Cooperation
 
+[Responses template if needed](https://docs.google.com/document/d/1DEBXlajcWIhb-VVJPgN9oqc0STp2hr1qnieiOgy6M8U/edit?usp=sharing)
+
 There is a spectrum of social behavior that ranges from ***not solitary*** to ***eusocial***. The categories along this spectrum are shifty. The main concepts considered today are ***grouping*** and ***cooperation***.
 
 ## Case Study: An Insect’s Extreme Makeover
@@ -88,7 +90,7 @@ Example results from analysis of vigilance behavior from [this video](https://yo
 ---
 > ⏳ 5 min 
 
-***Q4: Explain a potential function for grouping based on both these results that you collected, and a consideration of the trade-off between feeding and vigilance behaviors.***
+***Q4: Explain a potential function for grouping. Formulate the explanation based on these results that you collected, and on the trade-off between feeding and vigilance behaviors.***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -149,7 +151,7 @@ The basic payoff structure is shown below:
 ---
 > ⏳ 5 min 
 
-***Q5: Solve this game theory model to show why you would never predict to observe altruistic cooperation.***
+***Q5: Using this game theory model, show why you would never predict to observe altruistic cooperation.***
 
 ***Q6: Based on this model, would you predict that both selfish and altruist behavioral phenotypes could co-exist in a population? Why / why not?***
 
@@ -178,7 +180,7 @@ These aerodynamic accomplishments were previously not thought possible for birds
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/SKXUJx2tCdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-Now we know that birds at different positions in the formation expend different amounts of energy. 
+We now also know that birds at different positions in the formation explicitly expend different amounts of energy. 
 
 :::{figure} /images/migration-pelican.png
 :width: 400
@@ -187,17 +189,16 @@ Wing-beat frequency and heart rate of pelicans engaged
 in various types of flight (mean +- s.d.)[^Weimerskirch-2001].
 :::
 
-What Royal Veterinary College study didn't explain was why birds voluntarily choose to fly at the front where there's no aerodynamic advantage to be had.
+But why do birds voluntarily choose to fly at the front? At the front there no aerodynamic advantage. Perhaps even more significantly, they must (unlike in solo flight) flap continuously without gliding in order for the trailing birds to get any aerodynamic boost. 
 
-We do know[^Voelkl-2015] that juvenile Northern bald ibis (*Geronticus eremita*) precisely match the time they spend in the advantageous trailing position and in the disadvantageous front position. Specifically, birds match the time they spend in the wake of each other by frequent pairwise switches of the leading position.
+We do know[^Voelkl-2015] that Northern bald ibis (*Geronticus eremita*) match the time they spend in the advantageous trailing position and in the disadvantageous front position. Specifically, birds match the time they spend in the wake of each other by frequent pairwise switches of the leading position (ie. evidence for cooperative altruism).
 
 [^Voelkl-2015]: [Matching times of leading and following suggest cooperation through direct reciprocity during V-formation flight in ibis](https://doi.org/10.1073/pnas.1413589112)
 
 Given that humans and other animals do in fact cooperate, the challenge to the evolutionary theorist has been to find some mechanism that will permit altruism to resist elimination by selfish alternatives. 
+  > Interestingly, in the case of V-formation migration, an explanation based on ***competition*** rather than ***cooperation*** is also difficult to rule out. 
 
-Interestingly, in the case of V-formation migration, an explanation based on ***competition*** rather than ***cooperation*** is also difficult to rule out. 
-
-One example of a hypothesized solution to the cooperation dilemma is the ***snowdrift*** model. The Snowdrift model derives its name from the following situation: two drivers are trapped on either side of a snowdrift and have the options of staying in the car or removing the snowdrift. Letting the opponent do all the work is the best option but if the other player stays in the car it is better to shovel because you still obtain a benefit from your behavior in addition to a cost (Sugden 1986). Hence, in this game, cooperation yields a benefit (b) that is accessible to both players (i.e. free passage to go home), whereas the cost (c; i.e. removing the snowdrift) is shared between cooperators.
+One example of a hypothesized solution to the cooperation dilemma is the ***snowdrift*** model. The Snowdrift model derives its name from the following situation: two drivers are trapped on either side of a snowdrift and have the options of staying in the car or removing the snowdrift. Letting the opponent do all the work is the best option. But if the other player stays in the car, it is better to shovel because you still obtain a benefit from your behavior in addition to the cost (Sugden 1986). In this game, cooperation yields a benefit (b) that is accessible to both players (i.e. free passage to go home), whereas the cost (c; i.e. removing the snowdrift) is shared between cooperators.
 
 The basic payoff structure is shown below (values in parenthesis are an example under the conditions b > c):
 
