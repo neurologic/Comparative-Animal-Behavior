@@ -7,12 +7,11 @@ There is a spectrum of social behavior that ranges from ***not solitary*** to **
 :::{image} /images/locust-phases.png
 ::: 
 :::{admonition} MARTIN ENSERINK, Science 2004
-*Schistocerca gregaria*, the desert locust, is a dull-looking, shy insect that tends to stay put, avoid other locusts, fly by night, and never cause trouble. And then there’s the desert locust, Schistocerca gregaria, a conspicuous yellow-and-black—or bright pink when not fully mature—thrill seeker that bands together in swarms of billions that cross vast distances in broad daylight and devour tons of vegetation in their path. 
+*Schistocerca gregaria*, the desert locust, is a dull-looking, shy insect that tends to stay put, avoid other locusts, fly by night, and never cause trouble. And then there’s the desert locust, *Schistocerca gregaria*, a conspicuous yellow-and-black—or bright pink when not fully mature—thrill seeker that bands together in swarms of billions that cross vast distances in broad daylight and devour tons of vegetation in their path. 
 
-So striking is the difference between the desert locust’s “solitary” and “gregarious” phases that it wasn’t until 1921 that Russian entomologist Boris Uvarov realized they were the same species. And only recently have scientists begun to piece together a detailed picture of how the insect switches from one phase to the other. University of Oxford entomologist Stephen Simpson, the uncontested leader in this small field, hopes that this understanding may eventually help prevent plagues. “The phase change is the defining feature of locust biology,” he says,“and also the main problem.”  
+So striking is the difference between the desert locust’s “***solitary***” and “***gregarious***” phases that it wasn’t until 1921 that Russian entomologist Boris Uvarov realized they were the same species. And only recently have scientists begun to piece together a detailed picture of how ***the insect switches from one phase to the other***. University of Oxford entomologist Stephen Simpson, the uncontested leader in this small field, hopes that this understanding may eventually help prevent plagues. “The phase change is the defining feature of locust biology,” he says,“and also the main problem.”  
 
-The makeover is the locust’s answer to harsh life in the desert, Simpson explains. Most of the time, the sparse vegetation can sustain only small numbers of desert locusts, and they do best by staying out of one another’s way. After intense rain, however, plant life explodes and locust numbers skyrocket; when the inevitable drought sets in, the insects find themselves coalescing in high numbers around shrinking food
-supplies. This increased density is what triggers the shift from solitary to gregarious—presumably because, once they run out of food, the insects need to migrate and, like many species, they seek safety in numbers. 
+The makeover is the locust’s answer to ***harsh life in the desert***, Simpson explains. Most of the time, the sparse vegetation can sustain only small numbers of desert locusts, and they do best by staying out of one another’s way. After intense rain, however, plant life explodes and locust numbers skyrocket; when the inevitable drought sets in, the insects find themselves coalescing in high numbers around shrinking food supplies. This increased density is what triggers the shift from solitary to gregarious—presumably because, once they run out of food, the insects need to migrate and, like many species, they seek safety in numbers. 
 
 Researchers have long known that the locust’s behavior is the first thing to change. A solitary locust becomes more attracted to its mates and more active after spending just 4 hours in a crowded cage, for instance. The spectacular morphological transformation, on the other hand, can take several generations to complete. 
 
@@ -22,11 +21,11 @@ When densities drop (for instance, when enough members of a swarm die) the proce
 ---
 > ⏳ 10 min 
 
-***Q1: What are some ultimate explanations provided by Enserink about social behavior in locusts? What are some proximate explanations?***
+***Q1: What is an ultimate explanation provided by Enserink for social behavior in locusts? What is a proximate explanation provided by Enserink for the phenotype switch?***
 
 ***Q2: In general, why might individuals be better off solitary? (ie. what are some negative fitness effects of grouping).***
 
-***Q3: In general, what functions could grouping provide that would increase individual fitness?*** 
+***Q3: In general, what functions can you think of for grouping? (ie how could grouping increase individual fitness?)*** 
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -36,22 +35,18 @@ When densities drop (for instance, when enough members of a swarm die) the proce
 
 ### Passive Defense
 
-When the only "action" taken is to group.
+When the only anti-predator "action" taken is to group.
 
 #### Dilution Effect
 
 Grouping may reduce the probability of any one individual being captured by predators. 
 
+Burger et al[^Burger-Gochfeld] tested this effect in butterflies that "puddle" together in groups of various sizes to drink water.
+
 :::{figure} /images/dilution-effect-butterflies.png
 :width: 300
 
-Risk to individual pierid butterflies of
-capture by smooth-billed anis as a function of the number of butterflies in clusters. For each cluster size, the mean number of butterflies captured was calculated and divided by cluster size to obtain the risk for individual butterflies in that size cluster. The number of butterflies captured per 15 min increased as the number of butterflies
-present increased, but reached a threshold beyond which
-the capture rate did not increase. The capture rate per individual butterfly (individual risk) decreased with group
-size up to a group of 40 individuals and remained low
-with further increases. An
-individual ani was unable to catch more than 16, regardless of group size. From Burger and Gochfeld 2001[^Burger-Gochfeld]
+Risk to individual pierid butterflies of capture by smooth-billed anis as a function of the number of butterflies in puddle-drinking clusters. For each cluster size, the ***risk*** was calculated by dividing the mean number of predator-captured butterflies by the cluster size. The number of butterflies captured increased as the total number of butterflies increased, but reached a threshold beyond which the capture rate did not increase. An individual ani was unable to catch more than 16, regardless of group size. From Burger and Gochfeld 2001[^Burger-Gochfeld]
 :::
 
 [^Burger-Gochfeld]: [Burger, J., & Gochfeld, M. (2001). Smooth-billed ani (Crotophaga ani) predation on butterflies in Mato Grosso, Brazil: risk decreases with increased group size. Behavioral Ecology and Sociobiology, 49, 482-492.](https://doi.org/10.1007/s002650100327)
@@ -60,19 +55,19 @@ individual ani was unable to catch more than 16, regardless of group size. From 
 
 Grouping may reduce the likelihood of predators capturing prey because of their inability to single out and attack individual prey. It confuses predators that have difficulty tracking a single object.
 
-Hogan et al used a video game simulation to test this hypothesis.
+Hogan et al[^Hogan-2017] used a video game simulation to test this hypothesis. The experimental setting resembled that of a flight simulator. A human "predator" used a game controller to steer an avian predator through a virtual three-dimensional environment. Participants were presented with a crosshair over a randomly selected bird in the simulated starling flock and were tasked with steering toward and "killing" the targetted bird. 
 
 :::{figure} /images/confusion-effect-simulation-results.png
-:width: 400
+:width: 500
 
-Results of the predator targeting simulation. Participant mean targeting error plotted against the natural logarithm of flock size. From Hogan et al 2017[^Hogan-2017](https://doi.org/10.1098/rsos.160564)
+Results of the simulation predator capture success. Participant mean targeting error plotted against the natural logarithm of flock size. From Hogan et al 2017[^Hogan-2017]
 :::
 
-[^Hogan-2017]: [The confusion effect when attacking simulated three-dimensional starling flocks]
+[^Hogan-2017]: [The confusion effect when attacking simulated three-dimensional starling flocks](https://doi.org/10.1098/rsos.160564)
 
 ### Active Defense
 
-Specicalized anti-predator behaviors. 
+Specicalized anti-predator behaviors beyond grouping. 
 
 #### Case Study: The effect of group size on vigilance
 
@@ -87,13 +82,13 @@ Feeding and vigilance behavior[^asab-vigilance-practical].
 :::{figure} /images/vigilance-group-size-results.png
 :width: 700
 
-Example results from analysis of vigilance behavior from [this video](https://youtu.be/oeJHW5n-PXY)
+Example results from analysis of vigilance behavior from [this video](https://youtu.be/oeJHW5n-PXY). Time vigilant varied with flock size. Vigilance rate was not an effective metric at capturing this phenomenon.
 :::
 
 ---
 > ⏳ 5 min 
 
-***Q4: Explain these results that you collected in terms of a trade-off between feeding and vigilance behaviors and a function for grouping.***
+***Q4: Explain a potential function for grouping based on both these results that you collected, and a consideration of the trade-off between feeding and vigilance behaviors.***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -101,13 +96,11 @@ Example results from analysis of vigilance behavior from [this video](https://yo
 
 #### Case Study: Mobbing
 
-Active predator defenses like mobbing can increase the likelihood that the prey animals will escape. However, it can also takes time and energy, increases the likelihood of injury or death, and such a gregarious display can end up attracting more predators. 
+Black-headed gulls are a colonial ground-nesting species that group mob potential predators (dive-bombing them, pooping on them, etc). Mobbing takes time and energy, increases the likelihood of injury or death, and such a gregarious display can end up attracting more predators. So why does mobbing behavior exist (and why in this species)? A ***hypothesis*** is that that mobbing potential predators distracts them from finding and therefore predating gull egg nests. 
 
-Black-headed gulss are a colonial ground-nesting species that group mob potential predators (dive-bombing them, pooping on them, etc). A ***hypothesis*** is that that mobbing potential predators distracts them from finding and therefore predating gull egg nests. 
+One ***prediction*** of the anti-predator hypothesis is that mobbing should force distracted predators to expend more searching effort than they would otherwise. Kruuk (1964) observed that mobbed crows cannot look around comfortable for gull nests when they are being mobbed, and therefore are probably less likely to find them without increasing their effort. 
 
-One ***prediction*** of this hypothesis is that mobbing should force distracted predators to expand more searching effort than they would otherwise. Kruuk (1964) observed that mobbed crows cannot look around comfortable for gull nests when they are being mobbed, abd therefore are probably less likely to find them.  
-
-Another ***prediction*** is that the benefit experienced by mobbing gulls should be directly proportional to the extent that predators are actually mobbed (ie. if the function if mobbing is to reduce egg predation, then mobbing should reduce egg predation). Kruuk tested this by placing chicken eggs along a line that spanned from the inside to the outside a gull nesting colony. 
+Another ***prediction*** is that the benefit experienced by mobbing gulls should be directly proportional to the extent that predators are actually mobbed (ie. if the function if mobbing is to reduce egg predation, then mobbing should reduce egg predation). Kruuk also tested this by placing chicken eggs along a line that spanned from the inside to the outside a gull nesting colony. 
 
 :::{figure} /images/mobbing-eggs-chickens.png
 :width: 400
@@ -115,14 +108,23 @@ Another ***prediction*** is that the benefit experienced by mobbing gulls should
 Crows were attacked more inside the gull colony (red). Crows ate less of the eggs inside the gull colony (blue). 
 ::: 
 
-We can also include a comparative (ie ***phylogenetic***) approach to explain mobbing in gulls. In this case, a key ***prediction*** is that, if mobbing is an evolved response to predation on eggs and nestlings, then gull species whose nests were at a lower risk of predation should not exhibit mobbing behavior. If the risk of nest predation is lower, then there is less of a positive selective pressure on mobbing from reduced predation, and this would alter the oucome of a cost-benefit model. Cliff-nesting species have relatively few nest predators because it is hard for small mammals to scale cliffs in search of prey and predatory birds have difficulty maneuvernig near cliffs in turbulent coastal wind. 
+We can also implement a ***comparative*** (ie ***phylogenetic*** and ***evolutionary***) approach to explain mobbing in gulls. In this case, a key ***prediction*** is that, if mobbing is an evolved response to predation on eggs and nestlings, then gull species whose nests were at a lower risk of predation should not exhibit mobbing behavior. In other words, if the risk of nest predation is lower, then there is less of a positive selective pressure on mobbing from reduced predation, and this would alter the oucome of an evolutionary cost-benefit model. 
 
-Kittiwakes are a gull species that nest on vertical coastal cliffs. The adults are also smaller than black-headed gulls and therefore more vulnerable to predator attacks themselves. Kittiwakes indeed do not mob their predators. Additionally, we find that distantly-related colonial-nesting birds (like bank swallows) have evolved mobbing behavior. Even some colonially nesting mammals have evolved mobbing behavior (for example California ground squirrels *Otospermophilus beecheyi*).
+Kittiwakes do not mob their predators. Kittiwakes are an example of a gull species that nest on vertical coastal cliffs. Cliff-nesting species have relatively few nest predators because it is hard for small mammals to scale cliffs in search of prey and predatory birds have difficulty maneuvernig near cliffs in turbulent coastal wind. Additionally, kittiwake adults are smaller than black-headed gulls and therefore more vulnerable to predator attacks themselves. 
+
+Therefore, a comparison between black-headed gulls and kittiwakes seem to support this key prediction of the anti-predator hypothesis.
+
+::::{margin} Bank swallow nest holes
+:::{image} /images/Bank_Swallow_nest_holes.jpg
+:::
+::::
+
+Additionally, distantly-related colonial, ground nesting birds (like bank swallows) have evolved mobbing behavior. Even some colonially nesting mammals have evolved mobbing behavior (for example California ground squirrels *Otospermophilus beecheyi*).
 
 :::{figure} /images/mobbing-phylogeny.png
 :width: 600
 
-Convergent and divergent evolution of mobbing behavior across swallows (*Hirundinidae*) and gulls (*Laridae*). The last common ancestor of swallows and gulls occurred long ago and they are in different families. All else being equal, such distantly related animals would be expected to behave differently. More similarly related species (for example within *Laridae*) would be expected to behave similarly because of how much genetic material they share. 
+***Convergent*** and ***divergent*** evolution of mobbing behavior across swallows (*Hirundinidae*) and gulls (*Laridae*). The last common ancestor of swallows and gulls occurred long ago and they are in different families. All else being equal, such distantly related animals would be expected to behave differently (especially if their last common ancestor did not share the behavioral trait). More similarly related species (for example within *Laridae*) would be expected to behave similarly because of how much genetic material they share. 
 :::
 
 
@@ -172,9 +174,11 @@ Catching air. Northern bald ibises (Geronticus eremita) migrate in the perfect V
 
 These aerodynamic accomplishments were previously not thought possible for birds because of the complex flight dynamics and sensory feedback that would be required to perform such a feat[^Portugal-2014].
 
+[^Portugal-2014]: [Portugal, S., Hubel, T., Fritz, J. et al. Upwash exploitation and downwash avoidance by flap phasing in ibis formation flight. Nature 505, 399–402 (2014).](https://doi.org/10.1038/nature12939)
+
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/SKXUJx2tCdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-However, birds at different positions in the formation expend different amounts of energy. What Royal Veterinary College study didn't explain was why birds voluntarily choose to fly at the front where there's no aerodynamic advantage to be had.
+Now we know that birds at different positions in the formation expend different amounts of energy. 
 
 :::{figure} /images/migration-pelican.png
 :width: 400
@@ -183,25 +187,13 @@ Wing-beat frequency and heart rate of pelicans engaged
 in various types of flight (mean +- s.d.)[^Weimerskirch-2001].
 :::
 
-<!-- :::{figure-md} /images/migration-cooperation.png
-:width: 400
+What Royal Veterinary College study didn't explain was why birds voluntarily choose to fly at the front where there's no aerodynamic advantage to be had.
 
-The colour code refers to the duration (in seconds) a bird was present in each 0.25 m × 0.25 m grid. Although individual birds showed some bias towards the front, back, left or right regions of the V formation, these positions were not maintained rigidly. From Portugal et al (2014)[^Portugal-2014]
-::: -->
-
-[^Portugal-2014]: [Portugal, S., Hubel, T., Fritz, J. et al. Upwash exploitation and downwash avoidance by flap phasing in ibis formation flight. Nature 505, 399–402 (2014).](https://doi.org/10.1038/nature12939)
-
-<!-- Why migrate in groups?
-- Dilution hypothesis (reduced risk of predation by being in group)?
-- avoid getting separated?
-- leader is better at finding the way?
-- reduced energy by following others? -->
-
-We do know[^Voelkl-2015] that juvenile Northern bald ibis (Geronticus eremita) take turns and precisely matching times they spend in the advantageous trailing position and in the disadvantageous front position. Specifically, birds match the time they spend in the wake of each other by frequent pairwise switches of the leading position.
+We do know[^Voelkl-2015] that juvenile Northern bald ibis (*Geronticus eremita*) precisely match the time they spend in the advantageous trailing position and in the disadvantageous front position. Specifically, birds match the time they spend in the wake of each other by frequent pairwise switches of the leading position.
 
 [^Voelkl-2015]: [Matching times of leading and following suggest cooperation through direct reciprocity during V-formation flight in ibis](https://doi.org/10.1073/pnas.1413589112)
 
-Given that humans and other animals do in fact cooperate, the challenge to the evolutionary theorist has been to find some mechanism that will permit altruism to resist elimination or to eliminate more selfish alternatives. 
+Given that humans and other animals do in fact cooperate, the challenge to the evolutionary theorist has been to find some mechanism that will permit altruism to resist elimination by selfish alternatives. 
 
 Interestingly, in the case of V-formation migration, an explanation based on ***competition*** rather than ***cooperation*** is also difficult to rule out. 
 
