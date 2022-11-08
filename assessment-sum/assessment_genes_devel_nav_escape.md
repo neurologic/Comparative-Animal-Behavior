@@ -18,7 +18,7 @@ Answer all questions either electronically or by hand. Label each of your answer
 
 The Mexican tetra, *Astyanax mexicanus*, consists of a population of fish that inhabit caves in Northeast Mexico, and a surface fish population, that inhabit the rivers of Mexico and Southern Texas. In response to their different environments, these two populations have evolved different behavioral traits. Critically, these two independent populations can breed with each other and produce viable offspring (ie. they are interfertile populations). 
 
-Recently, purebred populations of cave and surface fish were tested for behavioral differences in locomotor activity, escape reflex movement, and prey capture. Two traits for each behavior were measured. For example, prey capture behavior was quantified by the strike angle and the strike distance (Figure 1). 
+Recently, purebred populations of cave and surface fish were tested for behavioral differences in locomotor activity, escape reflex movement, and prey capture. Each behavior was quantified by two traits that were then measured. For example, prey capture behavior was quantified by the strike angle and the strike distance (Figure 1). 
 
 :::{image} /images/genetic-cross-parental-prey-capture.png
 :width: 700
@@ -29,41 +29,44 @@ Recently, purebred populations of cave and surface fish were tested for behavior
 
 ---
 
-**Q1 (3 points; \~ minutes)**: **Refer to Figure 1** ***Describe an experiment*** that would enable you to determine whether prey capture behavior in each of these independent populations (surface and cave fish) is genetically inherited or learned from their parents. Make a ***plot of the results you would predict*** if prey capture behavior was ***genetically inherited***. Make a ***plot the results you would predict*** if prey capture behavior was ***learned***. 
+**Q1 (3 points; \~ minutes)**: **Refer to Figure 1** ***Describe an experiment*** that would enable you to determine whether prey capture behavior in each of these independent populations (surface and cave fish) is genetically inherited or learned from their parents. Summarize in words the predicted results under each hypothesis. Make a ***plot of the results you would predict*** if prey capture behavior was ***genetically inherited***. Make a ***plot the results you would predict*** if prey capture behavior was ***learned***. (*Just plot the predicted median trait values. Make sure to label your axes.*).  
 
 ---
 
 
-After quantifying the behavioral traits of cave and surface fish, the researchers performed a genetic cross experiment (Figure 2). The **F2** population was then assessed by the same behavioral metrics that the parental populations were assessed by (Figure 3). The specifics of the behavioral trait metrics are not important, but knowing the names of the metrics will help you interpret Figure 4. *Escape* behavior was quantified by the body's ***peak angle*** during the c-shape phase of the c-start escape and by the ***angular velocity*** from the start of the c-shape to time the body was at its peak angle. *Prey capture* behavior was quantified by the ***strike angle*** and the ***strike distance***. *Locomotion* behavior was quantified by the ***time in the center*** of the arena and the ***total distance*** moved during the test. 
+After quantifying the behavioral traits of cave and surface fish, the researchers performed a genetic cross experiment (Figure 2). The **F2** population was then assessed by the same behavioral metrics that the parental populations were assessed by (Figure 3). The specifics of the behavioral trait metrics are not important, but knowing the names of the metrics will help you interpret Figure 4. *Escape* behavior was quantified by the body's ***peak angle*** during the c-shape phase of the c-start escape and by the ***angular velocity*** from the start of the c-shape to the time the body was at its peak angle. *Prey capture* behavior was quantified by the ***strike angle*** and the ***strike distance***. *Locomotion* behavior was quantified by the ***time in the center*** of the arena and the ***total distance*** moved during the test. 
 
 :::{image} /images/genetic-cross-surface-cave-fish.png
 :width: 500
 :align: center
 :::
 
-**Figure 2**: Surface Fish and Cave Fish are interbred. Their progeny (F1) are then interbred again to generate an ***F2*** population.[^oliva-2022]
+**Figure 2**: Surface Fish and Cave Fish were interbred. Their progeny (F1) were then interbred again to generate an ***F2*** population.[^oliva-2022]
 
 :::{image} /images/genetic-cross-behavioral-screen.png
 :width: 700
 :align: center
 :::
 
-**Figure 3**: Each of the F2 generation fish were tested for behavioral traits in: locomotor activity, escape reflex, and prey capture.[^oliva-2022] 
+**Figure 3**: The behavioral traits of each of the F2 generation fish were measured.[^oliva-2022] 
 
 :::{image} /images/genetic-cross-behavior-correlation.png
 :width: 350
 :align: center
 :::
 
-**Figure 4**: Correlations between behavioral traits in F2 offspring. The only significant correlation was between the two escape traits: Angular Speed and Peak Angle.[^oliva-2022]
+**Figure 4**: Correlations between behavioral traits in F2 offspring. The only significant correlation was between the two escape traits: Angular Speed and Peak Angle (correlation(r2) = 0.28).[^oliva-2022]
 
 ---
 
-**Q ( points; \~ minutes)**: 
+**Q ( points; \~ minutes)**: From the results shown in Figure 4, the researchers could infer that: 
+a) The genes for the escape behavior traits are linked to the genes for all other behavioral triats tested.    
+b) The genes for the escape behavior traits are more likely to recombine during chromosome crossover events than the genes for the other traits. 
+c) The genes for locomotion behavior are likely on different chromosomes than the genes for prey capture behavior.   
 
 ---
 
-**Q ( points; \~ minutes)**: 
+**Q ( points; \~ minutes)**: QTL analysis... 
 
 
 
@@ -85,13 +88,16 @@ Because foragers are older than nurses in a typical population, examination of b
 
 ---
 
-**Q ( points; \~ minutes)**: This is a [polyphenism / polymorphism]... why?***
+**Q ( points; \~ minutes)**: ***Select one of the following choices***:  
+a) Nurse and forager phenotypes in bees are an example of a polyphenism because all bees have both nurse and forager genes/alleles (as shown in Figure 5).
+b) Nurse and forager phenotypes in bees are an example of a polymorphism because nurses and foragers must have different morphological features to do these different jobs.  
+c) Nurse and forager phenotypes in bees are an example of a polyphenism because nurses and foragers have different genes/alleles responsible for their social behavior (as shown in Figure 5).
 
 ---
 
-**Q ( points; \~ minutes)**: The differences between nurse and forager phenotypes can be explained by:  
-	a. differences in the genome
-	b. differences in the***
+**Q ( points; \~ minutes)**: ***Select one of the following choices***:  
+a) young bees are usually nurses, but can become foragers if the forager genes are expressed.
+b) differences in the
 
 
 ## Section 3: Escaping Fish and the Tentacled Snake
