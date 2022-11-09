@@ -16,9 +16,9 @@ Answer all questions either electronically or by hand. Label each of your answer
 
 [^oliva-2022]: [Oliva et al (2022) Characterizing the genetic basis of trait evolution in the Mexican cavefish. Evol Dev. 2022 Sep;24(5):131-144.](https://doi.org/10.1111/ede.12412)
 
-The Mexican tetra, *Astyanax mexicanus*, consists of a population of fish that inhabit caves in Northeast Mexico, and a surface fish population, that inhabit the rivers of Mexico and Southern Texas. In response to their different environments, these two populations have evolved different behavioral traits. Critically, these two independent populations can breed with each other and produce viable offspring (ie. they are interfertile populations). 
+The Mexican tetra, *Astyanax mexicanus*, consists of a population of fish that inhabit caves in Northeast Mexico, and a surface fish population, that inhabit the rivers of Mexico and Southern Texas. Critically, these two independent populations can still breed with each other and produce viable offspring (ie. they are interfertile populations). 
 
-Recently, purebred populations of cave and surface fish were tested for behavioral differences in locomotor activity, escape reflex movement, and prey capture. Each behavior was quantified by two traits that were then measured. For example, prey capture behavior was quantified by the strike angle and the strike distance (Figure 1). 
+Recently, purebred populations of cave and surface fish were tested for behavioral differences in locomotor activity, escape reflex movement, and prey capture. Each behavior was quantified by two traits that were then measured. For example, prey capture behavior was quantified by the strike angle and the strike distance (Figure 1). The two populations had different behavioral phenotypes. 
 
 :::{image} /images/genetic-cross-parental-prey-capture.png
 :width: 700
@@ -29,7 +29,7 @@ Recently, purebred populations of cave and surface fish were tested for behavior
 
 ---
 
-**Q1 (3 points; \~ minutes)**: **Refer to Figure 1**. ***Describe an experiment*** that would enable you to determine whether prey capture behavior in each of these independent populations (surface and cave fish) is genetically inherited or learned from their parents. ***Summarize in words*** the predicted results under each hypothesis (that the behavior is genetically inherited or learned). For each hypothesis, make a ***plot of the results you would predict*** (*just plot the predicted median trait values; make sure to label your axes.*).  
+**Q1 (4 points; \~7 minutes)**: **Refer to Figure 1**. ***Describe an experiment*** that would enable you to determine whether prey capture behavior in each of these independent populations (surface and cave fish) is genetically inherited or learned from their parents. ***Summarize in words*** the predicted results under each hypothesis (that the behavior is genetically inherited or learned). For each hypothesis, make a ***plot of the results you would predict*** (*just plot the predicted median trait values; make sure to label your axes.*).  
 
 ---
 
@@ -59,8 +59,8 @@ After quantifying the behavioral traits of cave and surface fish, the researcher
 
 ---
 
-**Q2 ( points; \~ minutes)**: From the results shown in Figure 4, the researchers could infer that:  
-(***Choose the one correct option*** from the list below)   
+**Q2 (3 points; \~5 minutes)**: From the results shown in Figure 4, the researchers could infer that:  
+(***Choose the one correct option*** from the list below. ***Explain your reasoning***)   
 a) The genes for the escape behavior traits are linked to the genes for all other behavioral triats tested.    
 b) The genes for the escape behavior traits are more likely to recombine during chromosome crossover events than the genes for the other traits.  
 c) The genes for locomotion behavior are likely on different chromosomes than the genes for prey capture behavior.   
@@ -68,55 +68,65 @@ d) These behavioral phenotypes are genetically inherited.
 
 ---
 
-**Q3 ( points; \~ minutes)**: QTL analysis is different from the analysis shown in Figure 4 because:  
+**Q3 (2 points; \~3 minutes)**: QTL analysis is different from the analysis shown in Figure 4 because:  
 (***Choose the one correct option*** from the list below)   
 a) QTL analysis measures the correlation between genes.  
-b) QTL analysis tells you which gene sequences code for each trait.
+b) QTL analysis tells you the gene sequence coding for each trait.  
 c) QTL analysis assesses correlations between the genotype of specific chromosomal regions and the behavioral phenotypes.
 
 ---
 
-**Q4 ( points; \~ minutes)**: Which of the two phenotype distributions would you expect if ***strike distance*** was a polygenic trait (versus a monogenic trait)? ***Choose the one correct option***. Then, in 1-3 sentences, explain why.
+**Q4 (3 points; \~5 minutes)**: Which of the two phenotype distributions would you expect if ***strike distance*** was a *polygenic* trait (versus a monogenic trait)? ***Choose the one correct option***. Then, in 1-3 sentences, explain why.
 
 ---
 
-**Q5 ( points; \~ minutes)**: If F2 progeny were kept in an isolated cave environment and left to breed for many future generations, which of the following outcomes would you expect? The experimental cave population would:  
+**Q5 ( points; \~ minutes)**: If F2 progeny were kept in an isolated cave environment and left to breed for many future generations, which of the following outcomes would you predict?  
+The experimental cave population would:  
 (***Choose the one correct option*** from the list below. You can provide a little bit of reasoning for potential partial credit if you wish to explain your logic, but it is not required).   
 a) eventually evolve the phenotype of the original cave fish parental population because they are under the same selective pressures as the cave fish parental population.  
-b) maintain a mix between cave and surface fish phenotypes (assuming the phenotypes are genetically inherited rather than learned).  
+b) maintain a mix between cave and surface fish phenotypes because the phenotypes are genetically inherited rather than learned.  
 
 ## Section 2: Nurses and Foragers
 
-Honey bee workers exhibit strong and stable differences in behavior between individuals. Behavioral differences arise as part of a system of age-related, socially regulated division of labor common to species of social insects. During the first 2-3 weeks of adult life, bees exhibit the ***nurse*** phenotype and perform several different tasks in the hive, including brood care. After 3 weeks a bee will generally shift to the ***forager*** phenotype and leave the hive in search of nectar and pollen. The timing of the transition from hive work to foraging is also variable and may be accelerated, delayed, or reversed depending on the needs of the colony. These changes in role are associated with changes in brain structure and neurochemistry. 
+In honey bees, there are two different behavioral phenotypes among worker bees. The differences in individual phenotype are correlated with differences in age. During the first 2-3 weeks of adult life, bees exhibit the ***nurse*** phenotype and perform several different tasks in the hive, including brood care. After 3 weeks a bee will generally shift to the ***forager*** phenotype and leave the hive in search of nectar and pollen. The shift in behavioral phenotype occurs with a shift in morphological traits as well. 
 
-:::{image} /images/nurse-forager-expression.jpeg
-:width: 700
+However, the timing of the transition from nurse to foraging phenotype is variable and depends on the needs of the colony. If there are more foragers than necessary, then nurse bees will delay their transition to the foraging phenotype and remain a nurse until they are older ("***old nurse***"). If there are not enough foragers, then nurse bees will transition to the foraging phenotype at a younger age ("***young forager***").
+
+:::{image} /images/nurse-forager-expression-edited.png
+:width: 300
 :align: center
 :::
 
-**Figure 5**: Individual brain gene expression profiles predict behavioral phenotype between young nurses (YN) and old foragers (OF) from typical bee colonies and experimental colonies.  Expression levels (measured as messenger RNA abundance) are indicated by color scale in which expression ratio (F/N) is average for all foragers and nurses (n = 30 per group). In the absence of old bees, some individuals initiate foraging as much as 2 weeks earlier than usual (*young forager* single cohort). If there are more foragers in the population than normal, some nurses will delay the developmental transition. Individual brain gene expression profiles are shown for age-matched young nurses and young (“precocious”) foragers, and age-matched old foragers and old (“overage”) nurses. Further experiments should help to determine which genes are responding to environmental cues known to be important regulators of behavior, and which genes and pathways cause changes in behavior.[^WHITFIELD2003]
+**Figure 5**: Gene expression of bees at different ages and of different phenotypes (YN = young nurse; OF = old forager; YF = young forager; ON = old nurse). The genes tested label each row. Each column is a different bee whose gene expression was tested. Gene expression levels (measured as messenger RNA levels) are indicated by color scale: yellow = high expression levels; blue = low expression levels.[^WHITFIELD2003]
 
 [^WHITFIELD2003]: [CHARLES W. WHITFIELD, ANNE-MARIE CZIKO, AND GENE E. ROBINSON (2003) Gene Expression Profiles in the Brain Predict Behavior in Individual Honey Bees. Science 302(5643)](https://doi.org/10.1126/science.1086807)
 
-Because foragers are older than nurses in a typical population, examination of bees from typical colonies did not reveal whether gene expression differences are associated with behavior or with age. 
+---
+
+**Q6 (2 points; \~3 minutes)**: The expression levels of gene **CG32703** is more correlated with:  
+(***Select the one correct choice***)  
+a) behavioral phenotype (nurse versus forager) than with age (young versus old).  
+b) age (young versus old) than with behavioral phenotype (nurse versus forager).  
 
 ---
 
-**Q6 ( points; \~ minutes)**: ***Select one of the following choices***:   
+**Q7 (2 points; \~5 minutes)**:  
+(***Select the one correct choice***)  
 a) Nurse and forager phenotypes in bees are an example of a polyphenism because all bees have both nurse and forager genes/alleles (as shown in Figure 5).  
 b) Nurse and forager phenotypes in bees are an example of a polymorphism because nurses and foragers must have different morphological features to do these different jobs.  
-c) Nurse and forager phenotypes in bees are an example of a polyphenism because nurses and foragers have different genes/alleles responsible for their social behavior (as shown in Figure 5).  
+c) Nurse and forager phenotypes in bees are an example of a polyphenism because the worker gene has different alleles for nurse and forager phenotyeps (as shown in Figure 5).  
 
 ---
 
-**Q7 ( points; \~ minutes)**: ***Select one of the following choices***:  
-a) young bees are usually nurses, but can become foragers if the forager genes are expressed.  
-b) differences in the
+**Q8 (2 points; \~3 minutes)**: ***Select one of the following choices***:  
+a) young bees are usually nurses, but can become foragers if the nurse gene expression levels decrease.  
+b) young bees are usually nurses, but can become foragers if epigenetic changes transform nurse bee genes into forager bee genes.
+c) epigenetic changes to the DNA/chromatin of young bees must be regulated by a mechanism that senses how many nurses and foragers there are in the colony. 
 
 
 ## Section 3: Escaping Fish and the Tentacled Snake
 
-**Q8 ( points; \~ minutes)**: Which is a selective pressure that maintains c-start behavior in fish?  
+**Q9 ( points; \~ minutes)**: Which is a selective pressure that maintains c-start behavior in fish?  
 (***Choose the one correct option*** from the list below)  
 a) the need to escape from predators  
 b) the speed with which a c-start escape can be accomplished  
@@ -125,7 +135,7 @@ d) the predictability of the FAP motor pattern
 
 ---
 
-**Q9 ( points; \~ minutes)**: What are the neural mechanisms that make the c-start effective as an anti-predator strategy?  
+**Q10 ( points; \~ minutes)**: What are the neural mechanisms that make the c-start escape effective as an anti-predator strategy?  
 (***Choose all options that are correct*** from the list below. You may choose more than one. You will receive one point off for choosing any that are incorrect)    
 a) the Mauthner cell has a large diameter axon   
 b) inhibition of the motor neurons on the same side of the body as the activated Mauthner cell  
@@ -135,14 +145,12 @@ e) Mauthner cell input from sensory filters that are activated by all movement i
 
 ---
 
-**Q10 ( points; \~ minutes)**: What must be true for c-start escape to exist in fish predated by tentacled snakes?  
+**Q11 ( points; \~ minutes)**: What must be true for c-start escape to exist in fish predated by tentacled snakes?  
 (***Choose the one correct option*** from the list below)  
 a) the fish predated by tentacled snakes have a less stereotyped c-start behavior (and are therefore less predictable)  
 b) the fish have other predators  
 c) the fish predated by tentacled snakes respond more slowly to startling stimuli  
 
----
 
-**Q11 ( points; \~ minutes)**: 
 
 
