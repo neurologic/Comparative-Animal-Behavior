@@ -145,7 +145,7 @@ The basic payoff structure is shown below:
 
 | |Altruist |Selfish|
 |:--: |:--:|:--:
-|**Altruist**| b - c | -c |
+|**Altruist**| (b - c) / 2 | -c |
 |**Selfish**| b | 0 |
 
 ---

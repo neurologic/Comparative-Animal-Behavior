@@ -403,4 +403,5 @@ We can return to this example when we talk about mating behavior.
 - [Hu, C. K., York, R. A., Metz, H. C., Bedford, N. L., Fraser, H. B., & Hoekstra, H. E. (2022). cis-Regulatory changes in locomotor genes are associated with the evolution of burrowing behavior. Cell reports, 38(7), 110360.](https://doi.org/10.1016/j.celrep.2022.110360)
 - Robert Plomin, Michael J. Owen and Peter McGuffin (1994) [The Genetic Basis of Complex Human Behaviors](https://www.jstor.org/stable/2883921) Science, Vol. 264, No. 5166
 - Life in a genetic basis of behavior lab: [Nature and Nurture podcast Hopi Hoekstra](https://soundcloud.com/nnpodcast/ep11-social-behavior-of-rodents-with-dr-hopi-hoekstra)
+- [The Genetic Architecture of Variation in the Sexually Selected Sword Ornament and Its Evolution in Hybrid Populations](https://doi.org/10.1016/j.cub.2020.12.049)
 
