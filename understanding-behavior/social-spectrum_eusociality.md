@@ -1,5 +1,7 @@
 # Eusociality
 
+[Responses template if you need it](https://docs.google.com/document/d/1PV03kG71qufTCPp2DHmdE5MDzO0zHsohVdp4dv91XEI/edit?usp=sharing)
+
 :::{image} /images/eusocial-montage.png
 :width: 700
 :align: center
@@ -95,13 +97,20 @@ $$
 (1 - \sigma) * [-c_d + r * b_d] > s * \sigma * [-c_s + r * b_s]
 $$
 
-where $\sigma$ is the fraction of submissives in the population, $c_d$ is the cost to a dominant individual for helping a submissive (and vice-versa for $c_s$), $b_d$ is the benefit to the dominant when it is helped by a submissive (and vice-versa for $b_s$), and $r$ is the relatedness between dominant and submissive individuals.
+where $\sigma$ is the fraction of submissives in the population, $c_d$ is the cost to a dominant individual for helping a subordinate (and vice-versa for $c_s$), $b_d$ is the benefit to the dominant when it is helped by a subordinate (and vice-versa for $b_s$), and $r$ is the relatedness between dominant and subordinate individuals.
 
 [^repro-pot-derivation]: The derivation of this equation comes from [Taylor and Frank (1996) How to make a kin selection model](https://doi.org/10.1006/jtbi.1996.0075) and is explained in this format in [Akcay and Van Cleve (2016) There is no fitness by fitness, and the lineage is its bearer](https://doi.org/10.1098%2Frstb.2015.0085). 
 
+---
+> ⏳ 3 min 
+
 ***Q1 : If dominants never help subordinates, what is the value of $c_d$ and $b_s$?***
 
-***Q2 : Assume the population has an equal number of dominants and submissives so that $\sigma = 1 - \sigma$ (ie. turkey lekking pairs). Simplify the model equation given this assumption and the assumtion that dominants never help subordinates.***
+***Q2 : Assume the population has an equal number of dominants and subordinates so that $\sigma = 1 - \sigma$ (ie. turkey lekking pairs). Simplify the model equation given this assumption and the assumption that dominants never help subordinates.***
+
+⏸️ PAUSE here for class-wide discussion
+
+---
 
 ### Ecological Factors
 
@@ -117,7 +126,9 @@ Predictions of relatedness and ecological hypotheses on the sex ratio of the wor
 
 The ***relatedness hypothesis*** suggests that, in haplodiploid species, a higher relatedness between sisters favors female workers. In contrast, in diploid species, there is no relatedness asymmetry, and so both sexes are equally favored to be workers. This hypothesis focuses on the possible importance of variation in the relatedness \(r\) term in Hamilton’s rule.
 
-The ***ecology and ancestral care hypothesis*** suggests that the sex of workers depends upon the ecological (economic) benefit of cooperation and eusociality. Specifically, either the cooperative rearing of brood when there is a significant chance that the parent will die before parental care is completed (life insurance) or living in a defendable food resource (fortress defense). If workers rear brood, then we would expect the workers to be drawn from the sex or sexes that provided parental care in the ancestral solitary species, which is usually females. In contrast, if workers defend the colony, and neither sex is preadapted to be a soldier, then we would expect the workers to be drawn from both sexes. While this ecological explanation provides an alternative to the relatedness hypothesis, it is fully compatible with the theory of kin selection more generally. This hypothesis focuses on the possible importance of variation in the benefit (b) and cost (c) terms in Hamilton’s rule.
+The ***ecology hypothesis*** suggests that the sex of workers depends upon the ecological (economic) benefit of cooperation and eusociality. Specifically, either the cooperative rearing of brood when there is a significant chance that either the offspring or the parent will die before parental care is completed (life insurance) or living in an environment that requires social defense (fortress defense). 
+- If workers rear brood, then we would expect the workers to be drawn from the sex or sexes that provided parental care in the ancestral solitary species, which is usually females. 
+- If workers defend the colony, and neither sex is preadapted to be a soldier, then we would expect the workers to be drawn from both sexes. While this ecological explanation provides an alternative to the relatedness hypothesis, it is fully compatible with the theory of kin selection more generally. This hypothesis focuses on the possible importance of variation in the benefit (b) and cost \(c\) terms in Hamilton’s rule.
 
 :::{figure} /images/eusociality-ecology-phylogeny.png
 :width: 500
@@ -128,14 +139,40 @@ Open circles and filled squares represent diploid versus haplodiploid taxa, resp
 :::{figure} /images/eusocial-ecological-results.png
 :width: 400
 
-The probability of having female only helpers, as opposed to an unbiased mixture of males and females (where 0 represents an unbiased helper sex ratio), for haploidiploid and diploid taxa in the different ecological scenarios. 
+The probability of having female only helpers, as opposed to an unbiased mixture of males and females (where 0 represents an unbiased helper sex ratio), for haploidiploid and diploid taxa in the different ecological scenarios.[^Ross-2013] 
 :::
 
+---
+> ⏳ 3 min 
 
 ***Q3: Which of the following would you infer given these results, and why?***  
-***A) the evolution of eusociality was influenced more by ecological selective pressures on the trait than by relatedness among individuals of a population***  
-***B) the evolution of eusociality was influenced more by relatedness among individuals of a population than by ecological selective pressures on the trait***
+***A) the evolution of eusociality was influenced more by ecological selective pressures on altruism than by relatedness among individuals of a population***  
+***B) the evolution of eusociality was influenced more by relatedness among individuals of a population than by ecological selective pressures on altruism***
 
+⏸️ PAUSE here for class-wide discussion
+
+---
+
+#### Origins of cooperative parental care
+
+*Ammophila* (digger wasps) are non-social. However, their behavior provides clues to a potential evolutionary mechanism for cooperative parental care[^Field-Brace-2004]. All ammophila lay single eggs in nests stocked with food provisions. 
+
+[^Field-Brace-2004]: [Field, J., Brace, S. Pre-social benefits of extended parental care. Nature 428, 650–652 (2004).](https://doi.org/10.1038/nature02427)
+
+:::{figure} /images/ammophila-nest.png
+:width: 300
+
+Diagram of an ammophila nest.
+:::
+
+<iframe src="https://drive.google.com/file/d/1MxIAFYikTgWR5zLtthHtTcDn1rzpKrOE/preview" width="640" height="480" allow="autoplay"></iframe>
+
+However, some species ***mass provision*** each nest, while other species ***progressively provision*** their nests. 
+
+- Mass provisioners work on one nest at a time, fully provisioning each in one shot and sealing the nest. 
+- Progressive provisioners simultaneously work on 2-5 nests at a time, initiating all of the nests on the same day and then coming back each day to re-provision. 
+
+Progressive provisioning enables the opportunity to intervene or terminate investment early if offspring show signs of failing. If an offspring does not look like it will make it, the wasp can save otherwise wasted energy investment in it. However, progressively provisioned offspring are more at risk of parasitism because the nest keeps getting reopened to reprovision and is unattended while the parent is foraging for provisions. More offspring would survive if the parental wasp had help guarding the nest from parasites while it was tending to other nests. 
 
 ### Other Selective Pressures?
 
@@ -184,26 +221,42 @@ Character mapping of eusociality (gray) and solitary (white) behavior among *Ves
 
 ### Neural
 
+> ⏳ 5 min 
+
+***Q4: What behaviors would likely need to be modified to support eusocial versus solitary or group lifestyles?***
+
+***Q5: How could those behaviors be modified? What neural mechanisms could be altered to achieve different phenotypes for critical behaviors?***
+
+⏸️ PAUSE here for class-wide discussion
+
+---
+
 ***Social neuroscience*** is a rapidly expanding and integrative field of study. Research that focuses on the neurobiology of eusociality per se is lacking. 
 
-What we do know so far is that social processes cannot be localized to one brain region-they are highly distributed system.
+What we do know so far is that social processes cannot be localized to one brain region-they are highly distributed systems.
 
-There is more known about the neurobiology of **pair bonding** in monogamous species, expecially in ***voles***, for which oxytocin and vasopressin hormonal systems play a large role. Pair bonding is not a component of eusociality per se, but at least in mammals, we find that cooperative breeding (a precondition for eusociality) is restricted to monogamous species. Comparative studies of oxytocin and vasopressin receptor distribution among African mole-rats have revealed both similarities and differences with reference to voles.  
+There is more known about the neurobiology of related behaviors, for example **pair bonding** in monogamous species. Research has found that, in ***voles***, oxytocin and vasopressin hormonal systems play a large role. Pair bonding is not a component of eusociality per se, but at least in mammals, we find that cooperative breeding (a precondition for eusociality) is restricted to monogamous species. Comparative studies of oxytocin and vasopressin receptor distribution among African mole-rats have revealed both similarities and differences with reference to voles.  
 
-The only other neural substrate that has been investigated in African mole-rats in a detailed comparative context is the corticotrophin-releasing factor (CRF) family of hormone peptides and receptors (Coen et al. 2015). This study also found clear species differences in the anatomical pattern of receptor/ligand binding between naked mole-rats and Cape mole-rats which are suggested to reflect differences in affiliative behavior (see Coen et al. 2021).
+The only other neural substrate that has been investigated in African mole-rats in a detailed comparative context is the corticotrophin-releasing factor (CRF) family of hormone peptides and receptors[^Coen-2021]. This study also found clear species differences in the anatomical pattern of receptor/ligand binding between naked mole-rats and Cape mole-rats (a solitary species) which are suggested to reflect differences in affiliative behavior.
+
+[^Coen-2021]: [Coen, C. W., Bennett, N. C., Holmes, M. M., & Faulkes, C. G. (2021). Neuropeptidergic and Neuroendocrine Systems Underlying Eusociality and the Concomitant Social Regulation of Reproduction in Naked Mole-Rats: A Comparative Approach. Advances in experimental medicine and biology, 1319, 59–103.](https://doi.org/10.1007/978-3-030-65943-1_3)
+
 
 ### Genetic and Development
 
-Developmental polyphenism seems to play a major role in sociality and eusociality.
-
-For example: 
+In the following examples, environmental signals are used to modulate behavioral phenotype.
+ 
 - [Suryanarayanan, S., Hermanson, J. C., & Jeanne, R. L. (2011). A mechanical signal biases caste development in a social wasp. Current biology : CB, 21(3), 231–235](https://doi.org/10.1016/j.cub.2011.01.003)
 - [The effect of Royal Jelly and DNMT3 on the development of workers versus queens](../levels-of-analysis/development.md)
 
-*These both imply that there is potential for either phenotype in all individuals.* 
+---
+> ⏳ 5 min 
 
-***Q4: How does this influence your thinking about the "Reproductive Potential" evolutionary hypothesis for the evolution of eusociality?***
+***Q6: What do these studies imply about the inheritance of altruist and selfish genes/alleles? Are altruist and selfish likely different alleles of the same gene(s)? Or are the two phenotypes likely controlled by different (sets of) genes?*** 
 
+⏸️ PAUSE here for class-wide discussion
+
+---
 
 ## Additional Resources
 
