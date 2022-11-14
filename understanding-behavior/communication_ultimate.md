@@ -1,6 +1,12 @@
 # Communication: Ultimate
 
+What determines the modality of communication?
 
+Which of the following would you say are examples of communication, and which are not?
+- a male frog calls to advertise itself to females
+- a predatory bat learns where a male frog is located by listening for its calls to females
+- a human calls to a dog to get it to come to it 
+- a fiddler crab 
 
 ## Evolution of vocal learning and spoken language
 
