@@ -34,29 +34,29 @@ land, Xenopus have evolved a specialized mechanism of sound production within th
 :::{figure} /images/xenopus-vocal-repertoire.png
 :width: 600
 
-The vocal repertoire of *X. laevis* is sexually differentiated and specific to social context.[^Kelley-et-al-2020] Modified from Zornik and Kelley, 2011. pps: pulses per second.
+Sound pressure waves from the vocal repertoire of *X. laevis*. Vocalizations are specific to social context and sex.[^Kelley-et-al-2020] Modified from Zornik and Kelley, 2011. pps: pulses per second.
 :::
 
-The hormone serotonin (5-HT) plays a crucial role in initiating vocalization. Bathing the isolated brain in serotonin evokes vocalization motor patterns (measured from the vocal motor nerve). In the intact animal, elevating endogenous serotonin levels using a serotonin "reuptake inhibitor" increases vocalization as well. This mechanism is shared by the sexes despite the differences in the actual vocalizations between males and females. 
+The ***hormone*** serotonin (5-HT) plays a crucial role in initiating vocalization. Bathing the isolated brain in serotonin evokes vocalization motor patterns (measured from the vocal motor nerve). In the intact animal, elevating endogenous serotonin levels using a serotonin "reuptake inhibitor" increases vocalization output as well. This mechanism is shared by the sexes despite the differences in the actual vocalizations between males and females. Bathing the brain in serotonin evokes male-specific vocalizations in males, but female-specific vocalizations in females.
 
 ---
 
 > ⏳ 5 min 
 
-***Q3: What do you infer about the hormonal, genetic, and neural basis of sex-typical communication signals? In other words, what proximate mechanisms can and cannot explain species differences in vocalizations and what proximate mechanisms are shared? What genes would you expect to find linked to the communicaiton system and where would they be expressed?***
+***Q3: Based on this introduction to Xenopus communication, what do you infer and/or wonder about the hormonal, genetic, and neural basis of sex-typical communication signals? For example, what proximate mechanisms could explain species differences in vocalizations and what proximate mechanisms are likely shared?***
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-
-In *Xenopus*, vocal signals differ between the sexes, through development, and across the genus, reflecting evolutionary divergence in sensory and motor circuits that can be interrogated mechanistically.
 
 ::::{margin} Species-specific intrinsic oscillations
 :::{image} /images/xenopus-cpg-fast-trill-NMDA.png
 :::
 ::::
 
-For example, ***central pattern generators*** (CPGs; a network of neurons that generates vocalizations without sensory feedback) are responsible for generating the necessary motor patterns. Differences in ***intrinsic membrane properties*** of vocal CPG neurons explain differences in species-specific vocal patterns. In all species, a combination of several different voltage-sensitive ion channels make the membrane potential of CPG neurons ***oscillate endogenously*** when provided with a steady (unpatterned) command input.
+In *Xenopus*, the ***central pattern generators*** (CPGs; a network of neurons that generates vocalizations without sensory feedback) responsible for generating the vocalization motor patterns have been identified. 
+
+In all *Xenopus* species, a combination of several different voltage-sensitive ion channels make the membrane potential of CPG neurons ***oscillate endogenously*** when provided with a steady (unpatterned) command input. Remarkably, differences in ***intrinsic membrane properties*** of vocal CPG neurons explain differences in species-specific vocal patterns. 
 
 :::{figure} /images/xenopus-cpg-fast-trill.png
 :width: 800
@@ -66,13 +66,13 @@ A vocal CPG underlies divergent vocalizations in *X. laevis* and *X. petersii*. 
 
 [^Barkan-2018]: [Barkan, C. L., Kelley, D. B., & Zornik, E. (2018). Premotor Neuron Divergence Reflects Vocal Evolution. The Journal of neuroscience : the official journal of the Society for Neuroscience, 38(23), 5325–5337.](https://doi.org/10.1523/JNEUROSCI.0089-18.2018)
 
-A similar type of CPG has been found in midshipman fish. You are already familiar with the mating "humming" of midshipman fish. Two other types of vocalizations that they produce are ***grunts*** and ***growls***.
+The location and electrical properties of vocal CPG neurons (and the synaptic connections among them) in midshipman fish have been identified. You are already familiar with the mating "humming" of midshipman fish. Two other types of vocalizations that they produce are ***grunts*** and ***growls***.
 
 [Plainfin Midshipman Grunt](https://vimeo.com/227099929)
 
 [Plainfin Midshipman Growl](https://vimeo.com/227099654)
 
-The location and electrical properties of vocal CPG neurons (and the synaptic connections among them) in midshipman fish have been identified. In midshippman fish, unlike in *Xenopus*, the call frequency and duration are controlled by separate neuron types in separate locations of the brain.
+The midshipman vocal CPG also utilizes endogenously oscillatory neurons. However, unlike in *Xenopus*, the call frequency and duration are controlled by separate neuron types in separate locations of the brain.
 
 :::{figure} /images/vocal-cpg-midshipman.png
 :width: 500
@@ -100,36 +100,34 @@ In the ***brain***, there are neurons that are ***tuned to*** **specific stimulu
 
 Receptive field ***tuning*** is a bit easier to understand in the visual system than the auditory system. 
 
-In the retina, ***photoreceptor neurons*** are each tuned to **light/dark at a specific location in space**. This ***spatial tuning*** is determined by the physical location of the photoreceptor on the retina. Photoreceptors then ***converge*** onto post-synaptic neurons in specific combinations so that the post-synaptic neurons (for example ***Retinal Ganglion Cells*** (RGCs) are tuned to **more complex features/shapes**. 
+In the retina, ***photoreceptor neurons*** are each tuned to **light/dark at a specific location in space**. This ***spatial tuning*** is determined by the physical location of the photoreceptor on the retina. Photoreceptor outputs then ***converge*** in specific combinations so that ***Retinal Ganglion Cells*** (RGCs) are tuned to **more complex features/shapes**. 
 
 :::{figure} /images/receptive-field-rgc.jpg
 :width: 600
 
-A classic Retinal Ganglion cell's ***center-surround*** visual receptive field is constructed from a set of photoreceptor neurons that are themselves tuned to light at various locations in space. 
+A classic Retinal Ganglion cell's ***center-surround*** visual receptive field is constructed from a synaptic combination of a set of photoreceptor neurons (top row of the network shown) that are themselves tuned to light at various locations in space. 
 :::
 
-RGCs then ***converge*** onto "***simple cells***" in the thalamus (LGN) to create even more specialized receptive fields. LGN neurons are no longer able to be activated by light at one location in space like the photoreceptors were. 
+RGCs then ***converge*** onto "***simple cells***" in the thalamus (LGN) to create even more specialized receptive fields. Simple cells are no longer able to be activated by light at one location in space like the photoreceptors were. Simple cells are ***tuned to*** **edges of light oriented at specific angles in space**
 
 :::{figure} /images/simple-cell-rf.png
 :width: 500
 
-A neural network for the ***simple receptive field*** in the LGN (lateral geniculat nucleus), which receives input from retinal ganglion cells. 
+A neural network for the ***simple cell receptive field*** in the LGN (lateral geniculat nucleus), which receives converging input from retinal ganglion cells each tuned to specific center-surround receptiv fields. 
 :::
 
 After communication signals have been categorized correctly, how does that sensory input access neural elements that in turn generate an appropriate communication response (ie. how is perception linked to production)?
 
-In *Xenopus*, researchers have identified a key forebrain node that links auditory and vocal production circuits to match socially appropriate vocal responses to ***acoustic features*** of male and female calls.
+The central nucleus of the amygdala (***CeA***) is a strong candidate for a role in auditory-guided vocal communication in *Xenopus*. It receives input from the auditory processing pathways of the brain and projects to parabrachial nucleus (***PB***; where CPG neurons are located). 
 
-The central nucleus of the amygdala (***CeA***) is a strong candidate for a role in auditory-guided vocal communication. It receives input from the auditory processing pathways of the brain and projects to parabrachial nucleus (***PB***; where CPG neurons are located). 
+In *Xenopus*, researchers have shown that CeA is a key brain area that links auditory and vocal production circuits to match ***socially appropriate vocal responses*** to ***acoustic features*** of male and female calls.
 
 :::{image} /images/xenopus-cea-schematic.png
 :width: 500
+:align: center
 :::
 
-Normally, female rapping vocalizations evoke answer calling in males. In males with damage to the CeA, female rapping evokes prolonged vocal suppression.   
-Prolonged vocal suppression should only be evoked by the calls of dominant males, not rapping. Even when tested with an actual rapping female, males without a CeA do not answer call.[^Hall-2013]   
-Males with damaged CeA do call spontaneously (so they are not mute). They also respond to male advertisement calls with prolonged vocal suppression, so they are not deaf and can produce the socially appropriate response to a dominant male.  
-***Damage to the CeA thus results in socially inappropriate responses of males to female, but not to male, calls***.
+Normally, female rapping vocalizations evoke answer calling in males. In males with damage to the CeA, female rapping evokes prolonged vocal suppression. Prolonged vocal suppression should only be evoked by the calls of dominant males, not rapping. Even when tested with an actual rapping female, males without a CeA do not answer call.[^Hall-2013] Males with damaged CeA do call spontaneously (so they are not mute). They also respond to male advertisement calls with prolonged vocal suppression, so they are not deaf and can produce the socially appropriate response to a dominant male. ***Damage to the CeA thus results in socially inappropriate responses of males to female, but not to male, calls***.
 
 [^Hall-2013]: [Ian C. Hall, Irene H. Ballagh, Darcy B. Kelley (2013) The Xenopus Amygdala Mediates Socially Appropriate Vocal Communication Signals. Journal of Neuroscience 33(36).](https://doi.org/10.1523/JNEUROSCI.1190-13.2013)
 
@@ -180,7 +178,7 @@ In order to learn vocalizations, an animal needs both a tutor and a way to compa
 Evaluation of auditory feedback during singing is hypothesized to result in “error” signals that reach the song system. 
 :::
 
-In the brain of the sender, dopamine activity is suppressed when learned communication signals are worse than predicted, and activated when learned communication signals are better than predicted. Therefore, dopamine could provide a ***teaching signal*** for vocal learning.
+In the brain of the sender, dopamine activity is suppressed when learned communication signals are worse than predicted, and activated when learned communication signals are better than predicted.[^Gadagkar-2016] Therefore, dopamine could provide a ***teaching signal*** for vocal learning.
 
 :::{figure} /images/VTA-encode-prediction-error.png
 :width: 500
@@ -192,17 +190,22 @@ Top to bottom: spectrograms, Dopamine neuron spiking activity during undistorted
 
 ## Turn-taking
 
-Turn-taking and inter-personal coordination in general, is critical for communication. This behavior is ubiquitous across both vocal learners and non-learners. The function of this behavior is not clear, but there are many possibilities including: group cohesion, avoidance of "jamming" each other's signals, dominance/submissive displays, and sexual selection. 
-
-Humans demonstrate this behavior even before learning their adult vocalizations.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_JmA2ClUvUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Turn-taking and inter-personal coordination of action timing in general, is critical for communication. This behavior is ubiquitous across both vocal learners and non-learners. 
 
 :::{figure} /images/vocal-turn-taking.jpg
 :width: 500
 
 Vocal coordination is exhibited by diverse species.[^Wirthlin-2019]
 :::
+
+The function of this behavior is not clear, but there are many possibilities including: group cohesion, avoidance of "jamming" each other's signals, dominance/submissive displays, and sexual selection. 
+
+Turn-taking requires precise coordination of the timing of signals between individuals. We have all found over the past year communicating over Zoom that disruptions of the timing of auditory cues—like those annoying delays caused by poor connections—make effective communication difficult and frustrating. How do the brains of two individuals synchronize their activity patterns for rapid turn-taking during effective and attractive vocal communication?
+
+Daniela Vallentin, a recearcher currenlty working at Max Plank in Germany, investigates the neural mechanisms of this remarkable feat in birds. 
+
+[Neural Control of Vocal Interactions in Songbirds](https://youtu.be/sqvc2eXtsoA?t=175) (particularly minutes 2-12 for the general setup).
+
 
 [^Wirthlin-2019]: [Morgan Wirthlin, Edward F. Chang, Mirjam Knörnschild, Leah A. Krubitzer, Claudio V. Mello, Cory T. Miller, Andreas R. Pfenning, Sonja C. Vernes, Ofer Tchernichovski, Michael M. Yartsev. (2019) A Modular Approach to Vocal Learning: Disentangling the Diversity of a Complex Behavioral Trait. Neuron, Volume 104, Issue 12019](https://doi.org/10.1016/j.neuron.2019.09.036)
 
@@ -243,3 +246,4 @@ This diagram shows pheromone trails laid down by ants to direct others in the co
 Ian C. Hall, Irene H. Ballagh, Darcy B. Kelley
 Journal of Neuroscience 4 September 2013, 33 (36) 14534-14548; DOI: 10.1523/JNEUROSCI.1190-13.2013
 - [Hubel & Wiesel's demonstration of simple, complex and hypercomplex cells in the cat's visual cortex](https://youtu.be/jw6nBWo21Zk)
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/_JmA2ClUvUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
