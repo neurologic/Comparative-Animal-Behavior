@@ -1,5 +1,7 @@
 # Communication: Ultimate
 
+Last class, we touched on various aspects of a definition of communication that was roughly: *A sender communicates a signal to a receiver, the signal contains information, and the receiver acts upon the signal.*
+
 What determines the modality of communication?
 
 Which of the following would you say are examples of communication, and which are not?
@@ -7,6 +9,9 @@ Which of the following would you say are examples of communication, and which ar
 - a predatory bat learns where a male frog is located by listening for its calls to females
 - a human calls to a dog to get it to come to it 
 - a fiddler crab 
+
+
+
 
 ## Evolution of vocal learning and spoken language
 
@@ -43,6 +48,15 @@ crickets: A central question pervading 50 years of research is how the essential
 
 ### Defense
 
+### Competition
+
+Male fiddler crabs (*Uca annulipes*) dig burrows to house their female mates after oviposition. They often fight each other over burrow ownership. If they lose their large claw in a fight, male fiddler crabs grow a new one which has less mass and is a less effective weapon, but costs less to use in signalling than an equivalent-length claw of the original form. 
+
+Males use claw length in assessing an opponent’s fighting ability (Jennions & Backwell 1996). Presumably, males visually assess the fighting ability of potential opponents using claw length
+as a signal of strength. Regenerated claws effectively bluff fighting ability and deter potential opponents before they fight. 
+
+### Parent-Offspring Care
+
 
 ## Eavesdropping
 
@@ -53,6 +67,11 @@ crickets: A central question pervading 50 years of research is how the essential
 [Midge fly exploitation of frog mating calls](https://www.science.org/content/article/watch-flies-suck-frog-s-blood-eavesdropping-its-mating-calls)
 
 ## Honesty and Deceit
+
+Animal communication theory predicts that low-frequency cheating should be common in generally
+honest signalling systems.
+
+
 
 ## Additional Resources
 - [In Birds’ Songs, Brains and Genes, He Finds Clues to Speech: Erich Jarvis](https://www.quantamagazine.org/in-birds-songs-brains-and-genes-he-finds-clues-to-speech-20180130)
