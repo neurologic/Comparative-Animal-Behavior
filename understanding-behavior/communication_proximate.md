@@ -31,6 +31,7 @@ land, Xenopus have evolved a specialized mechanism of sound production within th
 
 [^Kelley-et-al-2020]: [Darcy B. Kelley, Irene H. Ballagh, Charlotte L. Barkan, Andres Bendesky, Taffeta M. Elliott, Ben J. Evans, Ian C. Hall, Young Mi Kwon, Ursula Kwong-Brown, Elizabeth C. Leininger, Emilie C. Perez, Heather J. Rhodes, Avelyne Villain, Ayako Yamaguchi and Erik Zornik (2020) Generation, Coordination, and Evolution of Neural Circuits for Vocal Communication. Journal of Neuroscience, 40 (1) 22-36](https://doi.org/10.1523/JNEUROSCI.0736-19.2019)
 
+(xenopus-mating-communication)=
 :::{figure} /images/xenopus-vocal-repertoire.png
 :width: 600
 
