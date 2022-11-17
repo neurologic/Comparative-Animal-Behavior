@@ -1,5 +1,7 @@
 # Communication: Ultimate
 
+[Responses template if needed](https://docs.google.com/document/d/1uBto6MtcTxAAKosPhrFgdiUjE3PjaBwUGKfI2I4TwuU/edit?usp=sharing)
+
 Last class, we touched on various aspects of a definition of communication that was roughly: *A sender communicates a signal to a receiver, the signal contains information, and the receiver acts upon the signal.*
 
 ---
@@ -58,7 +60,7 @@ Knowing something about proximate mechanisms is important for understanding and 
 
 Alarm calls may also be ***directed at predators*** to communicate that the prey has detected it (this is not mutually exclusive with conspecific communication of information about the predator risk). Alerting your presence to a predator may seem counter-intuitive.    
 
-***Q2: From an ultimate perspective, why might a predator stop pursuit of a prey once it hears an alarm call and knows where it is?***
+***Q2: From an ultimate perspective, what might be the function of prey signaling to predators?***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -113,7 +115,7 @@ Often offspring signal (***beg***) to their parents for food. Why?
 :::
 ::::
 
-One function could be to signal need. However, signalling need does not necessarily mean that the signalling offspring get fed. There are actually examples of parents and situations in which the non-signalling (ie the already stronger offspring) is preferentially fed[^caro-2016]. 
+One function could be to signal need. However, signalling need does not necessarily mean that the signalling offspring get fed. There are actually examples of parents and situations in which the already healther and more viable offspring is preferentially fed[^caro-2016]. 
 
 :::{figure} /images/ecology-signal-parent-care.png
 :width: 500
@@ -123,7 +125,7 @@ From Caro et al (2016)[^caro-2016]: (a) In unpredictable environments, parents m
 
 [^caro-2016]: [Caro, S., Griffin, A., Hinde, C. et al. Unpredictable environments lead to the evolution of parental neglect in birds. Nat Commun 7, 10985 (2016).](https://doi.org/10.1038/ncomms10985)
 
-It is commonly assumed that in order for animal signals to be advantageous, the information being signalled could not have been obtained otherwise, and is therefore '***cryptic***' or 'private'. However, costly signals of noncryptic condition are also biologically feasible.[^caro-2016] Parents can distribute food amongst their offspring by relying on a cue of condition, such as body size. Alternatively, parents could distribute food amongst their offspring by relying on a signal of that noncryptic condition, such as begging calls. If it is much faster for parents to use the signal, they could spend more time foraging for additional caterpillars to feed their brood. As long as the efficiency benefit of using the signal outweighs the cost of producing the signal, this communication system can be advantageous, even if the information encoded in the signal is noncryptic.
+It is commonly assumed that in order for animal signals to be advantageous, the information being signalled could not have been obtained otherwise, and is therefore '***cryptic***' or 'private'. However, costly signals of noncryptic condition are also biologically feasible.[^caro-2016] Parents can distribute food amongst their offspring by relying on a ***cue of condition***, such as body size. Alternatively, parents could distribute food amongst their offspring by relying on ***a signal of that noncryptic condition***, such as begging calls. If it is much faster for parents to use the signal, they could spend more time foraging for additional caterpillars to feed their brood--the signal therefore provides an ***efficiency benefit***. As long as the efficiency benefit of using the signal outweighs the cost of producing the signal, this communication system can be advantageous, even if the information encoded in the signal is noncryptic.[^caro-2016]
 
 [^caro-2017]: [Caro et al (2017) Signalling of information that is neither cryptic nor private. Journal of Evolutionary Biology](https://doi.org/10.1111/jeb.13049)
 
@@ -134,11 +136,11 @@ It is commonly assumed that in order for animal signals to be advantageous, the 
 
 ### Deceit
 
-In a deceitful communication interaction, the sender increases its fitness at a cost to the receiver. 
+In a deceitful communication interactions, the sender increases its fitness at a cost to the receiver. 
 
-For example, ***brood parasites*** take insinuate themselves into the nests of solitary nesting birds (the "host") (many solitary nesting bird species have not needed to develop conspecific recognition systems like those that have evolved in social species). These brood parasites then employ ***deceptive signals*** that trigger parental care by the host parent.
+For example, ***brood parasites*** insinuate themselves into the nests of solitary nesting birds (the "host") (many solitary nesting bird species have not needed to develop conspecific recognition systems like those that have evolved in social species). These brood parasites then employ ***deceptive signals*** that trigger parental care by the host parent.
 
-Parasitic common cuckoos lay an egg in the nest of a host reed warbler. The cuckoo chick kills all of the hosts offspring. Then, the cuckoo chick mimics the simultaneous vocalizations of an entire brood of reed warblers (approximately 4 reed warbler chicks). The host parent then brings the single cuckoo chick the same amount of food that it would bring its brood of several chicks. 
+Parasitic common cuckoos lay an egg in the nest of a host reed warbler. The cuckoo chick kills all of the hosts offspring. Then, the cuckoo chick mimics the simultaneous vocalizations of an entire brood of reed warblers (approximately 4 reed warbler chicks). The host parent then brings the single cuckoo chick the same amount of food that it would bring its brood of several chicks. Importantly, this response is attributable to the signaling behavior of the cuckoo chick and not its size (a cue). 
 
 :::{image} /images/brood-parisatism.png
 :width: 800
@@ -154,7 +156,7 @@ A central question pervading the research into communication signals in the cont
 
 ## Eavesdropping
 
-This exchange of information is generally ***not considered communication***. *As a hint to why, think about how the eavesdropping behavior of the receiver factor in to evolutionary models for the signal production in the sender.*
+This exchange of information is generally ***not considered communication***. *As a hint to why, think about how the eavesdropping behavior of the receiver factors into evolutionary models for the signal production in the sender.*
 
 Male tùngara frogs use mating calls to attracts females. However, the mating call also attracts midge flies that feast on amphibian blood. Rather than homing in on chemical cues as mosquitoes do, these midge flies locate food by listening for the amphibian's mating call. This is one of the few examples of eavesdropping across the vertebrate/invertebrate barrier.
 
@@ -169,34 +171,34 @@ How might communication signals arise in the first place? In other words, what i
 
 Many communication signals are ***shaped by the sensory systems of receivers***. The sensory systems of receivers are shaped by the environment that they live in and the other behaviors that they engage in. For example, animals use their sensory systems to stay alive--to find food and avoid predation--and these ***sensory functions exert selective pressures on sensory systems independent of their use in communication***. 
 
-Behavioral responses to signals that evolved in noncommunication contexts or as by-products of sensory systems or other preferences are often co-opted by communication systems. This often happens in the context of mating, which we will discuss in more depth in the context of sexual selection. 
+Behavioral responses to signals that evolved in noncommunication contexts or as by-products of sensory systems or other preferences are often ***co-opted by communication systems***. In other words, ***the response phylogenetically exists before the communication signal that evokes it***. This often happens in the context of mating, which we will discuss in more depth in the context of sexual selection. 
 
-For example, responses that evolved in ecological contexts may be co-opted by the evolution of novel mating signals. One example of this is found in water mites (*Neumania papillator*), in which males have evolved a mating signal that elicits a predatory response in females.[^proctor-water-mite] 
+One example of this is found in water mites (*Neumania papillator*), in which males have evolved a mating signal that elicits a predatory response in females.[^proctor-water-mite] 
 
 [^proctor-water-mite]: [Proctor (1991) Courtship in the water mite Neumania papillator: males capitalize on female adaptations for predation](https://doi.org/10.1016/S0003-3472(05)80242-8)
 
-Water mites are an ambush predator of copepods. When hunting for prey, males and females rest on aquatic vegetation with their first four legs upraised in the ***net-stance*** position. In this posture they orient to and clutch at passing crustaceans. Prior to depositing its spermatophores, a male water mite walks slowly around a female while vibrating his legs *at the same frequency as the vibrations caused by swimming copepods*. 
+Water mites are an ambush predator of copepods. When hunting for prey, males and females rest on aquatic vegetation with their first four legs upraised in the ***net stance*** position. In this posture they orient to and clutch at passing crustaceans. Prior to depositing its spermatophores, a male water mite walks slowly around a female while vibrating his legs *at the same frequency as the vibrations caused by swimming copepods*. 
 
 :::{figure} /images/water-mite-courting-signal.png
 :width: 400
 
-The female (left) is in a "***net-stance***", which is the posture assumed while waiting for copepod prey to wander by. The male vibrates his foreleg in front of the female. Like water vibration normally caused by a copepod prey wandering by, the male's vibrations evoke an orienting and clutching response from the female. However, once the female realizes she has clutched a conspecific male instead of prey, the female lets the male go. The male then deposits spermatophores for the female to utilize.
+The female (left) is in a "***net stance***", which is the posture assumed while waiting for copepod prey to wander by. The male vibrates his foreleg in front of the female. Like water vibration normally caused by a copepod prey wandering by, the male's vibrations evoke an orienting and clutching response from the female. However, once the female realizes they have clutched a conspecific male instead of prey, the female lets the male go. The male then deposits spermatophores for the female to utilize.
 :::
 
 In the presence of courting males, ***starved females orient to and clutch males more*** often than well fed ones. This result provides evidence that the male signal likely evolved by ***capitalizing on female adaptations for predation***. 
 
-Evolutionarily, before males signalled to females with the trembling display, females responded to copepod-like vibrations in the water by orienting to the source of the vibration and clutching the object at that location. If a mutant male that elicited this predatory response is more successful at mating with that female than other males, the mutant gene for the male trait would spread.
+Evolutionarily, before males signalled to females with the trembling display, females responded to copepod-like vibrations in the water by orienting to the source of the vibration and clutching the object at that location. If a mutant male that elicited this predatory response is more successful at mating than other males, the mutant gene for the male trait would spread and become specialized to mimic the prey stimulus.
 
-The female's predatory orienting response to trembling may allow males to manipulate her orientation to favour uptake of his spermatophores. Oddly, a benefit of the female response to
+The female's predatory orienting response to trembling may allow males to manipulate the female's orientation and make the spermatophores more salient. Oddly, a benefit of the female response to
 trembling may be to assure the male that it is courting a female rather than chemical stimuli left
 on a recently abandoned perch... consistent with this, male water mites do tremble at perches that females have recently vacated (but they do not subsequently deposit spermatophores).  
 
 
 ### Pre-existing Traits
 
-Many communication signals are ***shaped by the existance of non-communicaiton traits in the sender*** that can be co-opted for communication.
+Many traits are ***shaped by non-communication needs in the sender***. These traits can then be ***co-opted for communication***.
 
-In response to extreme stress, the sympathetic nervous system causes the ***piloerection reflex***, which makes the muscles attached to the base of each hair follicle contract and force the hair up. Perhaps this physiological reflex evolved because it made animals appear bigger under stress of predation or competition (and predators or other contestants were more likely scared away). 
+For example, In response to extreme stress, the sympathetic nervous system causes the ***piloerection reflex***, which makes the muscles attached to the base of each hair follicle contract and force the hair up. Perhaps this physiological reflex evolved because it made animals appear bigger under stress of predation or competition, and this cue then causes predators or other contestants to be scared away easier. 
 
 Some people can consciously initiate the sensation and physiological signs of piloerection. The phenomenon is discovered spontaneously, appearing to be innate, and is not known to be possible to learn or acquire. Those with the ability frequently are unaware that it is not possible for everyone. The ability appears to correlate with personality traits associated with openness to experience.
 
