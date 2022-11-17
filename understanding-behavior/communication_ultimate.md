@@ -18,6 +18,33 @@ Last class, we touched on various aspects of a definition of communication that 
 
 ---
 
+Rubenstein and Alcock[^animal-behav-text-rub-alcock] outline a cost-benefit approach to compare the fitness consequences of honest signaling, deceitful signaling, eavesdropping, and spiteful signaling. 
+
+[^animal-behav-text-rub-alcock]: Dustin Rubenstein (2022) Animal Behavior, Twelfth Edition. ISBN: 9780197564912. Douglas Alcock co-authored all previous editions.
+
+:::{image} /images/communication-cost-benefit.png
+:width: 400
+:align: center
+:::
+
+Rubenstein and Alcock categorize only the top row as "communication" because, if communication is defined by the use of a "specially evolved signal," then the signal should benefit the sender. This definition does not consider the fitness of the receiver. This categorization is also not necessarily the writ law of animal behavior research. 
+
+Edward Wilson (one of the founders of the study of sociobiology) defines communication as occuring when: “...the action of or cue given by one organism (the sender) is perceived by and thus alters the probability pattern of behavior in another organism (the receiver) in a fashion adaptive to either one both of the participants” (Wilson 1975)[^Wilson-1975-communication]. This definition encompasses all interactions outlined in the cost-benefit table above.
+
+[^Wilson-1975-communication]: Wilson, E.O. Sociobiology: The New Synthesis. Cambridge, MA: Harvard University Press (1975).
+
+Additionally, publication from [Nature Education](https://www.nature.com/scitable/knowledge/library/an-introduction-to-animal-communication-23648715/) categorize both eavesdropping and deceit as communication.[^gillam-2011] 
+
+[^gillam-2011]: (Gillam, E. (2011) An Introduction to Animal Communication. Nature Education Knowledge 3(10):70)
+
+For deceit to exist, the receiver must gain an overall net fitness benefit from the signal:response relationship, otherwise it would no longer respond to the signal and the sender would no longer be able to deceive.
+
+Additionally, spite implements a "specially evolved signal" that decreases the fitness of the sender (in other words, the signal is specially evolved in the sense that it is being used by the sender with its intended purpose that includes a decrease in the sender's fitness). From this perspective, communication cannot simply be defined by information transfer for which the sender gains a fitness benefit. 
+
+If we relieve the need for communication to depend on fitness increase for the sender, then maybe it could be possible to argue for eavesdropping as a form of communication by similar logic to the argument for deceit (from the perspective of the receiver). However, from an argument based on intent, eavesdropping is the odd one out--only in eavesdropping is a response in a receiver evoked by information that the sender did not intend for the receiver to use. 
+
+***Do you/we define communication based on the fitness to the sender or by the intent of the sender? Or by some other set of features?***
+
 ## Function 
 
 A hypothesis about the "function" of a behavior is basically a hypothesis about ***what positive selective pressures*** shaped it. 
