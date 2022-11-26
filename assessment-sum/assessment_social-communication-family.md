@@ -12,3 +12,12 @@ Zahavi studied the Arabian babbler, a very social bird, with a life-length of 30
 
 ***Q:*** How does taking into account sexual selection change the model? 
 - The altruistic act is costly to the donor, but may improve its attractiveness to potential mates. The evolution of this condition may be explained by competitive altruism.
+
+
+:::{image} /images/mixed-reproductive-strategies.png
+:::
+
+***Q:*** Based on the game theory model, which of the following statements is correct?  
+a) monogamy is the most adaptive mating strategy in this species because it has the highest fitness payoff out of the three phenotypes.  
+b) the population will have a mixed-phenotype distribution at evolutionary equilibrium because no single phenotype can be evolutionarily stable.  
+c)    

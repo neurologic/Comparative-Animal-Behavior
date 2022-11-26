@@ -338,6 +338,7 @@ Fighting is a stable strategy when ${(v-c)}/2 > 0$. Simplifying the equation giv
 
 ---
 
+(multiple-mating-systems-lizard)=
 #### Understanding MIXED behavioral phenotypes
 
 It is possible that there are conditions under which neither behavioral phenotypes alone are evolutionarily stable, but a population consisting of both co-existing phenotypes is. For example, we know of behavioral phenotypes that have higher fitness than the alternative only when that alternative exists.
