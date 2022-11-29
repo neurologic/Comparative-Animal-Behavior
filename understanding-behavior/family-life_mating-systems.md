@@ -15,7 +15,7 @@ monogamy
  males and females pair off (either for a breeding season or for life)
 
 polygyny
- males mate with multiple females, but females mate with a signle male
+ males mate with multiple females, but females mate with a single male
 
 polyandry
  females mate with multiple males but males only mate with a single female
@@ -28,7 +28,21 @@ promiscuity
 
 :::
 
-The type of mating system that evolves will depend on which sex is limiting and the degree to which the other sex controls resource access or monopolizes mates. Members of the mate limited sex should attempt to control access to members of the limiting sex, often by limiting resources needed to survive and reproduce. Polygyny and polyandry should evolve when males and females, respectively, can monopolize access to the other sex. Monogamy and polygynandry whould evolve when neither sex can monopolize access to mates. Monogamy would be the more likely result when there are not enough resources or territory to support a multi-sex group and, especially, when resources are so limited or predation risk so high that both parents are needed to rear young. Often, it seems that the distribution of resources influences the behavior of one sex and the behavior of that sex then influences the mating behavior of the other sex. 
+The type of mating system that evolves will depend on which sex is limiting and the degree to which the other sex can control resource access or monopolizes mates. Often, it seems that the distribution of resources influences the behavior of one sex and the behavior of that sex then influences the mating behavior of the other sex. 
+
+If members of the mate limited sex can limit access to the resources needed to survive and reproduce, then they could gain control over members of the limiting sex. Then, monopolization of access to the other sex seems like it would enable polygyny and polyandry to evolve. 
+
+Polygynandry seems more likely to evolve when neither sex can monopolize access to mates and when there are enough resources or territory to support a multi-sex group. 
+
+Monogamy seems to be a derived phenotype among many taxa, with many instances of convergence. For example, monogamy most likely evolved in humans and was not a phenotype exhibited by our last common ancestor with chimps.   
+
+:::{figure} /images/phylogeny-monogamy.jpeg
+:width: 600
+
+Evolution of polygamous and monogamous mating strategies across primates. Gray lines represent polygamous taxa; red lines represent taxa that show one or more social features associated with monogamy; i.e., “monogamish” (tip of the hat to Dan Savage). This primate phylogeny was assembled using data from 10kTrees (Arnold, Matthews, & Nunn, 2010) and visualized using Mesquite (Maddison & Maddison, 2001). Representative genera from Old-World monkeys (OWMs), Hominoids, New-World monkeys (NWMs), and Prosimiams are presented. Image from French et al (2018)[^French-2018].
+:::
+
+[^French-2018]: [French et al (2018) Social Monogamy in Nonhuman Primates: Phylogeny, Phenotype, and Physiology](https://doi.org/10.1080%2F00224499.2017.1339774)
 
 In some species, such as the [side-blotched lizard that you examined in the context of evolutionary game theory](multiple-mating-systems-lizard), multiple mating system phenotypes exist in the same population.
 
@@ -36,17 +50,22 @@ In some species, such as the [side-blotched lizard that you examined in the cont
 
 This section refers to the paper you read for class: [Young et al (1999) Increased affiliative response to vasopressin in mice expressing the V1a receptor from a monogamous vole](https://doi.org/10.1038/23475).
 
-***Q1: Describe the mating system behavior of the two focal species in this study.***
+Prairie voles (*Microtus ochrogaster*) are monogamous and form long-lasting pair bonds. They also engage in extended biparental care after mating. Montane voles (*Microtus montanus*) are promiscuous and do not pair bond. 
+
+
+---
+
+> ⏳ 25 min 
 
 :::{figure} /images/young-1999-fig1.png
-:width: 700
+:width: 500
 
 (**Young et al Figure 1**) Receptor autoradiography illustrates the different patterns of V1a-receptor binding in the brains of a, the non-monogamous montane vole, and b, the monogamous prairie vole. Note the high intensity of binding in the lateral septum (LS) of the montane vole but not the prairie vole, and in the diagonal band (DB) of the prairie vole but not the montane vole. Similar differences exist throughout the brain. c, Male prairie but not montane voles exhibit elevated levels of affiliative behaviour after vasopressin is administered directly into the brain (two-way ANOVA: species effect, F(1,27) = 10.3, P < 0.01; * Fisher's LSD post-hoc test, P < 0.01 compared with CSF-treated prairie voles).
 :::
 
-***Q2: What defines "affiliative behavior" in this study?***
+***Q1: What defines "affiliative behavior" in this study?***
 
-***Q3: What three key pieces of background information do Young et al cite as motivation to test the effect of AVP on affiliative behavior?*** 
+***Q2: What is a key piece of background information (previous experimental result) cited by Young et al as motivation for their study?*** 
 
 :::{figure} /images/young-1999-fig2.png
 :width: 700
@@ -54,37 +73,40 @@ This section refers to the paper you read for class: [Young et al (1999) Increas
 (**Young et al Figure 2**) Transcription begins at +1 and polyadenylation (pA) occurs at +1,623 of the prairie vole gene. The boxed area within these sites represents the coding region and the vertical bars in the coding region represent the location of the transmembrane domains. Two distinct loci were isolated from prairie vole DNA. The sequences of the genomic clones have been deposited in GenBank (accession number AF069304). b, PCR amplification of genomic DNA using primers on either side of the expansion (arrows in a) demonstrates the presence of the expansion in monogamous prairie and pine (M. pi) voles (600-bp band), but not in promiscuous montane or meadow (M. pe) voles.
 :::
 
-***Q4: What hypothesis is being tested by the experiment in Figure 2?***
+***Q3: What hypothesis is being tested by the experiment in Figure 2?***
 
-***Q5: In Figure 2, are they testing the sequence or the expression of the V1a receptor gene?***
+***Q4: In Figure 2, are they testing the sequence or the expression of the V1a receptor gene?***
 
-***Q6: What is microsatellite DNA, generally? What resource(s) did you choose to consult for this information?***
+***Q5: What is microsatellite DNA, generally? Which resource(s) did you choose to consult for this information after searching?***
 
-***Q7: In the context of this study, how would you define the function of microsatellite regions of DNA?***
+***Q6: In the context of this study, how would you define the function of microsatellite regions of DNA?***
 
-***Q8: Why did testing the pine vole and meadow vole strengthen the conclusion based on the results in Figure 2?***
 
 :::{figure} /images/young-1999-fig3.png
-:width: 700
+:width: 500
 
 (**Young et al Figure 3**) Receptor autoradiography illustrates the distribution of V1a-receptor binding in wild-type (a) and transgenic (b) mice. Although V1a-receptor binding is altered, oxytocin-receptor binding is identical in wild-type \(c\) and transgenic (d) mice. Binding in the cingulate cortex (Ci), laterodorsal (LD) and ventroposterior (VP) thalamic nuclei, claustrum (Cla) and several other regions of transgenic mice is similar to that found in the brain of the prairie vole (e). f, Quantification of V1a-receptor binding in wild-type mice (open bars), transgenic mice (striped bars) and prairie vole (filled bars) (n = 6–7 per group) demonstrates that receptor density in transgenic mice is not elevated in areas that normally express receptors in mice (for example, lateral hypothalamus (LH), diagonal band (DB) and lateral septum (LS); nd indicates no detectable specific binding in wild-type mice.
 :::
 
 :::{figure} /images/young-1999-fig4.png
-:width: 700
+:width: 500
 
-**Young et al Figure 4**: a, AVP increases the duration of affiliative behaviours directed towards an ovariectomized female in male transgenic mice with a prairie vole pattern of V1a-receptor expression, but not in male wild-type mice (two-way ANOVA: genotype effect, F(1,22) = 4.3, P < 0.05; * Fisher's LSD post-hoc test, P < 0.01 compared with CSF-treated transgenic animals). b, AVP has no effect on olfactory investigation of cotton balls soiled with bedding from an ovariectomized female's cage in either transgenic or non-transgenic males.
+(**Young et al Figure 4**) a, AVP increases the duration of affiliative behaviours directed towards an ovariectomized female in male transgenic mice with a prairie vole pattern of V1a-receptor expression, but not in male wild-type mice (two-way ANOVA: genotype effect, F(1,22) = 4.3, P < 0.05; * Fisher's LSD post-hoc test, P < 0.01 compared with CSF-treated transgenic animals). b, AVP has no effect on olfactory investigation of cotton balls soiled with bedding from an ovariectomized female's cage in either transgenic or non-transgenic males.
 :::
 
-***Q9: What hypothesis is being tested in Figure 3 and 4 together? Contrast this with the hypothesis tested in Figure 1.***
+***Q7: What hypothesis is being tested in Figure 3 and 4 together? Contrast this with the hypothesis tested in Figure 1.***
 
-***Q10: What is the purpose of the experiment/results shown specifically in Figure 3?***
+***Q8: What is the purpose of the experiment/results shown specifically in Figure 3?***
 
-***Q11: What conclusion would you draw about the function of neural circuits in the Diagonal Band (DB) based on the results of Figure 1 and how would this conclusion change based on the results of Figure 3 and 4?***
+***Q9: What conclusion would you draw about the function of neural circuits in the Diagonal Band (DB) based on the results of Figure 1 and how would this conclusion change based on the results of Figure 3 and 4?***
 
-***Q12: In the context of this study, why was it important to show the results of the experiment in Figure 4b?***
+***Q10: In the context of this study, why was it important to show the results of the experiment in Figure 4b?***
 
-***Q13: In summary, how would you describe the neural, hormonal, and genetic mechanisms of monogamy?***
+***Q11: In summary, how would you describe the neural, hormonal, and genetic mechanisms of monogamy?***
+
+⏸️ PAUSE here for class-wide discussion
+
+---
 
 So... it seems the inference is that the circuit for pair bonding exists in wildtype mice, but is not activated by AVP. In other words, that circuitry could be phylogenetically older than pair bonding (in voles). What is that circuit normally activated by and what is it normally used for?
 
