@@ -86,7 +86,45 @@ This section refers to the paper you read for class: [Young et al (1999) Increas
 
 ***Q13: In summary, how would you describe the neural, hormonal, and genetic mechanisms of monogamy?***
 
+So... it seems the inference is that the circuit for pair bonding exists in wildtype mice, but is not activated by AVP. In other words, that circuitry could be phylogenetically older than pair bonding (in voles). What is that circuit normally activated by and what is it normally used for?
+
+## The Evolution of Monogamy
+
+### Parental Care Hypothesis
+
+*Hypothesis*: Offspring that need a lot of care put selective pressure on paternal care and therefore monogamy.[^male-rich] 
+
+[^male-rich]: Remember, that this statement assumes that the operational sex ratio is skewed toward males (males are mate limited by lack of reproductively available females). The opposite can be true, in which case maternal care would be in question. 
+
+This hypothesis was the prevailing model for a long time.[^chapais-2013]
+
+[^chapais-2013]: [Chapais, B. (2013) Monogamy, strongly bonded groups, and the evolution of human social structure. Evolutionary Anthropology: Issues, News, and Reviews 22, 52–65.](https://doi.org/10.1002/evan.21345)
+
+All else being equal, it makes sense for a male (in species where the male is more reproductively available than the female) to monopolize as many females as possible rather than remaining monogamous. In other words, optimal mating rates for males would be higher. 
+
+However, game theoretic models would predict that promiscuous male competitors and the risk of cuckoldry (raising someone else's offspring) limit the scope for the evolution of male investment. In other words, ***cheating*** phenotypes would have a higher fitness in a population of monogamous males. Because male investment likely would have resulted in male absence (e.g., through resource provisioning), caring males would have faced potential fitness costs due to freerider males that ‘steal’ paternity.
+
+Additionally, growing evidence suggests that paternal care evolves only after monogamy becomes established in a population.
+
+### Partner Availability Hypothesis
+
+*Hypothesis*: Dispersed or rare females put selective pressure on monogamy directly.[^male-rich] 
+
+For example, solitary females that are dispersed across a landscape (due to resource dispersal and/or female intolerance) limit multiple mate monopolization opportunities for males and favor monogamy as a consequence.
+
+However, the hypothesis also applies generally to the situation in which the mating pool is
+male-biased, and males face difficulty in finding additional mates. A current partner becomes a valued resource, favoring mate guarding behavior to assure paternity. Therefore, the operational sex ratio is a key factor in fitness payoffs for evolutionary models of mating strategies.
+
+Under assumed ancestral human conditions, it seems that male mate guarding, rather than paternal
+care, drives the evolution of monogamy, as it secures a partner and ensures paternity certainty in the face of more promiscuous competitors.[^schacht-bell-2016] It is not always true (as has been previously concluded) that males benefit more from mating multiply. Instead, a growing body of literature highlights that partner rarity intensifies male commitment to pairbonded strategies, rather than multiple mate-seeking, across populations of both human and nonhuman animals.
+
+For details of a model that considers all of these factors (offspring survival benefit of parental care, probability of mating given the operational sex ratio, risk of cuckoldry, conception rate of females, and male survival), see Schacht and Bell (2016)[^schacht-bell-2016].
+
+
+[^schacht-bell-2016]: Schacht, R., Bell, A. The evolution of monogamy in response to partner scarcity. Sci Rep 6, 32472 (2016). https://doi.org/10.1038/srep32472
+ 
 
 ## Additional Resources 
 
 - Turner et al 2010 [Monogamy evolves through multiple mechanisms: evidence from V1aR in deer mice](https://doi-org.ezproxy.wesleyan.edu/10.1093/molbev/msq013) Mol Biol Evol. 2010 Jun;27(6):1269-78.
+- (Schacht, R., Bell, A. The evolution of monogamy in response to partner scarcity. Sci Rep 6, 32472 (2016).](https://doi.org/10.1038/srep32472)
