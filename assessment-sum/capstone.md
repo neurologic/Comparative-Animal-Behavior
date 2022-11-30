@@ -12,10 +12,10 @@ Target your presentation to an audience with a basic biology background, but wit
 The expectation and requirements are that the explanations you provide at each level of analysis are logical, incorporate course concepts from classroom sessions and readings, and are appropriate for the level of analysis at hand (phylogenetic, evolutionary, genetic/neural, developmental/hormonal). To complete all 4 levels of analysis, you will likely need to go beyond what is known about your specific animal of interest and even make logical leaps that use course concepts to formulate hypotheses about explanations for the behavior at each level.
 
 **Format Options**  
-- *Written* (you can get creative with style - pop sci versus technical lit review - whatever style you use, make it engaging) – no more than 2-3 pages single-spaced with 1-inch margins - page limit does not include Figures. (think about it being no more than 15 minutes if you were to clearly and slowly read the paper aloud).
-- *Audio* (think engaging podcast style) – no more than 15 min (must include additional Figure and legend with details of #3 and #4 above)
-- *Video* (think educational outreach video style) – no more than 15 min (must include additional Figure and legend  with details of #3 and #4 above)
-- *A Live Theatrical Play*
+- *Written* (you can get creative with style - pop sci versus technical lit review - whatever style you use, make it engaging) – no more than 2-3 pages single-spaced with 1-inch margins - page limit does not include figures and captions. (think about it being no more than 15 minutes if you were to clearly and slowly read the paper aloud).
+- *Audio* (think engaging podcast style) – no more than 15 min (with the submission, attach figures with captions that enhance the accessibility of information in your work... think about these as things that would be linked in the shownotes of a podcast)
+- *Video* (think educational outreach video style) – no more than 15 min (incorporate images that enhance the accessibility of information in your work)
+- *A Live Theatrical Play* (incorporate images that enhance the accessibility of information in your work)
 - *Other* (see me to discuss)
 
 **Some example work**  
