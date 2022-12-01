@@ -248,3 +248,5 @@ Ian C. Hall, Irene H. Ballagh, Darcy B. Kelley
 Journal of Neuroscience 4 September 2013, 33 (36) 14534-14548; DOI: 10.1523/JNEUROSCI.1190-13.2013
 - [Hubel & Wiesel's demonstration of simple, complex and hypercomplex cells in the cat's visual cortex](https://youtu.be/jw6nBWo21Zk)
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/_JmA2ClUvUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Gridi-Papp, M., Rand, A. & Ryan, M. Complex call production in the túngara frog. Nature 441, 38 (2006).](https://doi.org/10.1038/441038a)
+- [Page and Bernal (2006) Túngara frogs. Current Biology](https://doi.org/10.1016/j.cub.2006.10.046)

@@ -6,12 +6,14 @@
 
 In preparation for today's class, you listened/watched Dr Jones Marlin discuss here paper: [Marlin et al (2015) Oxytocin enables maternal behaviour by balancing cortical inhibition.](https://doi.org/10.1038/nature14402)
 
+In mice, a communication system has evolved between pups and mothers so that when a pup produces a distress call, the mother will orient to the pup and go to retreive it back to the nest. However, this communication system is only active in females once they have become mothers (or after being co-housed with experienced and successfully-retreiving mothers).
+
 :::{image} /images/marlin-fig1a-cartoon.png
 :width: 500
 :align: center
 :::
 
-Oxytocin receptor levels do not change with parental care experience.
+We know that circulating levels of oxytocin hormone increase in females with childbirth, which is correlated with these changes in parental care. Could oxytocin be directly involved as a hormonal mechanism of parental care behavior? And if so, what neural mechanisms does it act on? Marlin et al found that oxytocin receptors were concentrated in the left auditory cortex (compared to the right) but that receptor expression levels do not change with parental care experience.
 
 :::{figure} /images/marlin-oxtR-expression.png
 :width: 300
@@ -23,7 +25,7 @@ Oxytocin receptors expression in left and right auditory cortex of virgin and mo
 
 > ⏳ 5 min 
 
-***Q1: How is this different from the hormonal mechanisms explaining different mating systems in voles?***
+***Q1: Compare and contrast this with the hormonal mechanisms explaining different mating systems in voles.***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -33,11 +35,11 @@ Oxytocin receptors expression in left and right auditory cortex of virgin and mo
 ***Optogenetics*** is a technique used in neuroscience to enable the depolarization or hyperpolarization of specific neural populations in the brain. Ion channels that are ***gated by*** (opened by) light of a specific wavelength can be expressed in specific sets of cells that are uniquely genetically defined. The light-gated ion channels can also be expressed in all cells within specific regions of the brain when injected locally using a *viral vector* (which was the method used by Marlin et al).
 
 :::{admonition} Methods Connections: viral vector genetic manipulation in adults (versus transgenics)
-  Last class, you studied the pioniering work of Young et al (1999) in which they demonstrated that differences in the regulatory (microsatellite) region upstream of the V1a receptor caused differences in V1a receptor expression across the brain that were associated with differences in pair bonding behavior. Microsatellite DNA is highly unstable. A hypothesis is that instability in the V1aR regulatory region enabled the evolution of altered V1aR expression in different brain region. 
+  Last class, you studied the pioniering work of Young et al (1999) in which they demonstrated that differences in the regulatory (microsatellite) region upstream of the V1a receptor caused differences in V1a receptor expression across the brain that were associated with differences in pair bonding behavior. Microsatellite DNA is highly unstable. A hypothesis is that instability in the V1aR regulatory region enabled the evolution of altered V1aR expression across the brain. 
 
-  The advent of viral vector methods for manipulating gene expression revolutionized that study system. Lim et al (2004; then in the lab of Larry Young of Young et al) were able to increase partner preference formation in the socially promiscuous meadow vole by using viral vector V1aR gene transfer specifically into only the ventral forebrain (VP; ventral pallidum). 
+  The advent of viral vector methods for manipulating gene expression revolutionized that study system. Lim et al (2004; then in the lab of Larry Young of Young et al) were able to increase partner preference formation in the socially promiscuous meadow vole by using viral vector V1aR gene transfection specifically into only the ventral forebrain (VP; ventral pallidum). 
 
-  Viral vector-mediated gene transfer essentially enabled Lim et al to recreate a singular evolutionary event in the laboratory. They showed that a change in the expression of a single gene in the larger context of pre-existing genetic and neural circuits can profoundly alter social behaviour, providing a potential molecular mechanism for the rapid evolution of complex social behaviour.
+  Viral vector-mediated gene transfer essentially enabled Lim et al to recreate the hypothesized evolutionary event in the laboratory. They showed that a change in the expression of a single gene in the larger context of pre-existing genetic and neural circuits can profoundly alter social behaviour, providing a potential molecular mechanism for the rapid evolution of complex social behaviour.
 :::
 
 :::{image} /images/cre-lox-system.png
@@ -45,7 +47,7 @@ Oxytocin receptors expression in left and right auditory cortex of virgin and mo
 :align: center
 :::
 
-Marlin et al expressed a light-gated depolarizing ion channel (ChETA; using the sequence lox-stop-lox-ChETA) in PVN neurons using Oxt-IRES-Cre animals (expresses CRE under control of endogenous oxytocin, which is in PVN neurons).
+Marlin et al expressed ***a light-gated depolarizing ion channel*** (ChETA; using the sequence lox-stop-lox-ChETA) ***in PVN neurons*** using Oxt-IRES-Cre animals (expresses CRE under control of endogenous oxytocin, which is in PVN neurons).
 
 :::{image} /images/pvn-oxy-optogenetics.png
 :width: 500
@@ -72,21 +74,21 @@ First, they stimulated PVN cell bodies to release endogenous oxytocin (and perha
 
 ---
 
-***Stimulating PVN axon terminals themselves enabled them to understand something about the neural mechanism specifically of parental care in addition to the hormonal mechanism.*** If they stimulated the PVN neuron cell bodies, then they would not know what part of the brain was being modulated as a result of the PVN neuron oxytocin release (PVN neuron axons project throughout the brain). By stimulating axon terminals only in the left auditory cortex, they showed that hormonal effects on that brain region alone was enough to turn naive virgins into retreiving caregivers. 
+***Stimulating PVN axon terminals*** themselves enabled them to understand something about the ***neural mechanism*** specifically of parental care in addition to the hormonal mechanism. If they had only stimulated the PVN neuron cell bodies, then they would not know what part of the brain was being modulated as a result of the PVN neuron oxytocin release (PVN neuron axons project throughout the brain). By stimulating axon terminals only in the left auditory cortex, they showed that hormonal effects on that brain region alone was enough to turn naive virgins into retreiving caregivers. 
 
 So what is oxytocin doing to the neurons in auditory cortex? What more specifically are neural mechanisms of parental care?
 
 :::{figure} /images/marlin-neural-mech-figures.png
 :width: 800
 
-Neural and hormonal mechanisms of parental care. **A)** Increased maternal care (pup retrieval) is associated with a change in the neural encoding (response to) pup calls in the left auditory cortex. **C,D,E)** Changes in spike rate and temporal precision (trial-to-trial correlation in spiking activity pattern) is specific for pup calls rather than general to all auditory stimuli. **F)** Pairing pup calls with oxytocin release in the left auditory cortex (starting at time 0) is sufficient to induce neural responses like those in experienced Dams (black = average across both types of oxytocin administration). 
+Neural and hormonal mechanisms of parental care. **A)** Increased maternal care (pup retrieval) is associated with a change in the neural encoding of (response to) pup calls in the left auditory cortex. **C,D,E)** Changes in spike rate and temporal precision (trial-to-trial correlation in spiking activity pattern) is specific for pup calls rather than general to all auditory stimuli. **F)** Pairing pup calls with oxytocin release in the left auditory cortex (starting at time 0) is sufficient to induce neural responses like those in experienced Dams (black = average across both types of oxytocin administration). 
 :::
 
 Therefore, changes in parental care can be explained by long-lasting neural changes that are driven by (transiently) increased oxytocin levels in new mothers. 
 
 ## Genetic Mechanisms
 
-In preparation for today's class, you also read: [Bendesky et al (2017) The genetic basis of parental care evolution in monogamous mice](https://doi.org/10.1038/nature22074). Bendesky et al knew that two species of *Peromyscus* mice with very different mating and parental care behavior could interbreed (from the genetic basis of burrowing behavior already done in Hoekstra's lab). These differences in parental care could be quantified and therefore correlated with genetics. 
+In preparation for today's class, you also read: [Bendesky et al (2017) The genetic basis of parental care evolution in monogamous mice](https://doi.org/10.1038/nature22074). Bendesky et al knew that two species of *Peromyscus* mice with very different mating and parental care behavior could interbreed (from the genetic basis of burrowing behavior already done in Hoekstra's lab). Importantly, differences in parental care could be quantified and therefore correlated with genetics. 
 
 ---
 
@@ -103,12 +105,12 @@ In preparation for today's class, you also read: [Bendesky et al (2017) The gene
 :::{figure} /images/bendesky-fig3.png
 :width: 600
 
-a, Genetic cross design. Female P. maniculatus were mated to P. polionotus males to found the cross (see Methods); the behaviour of females and males of each species is shown here for comparison. b–e, Violin plots show the distribution of behaviours. Each dot represents the mean behaviour of an animal over three trials.
+(**Figure 3 from Bendesky et al**) **a**, Genetic cross design. Female P. maniculatus were mated to P. polionotus males to found the cross (see Methods); the behaviour of females and males of each species is shown here for comparison. **b–e**, Violin plots show the distribution of behaviours. Each dot represents the mean behaviour of an animal over three trials.
 :::
 
 ***Q4: Based only on the results of Figure 3, how did the authors conclude that parental care behavior likely involves more than one gene?***
 
-***Q5: Which behaviors are the most genetically linked with each other? Which Figure/Panel are you relying on most to decide this?***
+***Q5: Based on results reported in Bendesky et al, which behaviors would you conclude are the most genetically linked with each other? Which Figure/Panel are you relying on most to decide this?***
 
 :::{figure} /images/Bendesky-fig5c.png
 :width: 350
@@ -121,7 +123,7 @@ a, Genetic cross design. Female P. maniculatus were mated to P. polionotus males
 :::
 ::::
 
-***Q6: If you block AVP (use an antagonist to the receptors that endogenously exist) in maniculatus, do you predict that they will then make good nests or do you predict no change in their parental care behavior? Why?***
+***Q6: If you block AVP (use an antagonist to the receptors that endogenously exist) in P. maniculatus, do you predict that they will then make good nests or do you predict no change in their parental care behavior? Why?***
 
 ***Q7: Based on the results presented in Bendesky et al 2017, would you infer that AVP receptor distribution was the same or different between the brains of P. polionotus and P. maniculatus? Why?***
 

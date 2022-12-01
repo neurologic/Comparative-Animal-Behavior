@@ -268,3 +268,6 @@ Signaling Systems: Ch4 Signaling When Interests Oppose](https://www.jstor.org/st
 - [The Evolution of Animal Communication: Conclusions](https://www.jstor.org/stable/pdf/j.ctt7s9pr.10.pdf?refreqid=excelsior%3Af7b78a58130701c87f0569df5e01aca2&ab_segments=&origin=&acceptTC=1)
 - Rachel A. Page, Michael J. Ryan, and Ximena E. Bernal [Be Loved Be Prey Be Eaten](http://www.sbs.utexas.edu/ryan/Publications/2013/2013InYasakawa.pdf) pp. 123-154.In: Animal Behavior, vol 3. Case Studies: Integration and Application of Animal Behavior (ed., K. Yasukawa), New York: Praeger. 
 - [Julie Hagelin (2003) Ornaments, body size, and mating behavior of the Gambel's quail.](https://www.biodiversitylibrary.org/partpdf/210426)
+- [Halfwerk, W., Blaas, M., Kramer, L. et al. Adaptive changes in sexual signalling in response to urbanization. Nat Ecol Evol 3, 374–380 (2019).](https://doi.org/10.1038/s41559-018-0751-8)
+- [Page and Bernal (2006) Túngara frogs. Current Biology](https://doi.org/10.1016/j.cub.2006.10.046)
+- Wilczynski, W., A, S. R., & Ryan, M. J. (2001). Evolution of calls and auditory tuning in the physalaemus pustulosus species group. Brain, Behavior and Evolution, 58(3), 137-51. Retrieved from https://ezproxy.wesleyan.edu/login?url=https://www.proquest.com/scholarly-journals/evolution-calls-auditory-tuning-physalaemus/docview/232159569/se-2
