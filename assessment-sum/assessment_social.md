@@ -20,7 +20,7 @@ Answer all questions either electronically or by hand. Label each of your answer
 
 (*This section should take ~20 min total*)
 
-**Q1 (4 points; \~7 minutes)**: In a species where the **operational sex ratio was female-biased** (more reproductively available females than males), sexual selecton pressures would need to be included in evolutionary models of behavior for [ **males / females** ] *more often than for* [ **males / females** ]. **And WHY?**  
+**Q1 (4 points; \~7 minutes)**: In a species where the **operational sex ratio was female-biased** (more reproductively available females than males), sexual selection pressures (for example, the need to obtain a mate) would need to be included in evolutionary models of behavior for [ **males / females** ] *more often than for* [ **males / females** ]. **And WHY?**  
 (***Choose the best answer in each bracket and then explain the reason why that answer set is correct***). 
 
 ---
@@ -102,9 +102,9 @@ Zahavi proposed reinterpreting helping-at-the-nest behavior according to the pri
 
 ## Section 3
 
-(*This section should take ~20 min total*)
+(*This section should take ~15 min total*)
 
-**Q6 (6 points; \~20 minutes)**: You know from the literature that, in two species of *Peromyscus* mice (*polionotus* and *maniculatus*), **mating** behavior and **parental care** behavior are both heritable rather than learned. Now, you want to **determine whether mating phenotypes are genetically linked to parental care phenotypes**. Use what you know from studies we discussed during the course to ***briefly outline one experiment*** that would enable you to **distinguish between (and therefore test) the two alternative hypotheses**: **1)** that mating behavior and parental care are genetically linked, and **2)** that mating behavior and parental care are not genetically linked (ie. both are genetically ‘determined,’ but independently). ***Make sure to explain the metrics you would use to quantify each behavior***. You can include a cartoon of the experimental design and your comparisons if that helps you describe, but it must be described in words. ***Draw a plot of the predicted experimental results that would be consistent with the hypothesis that mating and parental care behavior phenotypes are genetically linked*** (label your plot well).   
+**Q6 (6 points; \~15 minutes)**: You know from the literature that, in two species of *Peromyscus* mice (*polionotus* and *maniculatus*), **mating** behavior and **parental care** behavior are both heritable rather than learned. Now, you want to **determine whether mating phenotypes are genetically linked to parental care phenotypes**. Use what you know from studies we discussed during the course to ***briefly outline one experiment*** that would enable you to **distinguish between (and therefore test) the two alternative hypotheses**: **1)** that mating behavior and parental care are genetically linked, and **2)** that mating behavior and parental care are not genetically linked (ie. both are genetically ‘determined,’ but independently). ***Make sure to explain the metrics you would use to quantify each behavior***. You can include a cartoon of the experimental design and your comparisons if that helps you describe, but it must be described in words. ***Draw a plot of the predicted experimental results that would be consistent with the hypothesis that mating and parental care behavior phenotypes are genetically linked*** (label your plot well).   
 (**In summary**: ***explain a sufficient experiment, including a descriptions the metrics used to quantify behavior in the experiment, and draw a plot of the results predicted if the two are genetically linked***.)
 
 ---
