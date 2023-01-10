@@ -237,7 +237,6 @@ This diagram shows pheromone trails laid down by ants to direct others in the co
 
 ## Additional Resources
 
-- [Inspiring song: The role of respiratory circuitry in the evolution of vertebrate vocal behavior (2020)](https://doi.org/10.1002/dneu.22752)
 - [Morgan Wirthlin, Edward F. Chang, Mirjam Knörnschild, Leah A. Krubitzer, Claudio V. Mello, Cory T. Miller, Andreas R. Pfenning, Sonja C. Vernes, Ofer Tchernichovski, Michael M. Yartsev. (2019) A Modular Approach to Vocal Learning: Disentangling the Diversity of a Complex Behavioral Trait. Neuron, Volume 104, Issue 12019](https://doi.org/10.1016/j.neuron.2019.09.036)
 - [Mechanisms in Bird Song](https://doi.org/10.1016/j.anbehav.2021.04.009)
 - [Ronacher, B. Innate releasing mechanisms and fixed action patterns: basic ethological concepts as drivers for neuroethological studies on acoustic communication in Orthoptera. J Comp Physiol A 205, 33–50 (2019).](https://doi.org/10.1007/s00359-018-01311-3)

@@ -418,8 +418,6 @@ The membrane potential response (y-axis) to stimuli of different amplitudes (x-a
 ---
 
 ## Additional Resources
-
-- [Central pattern generators in the turtle spinal cord: selection among the forms of motor behaviors (2018)](https://doi.org/10.1152/jn.00602.2017)
 - [BI 054 Kanaka Rajan: How Do We Switch Behaviors?](https://braininspired.co/podcast/54/)
 - [Huberman Lab: UNDERSTANDING & CONTROLLING AGGRESSION](https://hubermanlab.com/understanding-and-controlling-aggression/)
 - [Basic NeuroAnatomy](https://learn.genetics.utah.edu/content/neuroscience/neurons)
