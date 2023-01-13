@@ -1,0 +1,42 @@
+name: Issues and Errata
+title: "Name your post"
+description: Use this template to address issues and errata
+labels: ["errors"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to create this issue report!
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: So we know who you are
+      placeholder: name
+    validations:
+      required: true
+  - type: textarea
+    id: issue-local
+    attributes:
+      label: The issue location 
+      description: Clearly describe where the issue occurs.
+      placeholder: The issue is found on page ... in section ... (for example)
+    validations:
+      required: true
+  - type: textarea
+    id: issue-original
+    attributes:
+      label: The original text that raises the issue
+      description: Copy the original
+    validations:
+      required: true
+  - type: textarea
+    id: issue-edit
+    attributes:
+      label: Your proposed fix 
+      description: Clearly describe how you would address the issue.
+      placeholder: Here is what I suggest...
+    validations:
+      required: true
