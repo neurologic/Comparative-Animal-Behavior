@@ -8,6 +8,6 @@ The assignments will be released on a rolling schedule approximately 1-2 class s
 | Phylogeny and Evolution | March 3 (F) | March 10 (F) |
 | Neural, Hormonal, Genetic, and Development | April 7 (F) | April 14 (F) |
 | Navigation, Escape, and Communication | April 21 (F) | April 28 (F) |
-| Communication, Social, and Family Life[^attention-date] | May 4 (Th)[^attention-date] | May 10 (W)[^attention-date] |
+| Communication, Social, and Family Life[^attention-date] | May 4 (Th) | May 10 (W) |
 
 [^attention-date]: Note the abnormal days of the week due to end of semester.
