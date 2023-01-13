@@ -85,17 +85,16 @@ Classroom format:
 1. Students are expected to work collaboratively, generally in groups of three or four.
 2. The students work on the activity during class time with a facilitator present.
 3. The dominant mode of instruction is not lecture or instructor-centered; the instructor serves predominantly as a facilitator of student learning.
-4. Students have assigned (rotating) roles within their groups.
+4. Students have assigned (rotating weekly) roles within their groups.
 5. The activities are designed to draw on your past knowledge and critical thinking skills to introduce terms and concepts. You won't necessarily "know the answers" before you start. 
 6. Groups are expected to complete all of the Questions during class. There may be additional exercises or problems expected to be completed outside of class.
 
 For group in-class work, specific roles are:[^roles-details]
 - scribe
-- liason
-- facilitator
-- researcher
+- speaker
+- manager
 
-At least one person from each group needs to bring a computer or tablet (or similar) to class. If this is not possible, please discuss with me so that I can help. 
+It is helpful if at least one person from each group brings a computer or tablet (or similar) to class. If this is not possible, please discuss with me so that I can help. 
 
 
 [^roles-details]: Details of the roles:
@@ -132,20 +131,6 @@ At least one person from each group needs to bring a computer or tablet (or simi
         - Assign different members to read sections of activity on a rotating basis.
         - “(Name), what do you think about . . . .?”
         - “I would like to hear what you think, (name).”
-    - researcher/reflector/strategy analyst/observer
-      - Guides consensus-­‐building process; team must agree on responses to questions.
-        - “Would you all agree that _____ is a good answer for question number _____?”
-        - “Could you please rephrase what you just said?”
-        - “Is your answer completely supported by your explanation?”
-        - “Would that response make sense to someone from another team?”
-      - Observes team dynamics and behavior with respect to the learning process.
-        - Is everyone in the team participating?
-        - Are team members listening carefully to each other?
-        - Are team members being patient and respectful of each other?
-      - Reports to the team periodically during the activity on how the team performs.
-        - “Let’s stop for a minute. I have a couple comments on what we are doing well and a suggestion on how we could be more productive.”
-        - “Let’s wait for (name) to catch up before we move on.”
-      - Runs internet queries to help progress group discussion if it gets stuck
 
 **Identity**
 Class rosters are provided to the instructor with the student's legal name. I will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me of this preference early in the semester so that I may make appropriate changes to my records.
@@ -163,16 +148,19 @@ All graded work will be handed in via Gradescope.
 :align: center
 :::
 
-**<font color="green">Weekly In-Class Work</font>** *20%*  
-Due each Friday by midnight. Each week the group scribe (a rotating role) will be responsible for uploading the work that your group did in class (this can include consulting the manager to deligate task completion if necessary). The purpose of the in-class work is to enable you to develop concepts and deepen your understanding of those concepts through exploration and discussion. Interactions among students and between students and the instructor are intentionally assessment-oriented (not *evaluative*). This work will be graded either **0:missing**, **1:incomplete**, **2:complete *but***, or **3:complete**. Your final score at the end of the semester will reflect a cumulative sum of your scores on each submission. Added to this score will be CR/U for any in-class assessments. 
-
-**<font color="orange">Cumulative Exam</font>** *60%*  
-[Due (approximately) every other week by Monday at midnight](../assessment-sum/cumulative-exam). Instead of one or two big exams, you will have smaller bi-weekly assignments. The points you earn on each of these assignments will be tallied toward your total exam score for the semester. The due dates may be subject to change if there are major shifts in the daily schedule due to the differing needs of each particular class as your unique class moves through the material. The due dates are listed in the [Cumulative Exam tab](../assessment-sum/cumulative-exam).
-
-**<font color="purple">Capstone</font>** *20%*  
-Due by midnight on the first day of final exams (Dec 13). Your work throughout the semester builds toward your [Capstone assignment](../assessment-sum/capstone): a media project (written, audio, video, etc) that summarizes the current scientific understanding of a specific animal behavior through Tinbergen's four levels of analysis: ontogeny, mechanism, phylogeny and adaptive value.  
+**<font color="green">Peer Work</font>** *20%*  
+Due each Friday by midnight. Each week the group scribe (a rotating role) is responsible for uploading a specific subset of the work that your group did in class (this can include consulting the manager to deligate task completion if necessary). The purpose of the in-class work is to enable you to develop concepts and deepen your understanding of those concepts through exploration and discussion. Interactions among students and between students and the instructor are intentionally assessment-oriented (*formative*, not *summative*). This work will be graded either **0:missing**, **1:incomplete/insufficient**, or **3:complete**. Your final score at the end of the semester will reflect a cumulative sum of your scores on each submission. Added to this score will be CR/U for any additional in-class assessments. 
 
 ***Attendence*** in classroom sessions is mandatory. If unforseeable emergency comes up, please reach out as soon as possible so that we can make a plan.  
+
+**<font color="orange">Summative Exam</font>** *60%*  
+[Due (approximately) every other week by Monday at midnight](../assessment-sum/summative-assessment). Instead of one or two big exams, you will have smaller bi-weekly assignments. The points you earn on each of these assignments will be tallied toward your total exam score for the semester. The due dates may be subject to change if there are major shifts in the daily schedule due to the differing needs of each particular class as your unique class moves through the material. The due dates are listed in the [Summative Assessment tab](../assessment-sum/summative-assessment).
+
+**<font color="purple">Capstone</font>** *20%*  
+Due by midnight on the first day of final exams (May 16). Your work throughout the semester builds toward your [Capstone assignment](../assessment-sum/capstone): a media project (written, audio, video, etc) that summarizes the current scientific understanding of a specific animal behavior through Tinbergen's four levels of analysis: ontogeny, mechanism, phylogeny and adaptive value.  
+
+**Bias-UP your grade**  
+You can bias your final grade higher by significantly contributing to the course resource. Use the ISSUES link to open a discussion, issue, or topic in the course's github repository. This can include minor things like catching an editing mistake, to suggestions for re-wording of questions or explanations, to additions of new examples that explore course concepts. If you end up teatering between a B+ and and A- for your final grade, your contributions via the issues link would be the way to have the grade "biased upward". 
 
 
 ## Other
