@@ -1,0 +1,40 @@
+name: Terms, Topics, Concepts item needed
+title: "Name your post"
+description: Use this template to add a glossary item to the course
+labels: ["issue"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to contribute!
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: So we know who you are
+      placeholder: name
+    validations:
+      required: true
+  - type: textarea
+    id: term
+    attributes:
+      label: Term Needed 
+      description: What term needs to be added to the glossary? 
+    validations:
+      required: true
+  - type: textarea
+    id: def
+    attributes:
+      label: Description 
+      description: What is your definition/description?
+    validations:
+      required: true
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      description: Where would you put this definition within the website?
+    validations:
+      required: true
