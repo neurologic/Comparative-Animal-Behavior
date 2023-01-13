@@ -7,10 +7,10 @@
 *Email* : kperks@wesleyan.edu  
 *Office Hours*: 12-1 Tuesdays and Wednesdays [via Zoom](https://wesleyan.zoom.us/j/94621043921?pwd=OC96eEtTMll5QitvUE9YSmtFWWgvdz09). If no one shows up within the first 10 min I will close the zoom. So if you need to arrive after the first 10 min email me ahead of time. 
 
-**Course Assistant**  
-*Name* : Katie Sagarin (PhD Candidate)  
-*Email* : ksagarin@wesleyan.edu  
-*Office Hours* : Wednesday 3-4pm in ofice Shanklin 208  
+**Teaching Assistant**  
+*Name* : TBD 
+*Email* : TBD
+*Office Hours* : TBD  
 
 **Peer Tutor**  
 *Name* : Sarah Timbie  
@@ -160,7 +160,7 @@ Due each Friday by midnight. Each week the group scribe (a rotating role) is res
 Due by midnight on the first day of final exams (May 16). Your work throughout the semester builds toward your [Capstone assignment](../assessment-sum/capstone): a media project (written, audio, video, etc) that summarizes the current scientific understanding of a specific animal behavior through Tinbergen's four levels of analysis: ontogeny, mechanism, phylogeny and adaptive value.  
 
 **Bias-UP your grade**  
-You can bias your final grade higher by significantly contributing to the course resource. Use the ISSUES link to open a discussion, issue, or topic in the course's github repository. This can include minor things like catching an editing mistake, to suggestions for re-wording of questions or explanations, to additions of new examples that explore course concepts. If you end up teatering between a B+ and and A- for your final grade, your contributions via the issues link would be the way to have the grade "biased upward". 
+You can bias your final grade higher by significantly contributing to the course resource. Use the "repository" link (mouse over the cat icon on any course page) to open a discussion, issue, or feature request in the course's github repository (note that this will require creating a free github account if you do not already have one). This can include minor things like catching an editing mistake, to suggestions for re-wording of questions or explanations, to additions of new examples that explore course concepts. If you end up teatering between a B+ and and A- for your final grade, your contributions via the issues link would be the way to have the grade "biased upward". 
 
 
 ## Other
