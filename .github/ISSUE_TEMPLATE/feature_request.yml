@@ -20,9 +20,17 @@ body:
   - type: textarea
     id: discussion-body
     attributes:
-      label: Discussion 
-      description: Questions, comments, or prompts.
+      label: Feature 
+      description: What would you like to see added?
       placeholder: Tell us all about it!
       value: "Tell us all about it!" 
+    validations:
+      required: true
+  - type: textarea
+    id: discussion-addition
+    attributes:
+      label: Context 
+      description: What existing content does this feature relate to or add to?
+      placeholder: Tell us how this feature enhances the current course content
     validations:
       required: true
