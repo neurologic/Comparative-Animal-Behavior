@@ -1,5 +1,6 @@
 name: Discussion Starter
 title: "[Discussion Starter]: "
+description: Use this template to propose a discussion
 labels: ["discussion"]
 assignees:
   - octocat
