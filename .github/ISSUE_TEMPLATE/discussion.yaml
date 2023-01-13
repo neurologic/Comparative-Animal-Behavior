@@ -1,0 +1,28 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["discussion"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to initiate this discussion!
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: So we know who you are
+      placeholder: name
+    validations:
+      required: true
+  - type: textarea
+    id: discussion-body
+    attributes:
+      label: Discussion 
+      description: Questions, comments, or prompts.
+      placeholder: Tell us all about it!
+      value: "Tell us all about it!" 
+    validations:
+      required: true

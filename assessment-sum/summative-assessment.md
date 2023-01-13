@@ -4,10 +4,10 @@ The assignments will be released on a rolling schedule approximately 1-2 class s
 
 | Topic | Release Date | Due Date (midnight) |
 | :---: | :---: | :---:|
-| Components of Behavior, Observation, and Analysis | TBD (F) | TBD (Th) |
-| Phylogeny and Evolution | TBD (F) | TBD (Th) |
-| Neural, Hormonal, Rhythms | TBD (F) | TBD (Th) |
-| Genetics and Development & Navigation and Escape | TBD (F) | TBD (Th) |
-| Communication, Social, and Family Life[^attention-date] | TBD (F) | TBD (Th) |
+| Components of Behavior, Observation, and Analysis | Feb 17 (F) | Feb 24 (F) |
+| Phylogeny and Evolution | March 3 (F) | March 10 (F) |
+| Neural, Hormonal, Genetic, and Development | April 7 (F) | April 14 (F) |
+| Navigation, Escape, and Communication | April 21 (F) | April 28 (F) |
+| Communication, Social, and Family Life[^attention-date] | May 4 (Th)[^attention-date] | May 10 (W)[^attention-date] |
 
 [^attention-date]: Note the abnormal days of the week due to end of semester.
