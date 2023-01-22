@@ -25,10 +25,10 @@ There are sooooooo many ways to appropriately approach this assignment. So havin
 
 There are things that could be improved with these submissions. So in seeing them as examples, use your judgement).
 
-- [Podcast: Nature Speaks: Hibernation in the Little Brown Bat](https://anchor.fm/sophie-henderson8/episodes/Hibernation-in-the-Little-Brown-Bat-e1bovjo)
-- [Written: The Art of the Long Winter Nap](https://drive.google.com/file/d/1AiJ1Wb6bkHB4pgL5iUP9iwEq9R7B_AiP/view?usp=sharing)
-- [Video: Parental Care and Offspring Need](https://drive.google.com/file/d/1_kqKk8TBdpnOxK4wq8bnAvdiIMdbE0xm/view?usp=sharing)
-- [Website: A similar assignment from a course at Reed](https://www.reed.edu/biology/professors/srenn/pages/teaching/web_2010/index.html)
+- Podcast: [Nature Speaks: Hibernation in the Little Brown Bat](https://anchor.fm/sophie-henderson8/episodes/Hibernation-in-the-Little-Brown-Bat-e1bovjo)
+- Written: [An Analysis of "Playing Possum"](https://drive.google.com/file/d/1VJ-oKXvGl70W3O2Pn95JqQj7j0QWiBRY/view?usp=sharing); [The Art of the Long Winter Nap](https://drive.google.com/file/d/1AiJ1Wb6bkHB4pgL5iUP9iwEq9R7B_AiP/view?usp=sharing)
+- Video: [Parental Care and Offspring Need](https://drive.google.com/file/d/1_kqKk8TBdpnOxK4wq8bnAvdiIMdbE0xm/view?usp=sharing)
+- Website: [A similar assignment from a course at Reed](https://www.reed.edu/biology/professors/srenn/pages/teaching/web_2010/index.html)
 
 **Reference Formatting**  
 Please follow the style below in the published edition of Nature in preparing reference lists.  
