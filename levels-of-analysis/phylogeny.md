@@ -126,7 +126,7 @@ Green            AACTAT-CATACCCACTCACTCTAAGGACCTATAACTAATTAGTACTTGACCTATATTTT
 
 ***Q7: What does the star mean for a column of letters (molecules in the gene sequence)?*** 
 
-***Q8: Compute a metric of genetic similarity ("relatedness") between Hawksbill and Loggerhead turtles based on sequence (dis)similarity.***
+***Q8: Define and compute a metric of relatedness (genetic similarity) between Hawksbill and Loggerhead turtles based on sequence (dis)similarity.***
 
 ***Q9: Use the same method to compute the relatedness between Hawksbill and Green turtles.***
 
@@ -245,9 +245,9 @@ Phylogeny of *Neoaves* (By clicking on the image you can zoom in).
 Character mapping of vocal learning behavior on the phylogeny of *Neoaves* from Brenowitz (1991)[^brenowitz-1991] in **A** and **B** and off of Suh et al (2011)[^suh-2011] in **C**. Yellow: vocal learners, Blue: vocal non-learners.
 :::
 
-***Q12: Use the phylogeny in Figure 13A to analyze (using parsimony) the two alternative ancestral state reconstruction hypotheses for the LCA of all song learners (arrow).***   
+***Q12: Use the phylogeny in Figure 13A to analyze (using parsimony) the two alternative ancestral state reconstruction hypotheses for the LCA of all song learners (arrow). Make sure to report your data as well as your conclusion.***   
 
-***Q13: How would your analysis change using the same (but simplified) phylogeny in Figure 13B?*** 
+***Q13: Does simplifying the phylogeny in Figure 13B change the results compared to Figure 13A?*** 
 
 ***Q14: Use the phylogeny in Figure 13C to analyze (using parsimony) the two alternate ancestral state reconstruction hypotheses for the LCA of all song learners.***  
 

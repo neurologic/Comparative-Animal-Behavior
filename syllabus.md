@@ -5,7 +5,7 @@
 **Instructor**  
 *Name* : Krista Perks, PhD (they/she)  
 *Email* : kperks@wesleyan.edu  
-*Office Hours*: 12-1 Tuesdays and Wednesdays [via Zoom](https://wesleyan.zoom.us/j/94621043921?pwd=OC96eEtTMll5QitvUE9YSmtFWWgvdz09). If no one shows up within the first 10 min I will close the zoom. So if you need to arrive after the first 10 min email me ahead of time. 
+*Office Hours*: By appointment 12-1 Tuesdays and Wednesdays [via Zoom](https://wesleyan.zoom.us/j/94621043921?pwd=OC96eEtTMll5QitvUE9YSmtFWWgvdz09).  
 
 **Teaching Assistant**  
 *Name* : TBD 
@@ -60,7 +60,7 @@ It is important that students bring a certain ragamuffin[^ragamuffin], barefoot 
 ## Course Resources
 - The course website (which you accessed to read this syllabus) contains all course materials that you will need. 
 - Assignments are handed in and graded via [**Gradescope**](https://www.gradescope.com/).
-  - [Joining the course through your Gradescope account](https://help.gradescope.com/article/gi7gm49peg-student-add-course). <font color="green">Course Code: XVXVJY</font>. 
+  - [Joining the course through your Gradescope account](https://help.gradescope.com/article/gi7gm49peg-student-add-course). <font color="green">Course Code: BBR6PZ</font>. 
   - [Additional resources for students](https://help.gradescope.com/category/cyk4ij2dwi-student-workflow)
 
 
@@ -71,7 +71,7 @@ It is important that students bring a certain ragamuffin[^ragamuffin], barefoot 
 ## Classroom Sessions
 
 Group work has been shown to enhance professional behaviors and job preparedness, particularly building communication and team
-management skills (Cartwright et al., 2021[^Cartwright]; Senay, 2015[^Senay]).
+management skills (Cartwright et al., 2021[^Cartwright]; Senay, 2015[^Senay]). In-class work enables you to develop concepts and deepen your understanding of those concepts through exploration and discussion. Interactions among students and between students and the instructor are intentionally student-focused and assessment-oriented (*formative*, not *summative*). 
 
 [^Cartwright]: Cartwright, N.M., Patil, P., Liddle, D.M., Newton, G., and Monk, J.M. Enhancement of Professional Behaviours and
 Perceptions of Critical Skill Job Preparedness through the Use of a Group Work Contract in Fourth-Year
@@ -90,9 +90,14 @@ Classroom format:
 6. Groups are expected to complete all of the Questions during class. There may be additional exercises or problems expected to be completed outside of class.
 
 For group in-class work, specific roles are:[^roles-details]
-- scribe
-- speaker
-- manager
+- **Scribe**
+  - Takes the official group notes to be turned in by the end of the week (via Gradescope).
+- **Manager**
+  - By the end of the week, [reports on the dynamics of peer work among their group](https://forms.gle/heoNQ9mdmXWdkzhE6). 
+- **Speaker**
+  - Called on to share the group's answers on the specific peer work questions.
+
+*Rotate these roles weekly* within your group.
 
 It is helpful if at least one person from each group brings a computer or tablet (or similar) to class. If this is not possible, please discuss with me so that I can help. 
 
@@ -142,21 +147,26 @@ In preparation for class, complete any "Assignments" listed in the [Schedule](..
 All graded work will be handed in via Gradescope.
 
 :::{image} /images/grading-distribution.png
-:alt: fishy
-:class: bg-primary mb-1
-:width: 700px
+:width: 400
 :align: center
 :::
 
 **<font color="green">Peer Work</font>** *20%*  
-Due each Friday by midnight. Each week the group scribe (a rotating role) is responsible for uploading a specific subset of the work that your group did in class (this can include consulting the manager to deligate task completion if necessary). The purpose of the in-class work is to enable you to develop concepts and deepen your understanding of those concepts through exploration and discussion. Interactions among students and between students and the instructor are intentionally assessment-oriented (*formative*, not *summative*). This work will be graded either **0:missing**, **1:incomplete/insufficient**, or **3:complete**. Your final score at the end of the semester will reflect a cumulative sum of your scores on each submission. Added to this score will be CR/U for any additional in-class assessments. 
+Due each Friday by 11PM (EST/EDT). 
+
+Each week:
+- the group scribe (a rotating role) is responsible for uploading a specific subset of the work that your group did in class. 
+  > To get credit, in your submission you must both *include all the group members* AND *specify the page on which each question is addressed*. 
+- the group manager (a rotating role) is responsible for uploading their assessment of their group's work dynamic that week.
+
+This work will be graded either **0:missing**, **1:incomplete/insufficient**, or **3:complete**. Your final score at the end of the semester will reflect a cumulative sum of your scores on each submission. Added into this score will be CR/U for any additional in-class assessments. 
 
 ***Attendence*** in classroom sessions is mandatory. If unforseeable emergency comes up, please reach out as soon as possible so that we can make a plan.  
 
-**<font color="orange">Summative Exam</font>** *60%*  
-[Due (approximately) every other week by Monday at midnight](../assessment-sum/summative-assessment). Instead of one or two big exams, you will have smaller bi-weekly assignments. The points you earn on each of these assignments will be tallied toward your total exam score for the semester. The due dates may be subject to change if there are major shifts in the daily schedule due to the differing needs of each particular class as your unique class moves through the material. The due dates are listed in the [Summative Assessment tab](../assessment-sum/summative-assessment).
+**<font color="purple">Summative Assessments</font>** *60%*  
+*Five* total. [Due (approximately) every other week by Monday at midnight](../assessment-sum/summative-assessment). Instead of one or two big exams, you will have smaller bi-weekly assessments. The points you earn on each will be tallied toward your total exam score for the semester. The due dates may be subject to change if there are major shifts in the daily schedule due to the differing needs of each particular class as your unique class moves through the material. The due dates are listed in the [Summative Assessment tab](../assessment-sum/summative-assessment).
 
-**<font color="purple">Capstone</font>** *20%*  
+**<font color="orange">Capstone</font>** *20%*  
 Due by midnight on the first day of final exams (May 16). Your work throughout the semester builds toward your [Capstone assignment](../assessment-sum/capstone): a media project (written, audio, video, etc) that summarizes the current scientific understanding of a specific animal behavior through Tinbergen's four levels of analysis: ontogeny, mechanism, phylogeny and adaptive value.  
 
 **Bias-UP your grade**  
@@ -179,7 +189,6 @@ Assignment due dates are available from the start of the semester. Students are 
 
 **Time Commitment**  
 Attendence in classroom sessions is mandatory. If your in-class work is finished before the classroom session ends, you can use the additional time to work on Take Home work or explore the preparation further. I have designed the class so that it should be feasible to satisfactorily complete the requirements with approximately twelve hours per week of time commitment (as per the standards for a full credit course). If you are spending more time than this on a regular basis I encourage you to check in with me.
-
 
 **Accommodation Statement**  
 Wesleyan University is committed to ensuring that all qualified students with disabilities are afforded an equal opportunity to participate in, and benefit from, its programs and services. To receive accommodations, a student must have a disability as defined by the ADA. Since accommodations may require early planning and generally are not provided retroactively, please contact Accessibility Services as soon as possible. If you have a disability, or think that you might have a disability, please contact Accessibility Services in order to arrange an appointment to discuss your needs and the process for requesting accommodations. Accessibility Services is located in North College, rooms 021/218, or can be reached [by email](mailto:accessibility@wesleyan.edu) or phone (860-685-2332).

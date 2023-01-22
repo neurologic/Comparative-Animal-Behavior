@@ -157,17 +157,17 @@ We often come across evolutionary explanations in terms of *costs* and *benefits
 Let's formalize an optimality theory model for $F$, the net fitness of a phenotype, in terms of the two factors you just examined.
 
 $$
-  F = t + e
+  F = f - p
 $$
-where $t$ = foraging success (amount and quality of food eaten) and $e$ = predator escape success.  
+where $f$ = foraging success (amount and quality of food eaten) and $p$ = likelihood of being injured/killed by a predator.  
 
 If there are multiple possible phenotypes (in this case *vigilant* or *not vigilant*), then, by optimality theory, the phenotype that confers greater total fitness to the animal will be favored by natural selection. Therefore, the solution to an optimality model is to figure out which phenotype has a highest net fitness ($F$).
 
-***Q11: Would the vigilant phenotype or the not vigilant phenotype have a higher value of $t$?***
+***Q11: Would the vigilant phenotype or the not vigilant phenotype have a higher value of $f$?***
 
-***Q12: Would the vigilant phenotype or the not vigilant phenotype have a higher value of $e$?***
+***Q12: Would the vigilant phenotype or the not vigilant phenotype have a higher value of $p$?***
 
-***Q13: Given this information, can you determine which phenotype has a higher net fitness? Choose some arbitrary (but logical) values for the variables $t$ and $e$ in the model to make your prediction.***
+***Q13: Given this information, can you determine which phenotype has a higher net fitness? Choose some arbitrary (but logical) values for the variables $f$ and $p$ in the model to make your prediction.***
 
 ***Q14: What kinds of issues are you encountering in using the model to predict which phenotype is more fit?***
 
@@ -180,12 +180,12 @@ Consider how environments can differ. Do all environments have the same amount o
 
 Let's account for the effect of environment by adding two new variables to the model: 
 - $q$ = the quality or amount of food available
-- $p$ = the number of predators
+- $n$ = the number of predators
 
 Consider this revised formulation of the model 
 
 $$
-  F = q*t + p*e
+  F = q*f - n*p
 $$
 
 ---
@@ -320,6 +320,13 @@ A tabular representation of the game theory model of conflict resolution behavio
 :::
 
 #### Solving the model
+
+:::{glossary}
+
+evolutionary stability/equilibrium
+  An evolutionarily stable phenotype is one that cannot be *invaded by* another phenotype -- it persists in the face of natural selection. At evolutionary equilibrium, populations can either exhibit one stable phenotype or a stable mixture of phenotypes.
+
+:::
 
 Game theory models are solved a bit differently than Optimality Theory. The task is to determine ***under what conditions*** (values of the variables/factors) is each behavior(s) ***stable***. 
 

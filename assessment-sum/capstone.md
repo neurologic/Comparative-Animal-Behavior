@@ -1,6 +1,6 @@
 # Capstone
 
-**DUE by midnight on Dec 13 2022**
+**DUE by 11 PM on May 16 2022**
 
 Create a media project (written, audio, video, etc) that summarizes the current scientific understanding of a specific animal behavior (applying a comparative approach to include consideration of convergence and divergence). These summaries include information relating to each of the four areas of animal behavior as outlined by Tinbergen (1963): ontogeny, mechanism, phylogeny and adaptive value. Because some model organisms are more suited to specific types of research, your work will likely incorporate research from multiple organisms in order to discuss the specific animal behavior. Books, websites, and newspapers may be used, but try to support your information primarily through primary literature.
 
@@ -17,6 +17,8 @@ The expectation and requirements are that the explanations you provide at each l
 - *Video* (think educational outreach video style) – no more than 15 min (incorporate images that enhance the accessibility of information in your work)
 - *A Live Theatrical Play* (incorporate images that enhance the accessibility of information in your work)
 - *Other* (see me to discuss)
+
+Regardless of your project format, upload a PDF to Gradescope (if not a PDF of your written work, make a PDF with a description of where your work can be found).
 
 **Some example work**  
 There are sooooooo many ways to appropriately approach this assignment. So having "example" work does not ring true to the goals of this project. Each of you will approach this in a slightly different way, the topics are so diverse, each of your personalities is so different. So keep that all in mind when working on your own project. In figuring out what to include, you should be guided by the fundamental goal of understanding a behavior that you are interested in from a comparative perspective and at all 4 levels of analysis that we have covered in class (Tinbergen's 4). You need to communicate this understanding clearly, logically, and completely (as complete as possible while still being clear).
