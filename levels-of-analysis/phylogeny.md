@@ -240,7 +240,7 @@ Phylogeny of *Neoaves* (By clicking on the image you can zoom in).
 > ⏳ 15 min 
 
 :::{figure} /images/phylogeny-vocal-learning-comparison-drawn.png
-:width: 900
+:width: 500
 
 Character mapping of vocal learning behavior on the phylogeny of *Neoaves* from Brenowitz (1991)[^brenowitz-1991] in **A** and **B** and off of Suh et al (2011)[^suh-2011] in **C**. Yellow: vocal learners, Blue: vocal non-learners.
 :::

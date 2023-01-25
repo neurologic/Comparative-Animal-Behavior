@@ -138,9 +138,10 @@ We can also check in on these webcams:
 ---
 
 
-:::{admonition} Making Connections
-- How is the issue of 'superimposition' of behavior different from or similar to the issue of 'hierarchy' of behavior?
-- How could behavioral learning make it difficult to categorize/define an animal's behavior?
+:::{admonition} Making Connections (optional)
+***Q: How is the issue of 'superimposition' of behavior different from or similar to the issue of 'hierarchy' of behavior?***  
+
+***Q: How could behavioral learning make it difficult to categorize/define an animal's behavior?***
 :::
 
 ---

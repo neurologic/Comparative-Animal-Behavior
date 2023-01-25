@@ -102,7 +102,7 @@ The following questions should prime you to think about hormone mechanims of act
 ---
 > ⏳ 10 min 
 
-***Q4: The same hormone can be stimulatory (excitatory) some neurons while simultaneously inhibiting other neurons. True/False? Briefly explain.***
+***Q4: The same hormone can be stimulatory (excitatory) for some neurons while simultaneously inhibiting other neurons. True/False? Briefly explain.***
 
 ***Q5: Why are molecules such as cAMP necessary for water-soluble hormones (but not lipid-soluble hormones) to effect gene expression?***
 
@@ -162,12 +162,12 @@ A Lorenz model of behavior for a male mouse defending its territory. Top: action
 
 ***Q9: Which "time of stimulus" color most likely corresponds to the presence of serotonin in the animals? In terms of the data in the top figure, what is your evidence for this?***
 
-***Q10: The action-specific potential most closely models the membrane potential of:  
+<!-- ***Q10: The action-specific potential most closely models the membrane potential of:  
 a. sensory neurons in the olfactory bulb  
 b. VMHvl neurons  
 c. neurons in the motor output circuits  
 Why did you select the choice you made versus the other options?***
-
+ -->
 ⏸️ PAUSE here for class-wide discussion
 
 ---
@@ -188,13 +188,13 @@ Sex Peptide stimulates both egg production and anticipatory appetites necessary 
 ---
 > ⏳ 10 min 
 
-***Q11: In terms of the Lorenz model, sex peptide likely [ increases / decreases ] the action specific potential for egg laying behavior. (select one bracketed word to complete the sentence)***
+***Q10: In terms of the Lorenz model, sex peptide likely [ increases / decreases ] the action specific potential for egg laying behavior. (select one bracketed word to complete the sentence)***
 
-***Q12: The drosophila nervous system must have gustatory (ie. taste) sensory filters for specific types of foods. What is the evidence from this case study that supports this statement?*** 
+***Q11: The drosophila nervous system must have gustatory (ie. taste) sensory filters for specific types of foods. What is the evidence from this case study that supports this statement?*** 
 
-***Q13: Let's say that the gustatory sensory filter is an excitatory command neuron for eating FAPs. Do you predict that the membrane potential response of the gustatory sensory filter is more depolarized or more hyperpolarized in the presence of Yeast in virgin females compared to mated females?***
+***Q12: Let's say that the gustatory sensory filter is an excitatory command neuron for eating FAPs. Do you predict that the membrane potential response of the gustatory sensory filter is more depolarized or more hyperpolarized in the presence of Yeast in virgin females compared to mated females?***
 
-***Q14: Why does the SAG neuron produce voltage spike events in virgin females, but not mated females? Explain in terms of both a hormonal and a neural mechanism.***
+***Q13: Why does the SAG neuron produce voltage spike events in virgin females, but not mated females? Explain in terms of both a hormonal and a neural mechanism.***
 
 
 ⏸️ PAUSE here for class-wide discussion

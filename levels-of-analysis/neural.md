@@ -1,6 +1,6 @@
 # Neural Mechanisms
 
-[Day 1](neural_day1) [Responses template](https://docs.google.com/document/d/1txaHaVDibTuiB4_2mr1WneP8xJVigVH68vWp49NoDBk/edit?usp=sharing)
+[Day 1](neural_day1) [Responses template](https://docs.google.com/document/d/1txaHaVDibTuiB4_2mr1WneP8xJVigVH68vWp49NoDBk/edit?usp=sharing)  
 [Day 2](neural_day2) [Responses template](https://docs.google.com/document/d/1SBlEPubuV9EBKuyrnPJBuZ9B38r5cX3utFBfz3C1DN8/edit?usp=sharing)
 <!-- <hr>
 

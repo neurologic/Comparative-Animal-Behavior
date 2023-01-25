@@ -18,7 +18,7 @@
 [Submit a request for tutoring](https://www.wesleyan.edu/sar/tutoring/request.html)
 
 **Classroom Sessions**  
-Tuesdays and Thursdays 8:50-10:10am SCIE109
+Mondays and Wednesdays 1:20-2:40pm SCIE189
 
 :::{epigraph}
 Education is not the learning of facts, but the training of the mind to think.
