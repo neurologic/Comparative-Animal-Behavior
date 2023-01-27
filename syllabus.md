@@ -5,12 +5,12 @@
 **Instructor**  
 *Name* : Krista Perks, PhD (they/she)  
 *Email* : kperks@wesleyan.edu  
-*Office Hours*: By appointment 12-1 Tuesdays and Wednesdays [via Zoom](https://wesleyan.zoom.us/j/94621043921?pwd=OC96eEtTMll5QitvUE9YSmtFWWgvdz09).  
+*Office Hours*: By appointment 12-1 Tuesdays and Thursdays [via Zoom](https://wesleyan.zoom.us/j/94621043921?pwd=OC96eEtTMll5QitvUE9YSmtFWWgvdz09).  
 
 **Teaching Assistant**  
-*Name* : TBD 
-*Email* : TBD
-*Office Hours* : TBD  
+*Name* : Bilge Buyukdemirtas (Melon Lab)  
+*Email* : bbuyukdemirt@wesleyan.edu  
+*Office Hours* : By Appointment  
 
 **Peer Tutor**  
 *Name* : Sarah Timbie  
@@ -18,7 +18,7 @@
 [Submit a request for tutoring](https://www.wesleyan.edu/sar/tutoring/request.html)
 
 **Classroom Sessions**  
-Mondays and Wednesdays 1:20-2:40pm SCIE189
+Mondays and Wednesdays 1:20-2:40pm SCIE189 (*the fishbowl*)
 
 :::{epigraph}
 Education is not the learning of facts, but the training of the mind to think.
