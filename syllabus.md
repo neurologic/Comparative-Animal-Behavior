@@ -97,7 +97,7 @@ For group in-class work, specific roles are:[^roles-details]
 - **Speaker**
   - Called on to share the group's answers on the specific peer work questions.
 
-*Rotate these roles weekly* within your group.
+*Rotate these roles weekly* within your group. We will rotate groups approximately each month. 
 
 It is helpful if at least one person from each group brings a computer or tablet (or similar) to class. If this is not possible, please discuss with me so that I can help. 
 
@@ -164,7 +164,7 @@ This work will be graded either **0:missing**, **1:incomplete/insufficient**, or
 ***Attendence*** in classroom sessions is mandatory. If unforseeable emergency comes up, please reach out as soon as possible so that we can make a plan.  
 
 **<font color="purple">Summative Assessments</font>** *60%*  
-*Five* total. [Due (approximately) every other week by Monday at midnight](../assessment-sum/summative-assessment). Instead of one or two big exams, you will have smaller bi-weekly assessments. The points you earn on each will be tallied toward your total exam score for the semester. The due dates may be subject to change if there are major shifts in the daily schedule due to the differing needs of each particular class as your unique class moves through the material. The due dates are listed in the [Summative Assessment tab](../assessment-sum/summative-assessment).
+Instead of one or two big exams, you will have several smaller assessments (*five* total). The due dates are listed in the [Summative Assessment tab](../assessment-sum/summative-assessment). The points you earn on each will be tallied toward your total exam score for the semester. The due dates may be subject to change if there are major shifts in the daily schedule due to the differing needs of each particular class as your unique class moves through the material. 
 
 **<font color="orange">Capstone</font>** *20%*  
 Due by midnight on the first day of final exams (May 16). Your work throughout the semester builds toward your [Capstone assignment](../assessment-sum/capstone): a media project (written, audio, video, etc) that summarizes the current scientific understanding of a specific animal behavior through Tinbergen's four levels of analysis: ontogeny, mechanism, phylogeny and adaptive value.  
