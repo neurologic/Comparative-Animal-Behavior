@@ -27,9 +27,9 @@ Attention to the way we define behavior for a particular study must include cons
 
 All living organisms are made up of cells. 
 
-***Q1: How many different types of cells can you think of?***
+***Q1: What are several different types of cells can you think of?***
 
-***Q2: Organize the following terms according to nested levels of composition: cells, organs, bodies, organ systems and tissues.***
+***Q2: Organize the following terms according to a hierarchy of (nested levels of) composition: cells, organs, bodies, organ systems and tissues.***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -49,7 +49,6 @@ Cells are considered the *fundamental unit* of life. You can use this model from
 ⏸️ PAUSE here for class-wide discussion
 
 ---
-> ⏳ 15 min
 
 ### Movemes, Actions, Activities
 
@@ -71,7 +70,6 @@ Center (mouse cartoons): A characteristic sequence of behaviors exhibited by a m
 **2)** Should behavior be considered at a single timescale that serially progresses or instead considered a hierarchical process organized at multiple timescales simultaneously (blue)? When the mouse is sniffing and running at the same time, is that a *compositional* behavior whose *basis set* includes **run** and **sniff**, or is **running+sniffing** a fundamentally new behavior (purple)?[^Datta2019]
 :::
 
-***Q7: How would you define 'hierarchy' in the context of animal behavior?***
 
 The following language, as defined by Anderson and Perona[^AndersonPerona2014], provides a reasonable basis for discussion of the hierarchical nature of behavior. 
 
@@ -87,6 +85,11 @@ Activity
 	A species-characteristic concatenation of actions and movemes whose structure is typical, ranging from stereotyped to variable. Variability can be observed both in the structure or dynamics of the individual actions that comprise an activity, as well as in the timing and/or sequence of the actions. Examples of activities include *nest-building*, *parenting*, etc.
 
 :::
+
+---
+> ⏳ 15 min
+
+***Q7: How would you define 'hierarchy' in the context of animal behavior?***
 
 ***Q8: How do these categories defined by Anderson and Perona map onto the categories that you came up with earlier? Any thoughts?***
 
