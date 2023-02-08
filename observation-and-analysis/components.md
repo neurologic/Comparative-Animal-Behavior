@@ -197,9 +197,9 @@ On your own (or in groups is ok too), re-watch [the video](https://youtu.be/ZfcG
 
 ***HQ1: Summarize, in your own words, what you are testing and what the experimental design was (based on the video).***
 
-***HQ2: Based on the data you collected, make a graph of bite rate versus variation in one stimulus feature.***
+***HQ2: Based on the data you collected, make a graph of bite rate versus variation in each of two stimulus features.***
 
-***HQ3: Based on the data in your graph, describe the relationship between two independent features of the stimuli and aggressive behavior in male stickleback fish.***
+***HQ3: Based on the data in your graphs, describe the relationship between each of the two independent features of the stimuli and aggressive behavior in male stickleback fish.***
 
 ***HQ4: Based on the statement that 'red coloration is a sign stimulus for stickleback aggression', define 'sign stimulus' generally.***
 
@@ -209,6 +209,12 @@ On your own (or in groups is ok too), re-watch [the video](https://youtu.be/ZfcG
 ## Action-Specific Potential (ASP; Energy)
 
 :::{index} action specific potential (energy)
+:::
+
+:::{epigraph}
+[The same principle] applies to virtually all basic behavior patterns. They will be performed spontaneously after an extensive resting period, but these spontaneous patterns will also respond to supplemental stimuli... Any given instinctive motor pattern has a specific releasing situation, which we call the *innate releasing mechanism*. If this situation fails to occur over an extended period of time, the instinctive motor pattern takes matters into its own hands, so to speak, through a lowering of the stimulus threshold, which can go so far that the motor pattern is performed in the absence of any observable stimulus... The internal spontaneous drive and the external releasing stimulus [(*sign* stimulus)] are *summated*. 
+
+-- Here am I, where are you? pg 83-84, Konrad Lorenz
 :::
 
 ---
