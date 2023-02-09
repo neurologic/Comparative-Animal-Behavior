@@ -129,7 +129,10 @@ Carry out the same experiment, but use an interval scan sampling method instead.
 
 It takes a lot of observation hours/days/etc to obtain enough data to estimate conditional probabilites among actions in an animal's ethogram. So for this section, you will not be conducting the data collection. Instead, use the provided data to answer the questions. 
 
-
+***Q: *** 
+- Does this animal budget its time equally among the behaviors that it can do or does it spend more of its time doing some behaviors rather than others?
+- Analyze based on time and number of occurences. Calculate the null hypothesis as well. Draw your conclusion with reference to the null hypothesis.
+- Does your response differ based on the two ways of calculating the activity budget?
 
 
 
