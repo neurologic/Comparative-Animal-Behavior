@@ -299,7 +299,7 @@ Relationship between stimulus threshold and the current action specific potentia
 :::{admonition} Complete this question for homework and bring your response to next class
 :name: stickleback-aggression-lorenz-model
 
-***HQ5: In [the curious behavior of stickleback fish](https://www.jstor.org/stable/10.2307/24944080), Lorenz writes "Sticklebacks will respond to our stimuli only when they are in breeding condition." Relate this statement to Lorenz's model of behavior (... What does breading condition do for action specific potential? How does breeding condition effect the stimulus threshold for eliciting a behavior? etc...)***
+***HQ5: In [the curious behavior of stickleback fish](https://www.jstor.org/stable/10.2307/24944080), Lorenz writes "Sticklebacks will respond to our stimuli only when they are in breeding condition." Relate this statement to Lorenz's model of behavior (... What does breeding condition do for action specific potential? How does breeding condition affect the stimulus threshold for eliciting a behavior? etc...)***
 
 :::
 
