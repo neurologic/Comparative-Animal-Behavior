@@ -1,5 +1,7 @@
 # Observation
 
+[Responses template for use on computer if desired](https://docs.google.com/document/d/1HMS5l1L89-rO_Pd1vXnv8Z3OBaINWP_jJ4tS85f-oqo/edit?usp=sharing)
+
 :::{epigraph} 
 Scientists use human perceptions, intuition, and feelings, our inner worlds, to forge novel, testable hypotheses about those of other species.
 
@@ -31,7 +33,7 @@ In preparation for learning how to work with ethograms, you reviewed several spe
 
 You have already watched [this short video](https://vimeo.com/80600819) and named/defined 3-5 distinct behaviors that you observed.  
 
-***Q1: Now, compare your notes among your group and develop a consolidated list of 5 behaviors/actions you observed that you think were the most common. Include a (visual) definition for each behavior/action.***
+***Q1: Now, compare your notes among your group and develop a consolidated list of 3 behaviors (actions) you observed that you think were the most common. Include a name and an objective definition for each behavior.***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -106,7 +108,7 @@ You will use the following format to record your data:
 ---
 > ⏳ 5 minutes
 
-***Q [skipped and did as a whole class]: Which of these columns is "measured data" (ie. needs to be filled out while watching the behavior)? Which of these columns is "processed data" (ie. can be filled out after data collection has concluded)?***
+Think about which of these columns is "measured data" (ie. needs to be filled out while watching the behavior) and which of these columns is "processed data" (ie. can be filled out after data collection has concluded).
 
 ***Q5: How would you calculate the processed data from the measured data?***
 
@@ -128,7 +130,7 @@ We can also check in on these webcams:
 
 ***Q6: Are you going to include or exclude the time spent 'out of sight' and/or 'other' in the activity budget calculation? Justify your choice.***
 
-***Q7: Calculate the activity budget from your own data and then collect everybody's results on the same plot (using paper and pen/pencil/whatever). Indicate data from different group members using different symbols for the data points. Hand in your graph at end of class (you can then leave the response to this one blank on your gradescope submission)***
+***Q7: Calculate the activity budget from your own data and then collect everybody's results on the same plot (using paper and pen/pencil/whatever). Indicate data from different group members using different symbols for the data points. Hand in your graph at end of class.***
 
 
 
