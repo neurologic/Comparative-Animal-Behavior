@@ -13,7 +13,7 @@ Equally important to an animal's behavioral actions is how those actions get dis
 
 ### Focal versus scan sampling
 
-***Q1: You are interested in how manakin birds sequence behavioral actions during courtship rituals. Would it be more appropriate to use focal or scan sampling on a group of 5 birds? Why (one sentence)?*** 
+***Q1: You are interested in how manakin birds arrange their behavioral actions into sequences during courtship rituals. Would it be more appropriate to use focal or scan sampling on a group of 5 birds? Why (one sentence)?*** 
 
 ***Q2: You are interested in the activity budget of African elephants under captive versus wild conditions. Would it be more appropriate to use focal or scan sampling on a group of 5 elephants? Why (one sentence)?*** 
 
@@ -54,31 +54,31 @@ Let's watch [this two-minute video](https://vimeo.com/80600820) of meerkats enga
 :::{admonition} Complete this section for homework and bring your responses to next class in a format that you can turn in (written on paper, printed, or emailed to me directly are all fine). They will be graded CR/U. 
 :name: activity-budget-assignment
 
-You will test whether a function of vigilance is to avoid predation. The experiment to test this involves observing, quantifying, and analyzing meerkat behavior under three different *predator* treatment conditions: no predator, terrestrial predator, and aerial predator. The experimental manipulation has already been done for you and the behavior was filmed. 
+You will test whether a function of vigilance is to avoid predation. The experiment to test this involves observing, quantifying, and analyzing meerkat behavior under different *predator* treatment conditions: no predator or terrestrial predator. The experimental manipulation has already been done for you and the behavior was filmed. 
 
 You will quantify meerkat behavior under each predator treatment condition based on the following ***simplified ethogram*** including three behaviors:
 1. **vigilant** (head raised at or above horizontal plain and eyes open)
 2. **not vigilant** (eyes closed or head lower than horizontal plane) 
 3. **out of sight** (not visible by you, the researcher)
 
-At 10 second intervals, record the total number of meerkats you observe performing each behavior (do this seperately for all three predator treatment conditions). 
+At 15 second intervals, record the total number of meerkats you observe performing each behavior (do this seperately for each predator treatment condition). (Note: the resolution of the video can make it more tough to distinguish what each animal is doing in stillframe. Watching the video continuously helps with this.)
 
 ***HQ1: What type of sampling method (from [Altman](https://www.jstor.org/stable/4533591)) is this?***
 
 Now, watch each of the following videos and record your data for each predator treatment condition:
 - [No predator](https://vimeo.com/80600822)
 - [Terrestrial predator](https://vimeo.com/71877438)
-- [Aerial predator](https://vimeo.com/80600821)
+<!-- - [Aerial predator](https://vimeo.com/80600821) -->
 
-***HQ2: Calculate the activity budget under each of the three conditions. [Upload your results to this form](https://forms.gle/syga4ZzKnCADruZN6).***
+***HQ2: Calculate the activity budget under each condition. [Upload your results to this form](https://forms.gle/1pt5pRq2zERe3vhQ7).***
 
 ***HQ3: Plot your own results.***
 
-***HQ4: Use your results to present an argument for or against the hypothesis that "vigilance serves an anti-predator function"***
+***HQ4: Use your results to present an argument for or against the hypothesis that "vigilance serves an anti-predator function."***
 
-***HQ5: Use your results to present an argument for or against the hypothesis that "vigilance is more useful against terrestrial predators"***
+<!-- ***HQ5: Use your results to present an argument for or against the hypothesis that "vigilance is more useful against terrestrial predators"*** -->
 
-***HQ6: What other function(s) did your group hypothesize for vigilance? How would you test another possible function that you posed?***
+***HQ5: What is another function that your group hypothesized for vigilance (or that you can think of now)? How would you test that hypothesis?***
 
 :::
 
@@ -125,7 +125,7 @@ One fish two fish red fish blue fish.
 
 ***Q6: Make a square table (rows = columns = possible words in the poem). In the table, tally each time the word from each column follows the word in each row (ie. for each pair of sequential words, the rows represent the preceding word and the columns the succeeding word).***
 
-***Q7: Calculate conditional probabilities as $p = t/n$, where $t$ is the number of transitions to a word and $n$ is the total number of transitions from the preceding word observed (total across the row). Write the conditional probability in each square of the table next to the raw count of occurences (just leave all "zero" probabilities blank).***
+***Q7: Calculate conditional probabilities as $p = t/n$, where $t$ is the number of transitions to the word and $n$ is the total number of transitions from the preceding word observed (total of raw counts across the row). Write the conditional probability in each square of the table next to the raw count of occurrences (just leave all "zero" probabilities blank).***
 
 ⏸️ PAUSE here for class-wide discussion
 

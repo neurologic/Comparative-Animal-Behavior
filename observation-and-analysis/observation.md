@@ -83,7 +83,7 @@ The "word budget" for the poem is the right column:
 
 ***Q3: Come up with a general equation that you could use to calculate the budget for any type of similar data (occurrences of possibilities).***
 
-***Q4: What is the "null hypothesis" for this word budget (ie. what is the budget would you expect by chance if the poem was constructed by randomly using the possible words)?***
+***Q4: What is the "null hypothesis" for this word budget (ie. what is the budget that you would expect if the poem was constructed by randomly using the possible words rather than to convey meaning)?***
 
 
 ⏸️ PAUSE here for class-wide discussion
