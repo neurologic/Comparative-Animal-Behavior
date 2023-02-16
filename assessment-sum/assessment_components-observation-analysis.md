@@ -6,14 +6,70 @@ Due by 11pm on Friday February 24.
 :::
 
 :::{admonition} Honor Code
-This exam is open note/book/web, but must be done independently. Do not consult any other people (regardless of whether they are in or out of this course) in answering the questions. Handing in responses to assignment for grading serves as your signature of the honor code.
+This exam is open note/book/web, but must be done independently. Do not consult any other people (regardless of whether they are in or out of this course) or artificial intelligence (AI) in answering the questions. Handing in responses to assignment for grading serves as your signature of the honor code.
 :::
 
 Answer all questions either electronically or by hand. Label each of your answers with the corresponding question number. Scan or convert your document to a good quality PDF. Upload to gradescope by the deadline -- make sure to tag all appropriate page(s) in your PDF for each question. 
 
 **Please don’t hesitate to ask for clarifation on the wording of questions and/or expectations**. Key expectations are highlighted with font style. For any multiple choice question that asks for an explanation of your reasoning: I am looking for a correct answer selection as well as reasoning for selecting that answer - the reasoning should logically (and unabiguously) explain for your answer selection. Not all multiple choice questions require for reasoning.
 
-## Section 1
+
+
+## Section 1 
+
+Bechard and Mason (2010) were the first to research the independence of lab mice compared to wild mice. To do this, they used a novel lab housing system that allowed young, developing mice (pups) to choose between spending time in the home cage (HC) with the mother, or an identical distant cage (a ‘dispersal cage’: DC) which the mother could not access. Their objective was to determine the age at which young lab mice prefer to spend time in a distant cage not containing their mother. To do so, they used the experimental ethogram shown in Table 1. They used live observation techniques rather than video recording (due to the ability of a live observer to move around and keep tracking animals when they go out of sight). 
+
+:::{image} /images/bechard-mason-2010.png
+:width: 700
+:align: center
+:::
+
+
+**Q: (2 points)** In this study, the researchers needed to calculate the activity budget of mouse pups, but they did not care about the action transition probabilities. Therefore, they could implement [***choose an option from below***], which they would not have been able to do if they needed to calculate transition probabilities among actions. 
+- continuous scan sampling
+- continuous focal sampling
+- interval focal sampling
+- interval scan sampling
+
+**Q: (4 points)** Mice spend the majority of time inactive, and so the place where they spend most of their inactive time is suggested to be the ‘preferred location’ (Blom et al., 1992) of a healthy animal. To determine which cage location (HC or DC) the pups preferred, the activity and location of the entire litter were calculated as a percentage of pups per cage. Which of the following data tables (1 or 2) is most likely an excerpt from the one the researchers collected. Explain why you chose that answer. 
+
+Table 1
+| behavior | location | time (min) | duration (min) |
+| :---:  | :---: | :---: | :---:  |
+| active  |  HC |  0:00 | N/A  |
+| inactive  | HC  | 1:10  | 1:10  |
+| active  |  DC |  1:30 | 0:20  |
+| active | HC  | 2:30  |  1:00 |
+
+Table 2
+| time (min) | HC active | HC inactive | DC active | DC inactive |
+| :---:  | :---: | :---: | :---:  | :---: |  
+| 0:00  | 3 | 2 | 1  | 0 |  
+| 1:00  | 2 | 1 | 2  | 1 |  
+| 2:00  | 3 | 3 | 0  | 0 |  
+| 3:00  | 0 | 0 | 4  | 2 |  
+
+
+**Q: (2 points)** These researchers were also interested in the parental care behavior of mouse mothers (dams). They wanted to compare both the activity budget and the action sequencing (ie action transition probabilities) of wild versus lab dams. Therefore, they needed to implement [***choose an option from below***] to record behavioral data for dams.
+- continuous scan sampling
+- continuous focal sampling
+- interval focal sampling
+- interval scan sampling
+
+
+The following sequence of actions was observed for a dam:  
+**GO, GF, GO, R, GF, GO, GP, N, GP, L, PR, N, GF, GO, R, N, GF, L, PR, L, GO, R, N, R, PR, R, PR, R, L, GO, GF** 
+> R: resting with pups, GO: grooming on, GF: Grooming off, GP: grooming pups, N: nursing, L: licking pup, PR: pup retrieval
+
+
+**Q: (2 points)** From the sequence of observed Dam behaviors, calculate and show the transition probability matrix. 
+
+**Q: (2 points)** Using the same data, calculate and plot the activity budget among the 7 actions observed. 
+
+**Q: (2 points)** Calculate the null hypothesis for the activity budget and then report the comparison of the calculated activitiy budget against that null hypothesis. 
+
+
+## Section 2 
 
 Herring gull chicks need help obtaining food. They have a stereotyped "begging" behavior: when chicks see their parent's head, they peck at the beak. The pecking then causes their parents to regurgitate partially-digested food that the chicks can eat ([though I guess the results are not guaranteed to please](https://youtu.be/a-ek4225__I)). The hunger level of the chicks can also effect the liklihood that they will beg (their motivation to beg). Tinbergen and Perdeck tested a wide variety of herring gull features to determine sign stimuli for begging[^tinbergen-gulls-1950]. Figure 1 shows the results of a small subset of their experiment for you to examine. 
 
@@ -23,20 +79,10 @@ Herring gull chicks need help obtaining food. They have a stereotyped "begging" 
 :width: 600
 :::
 
-**Figure 1:** Results from one of Tinbergen and Perdeck's experiments on the begging behavior of herring gull chicks. Each of the three stimuli (models of a gull head) were presented to chicks. Tinbergen and Perdeck counted the number of pecks directed toward each stimulus during a 30 second period. They then calculated and reported the peck rate (purple). The stimulus on the left was the "standard" stimulus meant to mimick multiple features of the adult herring gull head. The standard stimulus served as the control stimulus in the experiment. Note that the peck rate reported for each experimental stimulus (middle and right columns) was *normalized* to the standard stimulus: the absolute peck rate for each experimental stimulus was divided by the absolute peck rate to the standard stimulus and then multiplied by 100. 
+**Figure 1:** Results from one of Tinbergen and Perdeck's experiments on the begging behavior of herring gull chicks. Each of the three stimuli (models of a gull head) were presented to chicks. Tinbergen and Perdeck counted the number of pecks directed toward each stimulus during a 30 second period. They then calculated and reported the peck rate (purple). 
 
-***Q1: What two features of the adult herring gull head are being dissociated (and therefore independently tested) in this experiment?***
+**Q: (4 points)** Would you conclude that a gull-shaped head is a sign stimulus for pecking FAPs? Answer *YES* or *NO*. Then support your conclusion with specific quantitative comparisons from the reported experimental results.     
 
-***Q2: What metric was used to quantify begging behavior in this experiment?***
-
-***Q3: Given the experiment and results described/depicted in Figure 1, answer the following:  
-		- Which of the two stimulus features tested serves as the stronger sign stimulus for gull chick begging (refer to your answer to Q1 for the two stimulus features tested)?  
-		- What evidence (data) support your interpretation?*** 
-
-***Q4: Predict the results of the same experiment if the chicks tested were more hungry. Concisely explain your reasoning.***
-
-
-## Section 2
 
 :::{image} /images/stimulus-threshold-in-action.png
 :width: 700
@@ -44,145 +90,10 @@ Herring gull chicks need help obtaining food. They have a stereotyped "begging" 
 
 **Figure 2:** Examples of behavior expression in two scenarios (A and B) depiced using a Lorenz-style model. FAP=fixed action pattern. a.u.=arbitrary units. 
 
+**Q: (4 points)** Refer to Figure 2. Which stimulus was presented in A? 
+**a)** stimulus 2 (egg-shaped head with a red dot on the beak)  
+**b)** stimulus 3 (gull-shaped head without any red the beak)
+Explain why you chose that answer.
 
-Compare the two scenarios (**A** and **B**) in Figure 2 to answer the following questions. 
+**Q: (2 points)** Question about stimulus threshold and behavioral threshold.
 
-***Q5. The stimulus threshold at time=4 was:    
-		- higher in A.  
-		- higher in B.  
-		- the same in both A and B.  
-Choose one of these answers and then briefly explain the evidence for your choice and your reasoning.***
-
-***Q6. The stimulus strength at time=4 was:    
-		- stronger in A compared to B.  
-		- weaker in A compared to B.  
-		- the same in both A and B.  
-Choose one of these answers and then briefly explain the evidence for your choice and your reasoning.***
-
-
-## Section 3
-
-***Q7: Respond to each of the following by refering back to [your analysis of the experiment used to test sign stimuli for stickleback fish aggression](stickleback-aggression-analysis) :  
-		- Which independent stimulus feature that you analyzed was the strongest for evoking/triggering aggression (bites)?  
-		- Which independent stimulus feature that you analyzed was the weakest for evoking/triggering aggression (bites)?   
-		- What evidence do you have to support your answers?***
-
-## Section 4
-
-***Q8: Based your observation of the egg-rolling behavior in the videos we watched during class ([video 1](https://youtu.be/7PcteKRA3zs) and [video 2](https://youtu.be/vUNZv-ByPkU)), address the following in your response: (Note that there are a variety of correct answers to this question):  
-		- What do you think is a sign stimulus (a stimulus feature) that triggers/evokes the FAP of egg-rolling.  
-		- What observation(s) led you to formulate that hypothesis?  
-		- Briefly describe an experiment that would enable you to gather evidence for/against that hypotheses.***
-
-
-
-## Section 1: Vigilance in Meerkats
-
-Like you did in class, you will consider 'vigilant', 'not vigilant', and 'out of sight’ as the three behaviors comprising the ethogram for this study. **Vigilant** is defined (for this experiment) as the animal having it's head up. All other behavior can be categorized as "not vigilant" and "out of sight" as needed.
-
-Data should be collected for ONE meerkat at each distance of predator presentation (2 m, 6 m, 10 m, 14 m). 
-
-***Q: This experiment was designed to test the effect of ______________ on _____________.*** 
-
-### Continuous Focal Sampling 
-
-Record the start time of each behaviour on a new line as shown:
-
-| **Behavior** | **Start time** | **Duration** |
-| --- | --- | --- |
-| name of behavior | cummulative seconds | calculated | 
-
-
-***Q: What behavioral metric (based on your continuous sampling data) do you propose to calculate to test if predator proximity influences the trade-off between vigilant and non vigilant behavior (activity budget)? Define any relevant mathematical equation(s) for your calculation(s).***
-
-[This video](https://vimeo.com/77501205) is split into time windows according to the following table. 
-| distance | start time in video |
-| ---| --- | 
-| 14m | 0:10 |
-| 12m | 3:11 |
-| 10m | 6:32 |
-| 8m | 9:39 |
-| 6m | 12:46 |
-| 4m | 15:52 |
-| 2m | 18:58 |
-| 0m | 22:01 |
-
-For each time window, there was a predator at a different distance ('distance' column in the table). Watch and collect data for only the sections that correspond to predator distances of 14, 10, 6, and 2 meters.   
-
-***Q: Plot your results.***
-
-***Q: How is vigilance behavior being quantified using this sampling method?*** 
-
-### Instantaneous Scan Sampling
-
-Carry out the same experiment, but use an interval scan sampling method instead. For simplicity, collect data only for the following distances: 14, 10, 6, 2m). 
-
-***Q: Create a figure to clearly report your results. Clearly describe your sampling protocol/method. Define any calculations that you did on the raw data.***
-
-***Q: Plot your results.***
-
-***Q: How is vigilance behavior being quantified using this sampling method?*** 
-
-
-
-## Section 2: Activity Budgets and Sequencing
-
-It takes a lot of observation hours/days/etc to obtain enough data to estimate conditional probabilites among actions in an animal's ethogram. So for this section, you will not be conducting the data collection. Instead, use the provided data to answer the questions. 
-
-***Q: *** 
-- Does this animal budget its time equally among the behaviors that it can do or does it spend more of its time doing some behaviors rather than others?
-- Analyze based on time and number of occurences. Calculate the null hypothesis as well. Draw your conclusion with reference to the null hypothesis.
-- Does your response differ based on the two ways of calculating the activity budget?
-
-
-
-
-<!-- Not used this time...
-
-## Section X: Vigilance in Meerkats
-
-Like you did in class, you will consider 'vigilant', 'not vigilant', and 'out of sight’ as the three behaviors comprising the ethogram for this study. Data should be collected for ONE meerkat at each distance of predator presentation (2 m, 6 m, 10 m, 14 m). 
-
-***Q: This experiment was designed to test the effect of ______________ on _____________.*** 
-
-### Continuous Focal Sampling 
-
-Record the start time of each behaviour on a new line as shown:
-
-| **Behavior** | **Start time** | **Duration** |
-| --- | --- | --- |
-| name of behavior | cummulative seconds | calculated | 
-
-
-***Q: What behavioral metric (based on your continuous sampling data) do you propose to calculate to test if predator proximity influences the trade-off between vigilant and non vigilant behavior (activity budget)? Define any relevant mathematical equation(s) for your calculation(s).***
-
-[This video](https://vimeo.com/77501205) is split into time windows according to the following table. 
-| distance | start time in video |
-| ---| --- | 
-| 14m | 0:10 |
-| 12m | 3:11 |
-| 10m | 6:32 |
-| 8m | 9:39 |
-| 6m | 12:46 |
-| 4m | 15:52 |
-| 2m | 18:58 |
-| 0m | 22:01 |
-
-For each time window, there was a predator at a different distance ('distance' column in the table). Watch and collect data for only the sections that correspond to predator distances of 14, 10, 6, and 2 meters.   
-
-***Q: Plot your results.***
-
-***Q: How is vigilance behavior being quantified using this sampling method?*** 
-
-### Instantaneous Scan Sampling
-
-Carry out the same experiment, but use an interval scan sampling method instead. For simplicity, collect data only for the following distances: 14, 10, 6, 2m). 
-
-***Q: Create a figure to clearly report your results. Clearly describe your sampling protocol/method. Define any calculations that you did on the raw data.***
-
-***Q: Plot your results.***
-
-***Q: How is vigilance behavior being quantified using this sampling method?*** 
-
-
- -->
