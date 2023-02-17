@@ -4,7 +4,7 @@ The assignments will be released on a rolling schedule approximately 1-2 class s
 
 | Topic | Release Date | Due Date (midnight) |
 | :---: | :---: | :---:|
-| Components of Behavior, Observation, and Analysis | Feb 17 (F) | Feb 24 (F) |
+| [Components of Behavior, Observation, and Analysis](../assessment-sum/assessment_components-observation-analysis) | Feb 17 (F) | Feb 24 (F) |
 | Phylogeny and Evolution | March 3 (F) | March 10 (F) |
 | Neural, Hormonal, Genetic, and Development | April 7 (F) | April 14 (F) |
 | Navigation, Escape, and Communication | April 21 (F) | April 28 (F) |
