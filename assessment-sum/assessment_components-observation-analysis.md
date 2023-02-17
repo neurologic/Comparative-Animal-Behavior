@@ -19,7 +19,7 @@ Answer all questions either electronically or by hand on paper. Label each of yo
 
 Bechard and Mason (2010) were the first to research the *parental care* and *developmental independence* of lab mice compared to wild mice. They used a novel lab housing system that allowed young, developing mice (pups) to choose between spending time in the home cage (HC) with the mother, or an identical distant cage (a ‘dispersal cage’: DC) which the mother could not access. They used live observation techniques rather than video recording (due to the ability of a live observer to move around and keep tracking animals when they go out of sight). 
 
-The experimental ethogram curated for this study is shown in Table 1. 
+The experimental ethogram curated for this study is shown in Table 1 (provided for context, but not necessary for answering the questions). 
 
 :::{image} /images/bechard-mason-2010.png
 :width: 700
@@ -34,9 +34,9 @@ The experimental ethogram curated for this study is shown in Table 1.
 **b)** interval sampling  
 **c)** focal sampling  
 
-**Q2: (4 points)** *Pup independence* was defined as a preference for the DC over the HC. In the literature, a ‘preferred location’ is defined as a place where mice spend most of their inactive time (Blom et al., 1992). Therefore, the researchers chose to calculate the activity budget (for active versus inactive actions) in each location. They calculated the activity budget as a *percentage of pups*.   
+**Q2: (4 points)** *Pup independence* was defined as a preference for the DC over the HC. In the literature, a ‘preferred location’ is defined as a place where mice spend most of their inactive time (Blom et al., 1992). Therefore, the researchers chose to assess pup independence by calculating the pup activity budget (for *active* versus *inactive* actions) in each location. Specifically, they chose to calculate the activity budget using *percentage of pups* as their unit of measurement.   
 ***Which of the following data tables (1 or 2)*** is most likely an excerpt from the one the researchers collected?  
-***Explain why*** you chose that answer.  
+***Explain why*** you chose that answer and what sampling method was most likely used to construct the table.  
 
 **Table 1**
 | behavior | location | time<br>(min) | duration<br>(min) |
@@ -55,7 +55,7 @@ The experimental ethogram curated for this study is shown in Table 1.
 | 3:00  | 0 | 0 | 4  | 2 |  
 
 
-**Q3: (4 points)** These researchers were also interested in determining if the parental care behavior of lab dams (mouse mothers) differed from wild dams. For this research question, it was important to quantify both the activity budget of dam behavior as well as thier action sequencing (ie action transition probabilities). Therefore, they needed to implement \___ to record behavioral data for dams.  
+**Q3: (4 points)** These researchers were also interested in determining if the parental care behavior of lab dams (mouse mothers) differed from wild dams. For this research question, it was important to quantify both the activity budget as well as action sequencing (ie action transition probabilities). Therefore, they needed to implement \___ to record behavioral data for dams.  
 **Choose an option from below** to fill in the blank.  
 **Explain why you chose that answer**.  
 **a)** continuous focal sampling  
@@ -68,7 +68,7 @@ The actions included in the data collection for dams were: R = resting with pups
 The following sequence of actions (read from left to right) is **an excerpt of the data observed for a single dam**:  
 **GO, GF, GO, R, GF, GO, GP, N, GP, L, PR, N, GF, GO, R, N, GF, L, PR, L, GO, R, N, R, PR, R, PR, R, L, GO, GF**
 
-**Q4: (2 points)** I asked *chatGPT* to calculate the transition matrix from this data. I could immediately tell that *chatGPT* had gotten it wrong (***before*** even needing to count any action transitions or calculate any transition probabilites myself). The result from *chatGPT* is shown below.  
+**Q4: (2 points)** I asked an Artificial Intelligence (*chatGPT*) to calculate the transition matrix from the excerpt of data shown. I could immediately tell that *chatGPT* had gotten it wrong (***before*** even needing to count any action transitions or calculate any transition probabilites myself). The result from *chatGPT* is shown below.  
 **What is the give-away that chatGPT was wrong?**
 
 :::{image} /images/chat-gpt_transition-matrix_wrong.png
@@ -80,7 +80,7 @@ The following sequence of actions (read from left to right) is **an excerpt of t
 
 **Q5: (2 points)** **Calculate and show the transition probability matrix** based on the excerpt of data shown.  
 
-**Q6: (2 points)** **Calculate the null hypothesis** for the activity budget based on the excerpt of data shown.  
+**Q6: (2 points)** **Calculate the null hypothesis** for the *activity budget* based on the excerpt of data shown.  
 
 **Q7: (2 points)** **Calculate the activity budget** based on the excerpt of data shown (include the *appropriate units of measurement* in your answer).  
 
@@ -100,18 +100,18 @@ Tinbergen and Perdeck (1950) tested a wide variety of herring gull features to d
 :align: center
 :::
 
-**Figure 1:** Results from one of Tinbergen and Perdeck's experiments on the begging FAP of herring gull chicks. Each of the three stimuli (models of a gull head) were presented to chicks 10 times. Tinbergen and Perdeck quantified the behavior by counting the number of pecks directed toward each stimulus during a 30 second period. They then calculated and reported the average peck rate (purple; pecks per minute) in response to each stimulus. 
+**Figure 1:** *Results from one of Tinbergen and Perdeck's experiments on the begging FAP of herring gull chicks. Each of these three stimuli were presented to chicks 10 times. Tinbergen and Perdeck quantified the behavior by counting the number of pecks directed toward each stimulus during a 30 second period. They then calculated and reported the average peck rate (purple; pecks per minute) in response to each stimulus.*
 
-**Q9: (4 points)** Would you conclude that a normal gull-shaped head is a sign stimulus for pecking FAPs?  
+**Q9: (4 points)** Would you conclude that a normal head shape is a sign stimulus for pecking FAPs?  
 **Answer *YES* or *NO***.  
-**Then support your conclusion with specific quantitative comparisons** from the reported experimental results.     
+**Then support your conclusion with the correct quantitative comparisons** from the reported experimental results.     
 
 **Q10: (4 points)** In the context of Lorenz's model of behavior, which stimulus would you infer causes a larger increase in the action-specific potential for begging?  
 **Choose one answer from below. Then explain why you chose that answer.**   
 **a)** stimulus 2  
 **b)** stimulus 3 
 
-**Q11: (2 points)** The hunger level of a chick can also effect the liklihood that it will exhibit begging behavior (ie. hunger increases the motivation to beg). In the context of Lorenz's model of behavior, which of the following statements is correct?  
+**Q11: (2 points)** The hunger level of a chick can also effect the likelihood that it will exhibit begging behavior (ie. hunger increases the motivation to beg). In the context of Lorenz's model of behavior, which of the following statements is correct?  
 **Choose one answer from below.**   
 **a)** A hungry chick will peck more at stimulus 3 than a satiated chick because the behavioral threshold of the hungry chick is lower.   
 **b)** A hungry chick will peck more at stimulus 3 than at stimulus 2 because its stimulus threshold is lower than a satiated chick.  
