@@ -11,6 +11,7 @@ parts:
     - file: assessment-sum/summative-assessment
       sections:
         - file: assessment-sum/assessment-example
+        - file: assessment-sum/assessment_components-observation-analysis
     - file: assessment-sum/capstone
     - file: genindex
     - file: ethical-considerations
