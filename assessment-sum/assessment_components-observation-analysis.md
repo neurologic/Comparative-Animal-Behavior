@@ -65,8 +65,10 @@ The experimental ethogram curated for this study is shown in Table 1 (provided f
 
 The actions included in the data collection for dams were: R = resting with pups, GO = grooming on, GF = Grooming off, GP = grooming pups, N = nursing, L = licking pup, PR = pup retrieval.
 
-The following sequence of actions (read from left to right) is **an excerpt of the data observed for a single dam**:  
+:::{admonition} The following sequence of actions (read from left to right) is **an excerpt of the data observed for a single dam** (refer to this excerpt for Q4-Q8)
+
 **GO, GF, GO, R, GF, GO, GP, N, GP, L, PR, N, GF, GO, R, N, GF, L, PR, L, GO, R, N, R, PR, R, PR, R, L, GO, GF**
+:::
 
 **Q4: (2 points)** I asked an Artificial Intelligence (*chatGPT*) to calculate the transition matrix from the excerpt of data shown. I could immediately tell that *chatGPT* had gotten it wrong (***before*** even needing to count any action transitions or calculate any transition probabilites myself). The result from *chatGPT* is shown below.  
 **What is the give-away that chatGPT was wrong?**
