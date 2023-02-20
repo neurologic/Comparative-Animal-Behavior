@@ -84,12 +84,16 @@ Now, watch each of the following videos and record your data for each predator t
 
 #### Class data from analysis
 
-TBD 
-<!-- Left: No Predator, Middle: Terrestrial Predator; Right: Aerial Predator
+::::{margin} single observer example
+:::{image} ../images/meerkat_single_sample_example.png
+:::
+::::
+<!-- TBD  -->
+<!-- Left: No Predator, Middle: Terrestrial Predator; Right: Aerial Predator -->
 
-:::{image} /images/meerkat-vigilance_class-data-FA22.png
+:::{image} /images/meerkat-vigilance_class-data-SP23.png
 :width: 800
-::: -->
+:::
 
 
 
