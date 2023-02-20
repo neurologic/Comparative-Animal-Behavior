@@ -177,24 +177,34 @@ Think about an animal whose behavior you are interested in and practice research
 
 If you search the [Animal Diversity Web](https://animaldiversity.org/) (for example), you will find that, of the 7 turtle species you have just examined, all but one are classified as *solitary*. The green turtle (*Chelonia mydas*) is classified as *colonial*[^colonial]. 
 
-From a phylogenetic perspective, why is the green turtle colonial? Either colonialism is an *inherited* behavior or colonialism is a *derived* behavior. In order to determine whether colonialism is derived or inherited, we need to test all alternative hypotheses for the ancestral state reconstruction. 
+From a phylogenetic perspective, why is the green turtle colonial? Either colonialism is an *inherited* behavior or colonialism is a *derived* behavior.  
+
+In order to determine whether colonialism is derived or inherited, we need an **ancestral state reconstruction**. To create this reconstruction, we need to: 
+1. make a ***character mapping***
+2. test all ***alternative hypotheses for the ancestral state reconstruction***. 
+
+So what is a character mapping, an ancestral state reconstruction, the hypothesis testing, etc?   We will work through the next two sections to learn about the process...
 
 [^colonial]: "Used loosely to describe any group of organisms living together or in close proximity to each other - for example nesting shorebirds that live in large colonies. More specifically refers to a group of organisms in which members act as specialized subunits (a continuous, modular society) - as in clonal organisms." - [ADW](https://animaldiversity.org/accounts/Chelonia_mydas/#behavior)"
 
 ---
 > ⏳ 10 min 
 
-:::{figure} /images/turtles-charmap-lca.png
+:::{figure} ../images/turtles-charmap-lca.png
 :width: 800
 
-Graphical representations of character mapping and ancestral state reconstruction. **A)** Character mapping of social behavior on the turtle phylogeny. Green = colonial. Orange = solitary. **B)** Ancestral state reconstruction under Hypothesis \#1 on the turtle phylogeny. **C)** Ancestral state reconstruction under Hypothesis \#2 on the turtle phylogeny. To construct the turtle phylogeny, relatedness and branch lengths were calculated from the *MUSCLE* alignement data of the 16S ribosomal RNA partial gene sequence using *BioPython*.
+Graphical representations of character mapping and ancestral state reconstruction. To construct the turtle phylogeny, relatedness and branch lengths were calculated from the *MUSCLE* alignement data of the 16S ribosomal RNA partial gene sequence using *BioPython*.   
+**A)** *Character mapping* of social behavior on the turtle phylogeny.  
+Green = colonial. Orange = solitary.  
+**B)** *Ancestral state reconstruction* under ***Hypothesis \#1*** on the turtle phylogeny.  
+**C)** *Ancestral state reconstruction* under ***Hypothesis \#2*** on the turtle phylogeny. 
 :::
 
 ***Q1: Based on the information given, what do you think 'character mapping' is?***
 
-***Q2: Under Hypothesis \#1, the LCA of this turtle phylogeny exhibited ______________ behavior (fill in the blank).*** 
+***Q2: Under Hypothesis \#1 for the ancestral state reconstruction, the last common ancestor (LCA) of this turtle phylogeny exhibited ______________ behavior (fill in the blank).*** 
 
-***Q3: Under Hypothesis \#2, the LCA of this turtle phylogeny exhibited ______________ behavior (fill in the blank).*** 
+***Q3: Under Hypothesis \#2 for the ancestral state reconstruction, the LCA of this turtle phylogeny exhibited ______________ behavior (fill in the blank).*** 
 
 ***Q4: How is character mapping different than ancestral state reconstruction?***
 
@@ -208,13 +218,18 @@ Graphical representations of character mapping and ancestral state reconstructio
 
 One common way to assess alternative hypotheses for the LCA behavioral trait is to use an *argument of* ***parsimony***. Answer the following questions to understand the logic of making an argument about LCA behavior based on ***parsimony***.
 
+::::{margin} copy of Figure 11 for quick reference
+:::{image} ../images/turtles-charmap-lca_B-C.png
+:::
+::::
+
 ***Q6: If the LCA of the turtles in Figure 11 was solitary, what is the least number of total evolutionary changes that would need to occur (across the tree) to result in the correct behavioral traits of all 7 extant species?***
 
 ***Q7: If the LCA of the turtles in Figure 11 was colonial, what is the least number of total evolutionary changes that would need to occur to result in the correct behavioral traits of all 7 extant species?***
 
 ***Q8: Which alternative hypothesis would require more evolutionary changes?***
 
-By an argument of parsimony, we would conclude that it is less likely that the LCA was colonial. 
+By an argument of parsimony, we would conclude that it is less likely that the LCA was colonial. Therefore, the evidence supports Hypothesis #1 less than Hypothesis #2.
 
 ***Q9: From that conclusion, which would you infer is more likely: evolutionary change or evolutionary stasis?***
 
@@ -226,14 +241,16 @@ By an argument of parsimony, we would conclude that it is less likely that the L
 
 ---
 
+Importantly, by reconstructing the evolutionary history of behaviors, we can determine whether extant species that share the behavior *converged* on the same adaptation or whether they *inherited* from a common ancestor. Similarly, points of *divergence* can be significant to our understanding of the behavior. 
+
 ### Case Study: Vocal Learning
 
 :::{figure} /images/phylogeny-vocal-learning-comparison.png
 :width: 900
 
 Phylogeny of *Neoaves* (By clicking on the image you can zoom in).  
-**A)** From the *Animal Behavior, 9th edition* textbook by Rubenstein and Alcock (2009). Phylogeny data generated using DNA-DNA hybridization[^dna-hybridization] and published by Eliot A. Brenowitz in *Evolution of the vocal control system in the avian brain*[^brenowitz-1991]. Character mapping of vocal learnering highlighted in green, blue, and red.  
-**B)** From Suh et al (2011)[^suh-2011]. Phylogeny data generated using Mesozoic retroposons[^retroposons] and analysis utilizing ***maximum parsimony***. New taxa *Eufalconimorphae* (falcons+parrots+passerines) and *Psittacopasserae* (parrots+passerines) are highlighted.
+**A)** From the *Animal Behavior, 9th edition* textbook by Rubenstein and Alcock (2009). Phylogeny data generated using DNA-DNA hybridization[^dna-hybridization] (basically an analog version of the MUSCLE alignment algorithm and published by Eliot A. Brenowitz in *Evolution of the vocal control system in the avian brain*[^brenowitz-1991]. Character mapping of vocal learning is highlighted in green, blue, and red.  
+**B)** From Suh et al (2011)[^suh-2011]. Phylogeny data generated using Mesozoic *retroposons*[^retroposons] and analysis utilizing *maximum parsimony*. New taxa *Eufalconimorphae* (falcons+parrots+passerines) and *Psittacopasserae* (parrots+passerines) are highlighted.
 :::
 
 [^brenowitz-1991]: [Eliot A. Brenowitz (1991) *Evolution of the vocal control system in the avian brain*. Seminars in Neuroscience; 3(5).](https://doi.org/10.1016/1044-5765%2891%2990030-R)
@@ -254,9 +271,9 @@ Phylogeny of *Neoaves* (By clicking on the image you can zoom in).
 Character mapping of vocal learning behavior on the phylogeny of *Neoaves* from Brenowitz (1991)[^brenowitz-1991] in **A** and **B** and off of Suh et al (2011)[^suh-2011] in **C**. Yellow: vocal learners, Blue: vocal non-learners.
 :::
 
-***Q12: Use the phylogeny in Figure 13A to analyze (using parsimony) the two alternative ancestral state reconstruction hypotheses for the LCA of all song learners (arrow). Make sure to report your data as well as your conclusion.***   
+***Q12: Use the phylogeny in Figure 13A to analyze (using parsimony) the two alternative ancestral state reconstruction hypotheses for the LCA of all song learners (arrow). Make sure to report your quantifications as well as your conclusion.***   
 
-***Q13: Does simplifying the phylogeny in Figure 13B change the results compared to Figure 13A?*** 
+***Q13: Does "simplifying" the phylogeny in Figure 13B change the results compared to Figure 13A?*** 
 
 ***Q14: Use the phylogeny in Figure 13C to analyze (using parsimony) the two alternate ancestral state reconstruction hypotheses for the LCA of all song learners.***  
 
