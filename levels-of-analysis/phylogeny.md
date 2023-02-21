@@ -285,11 +285,11 @@ Character mapping of vocal learning behavior on the phylogeny of *Neoaves* from 
 :::{admonition} Complete this section for homework and bring your responses to next class in a format that you can turn in (written on paper, printed, or emailed to me directly are all fine). They will be graded CR/U. 
 :name: phylogeny-burrowing-assignment
 
-1. Examine Figure 2 from [Weber and Hoekstra (2009). The evolution of burrowing behaviour in deer mice (genus Peromyscus)](https://doi.org/10.1016/j.anbehav.2008.10.031). Perform an ancestral state reconstruction for burrowing behavior among these species by examining alternate hypotheses for the LCA and analyzing the results using an argument of parsimony. Bring your analysis to class.[^Hu-Hoekstra-review]
+1. Examine Figure 2 from [Weber and Hoekstra (2009). The evolution of burrowing behaviour in deer mice (genus Peromyscus)](https://doi.org/10.1016/j.anbehav.2008.10.031)[^Hu-Hoekstra-review]. Perform an ancestral state reconstruction for burrowing behavior among these species by examining alternate hypotheses for the LCA and analyzing the results using an argument of parsimony. (All of the information you need should be contained in Figure 2... note that categorization can help reduce the workload of the analysis).
 
 [^Hu-Hoekstra-review]: Figure 1 from [Hu and Hoekstra (2017) Peromyscus burrowing: A model system for behavioral evolution. Journal of Cell and Developmental Biology, 61](https://doi.org/10.1016/j.semcdb.2016.08.001) shows a mapping of both burrowing behavior and habitat on the phylogeny of Peromyscus. You can also start prepping for the next section of the course by thinking about... What correlations do you notice? What do you wonder about the function of burrowing behavior and how that relates to its phylogenetic history?
 
-2. Using the concepts and tools you learned today, research the phylogeny of a species/behavior you are interested in. What are the alternatives to the behavior? How much the the phylogeny do you need to examine interesting convergence and/or divergence for the behavior? Bring your analyis to class.
+*2. Optional*: Using the concepts and tools you learned today, research the phylogeny of a species/behavior you are interested in. What are the alternatives to the behavior? How much the the phylogeny do you need to examine interesting convergence and/or divergence for the behavior? Bring your analyis to class.
 :::
 
 

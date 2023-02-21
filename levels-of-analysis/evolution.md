@@ -98,9 +98,9 @@ Males desperately seek females to mate with. They patrol nesting areas in large 
 
 ***Q4: Based on the information given, what do you think could be the sign stimulus that releases mating FAPs in the male bee? Name at least two potential alternatives.***
 
-***Q5: Under the assumption that behaviors are adaptations, what is the paradox exhibited by this example of solitary bee mating behavior?***
+***Q5: Under the assumption that behaviors are "adaptations", what is the paradox in this example?***
 
-***Q6: Brainstorm potential selective pressures effecting the existence of this mating behavior (sign stimulus : FAP pair) in male bees*** 
+***Q6: Brainstorm potential "selective pressures" affecting the existence of this "sign stimulus - FAP pair" in male bees*** 
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -110,9 +110,9 @@ Males desperately seek females to mate with. They patrol nesting areas in large 
 ## Evolutionary Models
 
 :::{admonition} Why?
-Ultimately, to *understand* a behavioral phenotype from an evolutionary perspective means to be able to predict phenotypes of extant species. This involves both correctly identifying the adaptive role of the behavior and the selective pressures on the behavior. 
+Ultimately, to *understand* a behavioral phenotype from an evolutionary perspective means to be able to predict phenotypes of extant species (ie have an accurate model). 
 
-Mathematical models are abstractions that strive to have predictive power (with varying degrees of precision). Models represent a best informed guess as to the ***identity and function of important variables*** and ***how these variables interact***.
+Models are abstractions that strive to have predictive power (with varying degrees of precision). Models represent a best informed guess as to the ***identity and function of important variables*** and ***how these variables interact***. They are commonly formulated mathematically.
 :::
 
 Two of the most common types of evolutionary models are [Optimality Theory](optimality-theory) and [Game Theory](game-theory)
@@ -131,7 +131,7 @@ Consider the two alternative behavioral phenotypes:
 
 Let's start by examining two factors that likely exert selective pressure on this behavioral variation:
 - time available to forage (searching for and eating food)
-- probability of avoiding/escaping a predator
+- likelihood of being injured/killed by a predator
 
 ---
 > ⏳ 5
@@ -167,7 +167,7 @@ If there are multiple possible phenotypes (in this case *vigilant* or *not vigil
 
 ***Q12: Would the vigilant phenotype or the not vigilant phenotype have a higher value of $p$?***
 
-***Q13: Given this information, can you determine which phenotype has a higher net fitness? Choose some arbitrary (but logical) values for the variables $f$ and $p$ in the model to make your prediction.***
+***Q13: Given this information, can you determine which phenotype has a higher net fitness? Choose some logical estimates for values of the model variables ($f$ and $p$) to make your prediction.***
 
 ***Q14: What kinds of issues are you encountering in using the model to predict which phenotype is more fit?***
 
@@ -176,7 +176,7 @@ If there are multiple possible phenotypes (in this case *vigilant* or *not vigil
 
 ---
 
-Consider how environments can differ. Do all environments have the same amount or quality of food? What about predators? As you experienced in the [Natural Selection Simulation](natural-selection-simulation), environments exert selective pressure on phenotypes, which means that changing environments can change the relative fitness of two phenotypes... but how?  
+Consider how environments can differ. Do all environments have the same amount or quality of food? What about predators? As you experienced in the [Natural Selection Simulation](natural-selection-simulation), changing environments can change the relative fitness of a set of phenotypes... but how?  
 
 Let's account for the effect of environment by adding two new variables to the model: 
 - $q$ = the quality or amount of food available
