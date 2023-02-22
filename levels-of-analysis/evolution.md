@@ -169,6 +169,11 @@ If there are multiple possible phenotypes (in this case *vigilant* or *not vigil
 
 ***Q13: Given this information, can you determine which phenotype has a higher net fitness? Choose some logical estimates for values of the model variables ($f$ and $p$) to make your prediction.***
 
+::::{margin} Graph of example for base model
+:::{image} ../images/adaptation_optimaility-example-vigilance_base-model.png
+:::
+::::
+
 ***Q14: What kinds of issues are you encountering in using the model to predict which phenotype is more fit?***
 
 
@@ -190,6 +195,11 @@ $$
 
 ---
 > ⏳ 10
+
+::::{margin} Graph of example for revised model
+:::{image} ../images/adaptation_optimaility-example-vigilance_with-envt-factors.png
+:::
+::::
 
 ***Q15: Based on this revised model, in an environment with a lot of predators and low food quality, which phenotype would you predict to be favored by natural selection?***
 
