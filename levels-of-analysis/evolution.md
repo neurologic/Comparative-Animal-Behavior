@@ -136,13 +136,13 @@ Let's start by examining two factors that likely exert selective pressure on thi
 ---
 > ⏳ 5
 
-***Q7: In terms of time foraging and/or probability of escape from predation, what is the 'benefit' of a vigilant phenotype compared to not vigilant?***
+***Q7: In terms of time foraging and/or likelihood of being injured/killed by a predator, what is the 'benefit' of a vigilant phenotype compared to not vigilant?***
 
-***Q8: In terms of time foraging and probability of escape from predation, what is the 'cost' of a vigilant phenotype compared to not vigilant?***
+***Q8: In terms of time foraging and/or likelihood of being injured/killed by a predator, what is the 'cost' of a vigilant phenotype compared to not vigilant?***
 
-***Q9: In terms of time foraging and probability of escape from predation, what is the 'benefit' of a not vigilant phenotype compared to vigilant?***
+***Q9: In terms of time foraging and/or likelihood of being injured/killed by a predator, what is the 'benefit' of a not vigilant phenotype compared to vigilant?***
 
-***Q10: In terms of time foraging and probability of escape from predation, what is the 'cost' of a not vigilant phenotype compared to vigilant?***
+***Q10: In terms of time foraging and/or likelihood of being injured/killed by a predator, what is the 'cost' of a not vigilant phenotype compared to vigilant?***
 
 
 ⏸️ PAUSE here for class-wide discussion
