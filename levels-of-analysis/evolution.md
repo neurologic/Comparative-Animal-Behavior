@@ -1,7 +1,7 @@
 # Evolution
 
 [Day 1](evolution_day1); [Responses template for use on computer if desired](https://docs.google.com/document/d/1Tz0iU8VG9O7BDL44alGmGt5CVBvecdRQEe_dC-J_a2M/edit?usp=sharing)  
-[Day 2](game-theory); [Responses template for use on computer if desired](https://docs.google.com/document/d/1Tz0iU8VG9O7BDL44alGmGt5CVBvecdRQEe_dC-J_a2M/edit?usp=sharing)
+[Day 2](game-theory); [Responses template for use on computer if desired](https://docs.google.com/document/d/10xufoztPxC4W6tuaJB3cqbiuwLqvKaxbqAp89NP-NxE/edit?usp=sharing)
 
 :::{admonition} Complete this section prior to class and bring your responses with you (but you do not need to hand them in)
 :name: natural-selection-simulation
@@ -338,17 +338,17 @@ evolutionary stability/equilibrium
 
 :::
 
-Game theory models are solved a bit differently than Optimality Theory. The task is to determine ***under what conditions*** (values of the variables/factors) is each behavior(s) ***stable***. 
+A task of both optimality theory and game theory models is to determine ***under what conditions*** (values of the variables/factors) is each behavior(s) ***stable***. However, the algorithm for solving the game theory models in this way can get a bit more complex than Optimality Theory. 
 
-For example, fighting is stable when the strategy *cannot be invaded by* the pacifist strategy. This is only true when pacifists have a lower average fitness than fighters when in a population of fighters (ie. a *mutant* pacifist). Mathematically, this statement would be written:
+For example, fighting is "**stable**" when the strategy *cannot be invaded by* the pacifist strategy. This is only true when pacifists have a lower average fitness than fighters when in a population of fighters (ie. a *mutant* pacifist). Mathematically, this statement would be written:
 Fighting is a stable strategy when ${(v-c)}/2 > 0$. Simplifying the equation gives the condition: $v > c$.
 
 ---
 > ⏳ 10
 
-***Q7: Are there conditions under which pacifist would be a stable behavior? To solve, set up the relevant inequalities and simplify to find the conditions under which pacifist would be stable. Then state in terms of a sentence.***
+***Q7: Are there conditions under which pacifist would be the phenotype at evolutionary equilibrium (ie. the stable behavioral phenotype)? To solve, set up the relevant inequalities and simplify to find the conditions under which pacifist would be stable. Then state in terms of a sentence.***
 
-***Q8: Are there conditions under which the evolutionarily stable state of a species would include both pacifists and fighters? How many inequalities do you need to set up for this analysis? What are the conditions that need to be satisfied? Solve for the conditions under which a population at evolutionary equilibrium would comprise both pacifists and fighers simultaneously.***
+***Q8: Are there conditions under which a species would include both pacifists and fighters simultaneously at evolutionary equilibrium? What inequalities would you use to solve this?***
 
 
 ⏸️ PAUSE here for class-wide discussion
