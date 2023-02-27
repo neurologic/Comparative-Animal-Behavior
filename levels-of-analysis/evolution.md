@@ -346,7 +346,7 @@ Consider a new set of conditions. For example, what about an environment in whic
 Game theory models like the *pacifist* : *fighter* model you have been considering, are often represented in the following tabular format. It is worth getting familiar with this way of representing game theory models, because using the table aids in model analyis (makes the process of solving the model more *algorithmic*).
 
 :::{figure} /images/game-theory-figher-pacifist_full.png
-:width: 600
+:width: 300
 
 A tabular representation of the game theory model of conflict resolution behavior that includes *pacifist* and *fighter* phenotypes. Each box of the table is split by a diagonal line. The fitness of each phenotype in each player role (green or purple) is written to the left or right (respectively) of each diagonal line. Note that this model is *symmetric* (there is only one type of individual/role that could exhibit each behavior) -- this is not always the case.
 :::
@@ -378,7 +378,7 @@ Fighting is a stable strategy when ${(v-c)}/2 > 0$. Simplifying the equation giv
 (multiple-mating-systems-lizard)=
 #### Understanding MIXED behavioral phenotypes
 
-It is possible that there are conditions under which neither behavioral phenotypes alone are evolutionarily stable, but a population consisting of both co-existing phenotypes is. For example, we know of behavioral phenotypes that have higher fitness than the alternative only when that alternative exists.
+It *IS* possible that there are conditions under which neither behavioral phenotypes alone are evolutionarily stable, but a population consisting of both co-existing phenotypes is. For example, we know of behavioral phenotypes that have higher fitness than the alternative only when that alternative exists.
 
 Here are a few as examples:
 - *sitter* versus *rover* foraging behavior ([fruit flies](https://doi.org/10.1038/nature05764))
