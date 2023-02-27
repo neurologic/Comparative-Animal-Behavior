@@ -218,12 +218,9 @@ $$
 (game-theory)=
 ### Game theory
 
-There are many cases in which the fitness associated with a particular behavior depends on what other *conspecifics*[^conspecifics-def] are doing. Thus, what is evolutionarily favored will depend on the distribution of phenotypic variation in the population (and therefore on the likelihood of certain phenotypes interacting, each with different fitness consequences). Game theory is like optimality theory in many ways, but it takes into account ***selective pressure from conspecifics*** and ***the proportion in which other phenotypes exist***. 
+There are many cases in which the fitness associated with a particular behavior depends on what other *conspecifics*[^conspecifics-def] are doing. Thus, what is evolutionarily favored will depend on the distribution of phenotypic variation in the population (and therefore on the likelihood of certain phenotypes interacting, each with different fitness consequences). **Game theory** is like optimality theory in many ways, but it takes into account ***selective pressure from conspecific phenotypes*** and ***the proportion in which other phenotypes exist***. 
 
 [^conspecifics-def]: *Conspecifics* are individuals of the same species. In understanding the evolution of behavior, we consider phenotypic variation *within* a species, not between species.  
-
----
-> ⏳ 15
 
 Let's work through the logic of a game theory modeling approach by role-playing a common example from conflict resolution behavior. In the basic form of this model, there are two possible behavioral phenotypes: *fighter* and *pacifist*. 
 
@@ -234,38 +231,43 @@ There are two possible behavioral strategies (phenotypes)
 2. *Pacifists* share the resource, and back down immediately when challenged with a fight (they don't engage in any fighting, which means they give up the resource completely when challenged, but also don't get injured from fighting).  
 
 There are two factors that can contribute to an animal's fitness
-1. $v$ = the energy gained by obtaining the limited resource
-2. $c$ = the damage done by losing a fight over a resource
+1. the energy gained by obtaining the limited resource
+2. the damage done by losing a fight over a resource (the consequence of losing a fight)
 :::
 
 What happens when each set of behavioral strategies interact?  
 
+---
+> ⏳ 15
+
 :::{admonition} Play it out 
-Choose two people from the group to be the 'players'. Players act out the game from the perspective of the behavioral *strategies*. There are two different conditions to act out, as described below.
-Choose one person from the group to be the moderator. The moderator starts each round.
+Choose two people from the group to be the 'players'. Players act out the game from the perspective of the behavioral phenotypes (*strategies*). There are **two different conditions to act out, as described below**.  
+Choose one person from the group to be the moderator. The moderator starts each round.  
 Choose one person from the group to keep track of each player's fitness in the game.
 
 **Condition 1: A population of Pacifists** 
-Each player represents the pacifist behavior.  
+Each player represents the *pacifist* phenotype.  
 
 The moderator places one blue pen on the table. This pen is the 'resource' and it is worth +2 units of fitness.  
-When the moderator says *go*, both players interact over the resource. Decide how the resource will be allocated according to the 'pacifist' behavioral strategy described [in the model setup](gt-model-setup_fp).
+When the moderator says *go*, both players interact over the resource. Decide how the resource will be allocated according to the 'pacifist' behavioral strategy described [in the model setup](gt-model-setup_fp).  
 After the resource has been allocated, tally the net change in each player's fitness as a consequence of the encounter.  
 
-The moderator places the blue pen back on the table and the interaction repeats (trial \#2) when the moderator says *go*.  
-Repeat the interaction for 10 trials total (tallying each player's change in net fitness after every encounter)
+The moderator places the blue pen back on the table and the interaction repeats (ie trial \#2) when the moderator says *go*.  
+**Repeat the interaction for 10 trials total** (tallying each player's change in net fitness after every encounter)
 
 **Condition 2: A population of Fighters**
-Each player represents the fighter behavior.  
+Each player represents the *fighter* phenotype.  
 
 The moderator places one blue pen on the table. This pen is the 'resource' and it is worth +2 units of fitness.  
-The moderator places one red pen on the table. This pen is the consequence of losing a figth and it is worth -1 unit of fitness.
+The moderator places one red pen on the table. This pen is the consequence of losing a fight and it is worth -1 unit of fitness.  
 
-When the moderator says *go*, both players interact over the resource. Decide how the resource and consequence will be allocated according to the 'fighter' behavior described [in the model setup](gt-model-setup_fp).
-After the resource and consequence have been allocated, tally the net change in each player's fitness as a consequence of the encounter.  
+When the moderator says *go*, both players interact over the resource. Decide how the resource and consequence will be allocated according to the 'fighter' behavior described [in the model setup](gt-model-setup_fp).  
+After the resource and consequence have been allocated, tally the net change in each player's fitness as a consequence of the encounter.    
+
+**Repeat the interaction for 10 trials total** (tallying each player's change in net fitness after every encounter)
 :::
 
-***Q1: Which behavioral strategy would result in a "more fit" population?***
+***Q1: Which behavioral phenotype would result in a "more fit" population?***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -274,62 +276,39 @@ After the resource and consequence have been allocated, tally the net change in 
 
 :::{admonition} Play it out 
 **Condition 3: Pacifist and Fighters mix**
-One player represents the pacifist behavior. 
-The other player represents the fighter behavior.  
+One player represents the *pacifist* phenotype. 
+The other player represents the *fighter* phenotype.  
 
-The values of $v$ and $c$ are the same as in Condition #2. The moderator places one blue pen on the table representing a 'resource' worth +2 units of fitness. The moderator places one red pen on the table representing the consequence of losing a fight and it is worth -1 unit of fitness.
+The moderator places one blue pen on the table representing a 'resource' worth +2 units of fitness.   
+The moderator places one red pen on the table representing the consequence of losing a fight and it is worth -1 unit of fitness.
 
-When the moderator says *go*, both players interact over the resource. Decide how the resource and consequence will be allocated according to the 'pacifist' behavior encountering a 'fighter' behavior (and vice versa) as described [in the model setup](gt-model-setup_fp). After the resource and consequence have been allocated, tally the net change in each player's fitness as a consequence of the encounter.  
+When the moderator says *go*, both players interact over the resource. Decide how the resource and consequence will be allocated according to the *pacifist* behavior encountering a *fighter* behavior (and vice versa) as described [in the model setup](gt-model-setup_fp). 
+
+After the resource and consequence have been allocated, tally the net change in each player's fitness as a consequence of the encounter.  
+
+**Repeat the interaction for 10 trials total** (tallying each player's change in net fitness after every encounter)
 :::
 
-***Q2: Based on your results of all three simulations, make a table that shows the average net fitness that you tallied for each behavioral strategy (pacifist and fighter) in each behavioral context (pacifist and fighter).***
+***Q2: Based on your results of all three simulations, make a table that documents the average net fitness that you tallied for each behavioral strategy (pacifist and fighter; rows) in each behavioral context (pacifist and fighter; columns).***
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
 
-The game theory model that you have been playing out can be summarized in general terms according to the following equations.
+The game theory model that you have been playing out can be formulated using the following equations, where $v$ is the value of the resource and $c$ is the consequence of losing a fight.
 
 |  | In a population of fighters | In a population of pacifists |
 | :--- | :---: | :---: |
 | **Average net fitness for a fighter** | ${(v-c)}/2$ | $v$ |
 | **Average net fitness for a pacifist** | 0 | $v/2$ |
 
-After a fighter encounters another fighter, its fitness changes by $ F = v $ if it wins but $ F = -c $ if it loses. Since it wins 1/2 the time, the average fitness is $v/2 - c/2$.
-After a pacifist encounters another pacifist, its fitness changes by $ F = v/2 $ because they share the resource.
-Fighters always gain the resource against pacifists and do so without a fight, which means pacifists end up with nothing against fighters.
+After a fighter encounters another fighter, its fitness changes by $ v $ if it wins but $-c $ if it loses. Since it wins 1/2 the time, the average change in fitness is $v/2 - c/2$.  
+After a pacifist encounters another pacifist, its fitness changes by $v/2$ because they share the resource.  
+Fighters always gain the resource against pacifists and do so without a fight, which means pacifists end up with nothing against fighters.  
 
-The conditions that you acted out were: $v=2$ and $c=1$.  
+In the conditions that you acted out, $v=2$ and $c=1$.  
 
-Under these conditions, let's use the model equations to determine which strategy has a greater net fitness in a population of all fighters. By doing so, we can determine whether (*under these conditions*) fighting is a **stable** behavior or a behavior that would be **invaded by** pacifist behavior.
-
----
-> ⏳ 10
-
-***Q3: Under the conditions that you acted out, use the model equations to determine which strategy has a greater net fitness in a population of all pacifists.***
-
-***Q4: According to this evolutionary model, the fitness of the fighter phenotype (DOES / DOES NOT) depend on the behavioral phenotype of conspecifics. When conspecifics are all fighters, the average fitness of fighting is ________. When conspecifics are all pacifists, the average fitness of fighting is (ALSO / INSTEAD) ________. (choose one parenthetical option and fill in the blanks)***
-
-Consider a new set of conditions. For example, what about an environment in which there are more predators. In this environment, the cost of losing a fight may be greater because if you are injured, you have a high probability of being eaten by a predator. Consider that $v=2$ and $c=3$.  
-
-***Q5: In this different environment, where $v=2$ and $c=3$, which strategy has a greater net fitness in a population of all fighters?***
-
-***Q6: In this different environment, where $v=2$ and $c=3$, which strategy has a greater net fitness in a population of all pacifists?***
-
-
-⏸️ PAUSE here for class-wide discussion
-
----
-
-Game theory models like the pacifist : fighter model you have been considering, are often represented in the following tabular format. It is worth getting familiar with this way of representing game theory models, because using the table aids in model analyis (makes the process of solving the model more *algorithmic*).
-
-:::{figure} /images/game-theory-figher-pacifist.png
-:width: 600
-
-A tabular representation of the game theory model of conflict resolution behavior that includes *pacifist* and *fighter* phenotypes. **A**) Each box of the table is split by a diagonal line. The fitness of each phenotype in each player role (green or purple) is written to the left or right (respectively) of each diagonal line. **B**) An equivalent representation of this model. Because this model is *symmetric* (there is only one type of individual/role that could exhibit each behavior), the payoffs can be represented once for individuals (left) in each phenotype context (top).
-:::
-
-#### Solving the model
+We can use the model equations to determine what phenotype (or mix of phenotypes) would be evolutionarily **stable** under a particular set of conditions. 
 
 :::{glossary}
 
@@ -338,17 +317,58 @@ evolutionary stability/equilibrium
 
 :::
 
-A task of both optimality theory and game theory models is to determine ***under what conditions*** (values of the variables/factors) is each behavior(s) ***stable***. However, the algorithm for solving the game theory models in this way can get a bit more complex than Optimality Theory. 
+---
+> ⏳ 10
+
+***Q3: According to the proposed model, the fitness of the fighter phenotype (DOES / DOES NOT) depend on the behavioral phenotype of conspecifics. When conspecifics are all fighters, the average fitness of fighting is ________. When conspecifics are all pacifists, the average fitness of fighting is ________.***
+
+***Q4: Under the conditions $v=2$ and $c=1$ (that you acted out), use the model equations to determine which strategy has a greater net fitness in a population of all pacifists.***
+
+If pacifists have a greater net fitness than fighers in a population of pacifists, then the fighting phenotype *cannot* invade -- and pacifist would be the evolutionarily stable strategy predicted by the model. However, if fighers have a greater net fitness than pacifists, then we would predict that a population of pacifists would *not* be stable at evolutionary equilibrium. And vice versa...
+
+***Q5: Under the conditions $v=2$ and $c=1$ (that you acted out), use the model equations to determine which strategy has a greater net fitness in a population of all fighters.***
+
+
+
+⏸️ PAUSE here for class-wide discussion
+
+---
+> ⏳ 5
+
+Consider a new set of conditions. For example, what about an environment in which there are more predators. In this environment, the cost of losing a fight may be greater because if you are injured, you have a high probability of being eaten by a predator. Consider now that $v=2$ and $c=3$. 
+
+***Q6: In this different environment, where v=2 and c=3, is there one strategy that would be evolutionarily stable? If so, which one?***
+
+⏸️ PAUSE here for class-wide discussion
+
+---
+
+Game theory models like the *pacifist* : *fighter* model you have been considering, are often represented in the following tabular format. It is worth getting familiar with this way of representing game theory models, because using the table aids in model analyis (makes the process of solving the model more *algorithmic*).
+
+:::{figure} /images/game-theory-figher-pacifist_full.png
+:width: 600
+
+A tabular representation of the game theory model of conflict resolution behavior that includes *pacifist* and *fighter* phenotypes. Each box of the table is split by a diagonal line. The fitness of each phenotype in each player role (green or purple) is written to the left or right (respectively) of each diagonal line. Note that this model is *symmetric* (there is only one type of individual/role that could exhibit each behavior) -- this is not always the case.
+:::
+
+#### General solutions to the model
+
+One task of both optimality theory and game theory models is to determine ***under what conditions*** (*range* of values for the factors) is each behavior(s) ***stable***. However, the algorithm for solving the game theory models in this way can get a bit more complex than Optimality Theory. 
 
 For example, fighting is "**stable**" when the strategy *cannot be invaded by* the pacifist strategy. This is only true when pacifists have a lower average fitness than fighters when in a population of fighters (ie. a *mutant* pacifist). Mathematically, this statement would be written:
 Fighting is a stable strategy when ${(v-c)}/2 > 0$. Simplifying the equation gives the condition: $v > c$.
 
 ---
-> ⏳ 10
+> ⏳ 5 min
 
-***Q7: Are there conditions under which pacifist would be the phenotype at evolutionary equilibrium (ie. the stable behavioral phenotype)? To solve, set up the relevant inequalities and simplify to find the conditions under which pacifist would be stable. Then state in terms of a sentence.***
+***Q7: Are there conditions under which the pacifist phenotype would be evolutionary stable? To solve this problem, use the model equations to set up the inequality that asserts "pacifists have a greater net fitness than fighters" in a population of all pacifists. Then simplify the inequality. The result is the conditions under which pacifist would be stable.***
 
-***Q8: Are there conditions under which a species would include both pacifists and fighters simultaneously at evolutionary equilibrium? What inequalities would you use to solve this?***
+⏸️ PAUSE here for class-wide discussion
+
+--- 
+> ⏳ 5 min
+
+***Q8: Are there conditions under which a species would be comprised of BOTH pacifists and fighters simultaneously at evolutionary equilibrium? What inequalities would you need to set up to solve this?***
 
 
 ⏸️ PAUSE here for class-wide discussion
