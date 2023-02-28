@@ -1,125 +1,119 @@
 # Phylogeny and Evolution
 
-## Section 1: Migratory Behavior
-*(This section could take you \~25 minutes total)*
+## Section 1: Evolutionary history of feeding behavior
 
-:::{image} /images/phylogeny-migration-exam-example.png
-:width: 600
+:::{image} /images/phylogeny-feeding-exam-example.png
+:width: 800
 :align: center
 :::
 
-**Figure 1:** *The 13 extant species shown comprise the Genus: thrush. Yellow = migration behavior. Blue = resident behavior (does not migrate)*. 
+**Figure 1:**  
 
+***Q (2 point)*** Select a correct sentence to add to the caption for Figure 1.   
+**a)** *Phylogeny of finches with the character mapping of feeding behavior overlaid*   
+**b)** *Phylogeny of 11 extant species of finches*  
+**c)** *Phylogeny of finches with the character mapping and ancestral state reconstruction of feeding behavior overlaid*  
 
-***Q1 (1 point; \~ 2 minutes): (Choose the correct word from the bracketed list and re-write the sentence).  
-Figure 1 shows a [ phylogeny / character mapping / ancestral state reconstruction ] of migratory behavior among the genus thrushes.***
+***Q (2 point)*** Select a correct sentence to add to the caption for Figure 1.   
+**a)** *The nodes (labeled a, b, c, and d) mark potential points of phenotype divergence.*    
+**b)** *The nodes (labeled a, b, c, and d) mark potential points of phenotype convergence.*  
+**c)** *The nodes (labeled a, b, c, and d) mark the root of divergent extant species.*  
 
-***Q2 (4 point; \~ 5 minutes): (Re-write the following sentences with the blanks filled in based on the results under each alternative hypothesis. You can include diagrams to show your work for possible partial credit if you fill in the blanks wrong.)  
-Based on an argument of parsimony, consider the phylogeny of the 6 species descendent from the last common ancestor (LCA) at "A" (Figure 1, green arrow). If the LCA at A was _______________, there would have been _________ evolutionary changes. If the LCA at A was _______________, there would have been ___________ evolutionary changes.***
+***Q (2 points)*** Which node (*a, b, c, or d*) represents the last common ancestor for the entire set of extant species shown?
 
-***Q3 (3 point; \~ 7 minutes): How would an analysis starting from "B" (Figure 1, red arrow; 7 extant species) change your conclusions (based on an argument of parsimony) about the LCA at "A"? Your answer and reasoning should include: the results of the new analysis at B, the conclusion about the LCA at "B" based on those results, and how that conclusion effects the LCA at "A".***
+***Q (6 points)*** Why is it least likely (by parsimony) that the last common ancestor of all extant species shown was a *folivore*? Answer this question in 1-3 concise sentences in terms of all possible alternate hypotheses and the quantitative results of your analysis under each hypothesis.  
 
-***Q4 (3 point; \~ 7 minutes): (Re-write the following sentences with blanks filled in and appropriate word choices from brackets)  
-Finally, by performing an ancestral state reconstruction of the LCA at "C" (Figure 1, black arrow; all 13 extant species), I would conclude that _____________ behavior evolved independently _________ times among thrush becase the LCA of all thrush was most likely ___________. In other words, ________________ behavior is a [derived / inherited] trait among thrush.***
+***Q (4 points)*** Which node (*a, b, c, or d*) represents the last common ancestor for all Ground finches and Tree finches? What was the most likely behavioral trait of that LCA (*in your analysis, consider all information available in the Figure*)?  
 
+***Q (2 points)*** Which node (*a, b, c, or d*) represents the last common ancestor for all extant ground finch species?
 
-## Section 2: Mate-finding behavior in crickets
+***Q (2 points)*** Consider the scenario in which two species exhibit a similar behavioral trait and are incorrectly separated in a phylogenetic tree such that, by parsimony, their most recent common ancestor exhibited a different behavioral trait. In this situation, you would misinterpret their similar traits as evidence of [*convergence* / *divergence*/ *shared ancestry*] rather than correctly identifying [*convergence* / *divergence*/ *shared ancestry*]  
+(***Choose the appropriate term from each bracketed list to complete the sentence.***)
 
-*(this section could take \~45 minutes total)*
+## Section 2: Evolutionary models for feeding behavior in chicks
 
-*(intruduction reading \~5 minutes)*
+In birds, let's consider two behavioral phenotypes associated with feeding behavior: 1) beg for food by making loud vocalizations ('*beggers*') and 2) do nothing while waiting for food from the parent ('*silent*'). Parent birds will feed their chicks no matter what, but loud vocalizations are so attention-grabbing that they will preferentially feed vocalizing chicks over *silent* chicks. We will assume that the amount of food a parent is able to gather is limited, and we will call this value $f$ (for simplicity, assume that the amount of food that the parent is able to gather does not depend on the behavior of its chicks). Begging chicks get all of the food, *but* they also expend a lot of energy to produce vocalizations (a factor that we will call $e$) and the vocalizations make them more noticable to predators (a factor that we will call $p$). 
 
-In crickets, there are two major phenotype variants for mate-finding behavior in males: ***singing*** and ***silent***. 
+***Q (3 points)*** Given these factors, the most reasonable optimality theory model for the total net fitness of individual chicks ($F$) would be formulated as:  
+(***Choose one option from below and explain your reasoning.***)  
+**a**) $f = - e - p$  
+**b**) $F = f - e - p$  
+**c**) $F = -f + e + p$  
+**d**) $F = f + e + p$  
 
-***Silent*** crickets travel around to search silently for potential female mates.
+***Q (3 points)*** Given the optimality theory model you chose, under what conditions would you predict that the *silent* phenotype would be stable at evolutionary equilibrium?    
+(***Choose one option from below and explain your reasoning.***)  
+**a**) When $f$ (the food gathered by the parent) is greater for *silent* chicks than for *begging* chicks (assuming all other factors are the same for both phenotypes)  
+**b**) When $e$ is greater for *begging* chicks than for *silent* chicks (assuming all other factors are the same for both phenotypes)  
+**c**) When $p$ is greater for *silent* chicks than for *begging* chicks (assuming all other factors are the same for both phenotypes)  
 
-***Singing*** crickets have specialized wing anatomy that they use to produce a species-specific [song](https://youtu.be/GP5NpXcYc8A). This song attracts females to them (rather than them needing to go searching for females). 
+***Q (2 points)*** According to the optimality theory model, the average fitness of the *silent* phenotype could depend on:  
+(***Choose one option from below***)
+**a)** whether conspecifics begged or were *silent*  
+**b)** the number of predators in the environment (and therefore the risk of predation)  
+**c)** whether $e > p$ or $p < e$ for the *begging* phenotype   
 
-The songs of singing male crickets are very attractive to females. Singing crickets are able to attract more females than they would otherwise be able to find by silent searching. However, predators of crickets can also hear the song. Singing therefore increases their predation risk compared to if they were silent. 
-
-We can use either optimality theory or game theory to examine the evolutionary explanations for these mate-finding phenotype variants. First, you will investigate an optimality theory model (Figure 2), then you will investigate a game theory model (Figure 4), and finally you will compare the two. 
-
-:::{image} /images/optimality-theory-cricket-singing-exam-example.png
-:width: 200
-:align: center
-:::
-
-**Figure 2:** *Optimality theory model for two alternative behavioral phenotypes of mate-finding behavior in male crickets. There are two factors hypothesized to exert selective pressure on mate-finding behavior in crickets. $m$ = mating success; $k$ = risk of predation.*
-
-***Q5 (2 point; \~ 3 minutes): (Refer to Figure 2. Re-write the following sentence with blanks filled in and appropriate word choices from brackets)  
-According to the optimality theory model, the singing phenotype would be the optimal phenotype (favored by natural selection) if the increase in mating success for singers (versus silents) was [ bigger / smaller ] than the increase in _________________ for singers (versus silents).***
-
-***Q6 (2 point; \~ 5 minutes): (Refer to Figure 2. Select the one correct choice. Then provide an explanation why the two answers that you did not choose were incorrect)  
-According to the optimality theory model, the average fitness of the singing phenotype could depend on:  
-		a) whether conspecifics sang or were silent  
-		b) the number of predators in the environment (and therefore the risk of predation)  
-		c) whether $m > k$ or $m < k$ for the silent phenotype***
-
-::::{margin} Figure 2 (refer to original for caption)
-:::{image} /images/optimality-theory-cricket-singing-exam-example.png
-:::
-::::
-
-***Q7 (3 point; \~ 7 minutes): (Refer to both Figure 2 and Figure 3)  
-Examine the example data plotted in Figure 3 and answer both of the following questions:    
-	1. Under which condition (A or B) would you predict singing will be the optimal phenotype (versus silent)?   
-	2. Provide an explanation for your answer by using the optimality theory model $F=m-k$ to describe your reasoning.***
-
-:::{image} /images/optimality-theory-crickets-mock-data-exam-example.png
-:width: 400
-:align: center
-:::
-
-**Figure 3:** *Example data to answer question 7. Data measured in two different conditions (A and B) are shown. Value of $m$ in each condition plotted in purple on the right-hand y-axis. Value of $k$ in each condition plotted in green on the left-hand y-axis.* 
-
-
-*(Reading and understanding of the game theory model shown in Figure 4 \~5 minutes)*
-
-:::{image} /images/game-theory-cricket-singing-exam-example.png
+:::{image} /images/game-theory-chick-feeding-exam-example.png
 :width: 300
 :align: center
 :::
 
-**Figure 4:** *Game theory model of singing versus silent mate-finding behavior phenotypes in male crickets. Columns = phenotypes of conspecifics. Rows = phenotypes being assessed. As you already know, singing male crickets advertise themselves to potential female mates by singing and silent male crickets do not advertise themselves to female mates. Interestingly, silent male crickets are attracted to the song of singing male crickets and try to sneak mating with females that are also attracted to the songs. There are three factors hypothesized to exert selective pressure on these phenotypes. $k$ = the risk/likelihood of predation; $b$ = mating success taken by singing crickets from silent crickets; $n$ = difference in mating success without any singing male crickets in the population around to attract females.* 
+**Figure 3:** *Game theory model of *begging* versus *silent* feeding behavior phenotypes in chicks (following convension: columns = phenotypes of conspecifics; rows = net fitness of each phenotype being assessed). The factors in the model are the same as in the optimality theory model: $f$ (the food gathered by the parent), $e$ (energy to produce vocalizations), $p$ (likelihood of being noticed by predators).* 
 
-***Q8 (3 point; \~ 5 minutes): (Refer to Figure 4. Re-write the following sentences with blanks filled in and appropriate word choice from brackets)  
-According to the game theory model, the fitness of singing [ DOES / DOES NOT ] depend on the behavioral phenotype of conspecifics. When conspecifics are singers, the fitness of a singer is _____________. When conspecifics are silent, a singer has an average fitness of ___________.***
+***Q (4 points)*** According to the game theory model, beggers would have a greater net fitness in a population of [*BEGGING* / *SILENT*] chicks than in a population of [*BEGGING* / *SILENT*] chicks.  
+(***Choose the correct words to complete the first sentence. Then select one option from below that provides the appropriate reasoning based on the game theory model.***)   
+**a)** However, this scenario is not possible because the *silent* phenotype is not the evolutionarily stable phenotype.   
+**b)** However, this scenario is not possible because the *silent* phenotype has a lower net fitness than the *begging* phenotype in a population of *begging* chicks.  
+**c)** However, this scenario is not possible because *begging* is the only evolutionarily stable phenotype.  
+**d)** However, this scenario would not be possible if the *silent* phenotype had a lower net fitness than the *begging* phenotype in a population of *begging* chicks.  
 
-***Q9 (2 point; \~ 3 minutes): (Refer to Figure 4 and show your work)  
-Find the mathematical conditions (simplified inequalitie(s)) when a population comprised of all singers would be evolutionarily stable (ie. when silent phenotype cannot "invade" the population).***
+***Q (3 points)*** According to the game theory model, state the mathematical conditions when *begging* would be the evolutionarily stable phenotype (ie. when *silent* phenotype cannot "invade" a population of beggers). (***Show your work to set up the necessary inequality(ies), and simplify so that all of the 'fitness increasing' factors are on one side and all of the 'fitness decreasing' factors are on the other.***)
 
-::::{margin} Figure 4 (refer to original for caption)
-:::{image} /images/game-theory-cricket-singing-exam-example.png
+***Q (3 points)*** According to the game theory model, state the mathematical conditions when *silent* would be the evolutionarily stable phenotype. (***Show your work to set up the necessary inequality(ies), and simplify so that all of the 'fitness increasing' factors are on one side and all of the 'fitness decreasing' factors are on the other.***)
+
+***Q (2 points)*** (Refer to the conditions you calculated in Q\____) A population comprised of all begging chicks would be evolutionarily stable when:  
+(***Choose the one correct option to complete the sentence***)   
+**a)** the likelihood of predation is less than the food obtained from the parent.   
+**b)** the likelihood of predation is less than the food that the parent is able to gather.  
+**c)** $f$ is actually a negative number.  
+**d)** the combined fitness deficit caused by the increased likelihood of predation and energy needed to vocalize are less than half of the food that the parent is able to gather.  
+
+***Q (2 points)*** Which is a more appropriate model (optimality theory or game theory) for understanding the feeding behavior of chicks, and why? 
+(***Choose the one correct option***)  
+a) Game Theory, because the fitness of the feeding behavior phenotypes likely do *NOT* depend on the strategies of conspecifics.  
+b) Game Theory, because the fitness of the feeding behaviors phenotypes likely *DO* depend on the strategies of conspecifics.  
+c) Optimality Theory, because the fitness of the feeding behavior phenotypess likely *DO* depend on the strategies of conspecifics.  
+d) Game theory, because a mixed population of *begging* and *silent* phenotypes is evolutionarily stable, and game theory is the only type of model that can predict a mixed population.  
+
+***Q (2 points)*** An assumption of both of optimality theory and game theory models is that:  
+**a)** the models can predict the evolutionarily stable behavior of a species.   
+**b)** behavioral phenotypes change across phylogeny because of evolution.  
+**c)** behavioral phenotypes change across phylogeny because of natural selection.
+**d)** the fitness of individuals depends on the phenotype of conspecifics.
+**e)** natural selection reduces phenotypic variance among a species.  
+
+## Section 3 Ancestral state reconstruction correction
+
+A student who studied cannabalism among snakes for their capstone provided the following figure and explanation as part of their phylogenetic analysis of the behavior:
+
+:::{image} ../images/Phylogeny_Snake-Cannibalism.png
+:width: 400
 :::
-::::
 
-***Q10 (1 point; \~ 3 minutes): (Describe the conditions you calculated in Q9 by picking the best option to complete the following sentence)  
-A population comprised of all singers would be evolutionarily stable when:  
-		a) the risk of predation due to singing is less than the increase in mating success due to singing.   
-		b) the risk of predation due to singing is greater than the increase in mating success due to singing.  
-		c) $b$ is actually a negative numbner.  
-		d) the risk of predation due to singing is less than both the increase in mating success due to singing and the decrease in mating success due to the absence of singers in the population.***
+"*In this case, the ancestral trait is cannibalistic behavior because the species “Sistrurus catenatus" has a direct lineage to the common ancestor. This species does show cannibal-like behavior, thus the ancestral trait is cannibalism.*"  
 
-***Q11 (3 point; \~ 5 minutes): (Refer to Figure 4 and show your work) Under what mathematical conditions would you predict a population comprising both singing and silent crickets simultaneously (ie. a mixed phenotype population)?***
-
-***Q12 (1 point; \~ 3 minutes): (Select the one correct choice)  
-Which is a more appropriate model (optimality theory or game theory) for understanding the mate-finding behavior of crickets, and why?  
-		a) Game Theory, because the fitness of the mating behaviors likely do NOT depend on the strategies of conspecifics.  
-		b) Game Theory, because the fitness of the mating behaviors likely DO depend on the strategies of conspecifics.  
-		c) Optimality Theory, because the fitness of the mating behaviors likely DO depend on the strategies of conspecifics.  
-		d) Game theory, because a mixed population of singing and silent is likely always evolutionarily stable.***
-
+***Q (3 points)*** Why was this an incorrect analysis?
 
 <!-- 
 ---
 
 ## You can do it better
 
-Improve these two excerpts from editorials on animal behavior. Make at least two majore improvements to each excerpt. Highlight your changes and briefly explain the reason for the change using footnote-style annotation. 
+Improve these two excerpts from editorials on animal behavior. Make at least two major improvements to each excerpt. Highlight your changes and briefly explain the reason for the change using footnote-style annotation. 
 
 One
 :::{epigraph}
-A phylogeny is a study of the relationships among a group of organisms. Animals that evolved from a common ancestor evolve in different ways. They also develop different traits at different times. Every species can be connected to one common ancestor that they all evolved from. In this case, phylogeny is used on rattlesnakes. (Figure 1) The rattlesnakes were investigated for showing the trait of cannibalistic behavior or not showing the trait. Out of many species, only 6 show cannibalistic behavior. For the species that do show the trait, they seem to come up in very distant relationships. Very few of the species that are close in evolution share the trait. Also, based on just the phylogeny the ancestral trait can be predicted. An ancestral trait is a trait that the very first ancestor, that the species evolved from, shows. In this case, the ancestral trait is cannibalistic behavior because the species “Sistrurus catenatus has a direct lineage to the common ancestor. This species does show cannibal-like behavior thus the ancestral trait is cannibalism.
+A phylogeny is a study of the relationships among a group of organisms. Animals that evolved from a common ancestor evolve in different ways. They also develop different traits at different times. Every species can be connected to one common ancestor that they all evolved from. In this case, phylogeny is used on rattlesnakes. (Figure 1) The rattlesnakes were investigated for showing the trait of cannibalistic behavior or not showing the trait. Out of many species, only 6 show cannibalistic behavior. For the species that do show the trait, they seem to come up in very distant relationships. Very few of the species that are close in evolution share the trait. Also, based on just the phylogeny the ancestral trait can be predicted. An ancestral trait is a trait that the very first ancestor, that the species evolved from, shows. In this case, the ancestral trait is cannibalistic behavior because the species “Sistrurus catenatus" has a direct lineage to the common ancestor. This species does show cannibal-like behavior, thus the ancestral trait is cannibalism.
 :::
 
 :::{figure-md} Phylogeny-example_snake-cannibal
