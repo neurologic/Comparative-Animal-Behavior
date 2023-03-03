@@ -1,7 +1,7 @@
 # Neural Mechanisms
 
-[Day 1](neural_day1) [Responses template](https://docs.google.com/document/d/1txaHaVDibTuiB4_2mr1WneP8xJVigVH68vWp49NoDBk/edit?usp=sharing)  
-[Day 2](neural_day2) [Responses template](https://docs.google.com/document/d/1SBlEPubuV9EBKuyrnPJBuZ9B38r5cX3utFBfz3C1DN8/edit?usp=sharing)
+[Day 1](neural_day1); [Responses template if needed](https://docs.google.com/document/d/1txaHaVDibTuiB4_2mr1WneP8xJVigVH68vWp49NoDBk/edit?usp=sharing)  
+[Day 2](neural_day2); [Responses template if needed](https://docs.google.com/document/d/1SBlEPubuV9EBKuyrnPJBuZ9B38r5cX3utFBfz3C1DN8/edit?usp=sharing)
 <!-- <hr>
 
 > {sub-ref}`wordcount-words` words | {sub-ref}`wordcount-minutes` min read
@@ -148,6 +148,10 @@ Plot of membrane potential (y-axis) across time (x-axis; left-to-right). The mem
 
 ### Synapses
 
+Neurons effect each other via synapses. There are neurons *before* (pre-synaptic) and neurons *after* (post-synaptic) synapses. Specifically:
+1. Voltage spikes in a "pre"-synaptic neuron cause the release of molecules (neurotransmitters and/or neuromodulators). Different types of neurons have different neurotransmitters.
+2. Synaptic events change ion permeability in a "post"-synaptic neuron. Receptors (membrane proteins) are permeable only to specific ions and only when they bind specific molecules. Different types of neurons have different receptors.
+
 :::{figure} /images/Neuron-Synapse.png
 :width: 600
 
@@ -162,9 +166,6 @@ An example cartoon of a ligand-gated calcium ion channel[^lgic-wiki]. When the l
 
 [^lgic-wiki]: Image from [wiki](https://en.wikipedia.org/wiki/File:LGIC.png)
 
-Neurons effect each other via synapses. There are neurons *before* (pre-synaptic) and neurons *after* (post-synaptic) synapses. Specifically:
-1. Voltage spikes in a "pre"-synaptic neuron cause the release of molecules (neurotransmitters and/or neuromodulators). Different types of neurons have different neurotransmitters.
-2. Synaptic events change ion permeability in a "post"-synaptic neuron. Receptors (membrane proteins) are permeable only to specific ions and only when they bind specific molecules. Different types of neurons have different receptors.
 
 For a neurotransmitter to change ion permeability of a neuron, the neuron must have receptors for the neurotransmitter. Two broad types of neurotransmitter-receptor pairs are *excitatory* and *inhibitory*. 
 
@@ -196,7 +197,7 @@ Example synaptic connectivity (left; ball and stick diagrams) and the result on 
 Consider the K+, Na+, and Cl- equilibrium potentials established in [table 1 and 2](#table1) (shown in the margin to the right). 
 
 
-***Q5: Let neuron \#2 have a "resting" K+ to Na+ conductance ratio of 0.8 to 0.2, and no Cl- conductance. What would be the "resting" membrane potential of neuron #2?***
+***Q5: Let neuron \#2 have a "resting" K+ to Na+ conductance ratio of 0.9 to 0.1, and no Cl- conductance. What would be the "resting" membrane potential of neuron #2?***
 
 ***Q6: To produce the result shown in Ai and Aii (excitatory post-synaptic potential in response to pre-synaptic spikes), would you predict that neuron \#2 had neurotransmitter receptors that were permeable to K+, Na+, or Cl-? Why?***
 
