@@ -218,7 +218,11 @@ Consider the K+, Na+, and Cl- equilibrium potentials established in [table 1 and
 :::
 ::::
 
-Muscles contract (shorten) when their membrane becomes depolarized. When muscles attach across two sides of a joint, the joint angle reduces when the muscle shortens. This is the foundation of all movement, and therefore of behavior. Examine the relationship between motor neuron spike rate, muscle membrane potential, and muscle length to understand the neural mechanism of muscle activity.[^muscle-mechanism-detail] 
+Muscles are specialized "excitable" cells that contract (shorten) when their membrane becomes depolarized (because depolarization opens voltage-gated Calcium channels... see margin). Muscle shortening (and lengthening) is the foundation of all movement, and therefore of behavior. 
+
+Muscle depolarization is controlled synaptically by *motor neurons* -- the special class of neurons that synapse onto muscle cells.
+
+The relationships among motor neuron spike rate, muscle membrane potential, and muscle length are summarized in Figure 26.[^muscle-mechanism-detail] 
 
 [^muscle-mechanism-detail]: More detail on the mechanism of muscle activity for those interested in digging down another level of explanation. Motor neurons release acetylcholine from their axon terminals when their membrane potential goes above spike threshold. The post-synaptic receptors on muscle cells become permeable to sodium (Na+) when they bind acetylcholine. This leads to a cascade of depolarization that eventually triggers voltage-gated Calcium ion channels in the muscle cell. The increase in intracellular Calcium then enables [a conformational change in the muscle fibers that shortens (contracts) the muscle](https://gfycat.com/cheeryelderlycommongonolek) (example mechanism in the margin image).
     :::{image} /images/muscle-activation.gif
@@ -237,14 +241,16 @@ A) Motor neurons synapse onto muscles. B) Motor neurons vary their rate (frequen
 :::
 ::::
 
-Sensors are special types of neurons that change their membrane potential in response to changes in physical energy in the environment. In other words, they transform physical stimulus energy into electrical energy. Physical energy can take the form of light, pressure, odor, etc. 
+Sensors are special types of neurons whose membrane potential is under the control of physical energy/stimuli in the environment. In other words, sensors transform physical stimulus energy/information into electrical energy/information. Different sensors are specialized for light, pressure, odor, etc. 
 
-Let's consider a sensor that hyperpolarizes in response to an increase in light (example mechanism in the margin image) and depolarizes in response to an decrease in light. The hyperpolarization decreases its synaptic release of molecules (*neurotransmitters*). Let's say this sensor neuron (SN) provides inhibitory synaptic input to a "post-synaptic" (PN) neuron (Figure 27A). 
+Let's consider a sensor that *hyperpolarizes* in response to an increase in light (example mechanism in the margin image) and *depolarizes* in response to an decrease in light. The hyperpolarization decreases its release of molecules (*neurotransmitters*) at its synapses. Let's say this sensor neuron (SN) provides inhibitory synaptic input to a "post-synaptic" (PN) neuron (Figure 27A). 
 
 :::{figure} /images/sensor-circuit.png
 :width: 600
 
-**A)** A sensor neuron (SN) that hyperpolarizes in response to light synapses onto a post-synaptic neuron (PN). The synapse is inhibitory for the PN. **B)** Synaptic release from the sensor is proportional to its membrane potential. **C)** Example changes in membrane potential for the SN and PN in response to a change in the light stimulus over time. 
+**A)** A sensor neuron (SN) that hyperpolarizes in response to light synapses onto a post-synaptic neuron (PN). The synapse is inhibitory for the PN.  
+**B)** Synaptic neurotransmitter release from the sensor is proportional to its membrane potential.  
+**C)** Example changes in membrane potential for the SN and PN in response to a change in the light stimulus over time. 
 :::
 
 ---
@@ -274,9 +280,9 @@ C) Examples of ***convergence*** and ***divergence*** in heterogeneous neural ci
 ---
 > ⏳ 5 min 
 
-***Q2: Draw a neural circuit composed of an auditory sensor neuron, a motor neuron and a muscle. The circuit needs to contract the muscle when the sound amplitude in the environment suddenly increases. In your ciruit, use a sensor neuron that is depolarized by sudden increases in the amplitude of sound (and, remember, depolarization increases its spiking output).***
+***Q2: Draw a neural circuit (composed of an auditory sensor neuron, a motor neuron, and a muscle) that contracts a muscle when the sound amplitude in the environment increases. Use a sensor neuron that is depolarized by increased sound amplitude (remember that depolarization increases its voltage spike activity).***
 
-***Q3: Draw a neural circuit composed of the same three neurons as in Q2. The circuit needs to contract the muscle when the sound amplitude in the environment suddenly decreases. Hint: you can make any neuron have a "resting" membrane potential above spike threshold (so that it is spiking in the absense of synaptic input).***
+***Q3: Draw a neural circuit composed of the same three neurons as in Q2. But now, make the circuit contract the muscle when the sound amplitude in the environment decreases. Hint: you can make any neuron have a "resting" membrane potential above spike threshold (so that it is spiking in the absense of synaptic input).***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -309,12 +315,12 @@ into chirps. This behavior is stereotypically patterned across time. Females att
 :::{index} command neuron
 :::
 
-Stereotyped motor patterns (for example, FAPs) are orchestrated by neural circuits that pattern the contraction among sets of muscles. These circuits are activated by a ***command*** signal (after a decision has been made to do the action). But, remarkably, the command signal itself (the spiking output of a command neuron) does not need to be patterned. We can demonstrate this by using experimental techniques that alter the spiking activity of specific neurons. 
+Stereotyped motor patterns (for example, FAPs) are orchestrated by neural circuits that coordinate the contraction/relaxation among sets of muscles. These circuits are activated by a ***command*** signal (after a decision has been made to do the action). But, remarkably, the command signal itself (the spiking output of a command neuron) does not need to be patterned. This feature of motor control can be demonstrated by using experimental techniques enabling control over the spiking activity of "command neurons". 
 
 :::{figure} /images/cricket-singing-command-neuron.png
 :width: 900
 
-Command neuron controlling calling song[^hedwig-2006]. Neuron: A recording of the command neuron's membrane potential across time in the brain of Gryllus bimaculatus. Increasing the neurons spike activity (AP/s) elicits the generation of calling song (Sound): the cricket lifts its wings and starts to sing (Forewing).
+The motor control of calling song[^hedwig-2006]. *Neuron*: A recording of the command neuron's membrane potential across time in the brain of Gryllus bimaculatus. *Current*: A current applied across the membrane of the command neuron via a wire placed inside the neuron. Increasing the neuron's voltage spiking (*AP/s*) elicits the generation of "calling song" (*Sound*) because it causes forewing movement (*Forewing*: the cricket closes its wings and starts to "sing" by moving the wings back and forth against each other).
 :::
 
 The **command neuron** ("Neuron" in Figure 30) causes the cricket to sing, but its activity is unpatterned. What causes the patterning of the movement required to produce the patterned song?
@@ -327,7 +333,10 @@ central pattern generator (CPG)
 :::{figure} /images/cricket-cpg-diagram.png
 :width: 800
 
-**A)** The anatomy of a chirp. The cricket's wings have a file and a scraper. When the cricket closes both of its wings together, the scraper rubs the file and vibrates the wings, producing sound. **B)** The pattern of activity among wing opener and closer muscles, wing position (open and closed), and sound. **C)** A central pattern generator for wing movement that is comprised of motor neurons (MN) that synapse on wing opener and closer muscles and interneurons (IN). The INs provide excitatory input to MNs. MNs provide excitator input to muscles (thus contracting them). INs are also provide synaptic input to each other. 
+The anatomy of a chirp.  
+**A)** The cricket's wings have a file and a scraper. When the cricket closes both of its wings together, the scraper rubs the file and vibrates the wings, producing sound.  
+**B)** The pattern of activity among wing opener and closer muscles, wing position (open and closed), and sound.  
+**C)** A central pattern generator for wing movement that is comprised of motor neurons (MN) (that synapse on wing opener and closer muscles) and interneurons (IN) (that synapse on MNs and each other). The INs provide excitatory synaptic input to MNs. MNs provide excitatory synaptic input to muscles (thus contracting them). INs are also provide synaptic input to each other. 
 ::: 
 
 ---
@@ -348,7 +357,7 @@ Usually, ***multiple CPGs need to be coordinated with each other*** to generate 
 Entire CPG circuits (like the one in Figure 31) are often represented by a circle with a tilde symbol. In this example, there is a wing CPG on each side of the cricket's body that controls the open/close movement of each wing. When the command neuron is *activated*, it excites both CPG circuits with unpatterned input. 
 :::
 
-***Q5: The CPGs for wing movement on each side of the cricket's body need to be correctly coordinated with each other to generate song (they need to close together at the same time). To achieve this action, what type of synaptic connection (inhibitory or excitatory) is needed from each CPG to the other?***
+***Q5: The CPGs for wing movement on each side of the cricket's body need to be correctly coordinated with each other to generate song -- the wings need to close toward each other at the same time. To achieve this action, what type of synaptic connection (inhibitory or excitatory) is needed from each CPG to the other?***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -359,9 +368,14 @@ Entire CPG circuits (like the one in Figure 31) are often represented by a circl
 
 #### Sensory Filtering
 
-Not all sensory stimuli are the same. Stimuli have lots of different ***features***. In the case of cricket song, we will consider two features: the *syllable period* (SP) and the loudness (amplitude). Both of these features can vary across a wide range. Different species generate song with distinct **SP**. For example, different individuals may sing with different amplitude. Amplitude can also vary with environmental features such as distance from the source. 
+Not all sensory stimuli are the same. Stimuli have lots of different ***features***. In the case of cricket song, we will consider two features: the *syllable period* (SP) and the loudness (amplitude). Both of these features can vary across a wide range. 
 
-***Sensory filtering*** results from the stimulus *specificity* of sensors. Sensors only respond to specific types of physical energy in the world (light, sound, odor) - we refer to these as *modalities*. Then within each modality, different sensors respond best to specific features of a stimulus (frequency of sound, wavelength of light). Stimulus features themselves can then vary along a continuum. Sensors are often specific to just a small range of feature values (500 nanometer light, 200 Hz sound) within a given stimulus modality or category. 
+**SP** is generally specific to different species (different species generate song with distinct SP). However, **amplitude** tends to vary across individuals (or time) more than between species. Amplitude can also vary due to environmental features such as distance from the sound source. 
+
+***Sensory filtering*** refers to the *specificity* of sensors across stimulus features. 
+- Different sensors respond to different *modalities* of information (ie light, sound, odor). 
+- Within each modality, different sensors respond best to specific *features* of a stimulus (ie frequency of sound, wavelength of light). 
+- Stimulus features themselves can then vary along a continuum. Sensors are often specific to just a small *range of feature values* (500 nanometer light, 200 Hz sound) within a given stimulus modality or category. 
 
 ***Without sensory filtering, there would be no specificity in behavioral responses to stimuli.***   
 
@@ -372,13 +386,18 @@ So what does ***sensitive to*** mean? We will examine this in the next set of fi
 :::{figure} /images/crickets-phonotaxis-sensory-filter.png
 :width: 800
 
-Sensory filtering for species-specific song[^hedwig-2006]. **A**) Trackball system for analysing cricket phonotaxis. [See also this video of the behavior](https://youtu.be/oVL82zuPbLU) **B**) Sound patterns to test sensory tuning for conspecific song. **C**) Tuning curve of phonotaxis demonstrates the strongest response to SP34–SP42, which corresponds to the natural range of SP. Phonotaxis declined at shorter or longer syllable periods.
+Sensory filtering for species-specific song[^hedwig-2006].  
+**A**) Trackball system for analysing cricket phonotaxis. [See also this video of the behavior](https://youtu.be/oVL82zuPbLU)  
+**B**) Sound patterns to test sensory tuning for conspecific song.  
+**C**) Tuning curve of phonotaxis demonstrates the strongest response to SP34–SP42, which corresponds to the natural range of SP. Phonotaxis declined at shorter or longer syllable periods.
 :::
 
-At a basic level, let's think about a ***neural mechanism for FAPs***: 
-1. Sensory stimuli are transformed into changes in neuron membrane potential by sensors. 
-2. Sensors then synapse onto *decision* centers in the brain, which trigger specific FAPs. 
-3. If a certain threshold is reached by a sensory filter, then the FAP will be triggered (carried out by coordinated CPGs).
+How does the mechanism of sensory filtering explain this kind of behavioral specificity?
+
+At a basic level, let's think about a simple ***neural mechanism for FAPs***: 
+1. Sensory stimuli are transformed into changes in neuron membrane potential by sensors (the set of sensors comprise the sensory filter). 
+2. The sensory filter synapses onto *decision* centers in the brain, which contain (or synapse onto) "command neurons" for specific FAPs.
+3. Command neuron activation (depolarization above spike threshold) drives the activity of coordinated CPGs that actually cause the muscle activation pattern over time for the specific FAP.
 
 The flow of information is: sensory stimuli --> sensory filter --> decision --> FAP. 
 
@@ -393,24 +412,25 @@ Therefore, we can infer a lot about sensory filters in the nervous system by exa
 :width: 700
 :align: center
 
-**A)** The song amplitude needed to evoke phonotaxis behavior (the inverse of the Figure 33C). **B&C)** Both the amplitude and the SP of song effect the membrane potential of a sensory filter. Above a certain membrane potential, the sensory filter neuron(s) will spike and activate post-synaptic (*downstream*) decision-making neurons. 
+**A)** The song amplitude needed to evoke phonotaxis behavior (the inverse of the Figure 33C -- see margin).  
+**B&C)** Both the amplitude and the SP of song effect the membrane potential of a sensory filter. Above a certain membrane potential, the sensory filter neuron(s) will spike and activate post-synaptic (*downstream*) decision-making or command neurons. 
 :::
 
 ---
 > ⏳ 5 min 
 
-***Q6: The song amplitude needed to evoke an FAP is most closely related to the:  
-a. sensory threshold in Lorenz's model  
+***Q6: The song amplitude needed to depolarize the sensory filter neurons above spiking threshold is most closely related to the:  
+a. stimulus threshold in Lorenz's model  
 b. behavioral threshold in Lorenz's model   
 c. the action specific potential in Lorenz's model***
 
-***Q7: The data shown in Fig 35 are from an experiment measuring the membrane potential response of sensory filter neurons to song. Songs with two different SP levels were tested. Which color corresponds to 38 SP and which color corresponds to 60 SP?***
+***Q7: The data shown in Fig 35 are from an experiment measuring the membrane potential of sensory filter neurons during the presentation of song stimuli. Songs with two different SP values were tested (38 and 60 SP). Which color corresponds to 38 SP and which color corresponds to 60 SP?***
 
 :::{figure} /images/sensory-filtering-amplitude-vm.png
 :width: 600
 :align: center
 
-The membrane potential response (y-axis) to stimuli of different amplitudes (x-axis) and SP values (color). If the sensory filter spike threshold is reached, an FAP is produced in response. 
+The membrane potential response (y-axis) to stimuli of different amplitudes (x-axis) and SP values (color). If the sensory filter spike threshold is reached, the downstream command neuron is activated and an FAP is produced. 
 :::
 
 
