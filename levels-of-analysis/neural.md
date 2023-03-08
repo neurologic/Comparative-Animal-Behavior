@@ -436,6 +436,78 @@ The membrane potential response (y-axis) to stimuli of different amplitudes (x-a
 
 ⏹️ STOP here for today
 
+## Central Pattern Generators... continued
+
+:::{figure} /images/cpg-mechanisms.png
+:width: 700
+:align: center
+
+Figure 2 from [Bucher et al 2015](https://doi.org/10.1002/9780470015902.a0000032.pub2) **Mechanisms underlying rhythm generation.**   
+Rhythmic neuron activity in the intact network (left) and after synaptic isolation (right).  
+a) Rhythm
+generation can be based on endogenous oscillatory properties of a neuron (red). This neuron continues to burst in synaptic isolation, while an electrically
+coupled member of the ‘pacemaker group’ (pink) and a follower neuron (green) fall silent or are tonically active.  
+b) In half-centre oscillations or other
+network-based rhythm generation, bursting activity is usually not based on intrinsic oscillatory properties of neurons but emerges purely from synaptic
+network interactions. In synaptic isolation, all network neurons therefore fall silent or are tonically active.  
+c) In some cases, stable and regular rhythm
+generation may strongly depend on network interactions such as half-centre oscillations despite the presence of intrinsic bursting properties. In such cases,
+synaptically isolated neurons may burst endogenously, but at slow frequencies and with irregular periods.
+:::
+
+:::{figure} /images/cpg-quad-hami-example.png
+:width: 500
+:align: center
+
+Figure 1 from [Bucher et al 2015](https://doi.org/10.1002/9780470015902.a0000032.pub2)  The basic version of rhythmic neural activity underlying repetitive motor behaviours is generated in the central nervous system by central pattern
+generators (CPGs). Rhythmic activity can be produced by mutually
+inhibitory connections between neurons controlling different muscles.
+:::
+
+:::{figure} /images/cpg-lamprey-swim.png
+:width: 500
+:align: center
+
+From [Goulding et al 2009](https://doi.org/10.1038/nrn2608)
+:::
+
+:::{figure} /images/cpg-leech-heart.png
+:width: 500
+:align: center
+
+Figure 1b from [Marder et al 2005](https://doi.org/10.1016/j.cub.2005.08.022). Rhythmic activity in the leech heartbeat system was thought to arise from mutual inhibition of bilateral pairs of interneurons, because intracellular recordings (upper traces) show that these neurons fire tonically in the presence of synaptic blockers. However, rhythmic activity persists in the absence of synaptic interactions when a non-invasive extracellular recording method is used (lower traces).
+:::
+
+:::{figure} /images/cpg-physiology.png
+:width: 500
+:align: center
+
+Figure 3 from [Bucher et al 2015](https://doi.org/10.1002/9780470015902.a0000032.pub2) **Common membrane properties of CPG neurons.**  
+a) Endogenous oscillations (pacemaker properties). Current inputs can reset rhythmic activity,
+either by advancing or delaying the next burst.  
+b) Spike frequency
+adaptation is the waning of spike frequency during constant depolarizing
+input.  
+c) Postinhibitory rebound is the ability to produce activity as a result
+of prior inhibition. It is often accompanied by a sag potential, that is, an
+escape from ongoing inhibition. The delay to the onset of the rebound burst
+can be increased by fast potassium currents such as IA.  
+d) Plateau potentials
+are relatively long-lasting firing responses to sufficiently large but short
+depolarisations. They can either self-terminate or end in response to brief
+hyperpolarizing input.
+:::
+
+:::{figure} /images/cpg-coordination.jpg
+:width: 500
+:align: center
+
+Figure 5b from [Bucher et al 2015](https://doi.org/10.1002/9780470015902.a0000032.pub2) **Modular organisation of motor patterns.**  
+In walking animals, each leg joint has to be controlled by coordinating flexion and extension movements. All joints within one leg have to be
+coordinated to achieve stepping movements in the proper sequence for stance and swing. All legs have to be coordinated to produce meaningful gaits.
+:::
+
+
 ---
 
 ## Additional Resources

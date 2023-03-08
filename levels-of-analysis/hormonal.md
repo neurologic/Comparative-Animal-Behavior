@@ -86,7 +86,7 @@ This scheme summarizes all available data from male and female including lactati
 
 <img src="/images/hormone-mechanism-cell-surface.png" alt="fishy" class="bg-primary mb-1" width="700px">
 
-Cartoon of a common hormone mechanism of action. Hormone molecules bind to specific receptors on the cell's surface (unique to that hormone). Hormone binding triggers a conformational change in the receptor protein that causes *G-proteins* to bind to adenylate cyclase proteins. When G-protein binds adenylate cyclase, cAMP is produced, which can then triggers a wide variety of protein kinases to act on their specific downstream targets. R = hormone receptor, G = G-protein, ATP = adenosine triphosphate, cAMP = cyclic adenonsine monophosphate
+Cartoon of a common hormone mechanism of action. Hormone molecules bind to specific receptors on the cell's surface (unique to that hormone). Hormone binding triggers a conformational change in the receptor protein that causes *G-proteins* to bind to adenylate cyclase proteins. When G-protein binds adenylate cyclase, cAMP is produced, which then triggers a wide variety of protein kinases to act on their specific downstream targets. R = hormone receptor, G = G-protein, ATP = adenosine triphosphate, cAMP = cyclic adenonsine monophosphate
 :::
 
 :::{figure-md} hormone-mechanism-genome
@@ -102,13 +102,13 @@ The following questions should prime you to think about hormone mechanims of act
 ---
 > ⏳ 10 min 
 
-***Q4: The same hormone can be stimulatory (excitatory) for some neurons while simultaneously inhibiting other neurons. True/False? Briefly explain.***
+***Q4: The same hormone can be stimulatory (excitatory) for physiological/molecular processes in some neurons while simultaneously suppressive (inhibitory) in other neurons. True/False? Briefly explain.***
 
-***Q5: Why are molecules such as cAMP necessary for water-soluble hormones (but not lipid-soluble hormones) to effect gene expression?***
+***Q5: Why are relay molecules such as cAMP necessary for water-soluble hormones (but not lipid-soluble hormones) to affect gene expression?***
 
 ***Q6: What is the effect of a hormone if there are no receptors for the hormone?***
 
-***Q7: Think about how neuron and neural circuits work to orchestrate behavior. What do you think is a neural mechanism (or neuron property) that hormones could tap into to change behavior?***
+***Q7: How could hormones modulate the membrane potential of neurons?***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -144,7 +144,7 @@ Serotonin is a molecule that acts both as a neurotransmitter and as a neurohormo
 :::{figure} /images/5HT-1B_receptor-signalling.png
 :width: 500
 
-Serotonin receptor mechanism of action on neuron membrane conductance. This serotonin receptor (named "5HT1B") is a *G-coupled protein*. One of its "downstream effects" is to increase potassium ion conductance and decrease calcium ion conductance.
+Serotonin receptor mechanism of action on neuron membrane conductance. This serotonin receptor (named "5HT1B") is *G-protein coupled*. One of its "downstream effects" is to increase potassium ion conductance and decrease calcium ion conductance.
 :::
 
 ---
@@ -158,9 +158,9 @@ Examine the model in Figure 42 and use what you know about neural mechanisms to 
 A Lorenz model of behavior for a male mouse defending its territory. Top: action-specific potential across time (black). Middle: the time during which external or internal stimuli (orange, green and blue) were present. Bottom: time of attack FAPs. 
 :::
 
-***Q8: Which "time of stimulus" color most likely corresponds to the presence of a dominant (threatening) intruder (versus a submissive) intruder? In terms of the data in the top figure, what is your evidence for this?***
+***Q8: Which "time of stimulus" color most likely corresponds to the presence of a dominant (threatening) intruder (versus a submissive) intruder? Why?***
 
-***Q9: Which "time of stimulus" color most likely corresponds to the presence of serotonin in the animals? In terms of the data in the top figure, what is your evidence for this?***
+***Q9: Which "time of stimulus" color most likely corresponds to the presence of serotonin in the animals? Why?***
 
 <!-- ***Q10: The action-specific potential most closely models the membrane potential of:  
 a. sensory neurons in the olfactory bulb  
