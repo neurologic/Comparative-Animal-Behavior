@@ -75,7 +75,7 @@ We will assume that the amount of food a parent is able to gather is limited, an
 (***Choose the one correct option from below***)  
 **a)** whether conspecifics were *beggers* or *silent*.  
 **b)** the number of predators in the environment (and therefore the risk of predation).  
-**c)** whether $e > p$ or $p < e$ for the *begging* phenotype.   
+**c)** whether $e > p$ or $p > e$ for the *begging* phenotype.   
 
 ***Q10 (3 points)*** Given the optimality theory model you chose (and its assumptions explained in the setup), under which of the following conditions would you predict that the *silent* phenotype would be stable at evolutionary equilibrium?    
 (***Choose the one correct option from below and briefly explain your reasoning.***)  
