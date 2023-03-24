@@ -123,15 +123,15 @@ Even genes on the same chromosome can get mixed up. At the very beginning of mei
 Cartoon of *recombination* in which homologous chromosomes "cross over" and exchange DNA fragments. Image from [Khan Academy](https://www.khanacademy.org/science/ap-biology/heredity/non-mendelian-genetics/a/linkage-mapping)
 :::
 
-Independent assortment and recombination both contribute the the genetic variation among offspring from a parental generation (ie, compare the resulting allele composition of gametes between Figure 59 and 60).
+Independent assortment and recombination both contribute the the genetic variation among offspring from a parental generation (ie, compare the resulting allele composition of gametes between Figure 55 and 56).
 
 ### Gene-Phenotype Trends
 
 The biochemistry of heritability through sexual reproduction leads to relationships between:
-1. the number of genes and the distribution of phenotypes 
+1. the number of genes (or linked genes) and the distribution of phenotypes 
 2. genetic linkage and correlations among different phenotypes
 
-These two predictable associations scaffold popular approaches to studying the genetic mechanisms of animal behavior. Figure 61 shows these relationships in more detail.
+These two predictable associations scaffold popular approaches to studying the genetic mechanisms of animal behavior. Figure 57 shows these relationships in more detail.
 
 :::{figure} /images/gene-phenotype-trends.png
 :width: 500
@@ -153,10 +153,12 @@ In Figure 61, 'linked' means that the genes (letters) on the same chromosome (gr
 
 ***Q3: Based on the data for genotype pattern \#4, which gene(s) (A, B, R) would you conclude coded for behaviors X, which genes for Y, and which genes for Z? What is the evidence?*** 
 
-***Q4: When behavioral traits are genetically linked, it [ DECREASES / INCREASES ] (choose one) the number of different possible behavioral phenotypes in the population?***
+***Q4: When behavioral traits are genetically linked, it [ DECREASES / INCREASES ] the number of different possible behavioral phenotypes in the population? (choose one)***
 
 
 ⏸️ PAUSE here for class-wide discussion
+
+*Note*... when increase the number of possible phenotype combinations among many traits, the variance often overlaps and the resulting distribution looks unimodal, but flat/broad. 
 
 ---
 
@@ -220,7 +222,7 @@ Sample sizes for each age and foster group are shown. Significance levels are in
 
 ***Q6: Based on the data in Figure 63, you would conclude that burrowing behavior is [ GENETICALLY INHERITED / CULTURALLY LEARNED ] (Select one answer choice). What evidence supports your conclusion?***
 
-***Q7: What "proportion digging escape tunnel" results would you predict under the hypothesis that burrowing behavior is [ GENETICALLY INHERITED / CULTURALLY LEARNED ] (Select whichever hypothesis is the alternative to your conclusion in Q6)***
+***Q7: What "proportion digging escape tunnel" results would you predict under the alternate hypothesis to Q6)***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -263,14 +265,14 @@ parental species and BC animals are shown. Boxes represent
 interquartile ranges (median $\pm$ s.d.).[^Hu-Hoekstra-2017]
 :::
 
-::::{margin} Gene-Phenotype trends (Figure 61). See original for detail.
+::::{margin} Gene-Phenotype trends (Figure 57). See original for detail.
 :::{image} /images/gene-phenotype-trends.png
 :::
 ::::
 
-***Q8: Based on the data in Figure 65, the phenotypic variation in burrowing behavior among the BC generation is [ GREATER / LESS ] (select one choice) the parental generation?***
+***Q8: Based on the data in Figure 61, the phenotypic variation in burrowing behavior among the BC generation is [ GREATER / LESS ] the parental generation? (select one choice)***
 
-***Q9: Based on the data in Figure 65, would you conclude that burrowing behavior has a monogenic or polygenic architecture? Use the model in Figure 61 to explain your reasoning.***
+***Q9: Based on the data in Figure 61, would you conclude that burrowing behavior has a monogenic or polygenic architecture? Use the model in Figure 57 to explain your reasoning.***
 
 
 **Table 1**: *Correlations in backcross mice among two measures of entrance tunnel length (max and average) and the presence of an escape tunnel, where -1: anticorrelated, 0: uncorrelated, and 1: positively correlated*
@@ -280,7 +282,7 @@ interquartile ranges (median $\pm$ s.d.).[^Hu-Hoekstra-2017]
 | **Max Entrance** | 0.29 |  | 
 | **Avg Entrance** | 0.23 | 0.94 |
 
-***Q10: Based on the results in Table 1, would you conclude that tunnel length and the presence of an escape behavior are orchestrated by linked or unlinked genes? Use the model in Figure 61 to explain your reasoning.***
+***Q10: Based on the results in Table 1, would you conclude that tunnel length and the presence of an escape behavior are orchestrated by linked or unlinked genes? Use the model in Figure 57 to explain your reasoning.***
 
 
 ⏸️ PAUSE here for class-wide discussion

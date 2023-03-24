@@ -22,7 +22,7 @@ Activity throughout each day is plotted as the height of individual bars across 
 
 ***Q1: Compare A to B. What is the experimental manipulation? Why do the results of this experiment provide evidence that animals must have an internal time-keeping mechanism ("clock")? What other variables might need to be controlled in this experiment to increase the evidence for this conclusion?***
 
-***Q2: Why might it be better to think of an animal's activity budget as dependent on time of day than to think of the activity budget as constant throughout the day? Based on the paper you read for class, what would be the approximate activity budget among stridulation and locomotion across: a) the whole day versus b) day or night?***
+***Q2: Think about the difference between an animal's activity budget as a function of the time of day versus the activity budget as constant throughout the day? Based on the paper you read for class, what would be the approximate activity budget among stridulation and locomotion across: a) the whole day versus b) day or night?***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -41,9 +41,9 @@ Left: The cricket nervous system is shown in yellow overlaid on a dorsal view of
 ---
 > ⏳ 5 min 
 
-***Q3: Where in the cricket brain is the circadian clock located? What is your evidence for this (based on the experiment shown in Figure 47)?***
+***Q3: What experimental comparison and data (from Figure 66) provide evidence that there must be a biological mechanism that entrains the circadian clock?***
 
-***Q4: What experimental comparison and data (from Figure 46) provide evidence that there must be a biological mechanism that entrains the circadian clock?***
+***Q4: Where in the cricket brain is the circadian clock located? What is your evidence for this (based on the experiment shown in Figure 67)?***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -136,7 +136,7 @@ In vertebrates, ***melatonin*** (a hormone) is primarily produced by the *pineal
 ---
 > ⏳ 10 min 
 
-::::{margin} LD:DD treatment. See original Figure 51 for details.
+::::{margin} LD:DD treatment. See original Figure 72 for details.
 :::{image} /images/midshipman-LL-treatment.png
 :::
 ::::
@@ -149,9 +149,9 @@ A) The second experimental paradigm of Feng et al[^feng-bass-2016] utilized a tr
 
 ***Q7: Does the hormone melatonin have an excitatory or inhibitory effect on humming behavior? What is the evidence?***
 
-***Q8: Under DD conditions, the fish exhibited free-run hum activity (Figure 51, see margin). However, under LL conditions, the fish now exhibited what kind of activity pattern?***
+***Q8: Under DD conditions, the fish exhibited free-run hum activity (Figure 72, see margin). However, under LL conditions, the fish now exhibited what kind of activity pattern?***
 
-***Q9: Can you think of any reasons why an endogenous circadian pattern of humming was not recovered in the experimental group (Figure 52C)?***
+***Q9: Can you think of any reasons why an endogenous circadian pattern of humming was not recovered in the experimental group (Figure 73C)?***
 
 
 ⏸️ PAUSE here for class-wide discussion

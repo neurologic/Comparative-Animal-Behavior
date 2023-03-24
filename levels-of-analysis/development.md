@@ -20,6 +20,7 @@ Animals don’t start their lives as tiny copies of adults; there are all sorts 
 
 ::::  
 
+In some ways, developmental mechanisms are the alternate to genetic mechanisms. In other words, it is the consideration of what environmental factors influence phenotype expression. However, the influence of environmental factors depends on "genetically encoded" mechanisms to enable the environment to have an effect. etc... 
 
 ## Case Study: Polyphenism in Tiger Salamanders
 
