@@ -142,14 +142,13 @@ Many animals burrow, but different species exhibit different types of burrowing 
 ---
 > ⏳ 10 min 
 
-In Figure 61, 'linked' means that the genes (letters) on the same chromosome (gray bars) do not get separated during recombination (crossover events).
+In Figure 57, 'linked' means that the genes (letters) on the same chromosome (gray bars) do not get separated during recombination (crossover events).
 
 ***Q1: How many total potential gamete allele combinations are there for genotype pattern \#3?***
 
-***Q2: In a population with a high correlation between traits X and Y, you would expect which of the following sets of phenotypes:
-    1. Individuals with long deep tunnels and individuals with short shallow tunnels
-    2. Individuals with long tunnels, individuals with short tunnels, individuals with shallow tunnels, individuals with deep tunnels.
-    3. Individuals with long deep tunnels, individuals with short shallow tunnels, individuals with long shallow tunnels, and individuals with short deep tunnels***
+***Q2: In a population with a high correlation between traits X and Y, you would expect which of the following sets of phenotypes:  
+    1. Individuals with long deep tunnels and individuals with short shallow tunnels  
+    2. Individuals with long deep tunnels, individuals with short shallow tunnels, individuals with long shallow tunnels, and individuals with short deep tunnels***
 
 ***Q3: Based on the data for genotype pattern \#4, which gene(s) (A, B, R) would you conclude coded for behaviors X, which genes for Y, and which genes for Z? What is the evidence?*** 
 
@@ -320,7 +319,7 @@ To localize the causal regions for burrowing behavior in the genome, hybrid anim
 
 <img src="/images/QTL-burrowing.png" alt="fishy" width="700px">
 
-QTL analysis of burrowing variation.[^Weber-2013] a, Linkage groups (LGs; ie. regions of the chromosome) 1, 2 and 20 harbour QTLs associated with average entrance-tunnel length (black line). Linkage group 5 contains a single QTL associated with escape-tunnel presence (red line). Dotted line represents log odds ratio (lod) significance threshold. Dashes indicated genetic markers that can reliably be identified as having a *maniculatus* or *polionotus* origin. Black arrows indicate markers used to define each QTL peak (used in b). b, Phenotypic effect of individual and combined QTLs (linkage groups 1, 2 and 20) on entrance-tunnel length in BC mice. c, Proportion of BC animals that construct escape tunnels for each of the two genotypes. All error bars represent mean $\pm$ s.e.m. Blue and yellow lines represent average phenotype of the parents (pure species) used to found the cross. Genotypes are either homozygous P. maniculatus (MM) or heterozygous P. maniculatus/polionotus (MP).
+QTL analysis of burrowing variation.[^Weber-2013] a, Linkage groups (LGs; ie. regions of the chromosome) 1, 2 and 20 harbour QTLs associated with average entrance-tunnel length (black line). Linkage group 5 contains a single QTL associated with escape-tunnel presence (red line). Dotted line represents log odds ratio (lod) significance threshold. Dashes indicated genetic markers that can reliably be identified as having a *maniculatus* or *polionotus* origin. Black arrows indicate markers used to define each QTL peak (used in b). b, Phenotypic effect of individual and combined QTLs (linkage groups 1, 2 and 20) on entrance-tunnel length in BC mice. c, Proportion of BC animals that construct escape tunnels for each of the two genotypes. All error bars represent mean $\pm$ s.e.m. Blue and yellow lines represent average phenotype of the parents (pure species) used to found the cross. Genotypes (*at each linkage group*) are either homozygous P. maniculatus (MM) or heterozygous P. maniculatus/polionotus (MP).
 :::
 
 [^Weber-2013]: Figure from [Weber, J., Peterson, B. & Hoekstra, H. Discrete genetic modules are responsible for complex burrow evolution in Peromyscus mice. Nature 493, 402–405 (2013).](https://doi.org/10.1038/nature11816)

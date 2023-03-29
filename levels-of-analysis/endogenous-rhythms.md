@@ -20,9 +20,18 @@ Activity throughout each day is plotted as the height of individual bars across 
 ---
 > ⏳ 5 min 
 
+Use context from your reading and the information in the legend to help interpret Fig 66. 
+
 ***Q1: Compare A to B. What is the experimental manipulation? Why do the results of this experiment provide evidence that animals must have an internal time-keeping mechanism ("clock")? What other variables might need to be controlled in this experiment to increase the evidence for this conclusion?***
 
-***Q2: Think about the difference between an animal's activity budget as a function of the time of day versus the activity budget as constant throughout the day? Based on the paper you read for class, what would be the approximate activity budget among stridulation and locomotion across: a) the whole day versus b) day or night?***
+***Q2: Think about the difference between an animal's activity budget as a function of the time of day versus the activity budget as constant throughout the day? Based on the paper you read for class, compare the approximate activity budget among stridulation and locomotion across: a) the whole day versus b) day or night.***
+
+:::{image} ../images/stridulation_activity_budget.jpeg
+:width: 500
+:align: center
+:::
+
+**Figure 2** from "Lifelong exposure to artificial light at night impacts stridulation and locomotion activity patterns in the cricket Gryllus bimaculatus".
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -31,6 +40,8 @@ Activity throughout each day is plotted as the height of individual bars across 
 ## The "CLOCK"
 
 What keeps track of time? 
+
+Here is an outline of an experiment that addressed that question. 
 
 :::{figure} /images/crickets-localizing-scn.png
 :width: 900
@@ -41,7 +52,7 @@ Left: The cricket nervous system is shown in yellow overlaid on a dorsal view of
 ---
 > ⏳ 5 min 
 
-***Q3: What experimental comparison and data (from Figure 66) provide evidence that there must be a biological mechanism that entrains the circadian clock?***
+***Q3: What experimental comparisons and data (from Figure 67) provide evidence that there must be a biological mechanism that entrains the circadian clock?***
 
 ***Q4: Where in the cricket brain is the circadian clock located? What is your evidence for this (based on the experiment shown in Figure 67)?***
 
