@@ -22,6 +22,8 @@ Use what you know from studies we discussed during the course to briefly outline
 :align: center
 :::
 
+Complex social behavior in Microtus voles and other mammals has been postulated to be under the direct genetic control of a single locus: the arginine vasopressin 1a receptor (avpr1a) gene. Using a phylogenetic approach, we show that a repetitive element in the promoter region of avpr1a, which reportedly causes social monogamy, is actually widespread in nonmonogamous Microtus and other rodents. 
+
 
 ## Section 2
 
