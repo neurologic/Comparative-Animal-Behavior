@@ -124,6 +124,10 @@ Refer to Figure 73 to answer the following questions.
 
 ---
 
+In summary, the *phenotype depends on which genes are* ***expressed*** (actually transcribed and translated into proteins), not necessarily the genotye itself. THEREFORE, *environmental factors* that control which genes are expressed effectively *control the phenotype*. 
+
+---
+
 ## *EPI*genetics.
 
 The accessibility of DNA to transription proteins is controlled by three main mechanisms:
