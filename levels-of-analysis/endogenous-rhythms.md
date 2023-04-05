@@ -24,7 +24,7 @@ Use context from your reading and the information in the legend to help interpre
 
 ***Q1: Compare A to B. What is the experimental manipulation? Why do the results of this experiment provide evidence that animals must have an internal time-keeping mechanism ("clock")? What other variables might need to be controlled in this experiment to increase the evidence for this conclusion?***
 
-***Q2: Think about the difference between an animal's activity budget as a function of the time of day versus the activity budget as constant throughout the day? Based on the paper you read for class, compare the approximate activity budget among stridulation and locomotion across: a) the whole day versus b) day or night.***
+***Q2: Think about the difference between an animal's activity budget as a function of the time of day. Based on the paper you read for class, estimate the activity budget among stridulation and locomotion during the day versus during the night.***
 
 :::{image} ../images/stridulation_activity_budget.jpeg
 :width: 500
