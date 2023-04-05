@@ -86,7 +86,7 @@ point toward geographic north, east, south, or west depending
 on which wire(s) electric current is applied to.
 :::
 
-
+::::{dropdown} The inclination compass
 As humans, we are most familiar with a "north"/"south" compass. An ***inclination compass*** is not sensitive to the direction of the magnetic field, but rather its alignment and sign of inclination. Animals that use an inclanation compass do not distinguish between ‘north’ and ‘south,’
 but between ‘equatorwards’ and ‘polewards.’ 
 
@@ -108,14 +108,9 @@ flies ‘poleward’. From Wiltschko and Wiltschko (2005) Magnetic orientation a
 Top: Migration direction in each condition. Bottom: diagram of the magnetic field manipulation in each condition. 
 :::
 
----
-> ⏳ 3 min 
+*OPTIONAL* ***Q5: How does this experiment demonstrate that birds use the earth's magnetic field to determine migration direction? What additional manipulation would you need to do to show the same for humans (humans with the aid of our compasses).***
 
-***Q5: How does this experiment demonstrate that birds use the earth's magnetic field to determine migration direction? What additional manipulation would you need to do to show the same for humans (humans with the aid of our compasses).***
-
-⏸️ PAUSE here for class-wide discussion
-
----
+::::
 
 It seems that birds have a light-dependent magnetic compass that is mediated by "radical particle" biochemical reactions in specialized magnetoreceptor molecules in the avian retina. Overhead polarized light modulates radical pair-based magnetic compass orientation.[^Muheim-2015]
 
