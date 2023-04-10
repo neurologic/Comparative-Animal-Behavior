@@ -1,5 +1,6 @@
 # Communication: Proximate
 
+[Responses template if needed](https://docs.google.com/document/d/1czy0otbrGcJLDwmHdad0NVtoOz3fjT7RfgIpQFUugyg/edit?usp=sharing)
 
 > ⏳ 5 min 
 
@@ -44,7 +45,7 @@ The ***hormone*** serotonin (5-HT) plays a crucial role in initiating vocalizati
 
 > ⏳ 5 min 
 
-***Q3: Based on this introduction to Xenopus communication, what do you infer and/or wonder about the hormonal, genetic, and neural basis of sex-typical communication signals? For example, what proximate mechanisms could explain species differences in vocalizations and what proximate mechanisms are likely shared?***
+***Q3: Identify/describe a proximate mechanisms (neural, genetic, hormonal, developmental) that you hypothesize could explain species differences in Xenopus vocalizations versus a proximate mechanism that is likely shared.***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -117,7 +118,7 @@ RGCs then ***converge*** onto "***simple cells***" in the thalamus (LGN) to crea
 A neural network for the ***simple cell receptive field*** in the LGN (lateral geniculat nucleus), which receives converging input from retinal ganglion cells each tuned to specific center-surround receptiv fields. 
 :::
 
-After communication signals have been categorized correctly, how does that sensory input access neural elements that in turn generate an appropriate communication response (ie. how is perception linked to production)?
+How is perception linked to production? The categorization of sensed communication signals must be followed by the  activation of neural circuits that can generate an appropriate communication response.
 
 The central nucleus of the amygdala (***CeA***) is a strong candidate for a role in auditory-guided vocal communication in *Xenopus*. It receives input from the auditory processing pathways of the brain and projects to parabrachial nucleus (***PB***; where CPG neurons are located). 
 
@@ -128,11 +129,33 @@ In *Xenopus*, researchers have shown that CeA is a key brain area that links aud
 :align: center
 :::
 
-Normally, female rapping vocalizations evoke answer calling in males. In males with damage to the CeA, female rapping evokes prolonged vocal suppression. Prolonged vocal suppression should only be evoked by the calls of dominant males, not rapping. Even when tested with an actual rapping female, males without a CeA do not answer call.[^Hall-2013] Males with damaged CeA do call spontaneously (so they are not mute). They also respond to male advertisement calls with prolonged vocal suppression, so they are not deaf and can produce the socially appropriate response to a dominant male. ***Damage to the CeA thus results in socially inappropriate responses of males to female, but not to male, calls***.
+***Damage to the CeA results in socially inappropriate responses of males to female, but not to male, calls***. Normally, female rapping vocalizations evoke answer calling in males. In males with damage to the CeA, female rapping evokes prolonged vocal suppression. Prolonged vocal suppression should only be evoked by the calls of dominant males, not rapping. Even when tested with an actual rapping female, males without a CeA do not answer call.[^Hall-2013] Males with damaged CeA do call spontaneously (so they are not mute). They also respond to male advertisement calls with prolonged vocal suppression, so they are not deaf and can produce the socially appropriate response to a dominant male. 
 
 [^Hall-2013]: [Ian C. Hall, Irene H. Ballagh, Darcy B. Kelley (2013) The Xenopus Amygdala Mediates Socially Appropriate Vocal Communication Signals. Journal of Neuroscience 33(36).](https://doi.org/10.1523/JNEUROSCI.1190-13.2013)
 
-### Learned versus Innate
+### Turn-taking
+
+Turn-taking and inter-personal coordination of action timing in general, is critical for communication. This behavior is ubiquitous across both vocal learners and non-learners. 
+
+:::{figure} /images/vocal-turn-taking.jpg
+:width: 500
+
+Vocal coordination is exhibited by diverse species.[^Wirthlin-2019]
+:::
+
+The function of this behavior is not clear, but there are many possibilities including: group cohesion, avoidance of "jamming" each other's signals, dominance/submissive displays, and sexual selection. 
+
+Turn-taking requires precise coordination of the timing of signals between individuals. With the proponderanc of Zoom communicaiton, we can relate to how disruptions of the timing of auditory cues (like those annoying delays caused by poor connections) make effective communication difficult and frustrating. How do the brains of two individuals synchronize their activity patterns for rapid turn-taking during effective and attractive vocal communication?
+
+Daniela Vallentin, a recearcher currenlty working at Max Plank in Germany, investigates the neural mechanisms of this remarkable feat in birds. 
+
+[Neural Control of Vocal Interactions in Songbirds](https://youtu.be/sqvc2eXtsoA?t=175) (particularly minutes 2-12 for the general setup).
+
+
+[^Wirthlin-2019]: [Morgan Wirthlin, Edward F. Chang, Mirjam Knörnschild, Leah A. Krubitzer, Claudio V. Mello, Cory T. Miller, Andreas R. Pfenning, Sonja C. Vernes, Ofer Tchernichovski, Michael M. Yartsev. (2019) A Modular Approach to Vocal Learning: Disentangling the Diversity of a Complex Behavioral Trait. Neuron, Volume 104, Issue 12019](https://doi.org/10.1016/j.neuron.2019.09.036)
+
+
+### Learned versus Innate Communication Signals
 
 The behavioral trait typically studied as “vocal learning” involves “the influence of auditory information, including feedback, on vocal development” (Nottebohm, 1972).
 
@@ -143,9 +166,9 @@ Vocal-learning species share the presence of:
 - dialects
 - brain circuits that control production and learning of vocalizations. 
 
-In humans, there is a dedicated ***language-related brain network*** involving multiple  circuits. It is well established that ***Broca's area*** in the left frontal lobe and ***Wernicke's area*** in the left temporal lobe are central brain regions in this network. Among other functions, Broca's area is involved in speech production and generation and processing of language syntax, while Wernicke's area plays a major role in speech perception and comprehension. 
+In humans, there is a dedicated ***"language" brain network*** involving multiple  circuits. It is well established that ***Broca's area*** in the left frontal lobe and ***Wernicke's area*** in the left temporal lobe are central brain regions in this network. Among other functions, Broca's area is involved in *speech production* and language syntax, while Wernicke's area plays a major role in *speech perception* and comprehension. 
 
-In the songbird brain, there is a dedicated ***communication brain network*** with similar neural dissociation between a neural network for song production (the ‘song system’, including the song nucleus HVC, used as a proper noun) and brain regions that are involved in song perception and recognition (including the caudomedial nidopallium, NCM). In a functional sense, these networks in songbirds are considered to be analogous to Broca's and Wernicke's areas in humans, respectively.[^Moorman-2015]
+In the songbird brain, there is a dedicated ***"communication" brain network*** with similar neural dissociation between *song production* (the ‘song system’, including the song nucleus ***HVC***, used as a proper noun) and *song perception* (including the caudomedial nidopallium, ***NCM***). In a functional sense, ***these networks in songbirds are considered to be analogous to Broca's and Wernicke's areas in humans***, respectively.[^Moorman-2015]
 
 :::{figure} /images/wernicke-broca.png
 :width: 500
@@ -158,7 +181,7 @@ Similar critical brain regions underlying auditory communication in humans (left
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-GsVhbmecJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-More specifically, vocal-learning brain circuits include striatal (Figure 121, pink) as well as cortical (Figure 121, green) vocal brain regions, a loop of synaptic connections among cortical and striatal regions (Figure 121, white arrows), and a unique direct connection from motor cortical areas (human laryngeal motor cortex (LMC) and songbird robust nucleus of the arcopallium (RA)) to brainstem vocal motor and respiratory neurons for phonation (Figure 121, red arrow). 
+More specifically, vocal-learning brain circuits include striatal (Figure 113, pink) as well as cortical (Figure 113, green) vocal brain regions, a loop of synaptic connections among cortical and striatal regions (Figure 113, white arrows), and a unique direct connection from motor cortical areas (human laryngeal motor cortex (LMC) and songbird robust nucleus of the arcopallium (RA)) to brainstem vocal motor and respiratory neurons for phonation (Figure 113, red arrow). 
 
 :::{figure} /images/vocal-learning-nonlearning-brains.jpeg
 :width: 700
@@ -188,27 +211,6 @@ Top to bottom: spectrograms, Dopamine neuron spiking activity during undistorted
 :::
 
 [^Gadagkar-2016]: [Gadagjar et al (2016) Dopamine neurons encode performance error in singing birds. Science, 354(6317).](https://doi.org/10.1126/science.aah6837)
-
-## Turn-taking
-
-Turn-taking and inter-personal coordination of action timing in general, is critical for communication. This behavior is ubiquitous across both vocal learners and non-learners. 
-
-:::{figure} /images/vocal-turn-taking.jpg
-:width: 500
-
-Vocal coordination is exhibited by diverse species.[^Wirthlin-2019]
-:::
-
-The function of this behavior is not clear, but there are many possibilities including: group cohesion, avoidance of "jamming" each other's signals, dominance/submissive displays, and sexual selection. 
-
-Turn-taking requires precise coordination of the timing of signals between individuals. We have all found over the past year communicating over Zoom that disruptions of the timing of auditory cues—like those annoying delays caused by poor connections—make effective communication difficult and frustrating. How do the brains of two individuals synchronize their activity patterns for rapid turn-taking during effective and attractive vocal communication?
-
-Daniela Vallentin, a recearcher currenlty working at Max Plank in Germany, investigates the neural mechanisms of this remarkable feat in birds. 
-
-[Neural Control of Vocal Interactions in Songbirds](https://youtu.be/sqvc2eXtsoA?t=175) (particularly minutes 2-12 for the general setup).
-
-
-[^Wirthlin-2019]: [Morgan Wirthlin, Edward F. Chang, Mirjam Knörnschild, Leah A. Krubitzer, Claudio V. Mello, Cory T. Miller, Andreas R. Pfenning, Sonja C. Vernes, Ofer Tchernichovski, Michael M. Yartsev. (2019) A Modular Approach to Vocal Learning: Disentangling the Diversity of a Complex Behavioral Trait. Neuron, Volume 104, Issue 12019](https://doi.org/10.1016/j.neuron.2019.09.036)
 
 
 ## Visual

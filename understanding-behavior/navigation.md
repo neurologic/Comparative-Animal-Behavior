@@ -204,6 +204,8 @@ The **foraging journey** of an ant is shown on the left. Two potential trajector
 
 ---
 
+So far we have covered a lot of examples for the encoding of **heading** (direction) in the nervous and genetic systems. **Distance** is another critical piece of information for many navigation tasks. 
+
 ## Distance (Case Study: Ants)
 
 The navigation strategies of *Cataglyphis* ants have been extensively studied for decades. These ants are *thermophiles* that thrive in harsh desert environments. Remarkably, they can navigate long distances with few visual landmarks. 
@@ -216,10 +218,10 @@ The navigation strategies of *Cataglyphis* ants have been extensively studied fo
 :::{figure} /images/ant-navigation-route.png
 :width: 400
 
-*Cataglyphis* ants can return home directly after foraging along a path of over 200 m. 
+*Cataglyphis* ants can return directly home after foraging for a path over 200 m. 
 :::
 
-A simple ***displacement*** experiment shows that ants can tell how far they need to (and have) travelled.
+A simple ***displacement*** experiment shows that ants can tell how far they need to (and have) travelled, regardless of visual cues.
 
 ::::{margin} Displacement Experimental Setup
 :::{image} /images/displacement-experiment-setup.png
@@ -250,7 +252,7 @@ Ants (and other insects, expecially flying ones) can also use ***optic flow*** c
 
 [^Wittlinger-Wehner]: [Wittlinger, M., Wehner, R., & Wolf, H. (2006). The ant odometer: stepping on stilts and stumps. Science (New York, N.Y.), 312(5782), 1965–1967.](https://doi.org/10.1126/science.1126912)
 
-## Case Study: *c. elegans* searching behavior
+## Case Study: Neuroscience - *c. elegans* searching behavior - navigation along a concentration gradient
 
 Research in the nematode worm *c. elegans* has provided some of the most well-understood proximate explanations for chemotaxis behavior (orienting and moving toward odor sources). 
 
@@ -266,15 +268,15 @@ The innate capacity to chemoattract towards food cues was presumably shaped over
 
 [^Iwanir]: [Iwanir, S., Ruach, R., Itskovits, E. et al. Irrational behavior in C. elegans arises from asymmetric modulatory effects within single sensory neurons. Nat Commun 10, 3202 (2019).](https://doi.org/10.1038/s41467-019-11163-3)
 
-## Case Study: European Blackcap migration behavior
+## Case Study: Genetics - European Blackcap migration behavior
 
 The European blackcap exhibits enormous variation in migration and is renowned for research on its evolution and genetic basis.
 
-Migration is a multi-trait phenotype (ie. *syndromes*) and different blackcap populations differ in their propensity to migrate as well as the orientation and the distance of migration. Some blackcaps travel rather short distances, others much further, and some populations do not migrate at all. Populations that share the same breeding grounds in the summer may migrate in different directions in the autumn. These features make it a good species to study the genetic variation between populations that migrate in different directions and over different distances.[^blackcap-migration-ed]
+**Migration is a multi-trait phenotype** (ie. *syndromes*). Different blackcap populations differ in their **propensity** to migrate as well as the **orientation** and the **distance** of migration. Some blackcaps travel rather short distances, others much further, and some populations do not migrate at all. **Populations that share the same breeding grounds in the summer may migrate in different directions in the autumn**. These features make it **a good species to study the genetic variation between populations underlying phenotype differences**: for example, comparing those that migrate in different directions and over different distances.[^blackcap-migration-ed]
 
 [^blackcap-migration-ed]: [Migration, it’s in their genes](https://elifesciences.org/digests/54462/migration-it-s-in-their-genes)
 
-Delmore et al.[^Delmore-2020] sequenced the genome of blackcaps to investigate the phylogeny of migratory behavior among these populations. The genomes of 110 blackcaps from several populations that take different annual migrations were analyzed. The analysis revealed that populations began to diverge in their migratory behavior \~30,000 years ago and that only a small set of genes code for their differences in migration. In particular, genetic differences underlying different migratory behavior tend to be in the parts of the genome that control whether a given gene is switched on or off rather than in the genes themselves.
+Delmore et al.[^Delmore-2020] sequenced **the genomes of 110 blackcaps from several populations that take different annual migrations were analyzed**. The **analysis revealed that only a small set of genes code for their differences in migration** and that ** populations began to diverge in their migratory behavior \~30,000 years ago. In particular, genetic differences underlying different migratory behavior **tend to be in the parts of the genome that control whether a given gene is switched on or off rather than in the genes themselves**.
 
 [^Delmore-2020]: [Kira Delmore, Juan Carlos Illera, Javier Pérez-Tris, Gernot Segelbacher, Juan S Lugo Ramos, Gillian Durieux, Jun Ishigohoka, Miriam Liedvogel (2020) The evolutionary history and genomics of European blackcap migration eLife 9:e54462](https://doi.org/10.7554/eLife.54462)
 

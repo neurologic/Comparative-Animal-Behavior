@@ -1,5 +1,7 @@
 # Escape
 
+[Responses template if needed](https://docs.google.com/document/d/1_c-9Sb1wQyAcAHnubP2qR3P_irunNlpoH_22ZcvEvCc/edit?usp=sharing)
+
 Considering escape behavior from all 4 levels of analysis.
 
 ---
@@ -15,9 +17,9 @@ Considering escape behavior from all 4 levels of analysis.
 
 ## Simple behavior, complex computations
 
-The most common escape behaviors are ***ballistic***, stereotyped actions. Once they are initiated, their pattern cannot be modified. 
+The most common escape behaviors are ***ballistic***, stereotyped actions. Once they are initiated, their pattern cannot be modified. ...These are more like reflexes than behaviors. BUT the neural circuits of escape are sometimes coopted by non-escape behaviors (we will look at an example in archer fish later).  
 
-This video (from [Card et al 2008](https://doi.org/10.1016/j.cub.2008.07.094)) depicts the escape of a fruit fly, *Drosophila melanogaster*, in response to a physical black disk falling on a collision course with the fly. The disk approached from the right-hand side of the frame (left in one video) at 50 degrees from the horizontal. The disk provides a very strong looming stimulus to the fly, similar to the visual stimulation that might be created by a predator or approaching fly swatter.
+The following video (from [Card et al 2008](https://doi.org/10.1016/j.cub.2008.07.094)) depicts the escape of a fruit fly, *Drosophila melanogaster*, in response to a frisbee falling on a collision course with the fly (mimicking the "*looming*" visual stimulation that might be created by a predator or fly swatter). The disk approached from the right-hand side of the frame (left in one video) at 50 degrees from the horizontal. 
 
 The conditions depicted in the video are:
 1. normal escape
@@ -34,13 +36,16 @@ Using high-speed videography, Card et al found that approximately 200 ms before 
 
 ***Q2: Interpret the difference between a "simple feed-forward motor program" and "motor planning".***
 
-***Q3: Interpret the implications of the statement: "in a genetically accessible model organism."***
 
 ⏸️ PAUSE here for class-wide discussion
 
 ---
 
-The fly's ***stereotyped escape response*** to a visual stimulus is mediated by the ***hard-wired*** **giant fiber** neural pathway. Unlike voluntary flight take-offs, the wings are pulled down close to the body during escape take-off, resulting in tumbling flights in which the fly translates faster but also rotates rapidly about all three of its body axes. In voluntary flight take-off, early wing elevation leads to a slower and more stable take-off. Therefore, the two types of Drosophila flight initiation result in *different flight performances* once the fly is airborne, and that these performances are distinguished by ***a trade-off between speed and stability*** (ie. evidence for constraints on the *evolution* of these two behaviors... ideally they would both be speedy and stable).
+The fly's ***stereotyped escape response*** to a visual stimulus is mediated by the ***hard-wired*** **giant fiber** neural pathway (ie. the properties of the neural circuit is genetically encoded).   
+
+In voluntary flight take-off, early wing elevation leads to a stable take-off. During escape take-off, unlike voluntary flight take-offs, the wings are pulled down close to the body. The fly translates faster but also rotates rapidly about all three of its body axes, resulting in tumbling flights. 
+
+Therefore, the two types of Drosophila flight initiation result in *different flight performances* once the fly is airborne, and that these performances are distinguished by ***a trade-off between speed and stability*** (ie. evidence for constraints on the *evolution* of these two behaviors... ideally they would both be speedy and stable).
 
 :::{figure} /images/drosophila_voluntary-escape-takeoff.jpeg
 :width: 800
@@ -50,40 +55,9 @@ A) Voluntary flight take-offs. B) Escape flight take-offs (triggered by a loomin
 
 ## Giant Fibers
 
-"**Giant Fibers**" are neurons with large axon diameter. They are ubiquitous across the animal kingdom in escape neural circuits. Voltage "spikes" literally travel faster from one place to another in neurons with larger diameter axons. When a message of "get out of here" needs to rapidly get from a sensory input to a motor output, the larger the axon diameter, the faster the message gets sent.
+"**Giant Fibers**" are neurons with large axon diameter. They are ubiquitous across the animal kingdom in escape neural circuits. **Voltage "spikes" travel faster from one place to another in neurons with larger diameter axons**. When a message of "get out of here" needs to rapidly get from a sensory input to a motor output, the larger the axon diameter, the faster the message can activate the muscle activation pattern.
 
-### Mauthner Cell
-
-Mauthner cells are the largest diameter neurons in the vertebrate spinal cord. They originate in the hindbrain and project down the spinal column.
-
-:::{figure} /images/reticulospinal-neurons.png
-:width: 400
-
-View of the dorsal brainstem of the goldfish. Anterior is to the top. The illustration is a reconstruction of reticulospinal neurons in seven segments, or rhombomeres (RS 1–RS 7). The Mauthner cell is the thickest one (the largest diameter). Processes extending from the somas to the periphery are primarily lateral dendrites; all the cells have axons that course to or across the midline, and extend into the spinal cord. Scale bar, 200 μm. (From Lee et al., 1993a.)
-:::
-
-#### Phylogeny (Evolutionary History)
-
-Mauthner cells first appear in lampreys (being absent in hagfish and lancelets), and are present in virtually all teleost fish, as well as in amphibians (including postmetamorphic frogs and toads). Some fish, such as lumpsuckers, seem to have lost the Mauthner cells however[^Hale]
-
-[^Hale]: Hale ME (October 2000). "Startle responses of fish without Mauthner neurons: escape behavior of the lumpfish (Cyclopterus lumpus)". Biol. Bull. 199 (2): 180–2.
-
-:::{figure} /images/Mauthner-phylogeny.png
-:width: 600
-
-Mapping of chordate phylogeny[^chordate-phylog]. Black branches denote groups in which Mauthner cells have been reported in at least some species or developmental stages. Mauthner cells have not been observed in Hyperotreti (hagfish) shown in
-gray.[^Hale] Sarcopterygii contains tetrapods, and therefore mammals.
-:::
-
-[^chordate-phylog]: Based on Hurley et al. [2007] and Løvtrup [1977], but see Janvier [2007] for a discussion of phylogenetic relationships of early vertebrates
-
-:::{figure} /images/escape-phylogeny.png
-:width: 500
-
-Evolution of escape behavior in the context of axon cap morphology among basal actinopterigian fishes. Arrows point to transitions in axon cap morphology. ***C-start behavior*** is common among aquatic osteichthyans (sarcopterygians and actinopterygians). ***Withdrawal behavior*** seems to have arisen multiple times within the vertebrates. The asterisks by *Squalus acanthias* and *Chimaeriformes* denote that the fast-start response of these animals has not been determined. In the case of the *Chimaeriformes*, a pectoral fin driven startle has been suggested [Bone et al., 1977] and *S. acanthias* performs a C-start-like behavior [Domenici et al., 2004] that is likely not M-cell elicited. The double asterisk denotes that the C-start behavior of this animal is vertical.[^Hale]
-:::
-
-A comparison of morphological and behavioral phylogenetic patterns which Hale et al[^Hale] describes provide a first step in understanding the evolution of the neural control of startle behavior and give insight and direction to future studies.
+### Mauthner Cell: C-Start Escapes
 
 #### Evolution (Selective Pressure and Adaptation)
 
@@ -116,14 +90,46 @@ The Mauthner cell escape circuit (From Catania 2011[^Catania-2011]). An auditory
 
 [^Catania-2011]: [Catania K. C. (2011). The brain and behavior of the tentacled snake. Annals of the New York Academy of Sciences, 1225, 83–89.](https://doi.org/10.1111/j.1749-6632.2011.05959.x)
 
+Mauthner cells are the largest diameter neurons in the vertebrate spinal cord. They originate in the hindbrain and project down the spinal column.
+
+:::{figure} /images/reticulospinal-neurons.png
+:width: 400
+
+View of the dorsal brainstem of the goldfish. Anterior is to the top. The illustration is a reconstruction of reticulospinal neurons in seven segments, or rhombomeres (RS 1–RS 7). The Mauthner cell is the thickest one (the largest diameter). Processes extending from the somas to the periphery are primarily lateral dendrites; all the cells have axons that course to or across the midline, and extend into the spinal cord. Scale bar, 200 μm. (From Lee et al., 1993a.)
+:::
+
+#### Phylogeny (Evolutionary History)
+
+Mauthner cells first appear in lampreys (being absent in hagfish and lancelets), and are present in virtually all teleost fish, as well as in amphibians (including postmetamorphic frogs and toads). Some fish, such as lumpsuckers, seem to have lost the Mauthner cells however[^Hale]
+
+[^Hale]: Hale ME (October 2000). "Startle responses of fish without Mauthner neurons: escape behavior of the lumpfish (Cyclopterus lumpus)". Biol. Bull. 199 (2): 180–2.
+
+:::{figure} /images/Mauthner-phylogeny.png
+:width: 600
+
+Mapping of chordate phylogeny[^chordate-phylog]. Black branches denote groups in which Mauthner cells have been reported in at least some species or developmental stages. Mauthner cells have not been observed in Hyperotreti (hagfish) shown in
+gray.[^Hale] ***Sarcopterygii*** contains tetrapods, and therefore mammals.
+:::
+
+[^chordate-phylog]: Based on Hurley et al. [2007] and Løvtrup [1977], but see Janvier [2007] for a discussion of phylogenetic relationships of early vertebrates
+
+:::{figure} /images/escape-phylogeny.png
+:width: 500
+
+Evolution of escape behavior in the context of axon cap morphology among basal actinopterigian fishes. Arrows point to transitions in axon cap morphology. ***C-start behavior*** is common among aquatic osteichthyans (sarcopterygians and actinopterygians). ***Withdrawal behavior*** seems to have arisen multiple times within the vertebrates. In **withdrawal**, both sides of the body contract in unison rather than out of phase with each other.    
+In the case of the *Chimaeriformes*, a pectoral fin driven startle has been suggested [Bone et al., 1977] and *S. acanthias* performs a C-start-like behavior [Domenici et al., 2004] that is likely not M-cell elicited. The double asterisk denotes that the C-start behavior of this animal is vertical.[^Hale]
+:::
+
+THe comparison of morphological and behavioral phylogenetic patterns which Hale et al[^Hale] describe, provide a first step toward understanding how evolutionary mechanisms have shaped the neural mechanisms of escape behavior.
+
 ---
 > ⏳ 10 min 
 
-***Q4: How would the circuitry need to differ for a withdrawal escape that is mediated by the Mauthner cells?***
+***Q3: How would the circuitry need to differ for a withdrawal escape that is mediated by the Mauthner cells?***
 
 #### Development
 
-***Q5: What kinds of developmental explanations/questions can you think to ask about c-start escape behavior in fish?***
+***Q4: What kinds of developmental explanations/questions do you have about c-start escape behavior in fish?***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -141,7 +147,7 @@ The following high-speed video taken by Kenneth Catania shows how the tentacled 
 (From Catania 2011[^Catania-2011]) (A) A tentacledsnake startles a fish toward its subsequent strike. (B) When fish approach the snake at a right angle to the long axis of the jaws, fish cannot be startled toward the strike. Instead, snakes startle fish in a predictable direction and bias their subsequent strike to the future position of the fish’s head.
 :::
 
-Think about how the tentacled snake would effect the evolutionary explanations for the stereotyped c-start escape. What are the selective pressures on the behavior and what are their sign?
+***Q5: Think about how the tentacled snake would affect the evolutionary explanations for the stereotyped c-start escape. What are the selective pressures on the behavior and what are their sign?***
 
 
 ## Non-rapid escape behaviors
