@@ -45,7 +45,7 @@ The ***hormone*** serotonin (5-HT) plays a crucial role in initiating vocalizati
 
 > ⏳ 5 min 
 
-***Q3: Identify/describe a proximate mechanisms (neural, genetic, hormonal, developmental) that you hypothesize could explain species differences in Xenopus vocalizations versus a proximate mechanism that is likely shared.***
+***Q3: Identify/describe a proximate mechanisms (neural, genetic, hormonal, developmental) that you hypothesize could explain sex differences in Xenopus vocalizations versus a proximate mechanism that is likely shared.***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -56,7 +56,7 @@ The ***hormone*** serotonin (5-HT) plays a crucial role in initiating vocalizati
 :::
 ::::
 
-In *Xenopus*, the ***central pattern generators*** (CPGs; a network of neurons that generates vocalizations without sensory feedback) responsible for generating the vocalization motor patterns have been identified. 
+In *Xenopus*, the ***central pattern generators*** responsible for generating the vocalization motor patterns have been identified (CPGs; a network of neurons that generates patterned motor output without sensory feedback). 
 
 In all *Xenopus* species, a combination of several different voltage-sensitive ion channels make the membrane potential of CPG neurons ***oscillate endogenously*** when provided with a steady (unpatterned) command input. Remarkably, differences in ***intrinsic membrane properties*** of vocal CPG neurons explain differences in species-specific vocal patterns. 
 
