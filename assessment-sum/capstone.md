@@ -2,6 +2,8 @@
 
 **DUE by 11 PM on May 16 2022**
 
+Working in pairs is an option: BUT YOU MUST LET ME KNOW AHEAD OF TIME THAT YOU PLAN TO SUBMIT JOINTLY.
+
 Create a media project (written, audio, video, etc) that summarizes the current scientific understanding of a specific animal behavior (applying a comparative approach to include consideration of convergence and divergence). These summaries include information relating to each of the four areas of animal behavior as outlined by Tinbergen (1963): ontogeny, mechanism, phylogeny and adaptive value. Because some model organisms are more suited to specific types of research, your work will likely incorporate research from multiple organisms in order to discuss the specific animal behavior. Books, websites, and newspapers may be used, but try to support your information primarily through primary literature.
 
 Include figure(s) for each major level of analysis that enhance the accessibility of your work. Examples include: phylogenetic trees with annotated analysis, graphical representations of evolutionary models, key neural mechanisms, cartoon developmental trajectories, etc. 

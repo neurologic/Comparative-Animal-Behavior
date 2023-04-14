@@ -8,11 +8,11 @@ Last class, we touched on various aspects of a definition of communication that 
 
 > ⏳ 5 min 
 
-***Q1: Would you consider any/all of the following examples of communication?  
-    - a male frog makes a vocalization and a female moves toward it  
-    - a male frog makes a vocalization and a predatory bat moves toward it  
-    - a human vocalizes to a dog and the dog moves toward it  
-    - a vigilant meerkat vocalizes and all the other meerkats scatter to their burrow--the vigilant meerkat eats the others' food.***
+***Q1: Which of the following would you consider to be examples of communication? (can select more than one)   
+    a) a male frog makes a vocalization and a female moves toward it  
+    b) a male frog makes a vocalization and a predatory bat moves toward it  
+    c) a human vocalizes to a dog and the dog moves toward it  
+    d) a vigilant meerkat vocalizes and all the other meerkats scatter to their burrow--the vigilant meerkat eats the others' food.***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -27,21 +27,22 @@ Rubenstein and Alcock[^animal-behav-text-rub-alcock] outline a cost-benefit appr
 :align: center
 :::
 
-Rubenstein and Alcock categorize only the top row as "communication" because, if communication is defined by the use of a "specially evolved signal," then the signal should benefit the sender. This definition does not consider the fitness of the receiver. This categorization is also not necessarily the writ law of animal behavior research. 
+*Rubenstein and Alcock* define communication by *the use of a "specially evolved signal", which means that the use of the signal should benefit the sender*. Therefore, they would only categorize their top row as "communication". This definition does not consider the fitness of the receiver. This categorization is also not necessarily the writ law of animal behavior research. Importantly, **their categorization method falls short of a full evolutionary/adaptive explanation for a communication system: one that takes into account ALL factors (+ and -), not just** **"*benefits*"**
 
-Edward Wilson (one of the founders of the study of sociobiology) defines communication as occuring when: “...the action of or cue given by one organism (the sender) is perceived by and thus alters the probability pattern of behavior in another organism (the receiver) in a fashion adaptive to either one both of the participants” (Wilson 1975)[^Wilson-1975-communication]. This definition encompasses all interactions outlined in the cost-benefit table above.
+We still have to grapple with the existence of communication systems that seem to ***decrease*** the fitness of one of the parties involved (signal or sender).  
+For example, for **deceit** to exist, the receiver must gain an overall net fitness benefit from the signal:response relationship, otherwise it would no longer respond to the signal and the sender would no longer be able to deceive.  
+Whether **eavesdropping** is "communication" or not, to explain its existence we have to account for all factors effecting the senders' evolutionary fitness.
+
+*Edward Wilson* (one of the founders of the study of sociobiology) defines communication as occuring when:  
+“...*the action of or cue given by one organism (the sender) is perceived by and thus alters the probability pattern of behavior in another organism (the receiver) in a fashion adaptive to either one both of the participants*” (Wilson 1975)[^Wilson-1975-communication]. **This definition encompasses all interactions outlined in the cost-benefit table** above. Note that this definition does *NOT* require the "intention" of the sender in producing the communication signal. From an argument based on intent, *eavesdropping* is still an odd one out--only in eavesdropping is a response in a receiver evoked by information that the sender did not intend for the receiver to use. 
 
 [^Wilson-1975-communication]: Wilson, E.O. Sociobiology: The New Synthesis. Cambridge, MA: Harvard University Press (1975).
 
-Additionally, publication from [Nature Education](https://www.nature.com/scitable/knowledge/library/an-introduction-to-animal-communication-23648715/) categorize both eavesdropping and deceit as communication.[^gillam-2011] 
+Additionally, **this publication from [Nature Education](https://www.nature.com/scitable/knowledge/library/an-introduction-to-animal-communication-23648715/) categorizes both eavesdropping and deceit as communication.**[^gillam-2011] 
 
 [^gillam-2011]: (Gillam, E. (2011) An Introduction to Animal Communication. Nature Education Knowledge 3(10):70)
 
-For deceit to exist, the receiver must gain an overall net fitness benefit from the signal:response relationship, otherwise it would no longer respond to the signal and the sender would no longer be able to deceive.
-
-Additionally, spite implements a "specially evolved signal" that decreases the fitness of the sender (in other words, the signal is specially evolved in the sense that it is being used by the sender with its intended purpose that includes a decrease in the sender's fitness). From this perspective, communication cannot simply be defined by information transfer for which the sender gains a fitness benefit. 
-
-If we relieve the need for communication to depend on fitness increase for the sender, then maybe it could be possible to argue for eavesdropping as a form of communication by similar logic to the argument for deceit (from the perspective of the receiver). However, from an argument based on intent, eavesdropping is the odd one out--only in eavesdropping is a response in a receiver evoked by information that the sender did not intend for the receiver to use. 
+Interestingly, **spite** implements a "specially evolved signal" that contributes to a decrease in the fitness of the sender. From this perspective, communication cannot simply be defined by information transfer for which the sender gains a fitness benefit. 
 
 ***Do you/we define communication based on the fitness to the sender or by the intent of the sender? Or by some other set of features?***
 
@@ -49,7 +50,9 @@ If we relieve the need for communication to depend on fitness increase for the s
 
 A hypothesis about the "function" of a behavior is basically a hypothesis about ***what positive selective pressures*** shaped it. 
 
-Communication implements ***signals*** (versus *cues*), which are "***evolved***" messages that contain information. Therefore, in communication, the signal--response system must provide a net increase in evolutionary fitness for both sender and receiver. Therefore, communication requires coevolution of proximate mechanisms in both the sender and the receiver for the purpose of communication.
+Communication implements ***signals*** that contain information. Communication requires co-evolution of proximate mechanisms in both the sender and the receiver for the purpose of communication. Therefore, in communication, the signal--response system must ultimately provide a net increase in evolutionary fitness for both sender and receiver. 
+
+Let's consider some common "*functions*" for communication (ie. the consequences of communication that contribute positively in an evolutionary model).
 
 ### Navigation
 
@@ -80,22 +83,14 @@ Knowing something about proximate mechanisms is important for understanding and 
 
 <br> 
 
-
----
-
-> ⏳ 5 min 
-
 Alarm calls may also be ***directed at predators*** to communicate that the prey has detected it (this is not mutually exclusive with conspecific communication of information about the predator risk). Alerting your presence to a predator may seem counter-intuitive.    
 
-***Q2: From an ultimate perspective, what might be the function of prey signaling to predators?***
+***From an ultimate perspective, why might prey signal TO predators "on purpose"?***
 
-⏸️ PAUSE here for class-wide discussion
-
----
 
 ### Competition
 
-Male dancing fiddler crabs (*Uca terpsichores*) have one normal claw and one super-sized claw that they use as a weapon to ***threaten*** and ***fight*** other males and as an adornment to ***attract females***. When the crabs are in a contest for territory, they do not necessarily fight. They wave their super-sized claw around at each other before deciding to engage in a fight or walk away from it. Males use claw length in assessing an opponent’s fighting ability by using claw length as a signal of strength (Jennions & Backwell 1996).
+Male dancing fiddler crabs (*Uca terpsichores*) have one normal claw and one super-sized claw that they use as a weapon to ***threaten*** and ***fight*** other males and as an adornment to ***attract females***. When the crabs are in a contest for territory, they do not necessarily fight. They wave their super-sized claw around at each other before deciding to engage in a fight or walk away from it. Males assess an opponent’s fighting ability by using claw length as a signal of strength (Jennions & Backwell 1996).
 
 In the following video, there will be two fighting crabs. The male on the left has no burrow of his own—and no mate—while the male on the right tries to defend his own. The crabs with two small claws that look like they're twiddling their thumbs are females picking microscopic food from the sand.
 
@@ -118,11 +113,11 @@ Let's say that, on average, an assessor is larger than its opponent half the tim
 
 > ⏳ 5 min 
 
-***Q3: What is the average fitness of an Assessor in a population of Fighters?***
+***Q2: What is the average fitness of an Assessor in a population of Fighters?***
 
-***Q4: What is the average fitness of an Assessor in a population of Assessors?***
+***Q3: What is the average fitness of an Assessor in a population of Assessors?***
 
-***Q5: Are there any behavioral contexts in which the Pacifist has the most fitness of the three behavioral phenotypes?***
+***Q4: Are there any behavioral contexts in which the Pacifist has the most fitness of the three behavioral phenotypes?***
 
 
 ⏸️ PAUSE here for class-wide discussion
@@ -163,7 +158,7 @@ It is commonly assumed that in order for animal signals to be advantageous, the 
 
 ### Deceit
 
-In a deceitful communication interactions, the sender increases its fitness at a cost to the receiver. 
+In a deceitful communication interactions, the sender increases its fitness at a "cost" to the receiver. 
 
 For example, ***brood parasites*** insinuate themselves into the nests of solitary nesting birds (the "host") (many solitary nesting bird species have not needed to develop conspecific recognition systems like those that have evolved in social species). These brood parasites then employ ***deceptive signals*** that trigger parental care by the host parent.
 
@@ -183,8 +178,6 @@ A central question pervading the research into communication signals in the cont
 
 ## Eavesdropping
 
-This exchange of information is generally ***not considered communication***. *As a hint to why, think about how the eavesdropping behavior of the receiver factors into evolutionary models for the signal production in the sender.*
-
 Male tùngara frogs use mating calls to attracts females. However, the mating call also attracts midge flies that feast on amphibian blood. Rather than homing in on chemical cues as mosquitoes do, these midge flies locate food by listening for the amphibian's mating call. This is one of the few examples of eavesdropping across the vertebrate/invertebrate barrier.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E-tXItyGvLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -193,6 +186,12 @@ Male tùngara frogs use mating calls to attracts females. However, the mating ca
 ## The evolution of communication signals
 
 How might communication signals arise in the first place? In other words, what is the phylogenetic history of a particular communication signal and what selective pressures shaped it?
+
+:::{image} ../images/communication-evolution.png
+:align: center
+:width: 600
+:::
+
 
 ### Sensory Bias
 

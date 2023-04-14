@@ -39,16 +39,14 @@ Group work assessments provided via [this link](https://forms.gle/heoNQ9mdmXWdkz
 | *April 14*| **Exam DUE** | Part 3 (Neural, Hormonal, Genetic, and Development) Due by midnight  | [](../assessment-sum/summative-assessment) |
 | **April 17** | Communication - ultimate | [The Animal Behavior Podcast, S2E2: Tamra Mendelson on Signal Evolution and Processing Bias](https://theanimalbehaviorpodcast.buzzsprout.com/1540180/10615918) | [](../understanding-behavior/communication_ultimate) |
 | April 19 | Social Spectrum - Grouping and Cooperation | [The Animal Behavior Podcast, S2E7: Gerry Carter on Animal Cooperation and Incentive Structures in Academia](https://theanimalbehaviorpodcast.buzzsprout.com/1540180/11080359) | [](../understanding-behavior/social-spectrum_cooperation) |
-| *April 21* | *Exam released* | Part 4 (Navigation, Escape, and Communication) | [](../assessment-sum/summative-assessment) |
 | **April 24** | Social Spectrum - Eusociality and Altruism | [Common Descent: Episode 111 Eusociality (from minute ~39 to ~120)](https://www.youtube.com/watch?v=NJXPCEFcWQs&list=PLfdiT8Klm_YPa0lNVa9ygwAjy_1Lpz9_S&index=116&t=2340s) | [](../understanding-behavior/social-spectrum_eusociality) |
 | April 26 | Sexual Selection | [Common Descent Podcast E63: Sexual Selection](https://youtu.be/c7EbVsXuoi0?t=2105) (from minute \~36-106) | [](../understanding-behavior/family-life_sexual-selection) |
-| *April 28* | **Exam DUE** | Part 4 (Navigation, Escape, and Communication) Due by midnight  | [](../assessment-sum/summative-assessment) |
 | **May 1** | Family Life: Mating Systems | [The Animal Behavior Podcast, S2E5: Nora H. Prior on Social Interactions - Linking Brain and Behavior](https://theanimalbehaviorpodcast.buzzsprout.com/1540180/10779867); <br> [Young et al (1999) Increased affiliative response to vasopressin in mice expressing the V1a receptor from a monogamous vole. 400(6746):766-8](https://doi.org/10.1038/23475)| [](../understanding-behavior/family-life_mating-systems) |
 | May 3 | Family Life: Parental Care | [*The Science of Love* from Dr. Bianca Jones Marlin](https://youtu.be/olHKw9q6ybw); <br> [Bendesky, A., Kwon, YM., Lassance, JM. et al. The genetic basis of parental care evolution in monogamous mice. Nature 544, 434–439 (2017)](https://doi.org/10.1038/nature22074) (we will focus on this one more in class); <br> [Lotem, A. Learning to recognize nestlings is maladaptive for cuckoo Cuculus canorus hosts. Nature 362, 743–745 (1993).](https://doi.org/10.1038/362743a0) (we will focus on this one less in class)| [](../understanding-behavior/family-life_parental-care) |
-| *May 4* | *Exam released* | Part 5 (Communication, Social and Family Life) | [](../assessment-sum/summative-assessment) |
+| *May 4* | *Exam released* | Part 4 (Understanding Behavior) | [](../assessment-sum/summative-assessment) |
 | **May 8** | Bring your capstone drafts to class | [](../assessment-sum/capstone) |
 | May 10 | Bring your capstone drafts to class | [](../assessment-sum/capstone) |
-| May 10 | **Exam DUE** | Part 5 (Communication, Social and Family Life) Due by midnight  | [](../assessment-sum/summative-assessment) |
+| May 10 | **Exam DUE** | Part 4 (Understanding Behavior) Due by midnight  | [](../assessment-sum/summative-assessment) |
 
 
 May 11-**15** Reading Period
