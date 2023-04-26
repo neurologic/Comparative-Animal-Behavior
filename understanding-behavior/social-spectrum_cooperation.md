@@ -39,7 +39,7 @@ When densities drop (for instance, when enough members of a swarm die) the proce
 
 When the only anti-predator "action" taken is to group.
 
-#### Dilution Effect
+#### Case Study: Dilution Effect
 
 Grouping may reduce the probability of any one individual being captured by predators. 
 
@@ -53,7 +53,7 @@ Risk to individual pierid butterflies of capture by smooth-billed anis as a func
 
 [^Burger-Gochfeld]: [Burger, J., & Gochfeld, M. (2001). Smooth-billed ani (Crotophaga ani) predation on butterflies in Mato Grosso, Brazil: risk decreases with increased group size. Behavioral Ecology and Sociobiology, 49, 482-492.](https://doi.org/10.1007/s002650100327)
 
-#### Confusion Effect
+#### Case Study: Confusion Effect
 
 Grouping may reduce the likelihood of predators capturing prey because of their inability to single out and attack individual prey. It confuses predators that have difficulty tracking a single object.
 
@@ -90,7 +90,7 @@ Example results from analysis of vigilance behavior from [this video](https://yo
 ---
 > ⏳ 5 min 
 
-***Q4: Explain a potential function for grouping. Formulate the explanation based on these results that you collected, and on the trade-off between feeding and vigilance behaviors.***
+***Q4: Explain a potential function for grouping. Formulate the explanation based both on these results and on the conflict between feeding and vigilance behaviors.***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -98,9 +98,11 @@ Example results from analysis of vigilance behavior from [this video](https://yo
 
 #### Case Study: Mobbing
 
-Black-headed gulls are a colonial ground-nesting species that group mob potential predators (dive-bombing them, pooping on them, etc). Mobbing takes time and energy, increases the likelihood of injury or death, and such a gregarious display can end up attracting more predators. So why does mobbing behavior exist (and why in this species)? A ***hypothesis*** is that that mobbing potential predators distracts them from finding and therefore predating gull egg nests. 
+**Black-headed gulls** are a **colonial ground-nesting species** that *mob* potential predators (as a group: dive-bombing predators, pooping on them, etc). Mobbing takes time and energy, increases the likelihood of injury or death, and such a gregarious display can end up attracting more predators. So why does mobbing behavior exist (and why in this species)? 
 
-One ***prediction*** of the anti-predator hypothesis is that mobbing should force distracted predators to expend more searching effort than they would otherwise. Kruuk (1964) observed that mobbed crows cannot look around comfortable for gull nests when they are being mobbed, and therefore are probably less likely to find them without increasing their effort. 
+One ***hypothesis*** is that that mobbing potential predators distracts them from finding and therefore predating gull egg nests. 
+
+One ***prediction*** of this anti-predator hypothesis is that mobbing should force distracted predators to expend more searching effort than they would otherwise. Kruuk (1964) *observed* and *described* that mobbed crows could not look around "comfortably" for gull nests when they are being mobbed, and therefore are probably less likely to find them without increasing their effort. 
 
 Another ***prediction*** is that the benefit experienced by mobbing gulls should be directly proportional to the extent that predators are actually mobbed (ie. if the function if mobbing is to reduce egg predation, then mobbing should reduce egg predation). Kruuk also tested this by placing chicken eggs along a line that spanned from the inside to the outside a gull nesting colony. 
 
@@ -110,11 +112,11 @@ Another ***prediction*** is that the benefit experienced by mobbing gulls should
 Crows were attacked more inside the gull colony (red). Crows ate less of the eggs inside the gull colony (blue). 
 ::: 
 
-We can also implement a ***comparative*** (ie ***phylogenetic*** and ***evolutionary***) approach to explain mobbing in gulls. In this case, a key ***prediction*** is that, if mobbing is an evolved response to predation on eggs and nestlings, then gull species whose nests were at a lower risk of predation should not exhibit mobbing behavior. In other words, if the risk of nest predation is lower, then there is less of a positive selective pressure on mobbing from reduced predation, and this would alter the oucome of an evolutionary cost-benefit model. 
+We can also implement a ***comparative*** (ie ***phylogenetic*** and ***evolutionary***) approach to explain mobbing in gulls. If mobbing is "an evolved response to predation on eggs and nestlings," then a key ***prediction*** is that gull species whose nests were at a *lower risk* of predation should *not* exhibit mobbing behavior. In other words, if the risk of nest predation is lower, then there is less of a positive selective pressure on mobbing (the "reduces predation" factor" of the evolutionary model affects fitness less). This would alter the oucome of an evolutionary cost-benefit model. 
 
-Kittiwakes do not mob their predators. Kittiwakes are an example of a gull species that nest on vertical coastal cliffs. Cliff-nesting species have relatively few nest predators because it is hard for small mammals to scale cliffs in search of prey and predatory birds have difficulty maneuvernig near cliffs in turbulent coastal wind. Additionally, kittiwake adults are smaller than black-headed gulls and therefore more vulnerable to predator attacks themselves. 
+**Kittiwakes** do not mob their predators. Kittiwakes are an example of a gull species that **nest on vertical coastal cliffs**. Cliff-nesting species have relatively few nest predators because it is hard for small mammals to scale cliffs in search of prey and predatory birds have difficulty maneuvernig near cliffs in turbulent coastal wind. Additionally, kittiwake adults are smaller than black-headed gulls and therefore more vulnerable to predator attacks themselves (ie. this negative factor would affect fitness more). 
 
-Therefore, a comparison between black-headed gulls and kittiwakes seem to support this key prediction of the anti-predator hypothesis.
+Therefore, **a comparative analyiss of black-headed gulls and kittiwakes** seem to support this key evolutionary prediction of the anti-predator hypothesis.
 
 ::::{margin} Bank swallow nest holes
 :::{image} /images/Bank_Swallow_nest_holes.jpg
@@ -130,9 +132,9 @@ Additionally, distantly-related colonial, ground nesting birds (like bank swallo
 :::
 
 
-## The evolutionary problem with altruism
+## Altruism
 
-**Mutual benefit** is when a social behavior results in increased fitness of all individuals involved. **Altruism** occurs when the recipient of a social act gains fitness, but the donor of the social act decreases its fitness. Therefore, the existence of altruistic behavior presents a paradox for evolutionary theorists because fitness is thought to be the main variable effecting evolutionary change (ie natural selection). 
+**Mutual benefit** is when a social behavior results in increased fitness of all individuals involved (like mobbing). **Altruism** occurs when the recipient of a social act gains fitness, but the donor of the social act decreases its immediate fitness. Therefore, the existence of altruistic behavior presents a paradox for evolutionary theorists because fitness is thought to be the main variable effecting evolutionary change (ie natural selection). 
 
 At first, it may seem that ***cooperative altruism*** could result in mutual benefit when averaged over time (ie. when everyone you encounter are also altruists, you lose fitness by helping others, but you gain fitness when others help you). However, **selfishness** is the evolutionary thorn in the side of altruism. Selfishness occurs when an individual does not reciprocate an altruistic act. 
 
@@ -153,7 +155,6 @@ The basic payoff structure is shown below:
 
 ***Q5: Using this game theory model, show why you would never predict to observe altruistic cooperation.***
 
-***Q6: Based on this model, would you predict that both selfish and altruist behavioral phenotypes could co-exist in a population? Why / why not?***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -189,25 +190,33 @@ Wing-beat frequency and heart rate of pelicans engaged
 in various types of flight (mean +- s.d.)[^Weimerskirch-2001].
 :::
 
-But why do birds voluntarily choose to fly at the front? At the front there no aerodynamic advantage. Perhaps even more significantly, they must (unlike in solo flight) flap continuously without gliding in order for the trailing birds to get any aerodynamic boost. 
+But why does any individual bird fly at the front? At the front there is no aerodynamic advantage *and*, unlike in solo flight, they flap continuously without gliding (presumable to increase the aerodynamic boost to the trailing birds). 
 
-We do know[^Voelkl-2015] that Northern bald ibis (*Geronticus eremita*) match the time they spend in the advantageous trailing position and in the disadvantageous front position. Specifically, birds match the time they spend in the wake of each other by frequent pairwise switches of the leading position (ie. evidence for cooperative altruism).
+We do know[^Voelkl-2015] that Northern bald ibis (*Geronticus eremita*) match the time they spend in the wake of each other by frequent pairwise switches of the leading position (ie. evidence for cooperative altruism).
 
 [^Voelkl-2015]: [Matching times of leading and following suggest cooperation through direct reciprocity during V-formation flight in ibis](https://doi.org/10.1073/pnas.1413589112)
 
-Given that humans and other animals do in fact cooperate, the challenge to the evolutionary theorist has been to find some mechanism that will permit altruism to resist elimination by selfish alternatives. 
-  > Interestingly, in the case of V-formation migration, an explanation based on ***competition*** rather than ***cooperation*** is also difficult to rule out. 
+Given that humans and other animals do cooperate, the challenge to the evolutionary theorist has been to **find some mechanism that will permit altruism to resist elimination by selfish alternatives**. 
 
-One example of a hypothesized solution to the cooperation dilemma is the ***snowdrift*** model. The Snowdrift model derives its name from the following situation: two drivers are trapped on either side of a snowdrift and have the options of staying in the car or removing the snowdrift. Letting the opponent do all the work is the best option. But if the other player stays in the car, it is better to shovel because you still obtain a benefit from your behavior in addition to the cost (Sugden 1986). In this game, cooperation yields a benefit (b) that is accessible to both players (i.e. free passage to go home), whereas the cost (c; i.e. removing the snowdrift) is shared between cooperators.
+Some argue that the payoff structure of in-wake flying resembles the structure of a ***snowdrift*** model -- one among a variety of proposed solutions to the *cooperation dilemma*. 
+
+The Snowdrift model derives its name from the following situation: two drivers are trapped on either side of a snowdrift and have the options of staying in the car or removing the snowdrift. Letting the opponent do all the work is the best option. But if the other player stays in the car, it is better to shovel because you still obtain a benefit from your behavior in addition to the cost (Sugden 1986). In this game, cooperation yields an increase in fitness (b) that is accessible to both players (i.e. free passage to go home), whereas the decrease to fitness (c; i.e. removing the snowdrift) is shared between cooperators.
+
+:::{margin} Basic cooperation model
+| |Altruist |Selfish|
+|:--: |:--:|:--:
+|**Altruist**| (b - c) / 2 | -c |
+|**Selfish**| b | 0 |
+:::
 
 The basic payoff structure is shown below (values in parenthesis are an example under the conditions b > c):
 
-| |Altruist |Selfish|
+| |Cooperator (Altruist) |Selfish|
 |:--: |:--:|:--:
-|**Altruist**| b - c/2 (200) | b - c (100) |
+|**Cooperator (Altruist)**| b - (c/2) (200) | b - c (100) |
 |**Selfish**| b (300) | 0 (0) |
 
-Some argue that the payoff structure of in-wake flying resembles the structure of a snowdrift game. In the snowdrift game, a noncooperator meeting a cooperator gains the highest payoff, but a noncooperator meeting another noncooperator earns even less from an interaction than a cooperator meeting a noncooperator
+In the snowdrift game, a noncooperator meeting a cooperator gains the highest payoff, but a noncooperator meeting another noncooperator ("selfish in selfish population') *can* earn even less from an interaction than a cooperator meeting a noncooperator ("altruist mutant in selfish population") -- leading to **the possibility of a mixed phenotype population**. This result is in contrast to the prediction of the basic altruist/selfish model (which predicts that the selfish phenotype is the only evolutionarily stable solution).  
 
 ### Green Beard
 

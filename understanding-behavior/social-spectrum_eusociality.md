@@ -26,17 +26,19 @@
 |**Selfish**| b | 0 |
 :::
 
-Some evolutionary models can explain cooperative altruism when the cost to the social donor is low enough (for example, the snowdrift model). However, if the cost of the altruistic behavior is that you cannot reproduce... then that is effectively an infinitely high cost. Because evolutionary fitness is defined by how much your genes get passed down to the next generation, not producing any offspring would result in zero fitness, no matter what factors you were able to increase your "lifetime" fitness.
+Some evolutionary models can explain cooperative altruism when the cost to the social donor is low enough (for example, the snowdrift model). However, the loss of reproduction seems effectively like an infinitely high cost. If evolutionary fitness is defined by how much you pass your genes to the next generation, not producing any offspring would result in zero fitness, no matter what factors you were able to increase your individual ("lifetime") fitness.
 
 There are lots of alternate models that aim to make sense of eusociality and reproductive altruism.
 
 ### Group Level selection
 
-"*The process known as group selection was once accepted unthinkingly, then was widely discredited*." - Edward Wilson and David Wilson[^for-good-of-group-oped]. Wilson and Wilson are trying to pave the way for reconsidering group selection as a predictive force in understanding the evolution of behavior.
+"*The process known as group selection was once accepted unthinkingly, then was widely discredited*." - Edward Wilson and David Wilson[^for-good-of-group-oped]. The underlying question-"Can biological traits evolve for the good of the group?"-is a heavily debated concept. 
+
+Wilson and Wilson are trying to pave the way for reconsidering group selection as a predictive force in understanding the evolution of behavior.
 
 [^for-good-of-group-oped]: [Evolution "for the Good of the Group" BY EDWARD O. WILSON, DAVID SLOAN WILSON. American Scientist (2008)](https://www.americanscientist.org/article/evolution-for-the-good-of-the-group)
 
-The underlying question-"Can biological traits evolve for the good of the group?"-is a heavily debated concept. 
+
 
 To think clearly about group selection, it is important to compare the survival and reproduction of individuals in the right way. Selection between individuals within groups favors cheating behaviors, even at the expense of the group as a whole (as seen in the game theory models). Selection between groups within the total population favors behaviors that increase the relative fitness of the whole group—although these behaviors, too, can have negative effects at a still-larger scale.
 
@@ -61,17 +63,19 @@ $$
 r * b > c
 $$
 
-where **c** is the cost to the individual that performs the altruistic act, **b** is the benefit of the altruistic act to the recipient, and **r** is the relatedness between the donor and recipient of the altruistic act. The first derivation of this model (based on Price's equation) was done by Hamilton[^hamilton-derivation-explanation]. 
+where **c** is the factor(s) that decreases the fitness of the donor for an altruistic act, **b** is the factor(s) that increases the fitness of the recipient for an altruistic act, and **r** is the relatedness between the donor and recipient of the altruistic act. The first derivation of this model (based on "*Price's equation*) was done by Hamilton[^hamilton-derivation-explanation]. 
 
-Basically, this "Hamilton's rule" states that, if you help someone that shares a lot of your genotype, then your genotype will effectively be passed on through them if you help them reproduce.  
+Basically, this "*Hamilton's rule*" states that, if you help someone that shares a lot of your genotype (is very related to you), then your genotype will effectively be passed on *through* them if you help them reproduce.  
 
 [^hamilton-derivation-explanation]: [Jonathan Birch (2017) Hamilton’s Rule as an Organizing Framework](https://doi.org/10.1093/oso/9780198733058.003.0002)
 
-While it has been cited a lot and pushed heavily in classic textbooks, there are few examples that truly provide evidence for this model.
+While it has been cited a lot and pushed heavily in classic textbooks, the examples providing evidence for this model are debated, and some debate its function as a predictive model at all[^Nowack].
+
+[^Nowak]: [The general form of Hamilton’s rule makes no predictions and cannot be tested empirically](https://doi.org/10.1073/pnas.1701805114)
 
 ### Reproductive Potential
 
-The ‘canonical Hamilton’s rule’ lacks demographic structure. Akcay and Van Cleve (2015)[^A-C-2015] explain a different model that re-evaluates the importance of reproductive potential on the impact of relatedness in ***heterogeneous populations***.
+The ‘canonical Hamilton’s rule’ lacks demographic structure. Akcay and Van Cleve (2015)[^A-C-2015] explain a different model that re-evaluates the importance of reproductive potential on the impact of relatedness in ***heterogeneous populations***. From this model, we can infer a role for *polyphenisms* versus *polymorphisms* in the inheritance of altruism and selfishness. 
 
 [^A-C-2015]: [Akcay and Van Cleve (2016) There is no fitness by fitness, and the lineage is its bearer](https://doi.org/10.1098%2Frstb.2015.0085)
 
@@ -87,17 +91,19 @@ For example, male wild turkeys pair up during the mating season to compete for f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xDGCEvdj5GU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-So why doesn't the submissive phenotype get eliminated by natural selection? How can a male in a lek who never succeeds in mating with a female nevertheless “benefit” by their participation?
+So why doesn't the submissive phenotype get eliminated by natural selection? How can a male in a lek who never succeeds in mating with a female nevertheless “benefit” by their participation? Both of these questions assume potentially incorrect thinking about the proximate and ultimate mechanisms of behavior -- instead, the submissive male might not need to ever "benefit", and selfish and altruist phenotypes may be linked rather than mutually exclusive. 
 
 In Akcay and Van Cleve's model, fitness is averaged across the social environments and demographic states in which members of a lineage find themselves. In other words, fitness belongs to the gene lineage, not to the individual.
 
-The frequency of an altruistic allele will increase if[^repro-pot-derivation]:
+The frequency of an altruistic gene will increase if[^repro-pot-derivation]:
 
 $$
 (1 - \sigma) * [-c_d + r * b_d] > s * \sigma * [-c_s + r * b_s]
 $$
 
 where $\sigma$ is the fraction of submissives in the population, $c_d$ is the cost to a dominant individual for helping a subordinate (and vice-versa for $c_s$), $b_d$ is the benefit to the dominant when it is helped by a subordinate (and vice-versa for $b_s$), and $r$ is the relatedness between dominant and subordinate individuals.
+
+This model seems to require that altruism and selfishness are polyphenisms. 
 
 [^repro-pot-derivation]: The derivation of this equation comes from [Taylor and Frank (1996) How to make a kin selection model](https://doi.org/10.1006/jtbi.1996.0075) and is explained in this format in [Akcay and Van Cleve (2016) There is no fitness by fitness, and the lineage is its bearer](https://doi.org/10.1098%2Frstb.2015.0085). 
 
@@ -114,7 +120,7 @@ where $\sigma$ is the fraction of submissives in the population, $c_d$ is the co
 
 ### Ecological Factors
 
-Ecological origins mechanisms for (eu)sociality predict different worker sex ratios than relatedness mechanisms.[^Ross-2013] 
+***Ecological origins*** mechanisms for (eu)sociality predict different worker sex ratios than ***relatedness*** mechanisms.[^Ross-2013] 
 
 [^Ross-2013]: [Ross, L., Gardner, A., Hardy, N., & West, S. A. (2013). Ecology, not the genetics of sex determination, determines who helps in eusocial populations. Current biology : CB, 23(23), 2383–2387.](https://doi.org/10.1016/j.cub.2013.10.013)
 
@@ -124,11 +130,20 @@ Ecological origins mechanisms for (eu)sociality predict different worker sex rat
 Predictions of relatedness and ecological hypotheses on the sex ratio of the worker caste.[^Ross-2013]
 :::
 
-The ***relatedness hypothesis*** suggests that, in haplodiploid species, a higher relatedness between sisters favors female workers. In contrast, in diploid species, there is no relatedness asymmetry, and so both sexes are equally favored to be workers. This hypothesis focuses on the possible importance of variation in the relatedness \(r\) term in Hamilton’s rule.
+::::{margin} haplodiploidy: males develop from unfertilized eggs and are haploid, and females develop from fertilized eggs and are diploid
+:::{image} ../images/Haplodiploid_Sex_Determination_in_Honey_Bees.svg.png
+:::
+::::
 
-The ***ecology hypothesis*** suggests that the sex of workers depends upon the ecological (economic) benefit of cooperation and eusociality. Specifically, either the cooperative rearing of brood when there is a significant chance that either the offspring or the parent will die before parental care is completed (life insurance) or living in an environment that requires social defense (fortress defense). 
+The ***relatedness hypothesis*** suggests that, in haplodiploid species, a higher relatedness between sisters (75% f:f vs 25% f:m or 50% m:m) favors female workers. In contrast, in diploid species, there is no relatedness asymmetry among siblings, and both sexes are equally favored to be workers. This hypothesis focuses on the possible importance of variation in the relatedness \(r\) term in Hamilton’s rule.
+
+The ***ecology hypothesis*** suggests that the sex of the *worker* caste depends upon the ecological (economic) benefit of cooperation and eusociality. For example, either the cooperative rearing of brood when it is likely that either the offspring or the parent will die before parental care is completed (life insurance) or colony defense when the living environment requires social defense (fortress defense). 
 - If workers rear brood, then we would expect the workers to be drawn from the sex or sexes that provided parental care in the ancestral solitary species, which is usually females. 
-- If workers defend the colony, and neither sex is preadapted to be a soldier, then we would expect the workers to be drawn from both sexes. While this ecological explanation provides an alternative to the relatedness hypothesis, it is fully compatible with the theory of kin selection more generally. This hypothesis focuses on the possible importance of variation in the benefit (b) and cost \(c\) terms in Hamilton’s rule.
+- If workers defend the colony, and neither sex is preadapted to be a soldier, then we would expect the workers to be drawn from both sexes. 
+
+This ecological origins hypothesis focuses on the possible importance of variation in the benefit (b) and cost \(c\) terms in Hamilton’s rule. It is not mutually exclusive to the theory of kin selection more generally. 
+
+Ross et al (2013)[^Ross-2013] performed a meta-analysis to test these hypotheses (Figure 133 and 134). 
 
 :::{figure} /images/eusociality-ecology-phylogeny.png
 :width: 500
@@ -223,9 +238,8 @@ Character mapping of eusociality (gray) and solitary (white) behavior among *Ves
 
 > ⏳ 5 min 
 
-***Q4: What behaviors would likely need to be modified to support eusocial versus solitary or group lifestyles?***
+***Q4: What behaviors and/or might be modified to support eusocial versus solitary or group lifestyles? And how, at a proximate level, could these modifications be achieved?***
 
-***Q5: How could those behaviors be modified? What neural mechanisms could be altered to achieve different phenotypes for critical behaviors?***
 
 ⏸️ PAUSE here for class-wide discussion
 
@@ -235,9 +249,9 @@ Character mapping of eusociality (gray) and solitary (white) behavior among *Ves
 
 What we do know so far is that social processes cannot be localized to one brain region-they are highly distributed systems.
 
-There is more known about the neurobiology of related behaviors, for example **pair bonding** in monogamous species. Research has found that, in ***voles***, oxytocin and vasopressin hormonal systems play a large role. Pair bonding is not a component of eusociality per se, but at least in mammals, we find that cooperative breeding (a precondition for eusociality) is restricted to monogamous species. Comparative studies of oxytocin and vasopressin receptor distribution among African mole-rats have revealed both similarities and differences with reference to voles.  
+There is more known about the neurobiology of related behaviors, for example **pair bonding** in monogamous species. Research has found that, in ***voles***, oxytocin and vasopressin hormonal systems play a large role. Pair bonding is not a component of eusociality per se, but at least in mammals, we find that ***cooperative breeding (a precondition for eusociality) is restricted to monogamous species***. Comparative studies of oxytocin and vasopressin receptor distribution among African mole-rats have revealed both similarities and differences with reference to voles.  
 
-The only other neural substrate that has been investigated in African mole-rats in a detailed comparative context is the corticotrophin-releasing factor (CRF) family of hormone peptides and receptors[^Coen-2021]. This study also found clear species differences in the anatomical pattern of receptor/ligand binding between naked mole-rats and Cape mole-rats (a solitary species) which are suggested to reflect differences in affiliative behavior.
+The only other neural substrate that has been investigated in African mole-rats in a detailed comparative context is the corticotrophin-releasing factor (CRF) family of hormone peptides and receptors[^Coen-2021]. This study found clear species differences in the anatomical pattern of receptor/ligand binding between naked mole-rats and Cape mole-rats (a solitary species) which are suggested to reflect differences in affiliative behavior.
 
 [^Coen-2021]: [Coen, C. W., Bennett, N. C., Holmes, M. M., & Faulkes, C. G. (2021). Neuropeptidergic and Neuroendocrine Systems Underlying Eusociality and the Concomitant Social Regulation of Reproduction in Naked Mole-Rats: A Comparative Approach. Advances in experimental medicine and biology, 1319, 59–103.](https://doi.org/10.1007/978-3-030-65943-1_3)
 
@@ -252,7 +266,7 @@ In the following examples, environmental signals are used to modulate behavioral
 ---
 > ⏳ 5 min 
 
-***Q6: What do these studies imply about the inheritance of altruist and selfish genes/alleles? Are altruist and selfish likely different alleles of the same gene(s)? Or are the two phenotypes likely controlled by different (sets of) genes?*** 
+***Q5: What do these studies imply about the inheritance of altruist and selfish genes/alleles? Are altruist and selfish likely different alleles of the same gene(s) or controlled by different (sets of) genes?*** 
 
 ⏸️ PAUSE here for class-wide discussion
 

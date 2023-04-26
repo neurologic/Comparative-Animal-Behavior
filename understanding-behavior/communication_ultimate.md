@@ -19,6 +19,9 @@ Last class, we touched on various aspects of a definition of communication that 
 ---
 
 Rubenstein and Alcock[^animal-behav-text-rub-alcock] outline a cost-benefit approach to compare the fitness consequences of honest signaling, deceitful signaling, eavesdropping, and spiteful signaling. 
+> NOTE: It looks similar, but this is **NOT** a game theory matrix
+
+*Rubenstein and Alcock* define communication by *the use of a "specially evolved signal" such that the use of the signal should benefit the sender*. Therefore, they would only categorize their top row as "communication". 
 
 [^animal-behav-text-rub-alcock]: Dustin Rubenstein (2022) Animal Behavior, Twelfth Edition. ISBN: 9780197564912. Douglas Alcock co-authored all previous editions.
 
@@ -27,14 +30,14 @@ Rubenstein and Alcock[^animal-behav-text-rub-alcock] outline a cost-benefit appr
 :align: center
 :::
 
-*Rubenstein and Alcock* define communication by *the use of a "specially evolved signal", which means that the use of the signal should benefit the sender*. Therefore, they would only categorize their top row as "communication". This definition does not consider the fitness of the receiver. This categorization is also not necessarily the writ law of animal behavior research. Importantly, **their categorization method falls short of a full evolutionary/adaptive explanation for a communication system: one that takes into account ALL factors (+ and -), not just** **"*benefits*"**
+This definition does not consider the fitness of the receiver. Importantly, **their categorization method falls short of a full evolutionary/adaptive explanation for a communication system: one that takes into account ALL factors (+ and -), not just** **"*benefits*"**
 
-We still have to grapple with the existence of communication systems that seem to ***decrease*** the fitness of one of the parties involved (signal or sender).  
+We still have to grapple with the existence of communication systems that seem to ***decrease*** the fitness of one of the parties involved (sender or receiver).  
 For example, for **deceit** to exist, the receiver must gain an overall net fitness benefit from the signal:response relationship, otherwise it would no longer respond to the signal and the sender would no longer be able to deceive.  
-Whether **eavesdropping** is "communication" or not, to explain its existence we have to account for all factors effecting the senders' evolutionary fitness.
+Whether **eavesdropping** is "communication" or not, we still have to account for all factors effecting the senders' evolutionary fitness in order to explain its existence .
 
 *Edward Wilson* (one of the founders of the study of sociobiology) defines communication as occuring when:  
-“...*the action of or cue given by one organism (the sender) is perceived by and thus alters the probability pattern of behavior in another organism (the receiver) in a fashion adaptive to either one both of the participants*” (Wilson 1975)[^Wilson-1975-communication]. **This definition encompasses all interactions outlined in the cost-benefit table** above. Note that this definition does *NOT* require the "intention" of the sender in producing the communication signal. From an argument based on intent, *eavesdropping* is still an odd one out--only in eavesdropping is a response in a receiver evoked by information that the sender did not intend for the receiver to use. 
+“...*the action of or cue given by one organism (the sender) is perceived by and thus alters the probability pattern of behavior in another organism (the receiver) in a fashion adaptive to either one both of the participants*” (Wilson 1975)[^Wilson-1975-communication]. **This definition encompasses all interactions outlined in the cost-benefit table** above. Note that this definition does *NOT* require the "intention" of the sender in producing the communication signal. For a definition of communication that depends on *intent*, *eavesdropping* is still an odd one out--only in eavesdropping is a response in a receiver evoked by information that the sender did not intend for the receiver to use. 
 
 [^Wilson-1975-communication]: Wilson, E.O. Sociobiology: The New Synthesis. Cambridge, MA: Harvard University Press (1975).
 
@@ -42,7 +45,7 @@ Additionally, **this publication from [Nature Education](https://www.nature.com/
 
 [^gillam-2011]: (Gillam, E. (2011) An Introduction to Animal Communication. Nature Education Knowledge 3(10):70)
 
-Interestingly, **spite** implements a "specially evolved signal" that contributes to a decrease in the fitness of the sender. From this perspective, communication cannot simply be defined by information transfer for which the sender gains a fitness benefit. 
+Interestingly, **spite** implements a "specially evolved signal" (though not in an "adaptive" sense of the word) that contributes to a decrease in the fitness of the sender. From this perspective, communication cannot simply be defined by information transfer for which the sender gains a fitness benefit. 
 
 ***Do you/we define communication based on the fitness to the sender or by the intent of the sender? Or by some other set of features?***
 
@@ -185,7 +188,7 @@ Male tùngara frogs use mating calls to attracts females. However, the mating ca
 
 ## The evolution of communication signals
 
-How might communication signals arise in the first place? In other words, what is the phylogenetic history of a particular communication signal and what selective pressures shaped it?
+How might communication systems arise in the first place? In other words, what is the phylogenetic history of a particular communication system and what selective pressures shaped it?
 
 :::{image} ../images/communication-evolution.png
 :align: center
