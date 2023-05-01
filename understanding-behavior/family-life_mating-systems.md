@@ -28,7 +28,7 @@ promiscuity
 
 :::
 
-The type of mating system that evolves will depend on which sex is limiting and the degree to which the other sex can control resource access or monopolizes mates. Often, it seems that the distribution of resources influences the behavior of one sex and the behavior of that sex then influences the mating behavior of the other sex. 
+The type of mating system that evolves will depend on which sex is limiting/limited and the degree to which the other sex can control resource access or monopolizes mates. Often, it seems that the distribution of resources influences the behavior of one sex and the behavior of that sex then influences the mating behavior of the other sex. 
 
 If members of the mate limited sex can limit access to the resources needed to survive and reproduce, then they could gain control over members of the limiting sex. Then, monopolization of access to the other sex seems like it would enable polygyny and polyandry to evolve. 
 
@@ -75,7 +75,7 @@ Prairie voles (*Microtus ochrogaster*) are monogamous and form long-lasting pair
 
 ***Q3: What hypothesis is being tested by the experiment in Figure 2?***
 
-***Q4: In Figure 2, are they testing the sequence or the expression of the V1a receptor gene?***
+***Q4: In Figure 2, are they testing the sequence or the spatial brain expression of the V1a receptor gene?***
 
 ***Q5: What is microsatellite DNA, generally? Which resource(s) did you choose to consult for this information after searching?***
 
@@ -143,10 +143,10 @@ care, drives the evolution of monogamy, as it secures a partner and ensures pate
 For details of a model that considers all of these factors (offspring survival benefit of parental care, probability of mating given the operational sex ratio, risk of cuckoldry, conception rate of females, and male survival), see Schacht and Bell (2016)[^schacht-bell-2016].
 
 
-[^schacht-bell-2016]: Schacht, R., Bell, A. The evolution of monogamy in response to partner scarcity. Sci Rep 6, 32472 (2016). https://doi.org/10.1038/srep32472
+[^schacht-bell-2016]: [Schacht, R., Bell, A. The evolution of monogamy in response to partner scarcity. Sci Rep 6, 32472 (2016).](https://doi.org/10.1038/srep32472)
  
 
 ## Additional Resources 
 
 - Turner et al 2010 [Monogamy evolves through multiple mechanisms: evidence from V1aR in deer mice](https://doi-org.ezproxy.wesleyan.edu/10.1093/molbev/msq013) Mol Biol Evol. 2010 Jun;27(6):1269-78.
-- (Schacht, R., Bell, A. The evolution of monogamy in response to partner scarcity. Sci Rep 6, 32472 (2016).](https://doi.org/10.1038/srep32472)
+- [Schacht, R., Bell, A. The evolution of monogamy in response to partner scarcity. Sci Rep 6, 32472 (2016).](https://doi.org/10.1038/srep32472)
