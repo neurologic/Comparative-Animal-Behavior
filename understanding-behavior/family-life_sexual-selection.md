@@ -61,7 +61,7 @@ reproductive variance
 :align: center
 :::
 
-Ideally, an animal would want to choose a mate that would provide it with the most reproductive fitness (number, viability, and mating success of offspring). Inequality in the ability to be ***choosy*** about a mate is one of the main factors leading to ***sexually dimorphic behavior***. Ultimately, it is better to mate with someone than no one. If you are a member of the sex that exists in abundance (operational sex ratio), then the most pressing issue you face is just to secure a mate at all. If you are a member of the sex that exists in scarcity, then you are basically guaranteed someone to mate with, and the more pressing issue you face is making sure you get the best mate possible. 
+Ideally, an animal would want to choose a mate that would provide it with the most reproductive fitness (number, viability, and mating success of offspring). Inequality in the ability to be ***choosy*** about a mate is one of the main factors leading to ***sexually dimorphic behavior***. Ultimately, it is better to mate with someone than no one. If you are a member of the sex that exists in abundance (according to the *operational* sex ratio), then the most pressing issue you face is just to secure a mate at all. If you are a member of the sex that exists in scarcity, then you are basically guaranteed someone to mate with, and the more pressing issue you face is making sure you get the best mate possible. Reproductive variance within a sex can mimic the effects of a skewed operational sex ratio (and/or compound it). 
 
 In animals with an operational sex ratio close to one and equal reproductive variance between the sexes, both sexes likely face similar mate procurement struggles. In these animals, the need to attract mates is equal for both sexes and we predict that there will not be sexual dimorphism.
 
@@ -71,7 +71,7 @@ In animals with an operational sex ratio close to one and equal reproductive var
 Black swans exhibit mutual ornamentation. Both males and females look the same, with curled wing feathers that serve a sexual function. These feathers are used in mutual mate choice, where both males and females have a preference for mates with wing feathers that are more curled. 
 :::
 
-Many factors weigh in on mate choice to shape behavior over evolutionary timescales. The three main categories are: ***direct benefits, indirect benefits, and exploitation***.
+Many factors weigh in on mate choice to shape behavior over evolutionary timescales. Mating **competition** is one category. And there are three main categories related to mate **choice**: ***direct benefits, indirect benefits, and exploitation***.
 
 ## Direct Competition
 

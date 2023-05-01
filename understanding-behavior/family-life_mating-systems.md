@@ -98,11 +98,9 @@ Prairie voles (*Microtus ochrogaster*) are monogamous and form long-lasting pair
 
 ***Q8: What is the purpose of the experiment/results shown specifically in Figure 3?***
 
-***Q9: What conclusion would you draw about the function of neural circuits in the Diagonal Band (DB) based on the results of Figure 1 and how would this conclusion change based on the results of Figure 3 and 4?***
+***Q9: In the context of this study, why was it important to show the results of the experiment in Figure 4b?***
 
-***Q10: In the context of this study, why was it important to show the results of the experiment in Figure 4b?***
-
-***Q11: In summary, how would you describe the neural, hormonal, and genetic mechanisms of monogamy?***
+***Q10: In summary, how would you describe the neural, hormonal, and genetic mechanisms of monogamy?***
 
 ⏸️ PAUSE here for class-wide discussion
 
