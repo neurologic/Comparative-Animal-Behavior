@@ -108,9 +108,11 @@ In preparation for today's class, you also read: [Bendesky et al (2017) The gene
 (**Figure 3 from Bendesky et al**) **a**, Genetic cross design. Female P. maniculatus were mated to P. polionotus males to found the cross (see Methods); the behaviour of females and males of each species is shown here for comparison. **b–e**, Violin plots show the distribution of behaviours. Each dot represents the mean behaviour of an animal over three trials.
 :::
 
-***Q4: Based only on the results of Figure 3, how did the authors conclude that parental care behavior likely involves more than one gene?***
+***Q4: Based only on the results of Figure 3 (Fig 153 here), how did the authors conclude that parental care behavior likely involves more than one gene?***
 
 ***Q5: Based on results reported in Bendesky et al, which behaviors would you conclude are the most genetically linked with each other? Which Figure/Panel are you relying on most to decide this?***
+
+***Q6: Consider the results shown in Figure 5c from Bendesky et al (Fig 154 here), if you block AVP (use an antagonist to the receptors that endogenously exist) in P. maniculatus, do you predict that they will then make good nests or do you predict no change in their parental care behavior? Why?***
 
 :::{figure} /images/Bendesky-fig5c.png
 :width: 350
@@ -122,8 +124,6 @@ In preparation for today's class, you also read: [Bendesky et al (2017) The gene
 :::{image} /images/young-1999-fig1.png
 :::
 ::::
-
-***Q6: If you block AVP (use an antagonist to the receptors that endogenously exist) in P. maniculatus, do you predict that they will then make good nests or do you predict no change in their parental care behavior? Why?***
 
 ***Q7: Based on the results presented in Bendesky et al 2017, would you infer that AVP receptor distribution was the same or different between the brains of P. polionotus and P. maniculatus? Why?***
 
