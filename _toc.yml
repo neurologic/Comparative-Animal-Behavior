@@ -21,4 +21,5 @@ parts:
         - file: assessment-sum/assessment_neural-hormonal-genetic-development
         - file: assessment-sum/assessment_navigation-escape-communication
         - file: assessment-sum/assessment_social-family
+        - file: assessment-sum/assessment_social-family-SP23
 
