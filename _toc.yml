@@ -14,6 +14,7 @@ parts:
         - file: assessment-sum/assessment_components-observation-analysis
         - file: assessment-sum/assessment_phylogeny-evolution
         - file: assessment-sum/assessment_neural-hormonal-genetic-development
+        - file: assessment-sum/assessment_understanding-behavior
     - file: assessment-sum/capstone
     - file: genindex
     - file: ethical-considerations
