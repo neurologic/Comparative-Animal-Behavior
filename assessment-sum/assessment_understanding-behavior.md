@@ -6,17 +6,17 @@ Due by 11pm on Wednesday May 10.
 :::
 
 :::{admonition} Honor Code
-This exam is open note/book/web, but must be done independently. Do not consult any other people (regardless of whether they are in or out of this course) in answering the questions. Handing in responses to assignment for grading serves as your signature of the honor code.
+This exam is open note/book/web, but must be done independently. Do not consult any other people (regardless of whether they are in or out of this course) or artificial intelligence (AI) in answering the questions. Handing in responses to the assignment for grading serves as your signature of the honor code.
 :::
 
-Answer all questions either electronically or by hand. Label each of your answers with the corresponding question number. Scan or convert your document to a good quality PDF. Upload to gradescope by the deadline. 
+Answer all questions either electronically or by hand. Label each of your answers with the corresponding question number. Scan or convert your document to a good quality PDF. Upload to gradescope by the deadline -- make sure to tag all appropriate page(s) in your PDF for each question. 
 
-***Please don't hesitate to ask for clarifation on the wording of questions and/or expectations.*** Key expectations are highlighted with font style. For any multiple choice question that asks for an explanation of your reasoning: I am looking for a correct answer selection as well as reasoning for selecting that answer - the reasoning should logically (and unabiguously) explain for your answer selection (*not all multiple choice questions require for reasoning*).
+**Please don’t hesitate to ask for clarifation on the wording of questions and/or expectations**. Key expectations are highlighted with font style. For any multiple choice question that asks for an explanation of your reasoning: provide a correct answer selection as well as your reasoning for selecting that answer - the reasoning should logically (and unabiguously) explain for your answer selection. Not all multiple choice questions require for reasoning.
 
 --- 
 
-**Q1** *(2 points)*: Which of the following must be true to explain the fish's "*c-start escape*" response (in terms of evolutionary mechanisms)?  
-(**select all that apply**)  
+**Q1** *(2 points)*: Which of the following must be true to explain why the fish predated by tentacled snakes have a "*c-start escape*" response (in terms of evolutionary mechanisms)?  
+(**choose the one correct answer**)    
 a) In order for tentacled snakes to catch them, the fish must have a less stereotyped c-start behavior   
 b) the fish must also have predators that cannot perform the j-shape predatory technique of tentacled snakes  
 c) the fish predated by tentacled snakes must respond more slowly to startling stimuli  
@@ -26,7 +26,7 @@ d) the tentacled snake must gain a fitness benefit from the c-start escape behav
 
 **Q2** *(2 points)*: What aspect of reflexes and fixed action patterns makes it possible for “code breaking” behavior phenotypes to evolve (like the j-shape hunting technique of the tentacled snake)?  
 Reflexes and fixed action patterns are (**choose the one correct answer**):  
-a) stereotyped responses linked to specific stimuli (eg. sign stimuli) 
+a) stereotyped responses linked to specific stimuli (eg. sign stimuli)  
 b) learned  
 c) maladaptive for the responding animal  
 d) driven by neural mechanisms   
@@ -59,7 +59,8 @@ _________________, the ants will overestimate this value.
 ---
 
 **Q6** *(2 points)*: From the results of the experient shown in Figure 1, you would be able to conclude whether migratory behaivor is genetically inherited or learned in these birds.  
-***Choose one answer: *** **TRUE/FALSE** 
+***(Choose the one correct answer.)***   
+**TRUE/FALSE** 
 
 ---
  
@@ -72,13 +73,13 @@ _________________, the ants will overestimate this value.
 
 ---
 
-**Q7** *(4 points)*: What would you conclude about the genetic basis of burrowing behavior from the results depicted in Figure 2B&C and why? (2-3 sentences).
+**Q7** *(4 points)*: What would you conclude about the genetic basis of burrowing behavior if given the mock/predicted results depicted in Figure 2B&C and why? (**2-3 sentences**).
 
 --- 
 
 **Q8** *(2 points)*: Which of the following is a correlational (not causal) result from the research of Bendesky et al
 (2017) that provides evidence for the hormonal mechanisms of parental care behavior:  
-(***choose one answer***)  
+***(Choose the one correct answer.)***   
 a) QTL analysis revealed that variation in a region on chromosome 4 was significantly associated with differences in nest quality between species, but not other parental care behaviors.  
 b) Injection of AVP (vasopressin) into mice decreased nest quality.  
 c) Species that made better quality nests had higher levels of AVP (vasopressin) gene expression.  
@@ -91,7 +92,7 @@ c) Species that made better quality nests had higher levels of AVP (vasopressin)
 
 Few studies have directly addressed the combined effect of "sexual" and "natural" selection pressures on the evolution of behavior.
 
-**Q10** *(2 points)*: In 2-3 sentences, compare and contrast "sexual" and "natural" selection. 
+**Q10** *(2 points)*: In **2-3 sentences**, compare and contrast "**sexual**" and "**natural**" selection. 
 
 --- 
 
@@ -117,9 +118,9 @@ Túngara frogs (*Engystomops pustulosus*) are a Neotropical species. At night, m
 
 **Figure 4**: *The number of chucks in a male's call is correlated with its attractiveness to potential female mates (A)* ***and*** *the ability of predators to find and attack it (B). These two factors would be included as selective pressures in an evolutionary model of this communication system.*
 
-Interestingly, compared to urban frogs, frogs in urban environments tend to have **fewer predators** (in urban environments, noise polution negatively impacts the fitness of túngara frogs less than its predators). 
+Interestingly, compared to rural frogs, frogs in urban environments tend to have **fewer predators** (in urban environments, noise polution negatively impacts the fitness of túngara frogs less than its predators). 
 
-Use all of this introductory information from research on túngara frogs to answer **Q10-Q17**.
+Use all of this introductory information from research on túngara frogs to answer **Q11-Q16**.
 
 ---
 
@@ -127,8 +128,8 @@ Use all of this introductory information from research on túngara frogs to answ
 
 ---
 
-**Q12** *(3 points)*: Changes in the environment can change the impact of selective pressures (factors) in evolutionary models. In **an environment with more reproductively available females**, **which of the following would be true** (in the context of an evolutionary model for male calling behavior)?   
-(***Chose the one correct answer*** and ***explain your reasoning***)   
+**Q12** *(2 points)*: Changes in the environment can change the impact of selective pressures (factors) in evolutionary models. In **an environment with more reproductively available females**, **which of the following would be true** (in the context of an evolutionary model for male calling behavior)?   
+(***Chose the one correct answer***)   
 **a)** Male frogs would be *more* likely to get a mate.  
 **b)** Male frogs would be *less* likely to get a mate.  
 **c)** Male frogs would need to compete *more* for a mate because the operational sex ratio (M:F) would be larger. 
@@ -159,9 +160,9 @@ Use all of this introductory information from research on túngara frogs to answ
 
 ---
 
-The frogs' ear has two different organs that transduce (transform) sound into neural signals (spikes): the ***amphibian papilla*** and the ***basilar papilla***. Sensory neurons in the **basilar** papilla of the female's ear are selectively sensitive to (responds with the highest spike rate to) the **chuck** of the male call compared to the whine (whines don't activate basilar papilla neurons, but chucks do). 
+The frogs' ear has two different organs that transduce (transform) sound into neural signals (spikes): the ***amphibian papilla*** and the ***basilar papilla***. In túngara frogs, sensory neurons in the **basilar** papilla of the female's ear are selectively sensitive to (responds with the highest spike rate to) the **chuck** of the male call compared to the whine (whines don't activate basilar papilla neurons, but chucks do). 
 
----
+Figure 5 shows a phylogeny of frogs with the character mapping of sender and receiver traits in this communication system. Use it to answer **Q15**
 
 :::{image} /images/tungara-phylogeny.png
 :width: 600
@@ -176,7 +177,7 @@ The frogs' ear has two different organs that transduce (transform) sound into ne
 
 Male túngara frogs are known to "*facultatively*"" vary the complexity of their calls -- when they are alone they produce mostly simple calls (whines with few or no chucks); when they are in choruses, they produce calls with more chucks. 
 
-**Q16 (OPTIONAL for bonus points)** *(2 points)*: Explain this phenomenon using the evolutionary model you proposed in *Q10*.
+**Q16 (OPTIONAL for bonus points)** *(2 points)*: Explain this phenomenon using the evolutionary model you proposed in *Q11*.
 
 ---
 

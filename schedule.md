@@ -21,13 +21,13 @@ Group work assessments provided via [this link](https://forms.gle/heoNQ9mdmXWdkz
 | *Feb 17* | *Exam released* | Part 1 (Components of Behavior, Observation, and Analysis) | [](../assessment-sum/assessment_components-observation-analysis) |
 | **Feb 20** | Phylogeny | TBD | [Phylogeny: day 2](phylogeny_day2) |
 | Feb 22 | Evolution | Complete [the phylogeny of behavior assignment](phylogeny-burrowing-assignment) from last class; Come prepared with [responses to your exploration of this natural selection simulation](natural-selection-simulation) | [Evolution: day 1](../levels-of-analysis/evolution) |
-| *Feb 24* | **Exam DUE** | Part 1 (Components of Behavior, Observation, and Analysis) Due by midnight  | [](../assessment-sum/assessment_components-observation-analysis) |
+| *Feb 24* | **Exam DUE** | Part 1 (Components of Behavior, Observation, and Analysis) Due by 11pm  | [](../assessment-sum/assessment_components-observation-analysis) |
 | **Feb 27** | Evolution | [Alcock and Rubenstein text *pg 183-184*](https://drive.google.com/file/d/11ixpv0rAw6nJ9arHLuvGWjU15dcFxF7B/view?usp=sharing); <br> [P.M. Meire, A. Ervynck (1986) Are oystercatchers (Haematopus ostralegus) selecting the most profitable mussels (Mytilus edulis)?, Animal Behaviour 34(5)](https://doi.org/10.1016/S0003-3472%2886%2980213-5) | [Evolution: day 2](game-theory) |
 | March 1 | Neural | [Huberman Podcast: Understanding and Controlling Aggression](https://hubermanlab.com/understanding-and-controlling-aggression/); <br> Please fill out this [anonymous midterm-ish feedback survey](https://forms.gle/1LdcryTvZ2ohSP4o6)| [Neural: Day 1](../levels-of-analysis/neural) |
 | *March 3* | *Exam released* | Part 2 (Phylogeny and Evolution) | [](../assessment-sum/summative-assessment) |
 | **March 6** | Neural | review [Konrad Lorenz *Here am I. Where are You?* (1988)](https://drive.google.com/file/d/12rJaGxQjkovlIAYCxjHb4Br0kEClEBrX/view?usp=sharing) *pg 83-88* if you need a refresher; <br> [Ronacher, B. Innate releasing mechanisms and fixed action patterns: basic ethological concepts as drivers for neuroethological studies on acoustic communication in Orthoptera. J Comp Physiol A 205, 33–50 (2019)](https://doi.org/10.1007/s00359-018-01311-3) stopping at the section that starts with "Exploring innate releasing mechanisms" on pg 37; <br> If you have not already, please fill out [this anonymous midterm-ish feedback survey](https://forms.gle/1LdcryTvZ2ohSP4o6)| [Neural: Day 2](neural_day2) |
 | March 8 | Hormonal | [The Fantastical World Of Hormones With Dr John Wass](https://youtu.be/EHnJjGzp__M) | [](../levels-of-analysis/hormonal) |
-| *March 10* | **Exam DUE** | Part 2 (Phylogeny and Evolution) Due by midnight  | [](../assessment-sum/summative-assessment) |
+| *March 10* | **Exam DUE** | Part 2 (Phylogeny and Evolution) Due by 11pm  | [](../assessment-sum/summative-assessment) |
 | March 11-26 | **Spring Break** |  |  |
 | **March 27** | Genetic | [Nature and Nurture Podcast: EP11 - Social Behavior of Rodents with Dr. Hopi Hoekstra](https://soundcloud.com/nnpodcast/ep11-social-behavior-of-rodents-with-dr-hopi-hoekstra) (minutes 0-10 address Hoekstra's genetic basis of behavior work more directly and you can stop at 10min if you want, then she talks more about general culture of lab and science and work-life balance) | [](../levels-of-analysis/genetic) |
 | March 29 | Endogenous Rhythms | [Levy et al (2021) Lifelong exposure to artificial light at night impacts stridulation and locomotion activity patterns in the cricket Gryllus bimaculatus. Proc R Soc B, 288](https://doi.org/10.1098/rspb.2021.1626), Sections: *Abstract, Introduction, Methods(a) Rearing Conditions, Figure 2, Results(d) Artificial light at night elicited three types of activity patterns, Figure 5, and Discussion. | [](../levels-of-analysis/endogenous-rhythms) |
@@ -36,7 +36,7 @@ Group work assessments provided via [this link](https://forms.gle/heoNQ9mdmXWdkz
 | *April 7*| *Exam released* | Part 3 (Neural, Hormonal, Genetic, and Development) | [](../assessment-sum/summative-assessment) |
 | **April 10** | Escape | [Jun Liu, Monika Scholz (2020) Neural Circuits: Turning away from danger eLife 9:e59910](https://doi.org/10.7554/eLife.59910); <br> [Catania K. C. (2011). The brain and behavior of the tentacled snake. Annals of the New York Academy of Sciences, 1225, 83–89.](https://doi.org/10.1111/j.1749-6632.2011.05959.x) | [](../understanding-behavior/escape) |
 | April 12 | Communication - proximate | [The Animal Behavior Podcast, S2E4: Jesse Goldberg on Neurobiology and Vocal Learning in Song Birds](https://theanimalbehaviorpodcast.buzzsprout.com/1540180/10779839) | [](../understanding-behavior/communication_proximate) |
-| *April 14*| **Exam DUE** | Part 3 (Neural, Hormonal, Genetic, and Development) Due by midnight  | [](../assessment-sum/summative-assessment) |
+| *April 14*| **Exam DUE** | Part 3 (Neural, Hormonal, Genetic, and Development) Due by 11pm  | [](../assessment-sum/summative-assessment) |
 | **April 17** | Communication - ultimate | [The Animal Behavior Podcast, S2E2: Tamra Mendelson on Signal Evolution and Processing Bias](https://theanimalbehaviorpodcast.buzzsprout.com/1540180/10615918) | [](../understanding-behavior/communication_ultimate) |
 | April 19 | Social Spectrum - Grouping and Cooperation | [The Animal Behavior Podcast, S2E7: Gerry Carter on Animal Cooperation and Incentive Structures in Academia](https://theanimalbehaviorpodcast.buzzsprout.com/1540180/11080359) | [](../understanding-behavior/social-spectrum_cooperation) |
 | **April 24** | Social Spectrum - Eusociality and Altruism | [Common Descent: Episode 111 Eusociality (from minute ~39 to ~120)](https://www.youtube.com/watch?v=NJXPCEFcWQs&list=PLfdiT8Klm_YPa0lNVa9ygwAjy_1Lpz9_S&index=116&t=2340s) | [](../understanding-behavior/social-spectrum_eusociality) |
@@ -46,8 +46,8 @@ Group work assessments provided via [this link](https://forms.gle/heoNQ9mdmXWdkz
 | *May 4* | *Exam released* | Part 4 (Understanding Behavior) | [](../assessment-sum/summative-assessment) |
 | **May 8** | Bring your capstone drafts to class | [](../assessment-sum/capstone) |
 | May 10 | Bring your capstone drafts to class | [](../assessment-sum/capstone) |
-| May 10 | **Exam DUE** | Part 4 (Understanding Behavior) Due by midnight  | [](../assessment-sum/summative-assessment) |
-| May 16 | **Capstone DUE** |  | [](../assessment-sum/capstone) |
+| May 10 | **Exam DUE** | Part 4 (Understanding Behavior) Due by 11pm  | [](../assessment-sum/summative-assessment) |
+| May 19 | **Capstone DUE** |  | [](../assessment-sum/capstone) |
 
 
 May 11-**15** Reading Period
