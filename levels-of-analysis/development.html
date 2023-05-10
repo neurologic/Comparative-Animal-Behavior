@@ -1,0 +1,821 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Development &#8212; Comparative Animal Behavior</title>
+    
+  <link href="../_static/css/theme.css" rel="stylesheet">
+  <link href="../_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+
+    
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="../_static/js/index.be7d3bbb2ef33a8344ce.js">
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Navigation" href="../understanding-behavior/navigation.html" />
+    <link rel="prev" title="Endogenous Rhythms" href="endogenous-rhythms.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="../index.html">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="../_static/Moffett-ants.jpg" class="logo" alt="logo">
+      
+      
+      <h1 class="site-logo" id="site-title">Comparative Animal Behavior</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        <ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../welcome.html">
+   Welcome
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  General
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../syllabus.html">
+   Syllabus
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../schedule.html">
+   Schedule
+  </a>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../assessment-sum/summative-assessment.html">
+   Summative Assessment
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../assessment-sum/assessment-example.html">
+     Example
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../assessment-sum/assessment_components-observation-analysis.html">
+     Components of Behavior, Observation, and Analysis
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../assessment-sum/assessment_phylogeny-evolution.html">
+     Phylogeny and Evolution
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../assessment-sum/assessment_neural-hormonal-genetic-development.html">
+     Neural, Hormonal, Genetic, and Development
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../assessment-sum/assessment_understanding-behavior.html">
+     Understanding Behavior
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../assessment-sum/capstone.html">
+   Capstone
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../genindex.html">
+   Terms, Topics, Concepts
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../ethical-considerations.html">
+   Ethical Considerations for Animal Use
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Describing Behavior
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../observation-and-analysis/components.html">
+   Components
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../observation-and-analysis/observation.html">
+   Observation
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../observation-and-analysis/analysis.html">
+   Analysis
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Levels of Analysis
+ </span>
+</p>
+<ul class="current nav bd-sidenav">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="ultimate.html">
+   Ultimate
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="phylogeny.html">
+     Phylogeny
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="evolution.html">
+     Evolution
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 current active has-children">
+  <a class="reference internal" href="proximate.html">
+   Proximate
+  </a>
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul class="current">
+   <li class="toctree-l2">
+    <a class="reference internal" href="neural.html">
+     Neural Mechanisms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="hormonal.html">
+     Hormonal Mechanisms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="genetic.html">
+     Genetic Mechanisms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="endogenous-rhythms.html">
+     Endogenous Rhythms
+    </a>
+   </li>
+   <li class="toctree-l2 current active">
+    <a class="current reference internal" href="#">
+     Development
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Understanding Behavior
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../understanding-behavior/navigation.html">
+   Navigation
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../understanding-behavior/escape.html">
+   Escape
+  </a>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../understanding-behavior/communication.html">
+   Communication
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <label for="toctree-checkbox-4">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/communication_proximate.html">
+     Communication: Proximate
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/communication_ultimate.html">
+     Communication: Ultimate
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../understanding-behavior/social-spectrum.html">
+   Social Spectrum
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
+  <label for="toctree-checkbox-5">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/social-spectrum_cooperation.html">
+     Grouping and Cooperation
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/social-spectrum_eusociality.html">
+     Eusociality
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../understanding-behavior/family-life.html">
+   Family Life
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/>
+  <label for="toctree-checkbox-6">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/family-life_sexual-selection.html">
+     Sexual Selection
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/family-life_mating-systems.html">
+     Mating Systems
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/family-life_parental-care.html">
+     Parental Care
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+    </div>
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="topbar container-xl fixed-top">
+    <div class="topbar-contents row">
+        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
+        <div class="col pl-md-4 topbar-main">
+            
+            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+                <i class="fas fa-bars"></i>
+                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-arrow-up"></i>
+            </button>
+            
+            
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../_sources/levels-of-analysis/development.md"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.md</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+            <!-- Source interaction buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
+    <div class="dropdown-buttons sourcebuttons">
+        <a class="repository-button"
+            href="https://github.com/neurologic/Comparative-Animal-Behavior/issues"><button type="button" class="btn btn-secondary topbarbtn"
+                data-toggle="tooltip" data-placement="left" title="Source repository"><i
+                    class="fab fa-github"></i>repository</button></a>
+        
+        
+    </div>
+</div>
+
+            <!-- Full screen (wrap in <a> to have style consistency -->
+
+<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+        title="Fullscreen mode"><i
+            class="fas fa-expand"></i></button></a>
+
+            <!-- Launch buttons -->
+
+        </div>
+
+        <!-- Table of contents -->
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
+            
+            <div class="tocsection onthispage pt-5 pb-3">
+                <i class="fas fa-list"></i> Contents
+            </div>
+            <nav id="bd-toc-nav" aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#case-study-polyphenism-in-tiger-salamanders">
+   Case Study: Polyphenism in Tiger Salamanders
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#case-study-queens-versus-worker-bees">
+   Case Study: Queens versus Worker bees
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#epigenetics">
+   <em>
+    EPI
+   </em>
+   genetics.
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#case-study-aggression">
+   Case Study: Aggression
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#neural-plasticity-ie-learning">
+   Neural plasticity (ie. learning)
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#transgenerational-epigenetics">
+   Transgenerational epigenetics
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#additional-resources">
+   Additional Resources
+  </a>
+ </li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Development</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#case-study-polyphenism-in-tiger-salamanders">
+   Case Study: Polyphenism in Tiger Salamanders
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#case-study-queens-versus-worker-bees">
+   Case Study: Queens versus Worker bees
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#epigenetics">
+   <em>
+    EPI
+   </em>
+   genetics.
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#case-study-aggression">
+   Case Study: Aggression
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#neural-plasticity-ie-learning">
+   Neural plasticity (ie. learning)
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#transgenerational-epigenetics">
+   Transgenerational epigenetics
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#additional-resources">
+   Additional Resources
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            
+              <div>
+                
+  <div class="tex2jax_ignore mathjax_ignore section" id="development">
+<h1>Development<a class="headerlink" href="#development" title="Permalink to this headline">¶</a></h1>
+<p><a class="reference external" href="https://docs.google.com/document/d/1-bB2-g43qwvfuGxjSpsZkHzYLy8W1fO84w2Kdw5nvnk/edit?usp=sharing">Responses template if needed</a></p>
+<div class="admonition-why admonition">
+<p class="admonition-title">Why?</p>
+<blockquote class="epigraph">
+<div><p>In the study of development we are interested not only in the final state to which the system arrives, but also in the course by which it gets there</p>
+<p class="attribution">—C.H. Waddington, 1957.</p>
+</div></blockquote>
+<blockquote class="epigraph">
+<div><p>Given the evidence, familiar to everyone, that numerous environmental inputs are consistently supplied (essential) during normal development, the skepticism of biologists regarding the reliability of environmental factors relative to that of genes has to rank among the oddest blind spots of biological thought. Contrary to common belief, environmentally initiated novelties may have greater evolutionary potential than mutationally induced ones.</p>
+<p class="attribution">—<a class="reference external" href="https://doi.org/10.1073/pnas.0501844102">Mary Jane West-Eberhard (2005)</a></p>
+</div></blockquote>
+<p>Animals don’t start their lives as tiny copies of adults; there are all sorts of changes that a creature goes through from fertilization to birth and from newborn to mature. This development is called ontogeny. In this session, we explore how ontogenetic change impacts animal behavior as they grow.</p>
+</div>
+<p>In some ways, developmental mechanisms are the alternate to genetic mechanisms. In other words, it is the consideration of what environmental factors influence phenotype expression. However, the influence of environmental factors depends on “genetically encoded” mechanisms to enable the environment to have an effect. etc…</p>
+<div class="section" id="case-study-polyphenism-in-tiger-salamanders">
+<h2>Case Study: Polyphenism in Tiger Salamanders<a class="headerlink" href="#case-study-polyphenism-in-tiger-salamanders" title="Permalink to this headline">¶</a></h2>
+<dl class="glossary simple">
+<dt id="term-polymorphism">polymorphism<a class="headerlink" href="#term-polymorphism" title="Permalink to this term">¶</a></dt><dd><p>different phenotypes are enabled by different alleles of the same gene across individuals</p>
+</dd>
+<dt id="term-polyphenism">polyphenism<a class="headerlink" href="#term-polyphenism" title="Permalink to this term">¶</a></dt><dd><p>different phenotypes are enabled by mechanisms that control expression patterns among sets of genes within the same individual (ie. a single genotype)</p>
+</dd>
+</dl>
+<p>Tiger salamanders exist in one of two phenotypes: <em><strong>normal</strong></em> and <em><strong>cannibal</strong></em>. These morphologically distinct phenotypes are associated with distinct behaviors. The most striking behavioral difference is in foraging. The <em>normal</em> phenotype feed on invertebrates (such as earthworms), while the <em>cannibal</em> phenotype feed on smaller conspecifics.</p>
+<div class="figure align-default" id="id5">
+<a class="reference internal image-reference" href="../_images/tiger-salamander-morphs.jpg"><img alt="../_images/tiger-salamander-morphs.jpg" src="../_images/tiger-salamander-morphs.jpg" style="width: 500px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 76 </span><span class="caption-text">Tiger salamander morphs. Top: normal. Bottom: cannibal.</span><a class="headerlink" href="#id5" title="Permalink to this image">¶</a></p>
+</div>
+<p>Cannibals are induced when <em>crowded</em> with conspecific larvae. To investigate the developmental mechanisms of this polyphenism, Hoffman and Pfennig<a class="footnote-reference brackets" href="#proximate-salamander-cannibal" id="id1">1</a> used a jar to isolate the various sensory cues for conspecific density. Specifically, they therefore asked “what sensory cues trigger the expression of cannibals.”</p>
+<div class="figure align-default" id="id6">
+<a class="reference internal image-reference" href="../_images/tiger-salamander-cannibalism_1999_Fig1.png"><img alt="../_images/tiger-salamander-cannibalism_1999_Fig1.png" src="../_images/tiger-salamander-cannibalism_1999_Fig1.png" style="width: 800px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 77 </span><span class="caption-text">In this experiment, phenotypically indistinct salamander larvae were housed together in various conditions (as shown). A jar was used to specifically manipulate the environment of a <em>focal</em> larva. The behavioral phenotype of the focal larva was asessed after larval development was completed. Each manipulation was repeated 16 times.</span><a class="headerlink" href="#id6" title="Permalink to this image">¶</a></p>
+</div>
+<hr class="docutils" />
+<blockquote>
+<div><p>⏳ 10 min</p>
+</div></blockquote>
+<p><em><strong>Q1: How does this experiment provide evidence that the phenotypic variation in foraging behavior among salamanders is a polyphenism versus a polymorphism?</strong></em></p>
+<p><em><strong>Q2: Which of the following statements would you agree with (select all that apply and write a brief statement of your reasoning for each statement that you agree with):<br />
+a. Mechanisms that alter gene expression are activated by neural sensory filters that are sensitive to the touch of conspecifics<br />
+b. The fitness of the cannibal phenotype is higher than the fitness of the normal phenotype<br />
+c. The fitness of the cannibal phenotype increases when a larger fraction of the population are normal phenotype<br />
+d. It would be more appropriate to model an evolutionary explanation of foraging behavior in salamanders using game theory than optimality theory.</strong></em></p>
+<p>⏸️ PAUSE here for class-wide discussion</p>
+<hr class="docutils" />
+<p>If genes encode phenotypes, then how can the same genome produce different phenotypes?</p>
+</div>
+<div class="section" id="case-study-queens-versus-worker-bees">
+<h2>Case Study: Queens versus Worker bees<a class="headerlink" href="#case-study-queens-versus-worker-bees" title="Permalink to this headline">¶</a></h2>
+<p>DNMT3 is a protein that methylates cytosine nucleotides and controls the pattern of <em>DNA methylation</em> across the genome. We know that DNA methylation controls whether transriptional proteins can bind to the DNA upstream of their target genes. Additionally, to do its job, DNMT3, like any other protein, must be transcribed and translated (ie. <em>expressed</em>).</p>
+<div class="figure align-default" id="id7">
+<a class="reference internal image-reference" href="../_images/epigenetics-dnmt.png"><img alt="../_images/epigenetics-dnmt.png" src="../_images/epigenetics-dnmt.png" style="width: 500px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 78 </span><span class="caption-text">DNA methyltransferase (DNMT) methylates cytosine nucleotides.</span><a class="headerlink" href="#id7" title="Permalink to this image">¶</a></p>
+</div>
+<div class="margin sidebar">
+<p class="sidebar-title">Apis life cycle</p>
+<img alt="../_images/honeybeelifecycle.jpg" src="../_images/honeybeelifecycle.jpg" />
+</div>
+<p>Female bee larvae can develop into one of two castes (workers or queens), each with a unique behavioral repertoire.</p>
+<a class="reference internal image-reference" href="../_images/apis-castes.png"><img alt="../_images/apis-castes.png" class="align-center" src="../_images/apis-castes.png" style="width: 300px;" /></a>
+<p>Fertilized eggs develop into female larvae over 3 days. All larvae are then fed <em>royal jelly</em> for 2-4 days. Then, most larvae are switched to a diet of pollen and nectar. However, some larvae remain on the royal jelly diet. Only the larvae with extended royal jelly diet become reproductively viable queens (hence the name: royal jelly).</p>
+<p>Interestingly, experimental manipulation of Dnmt3 has been able to reproduce the effects of royal jelly on the development of queens (large) and worker (small) bees.<a class="footnote-reference brackets" href="#kucharski2008" id="id2">2</a></p>
+<hr class="docutils" />
+<blockquote>
+<div><p>⏳ 10 min</p>
+</div></blockquote>
+<div class="figure align-default" id="id8">
+<a class="reference internal image-reference" href="../_images/dmnt3_and_bees.png"><img alt="../_images/dmnt3_and_bees.png" src="../_images/dmnt3_and_bees.png" style="width: 500px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 79 </span><span class="caption-text">From left to right the experimental conditions are: royal jelly, no royal jelly, blocking Dnmt3 function, normal Dnmt3 function.</span><a class="headerlink" href="#id8" title="Permalink to this image">¶</a></p>
+</div>
+<p>Refer to Figure 73 to answer the following questions.</p>
+<p><em><strong>Q3: Which experimental conditions resulted in larvae becoming adult workers?</strong></em></p>
+<p><em><strong>Q4: Which experimental conditions resulted in larvae becoming adult queens?</strong></em></p>
+<p><em><strong>Q5: In order to produce adult queens, royal jelly:<br />
+a. methylates cytosine nucleotides to control gene transcription and translation<br />
+b. mimics the effects of Dnmt3<br />
+c. blocks Dnmt3 from methylating cytosine nucleotides</strong></em></p>
+<p>⏸️ PAUSE here for class-wide discussion</p>
+<hr class="docutils" />
+<p>In summary, the <em>phenotype depends on which genes are</em> <em><strong>expressed</strong></em> (actually transcribed and translated into proteins), not necessarily the genotye itself. THEREFORE, <em>environmental factors</em> that control which genes are expressed effectively <em>control the phenotype</em>.</p>
+</div>
+<hr class="docutils" />
+<div class="section" id="epigenetics">
+<h2><em>EPI</em>genetics.<a class="headerlink" href="#epigenetics" title="Permalink to this headline">¶</a></h2>
+<p>The accessibility of DNA to transription proteins is controlled by three main mechanisms:</p>
+<ol>
+<li><p>DNA methylation</p>
+<blockquote>
+<div><p>The addition of a methyl group to the 5-position of cytosine in the context of CpG dinucleotides.</p>
+</div></blockquote>
+</li>
+<li><p>histone modification</p>
+<blockquote>
+<div><p>The fundamental repeating unit of chromatin is the nucleosome comprised of DNA wound around an octamer of core histone proteins. Posttranslational modifications of the amino-terminal tails of histone proteins (light and dark blue balls) and the density of these proteins per unit length of DNA, can importantly affect chromatin structure and constitute a putative “histone code.” Euchromatin and heterochromatin exist in different structural states (open and closed, respectively)</p>
+</div></blockquote>
+</li>
+<li><p>RNA</p>
+<blockquote>
+<div><p>Impact the 3-D shape of chromatin and the accessability of DNA to transcription</p>
+</div></blockquote>
+</li>
+</ol>
+<a class="reference internal image-reference" href="../_images/epigenetic-fundamental-mechanisms.png"><img alt="../_images/epigenetic-fundamental-mechanisms.png" class="align-center" src="../_images/epigenetic-fundamental-mechanisms.png" style="width: 600px;" /></a>
+</div>
+<div class="section" id="case-study-aggression">
+<h2>Case Study: Aggression<a class="headerlink" href="#case-study-aggression" title="Permalink to this headline">¶</a></h2>
+<p>Variation in aggressiveness is linked in many species to variation in the serotonergic system and to variation in early exposure to androgens.<br />
+<em><strong>Think about what this implies about the role of hormones in epigenetics.</strong></em></p>
+<blockquote>
+<div><p>What kinds of neural changes might hormones cause that would result in a more aggressive individual?
+How could hormones cause neural changes via genetic mechanisms?</p>
+</div></blockquote>
+<div class="figure align-default" id="id9">
+<a class="reference internal image-reference" href="../_images/developmental-androgen-aggression.png"><img alt="../_images/developmental-androgen-aggression.png" src="../_images/developmental-androgen-aggression.png" style="width: 400px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 80 </span><span class="caption-text">This graph shows the first evidence of hormone-mediated maternal effects in mammals (spotted hyenas). The results suggest an <em>organizational</em> mechanism for the development of aggressiveness in spotted hyaenas. A developmental perspective suggests that prenatal hormone exposure influences their baseline aggressiveness. This relationship between maternal faecal androgen concentration and cub aggression was not directly affected by maternal rank, maternal aggressiveness or any other variable explored.<a class="footnote-reference brackets" href="#holekamp2013" id="id3">3</a></span><a class="headerlink" href="#id9" title="Permalink to this image">¶</a></p>
+</div>
+<p>FAPs for aggression differ between males and females.<br />
+<em><strong>Think about what this implies about the genetic, neural, and development mechanisms of aggression in males versus females.</strong></em></p>
+<blockquote>
+<div><p>Do males and females have different alleles of the aggression genes (ie. are they sex-linked genes) or are there separate genes for male versus female aggression behaviors?
+Do males and females have similar or different neural circuits for aggression? Which parts of the circuit might be different and which parts might be similar?
+Could a male fly be induced to develop female aggressive behaviors?</p>
+</div></blockquote>
+<div class="figure align-default" id="id10">
+<a class="reference internal image-reference" href="../_images/aggression-dimorphism-fruit-fly.jpg"><img alt="../_images/aggression-dimorphism-fruit-fly.jpg" src="../_images/aggression-dimorphism-fruit-fly.jpg" style="width: 600px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 81 </span><span class="caption-text">Motor programs used in fruit fly aggression. <strong>A)</strong> The Venn diagram shows the different motor programs used in male and female aggression. Some of the motor programs are sexually dimorphic. The motor programs encircled in blue are specific for male aggression. The motor programs encircled in red are specific to female aggression. The intersection enlists the motor programs common to both male and female aggression. <strong>B)</strong> The most consistent motor program in male aggression is a <em>lunge</em>. In a lunge, a male fly stands on its hind legs and snaps down on its opponent. <strong>C)</strong> The most consistent motor program in female aggression is a <em>head butt</em>. In a head butt, the female fly extends her torso and strikes the opponent with her head.<a class="footnote-reference brackets" href="#sengupta2022" id="id4">4</a></span><a class="headerlink" href="#id10" title="Permalink to this image">¶</a></p>
+</div>
+</div>
+<div class="section" id="neural-plasticity-ie-learning">
+<h2>Neural plasticity (ie. learning)<a class="headerlink" href="#neural-plasticity-ie-learning" title="Permalink to this headline">¶</a></h2>
+<dl class="glossary simple">
+<dt id="term-imprinting">imprinting<a class="headerlink" href="#term-imprinting" title="Permalink to this term">¶</a></dt><dd><p>Famously described by zoologist Konrad Lorenz in the 1930s, <em><strong>imprinting</strong></em> occurs when an animal forms an attachment to the first thing it sees upon hatching. Lorenz discovered that newly hatched goslings would follow the first moving object they saw — often Lorenz himself. Researchers continue to examine imprinting as an example of tightly constrained learning that involves genetic predispositions. The imprinting of a young animal on one object necessarily closes down the possibility of its imprinting on others. There is normally a relatively restricted period in the first few hours or days of life during which imprinting can occur.</p>
+</dd>
+<dt id="term-associative-learning">associative learning<a class="headerlink" href="#term-associative-learning" title="Permalink to this term">¶</a></dt><dd><p>involves a behavioral response to one stimulus being transferred to another stimulus through repeated temporal association. For example, salivating at the sound of a dinner bell after you have learned that a dinner bell is a signal that dinner is available.</p>
+</dd>
+<dt id="term-operant-conditioning">operant conditioning<a class="headerlink" href="#term-operant-conditioning" title="Permalink to this term">¶</a></dt><dd><p>involves the use of reward and punishment to modify behavioral responses to specific stimuli and requires personal experience to learn favorable stimulus-response relationships. For example, always wearing the same outfit on the day of a big presentation because the first time you wore it you gave the best presentation of your life. Or not challenging authority if you have been consistently been punished by challenging authority (ie. avoiding punishment).</p>
+</dd>
+<dt id="term-cultural-transmission">cultural transmission<a class="headerlink" href="#term-cultural-transmission" title="Permalink to this term">¶</a></dt><dd><p>is the process of passing along non-inherited behavioral scripts across generations. Culture represents a collection of behavioral scripts that are generally agreed upon by a group of individuals. These behavioral scripts can be adaptive (learned) or arbitrary.</p>
+</dd>
+</dl>
+<p>Importantly, the ability to learn is genetically-encoded even though the learned material itself is not.</p>
+</div>
+<div class="section" id="transgenerational-epigenetics">
+<h2>Transgenerational epigenetics<a class="headerlink" href="#transgenerational-epigenetics" title="Permalink to this headline">¶</a></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pBkVx12yc2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://omny.fm/shows/clear-vivid-with-alan-alda/bianca-jones-marlin-preparing-kids-for-survival/embed" width="100%" height="180" allow="autoplay; clipboard-write" frameborder="0" title="Bianca Jones Marlin: Preparing Kids for Survival"></iframe>
+</div>
+<div class="section" id="additional-resources">
+<h2>Additional Resources<a class="headerlink" href="#additional-resources" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="https://doi.org/10.1016/j.tree.2004.11.017">Fitzpatrick, MJ. et al. (2005) Candidate genes for behavioural ecology. Trends in Ecology &amp; Evolution
+Volume 20, Issue 2</a></p></li>
+<li><p><a class="reference external" href="https://www.pnas.org/doi/10.1073/pnas.0501844102#sec-7">Evolutionary Potential of Environmentally Induced Change</a></p></li>
+<li><p><a class="reference external" href="https://doi.org/10.1038/s41467-021-23142-8">Buitrago, D., Labrador, M., Arcon, J.P. et al. Impact of DNA methylation on 3D genome structure. Nat Commun 12, 3243 (2021)</a></p></li>
+<li><p><a class="reference external" href="https://doi.org/10.1073/pnas.0809463106">Christophe Lucas and Marla B. Sokolowski (2009) Molecular basis for changes in behavioral state in ant social behaviors. PNAS 106(15)</a></p></li>
+<li><p><a class="reference external" href="https://doi.org/10.3389/fgene.2019.00132">Chih-Hsiang Yangand John Andrew Pospisilik (2019) Polyphenism – A Window Into Gene-Environment Interactions and Phenotypic Plasticity. Front. Genet., 26</a></p></li>
+</ul>
+<!-- 
+### Epigenetics
+
+***Q: Do all somatic cells (cells of the body tissues) within an individual animal have the same genome? Explain your reasoning.***
+
+***Q: Do all somatic cells have the same protein composition? Explain your reasoning.***
+
+In order to be transcribed and translated, DNA must be accessible to various proteins. DNA accessibility is tightly controlled by molecular tags on the DNA itself and on histone proteins around which it winds. Critically, these tags are flexibly bound to DNA and histone - tags bind or unbind in response to signals from the environment. 
+
+:::{figure-md} epigenetics-simple
+:class: figure
+
+<img src="/images/EpigeneticModifications-simple-cartoon.jpg" alt="fishy" width="500px">
+
+Epigenetic mechanisms involved in regulation of gene expression. Cytosine residues within DNA can be methylated, and lysine and arginine residues of histone proteins can be modified. Me = methylation, Ac = acetylation, P = phosphorylation, Ub = ubiquitination. Image from [Promega](https://www.promega.com/resources/guides/nucleic-acid-analysis/introduction-to-epigenetics/).
+:::
+
+:::{figure-md} epigenetics-full
+:class: figure
+
+<img src="/images/EpigeneticModifications_Rodenhiser-Mann.jpg" alt="fishy" width="500px">
+
+"(A) Schematic of epigenetic modifications. Strands of DNA are wrapped around histone octamers, forming nucleosomes. These nucleosomes are organized into chromatin, the building block of a chromosome. Reversible and site-specific histone modifications occur at multiple sites through acetylation, methylation and phosphorylation. DNA methylation occurs at 5-position of cytosine residues in a reaction catalyzed by DNA methyltransferases (DNMTs). Together, these modifications provide a unique epigenetic signature that regulates chromatin organization and gene expression. (B) Schematic of the reversible changes in chromatin organization that influence gene expression: genes are expressed (switched on) when the chromatin is open (active), and they are inactivated (switched off) when the chromatin is condensed (silent). These dynamic chromatin states are controlled by reversible epigenetic patterns of DNA methylation and histone modifications. White circles = unmethylated cytosines; red circles = methylated cytosines."[^Rodenhiser-Mann]
+:::
+
+[^Rodenhiser-Mann]: David Rodenhiser and Mellissa Mann (2006) [Epigenetics and human disease: translating basic biology into clinical applications](https://doi.org/10.1503/cmaj.050774). CMAJ, 174 (3) 341-348.
+
+### Spatial Memory Circuits
+
+Neural circuits for specific behaviors are constructed throughout development according to the genome. Hormones modulate gene expression during development.  
+
+***Q: What aspect of the genetic mechanism of behavior would hormones need to effect in order to change behavioral phenotypes?***
+
+In vertebrates, steroid hormones are often involved in the development of sexually dimorphic behavior. Voles exhibit sexual dimorphism in their spatial memory. Greater spatial memory leads to larger homerange sizes (greater dispersal from their home). Males have better spatial memory than females and have larger homerange sizes than females (especially during breeding season). It seems that androgens modulate the development of neural circuits underlying spatial memory. One way to investigate the effects of sex steroids on spatial memory is to examine the effect of in utero position or litter sex-ratio. Males produce androgen hormones during development. Therefore, offspring in a male-biased litter will be exposed to higher levels of androgens *in-utero*.
+
+:::{figure-md} hormone-effects-spatial-learning
+:class: figure
+
+<img src="/images/hormone-effects-spatial-learning.png" alt="fishy" class="bg-primary mb-1" width="400px" style="background-color:white">
+
+In a test of spatial learning called a 'water maze', the 'latency to reach platform' decreases as learning occurs across *blocks* of training. Animals with better spatial memory do better on this spatial learning task. Symbols represent the mean across animals and error bars are 'standard of the mean.' [^hormone-spatial-learning-ref]
+:::
+
+[^hormone-spatial-learning-ref]: L A Galea 1, M Kavaliers, K P Ossenkopp (1996) [Sexually dimorphic spatial learning in meadow voles *Microtus pennsylvanicus* and deer mice *Peromyscus maniculatus*](https://doi.org/10.1242/jeb.199.1.195). J Exp Biol
+, 199(Pt 1):195-200.
+
+***Q: According to Figure _____, how do androgens effect the development of spatial memory circuits in the brain?***
+
+***Q: Extrinsic androgens in-utero have a bigger effect on the development of spatial memory in which sex?***
+
+ -->
+<hr class="footnotes docutils" />
+<dl class="footnote brackets">
+<dt class="label" id="proximate-salamander-cannibal"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
+<dd><p><a class="reference external" href="https://doi.org/10.1890/0012-9658(1999)080%5B1076:PCOCPI%5D2.0.CO;2">Hoffman and Pfennig (1999) PROXIMATE CAUSES OF CANNIBALISTIC POLYPHENISM IN LARVALTIGER SALAMANDERS. Ecology 80(3).</a></p>
+</dd>
+<dt class="label" id="kucharski2008"><span class="brackets"><a class="fn-backref" href="#id2">2</a></span></dt>
+<dd><p>[R. KUCHARSKIJ. MALESZKAS. FORETAND R. MALESZKA (2008) Nutritional Control of Reproductive Status in Honeybees via DNA Methylation. Science 319(5871)] <a class="reference external" href="https://doi.org/10.1126/science.1153069">https://doi.org/10.1126/science.1153069</a></p>
+</dd>
+<dt class="label" id="holekamp2013"><span class="brackets"><a class="fn-backref" href="#id3">3</a></span></dt>
+<dd><p><a class="reference external" href="https://doi.org/10.1098/rstb.2012.0350">Holekamp Kay E., Swanson Eli M. and Van Meter Page E. 2013Developmental constraints on behavioural flexibilityPhil. Trans. R. Soc. B36820120350</a> Figure 1b</p>
+</dd>
+<dt class="label" id="sengupta2022"><span class="brackets"><a class="fn-backref" href="#id4">4</a></span></dt>
+<dd><p><a class="reference external" href="https://doi.org/10.3389/fnbeh.2022.836666">Caroline B. Palavicino-Maggio and Saheli Sengupta (2022) The Neuromodulatory Basis of Aggression: Lessons From the Humble Fruit Fly. Front. Behav. Neurosci.</a> Figure 1</p>
+</dd>
+</dl>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./levels-of-analysis"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+            
+                <!-- Previous / next buttons -->
+<div class='prev-next-area'> 
+    <a class='left-prev' id="prev-link" href="endogenous-rhythms.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">Endogenous Rhythms</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="../understanding-behavior/navigation.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Navigation</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
+</div>
+            
+        </div>
+    </div>
+    <footer class="footer">
+  <p>
+    
+      By Dr. Krista Perks<br/>
+    
+        &copy; Copyright 2022.<br/>
+  </p>
+</footer>
+</main>
+
+
+      </div>
+    </div>
+  
+  <script src="../_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+
+  </body>
+</html>

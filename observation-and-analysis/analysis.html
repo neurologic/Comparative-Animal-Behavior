@@ -1,0 +1,860 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Analysis &#8212; Comparative Animal Behavior</title>
+    
+  <link href="../_static/css/theme.css" rel="stylesheet">
+  <link href="../_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+
+    
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="../_static/js/index.be7d3bbb2ef33a8344ce.js">
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Ultimate" href="../levels-of-analysis/ultimate.html" />
+    <link rel="prev" title="Observation" href="observation.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="../index.html">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="../_static/Moffett-ants.jpg" class="logo" alt="logo">
+      
+      
+      <h1 class="site-logo" id="site-title">Comparative Animal Behavior</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        <ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../welcome.html">
+   Welcome
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  General
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../syllabus.html">
+   Syllabus
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../schedule.html">
+   Schedule
+  </a>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../assessment-sum/summative-assessment.html">
+   Summative Assessment
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../assessment-sum/assessment-example.html">
+     Example
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../assessment-sum/assessment_components-observation-analysis.html">
+     Components of Behavior, Observation, and Analysis
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../assessment-sum/assessment_phylogeny-evolution.html">
+     Phylogeny and Evolution
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../assessment-sum/assessment_neural-hormonal-genetic-development.html">
+     Neural, Hormonal, Genetic, and Development
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../assessment-sum/assessment_understanding-behavior.html">
+     Understanding Behavior
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../assessment-sum/capstone.html">
+   Capstone
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../genindex.html">
+   Terms, Topics, Concepts
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../ethical-considerations.html">
+   Ethical Considerations for Animal Use
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Describing Behavior
+ </span>
+</p>
+<ul class="current nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="components.html">
+   Components
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="observation.html">
+   Observation
+  </a>
+ </li>
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   Analysis
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Levels of Analysis
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../levels-of-analysis/ultimate.html">
+   Ultimate
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/phylogeny.html">
+     Phylogeny
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/evolution.html">
+     Evolution
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../levels-of-analysis/proximate.html">
+   Proximate
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/neural.html">
+     Neural Mechanisms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/hormonal.html">
+     Hormonal Mechanisms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/genetic.html">
+     Genetic Mechanisms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/endogenous-rhythms.html">
+     Endogenous Rhythms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/development.html">
+     Development
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Understanding Behavior
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../understanding-behavior/navigation.html">
+   Navigation
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../understanding-behavior/escape.html">
+   Escape
+  </a>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../understanding-behavior/communication.html">
+   Communication
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <label for="toctree-checkbox-4">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/communication_proximate.html">
+     Communication: Proximate
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/communication_ultimate.html">
+     Communication: Ultimate
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../understanding-behavior/social-spectrum.html">
+   Social Spectrum
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
+  <label for="toctree-checkbox-5">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/social-spectrum_cooperation.html">
+     Grouping and Cooperation
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/social-spectrum_eusociality.html">
+     Eusociality
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../understanding-behavior/family-life.html">
+   Family Life
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/>
+  <label for="toctree-checkbox-6">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/family-life_sexual-selection.html">
+     Sexual Selection
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/family-life_mating-systems.html">
+     Mating Systems
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/family-life_parental-care.html">
+     Parental Care
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+    </div>
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="topbar container-xl fixed-top">
+    <div class="topbar-contents row">
+        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
+        <div class="col pl-md-4 topbar-main">
+            
+            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+                <i class="fas fa-bars"></i>
+                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-arrow-up"></i>
+            </button>
+            
+            
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../_sources/observation-and-analysis/analysis.md"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.md</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+            <!-- Source interaction buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
+    <div class="dropdown-buttons sourcebuttons">
+        <a class="repository-button"
+            href="https://github.com/neurologic/Comparative-Animal-Behavior/issues"><button type="button" class="btn btn-secondary topbarbtn"
+                data-toggle="tooltip" data-placement="left" title="Source repository"><i
+                    class="fab fa-github"></i>repository</button></a>
+        
+        
+    </div>
+</div>
+
+            <!-- Full screen (wrap in <a> to have style consistency -->
+
+<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+        title="Fullscreen mode"><i
+            class="fas fa-expand"></i></button></a>
+
+            <!-- Launch buttons -->
+
+        </div>
+
+        <!-- Table of contents -->
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
+            
+            <div class="tocsection onthispage pt-5 pb-3">
+                <i class="fas fa-list"></i> Contents
+            </div>
+            <nav id="bd-toc-nav" aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#data-collection">
+   Data Collection
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#focal-versus-scan-sampling">
+     Focal versus scan sampling
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#continuous-versus-interval-sampling">
+     Continuous versus interval sampling
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#data-analysis-activity-budgets-continued">
+   Data Analysis: Activity Budgets (continued)
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#changing-priorities-influence-motivation-case-study-on-vigilance-in-meerkats">
+     Changing priorities influence motivation: case study on vigilance in meerkats
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#class-data-from-analysis">
+       Class data from analysis
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#data-analysis-action-sequences">
+   Data Analysis: Action Sequences
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#additional-resources">
+   Additional Resources
+  </a>
+ </li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Analysis</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#data-collection">
+   Data Collection
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#focal-versus-scan-sampling">
+     Focal versus scan sampling
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#continuous-versus-interval-sampling">
+     Continuous versus interval sampling
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#data-analysis-activity-budgets-continued">
+   Data Analysis: Activity Budgets (continued)
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#changing-priorities-influence-motivation-case-study-on-vigilance-in-meerkats">
+     Changing priorities influence motivation: case study on vigilance in meerkats
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#class-data-from-analysis">
+       Class data from analysis
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#data-analysis-action-sequences">
+   Data Analysis: Action Sequences
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#additional-resources">
+   Additional Resources
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            
+              <div>
+                
+  <div class="tex2jax_ignore mathjax_ignore section" id="analysis">
+<h1>Analysis<a class="headerlink" href="#analysis" title="Permalink to this headline">¶</a></h1>
+<div class="admonition-why admonition">
+<p class="admonition-title">Why?</p>
+<p>Equally important to an animal’s behavioral actions is how those actions get distributed through time. The methods that we use to analyze this time allocation therefore directly effects our interpretation of its strategies for surviving, mating, etc. There is no one perfect solution, but there are a variety of standard techniques for collecting and analyzing behavior data that you will work with in this course.</p>
+</div>
+<p><a class="reference external" href="https://docs.google.com/document/d/1PrChe0yjroBATA17Ezda5xz1yMGrAOUKT1w0zEqEP98/edit?usp=sharing">Responses template for use on computer if desired</a></p>
+<hr class="docutils" />
+<blockquote>
+<div><p>⏳ 10 min</p>
+</div></blockquote>
+<div class="section" id="data-collection">
+<h2>Data Collection<a class="headerlink" href="#data-collection" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="focal-versus-scan-sampling">
+<h3>Focal versus scan sampling<a class="headerlink" href="#focal-versus-scan-sampling" title="Permalink to this headline">¶</a></h3>
+<p><em><strong>Q1: You are interested in how manakin birds arrange their behavioral actions into sequences during courtship rituals. Would it be more appropriate to use focal or scan sampling on a group of 5 birds? Why (one sentence)?</strong></em></p>
+<p><em><strong>Q2: You are interested in the activity budget of African elephants under captive versus wild conditions. Would it be more appropriate to use focal or scan sampling on a group of 5 elephants? Why (one sentence)?</strong></em></p>
+</div>
+<div class="section" id="continuous-versus-interval-sampling">
+<h3>Continuous versus interval sampling<a class="headerlink" href="#continuous-versus-interval-sampling" title="Permalink to this headline">¶</a></h3>
+<p><em><strong>Q3: Would it be better to use continuous or interval sampling when recording the behavior of multiple animals simultaneously? Better in what way? What would be a downside of that sampling method choice?</strong></em></p>
+<p>⏸️ PAUSE here for class-wide discussion</p>
+</div>
+</div>
+<hr class="docutils" />
+<div class="section" id="data-analysis-activity-budgets-continued">
+<h2>Data Analysis: Activity Budgets (continued)<a class="headerlink" href="#data-analysis-activity-budgets-continued" title="Permalink to this headline">¶</a></h2>
+<p>By definition, an <strong>ethogram</strong> is a catalogue of an animal’s (entire)<a class="footnote-reference brackets" href="#ethogram-breadth" id="id1">1</a> behavioral repertoire. Therefore, it is considered constant across individuals and within an individual’s lifetime. Yesterday, you learned to create an ethogram and then to use that ethogram to calculate an animal’s activity budget.</p>
+<p>To the extent that an animal allocates its time differently for different behaviors (ie. behaviors are not randomly expressed), activity budgets tend to not be constant…</p>
+<div class="section" id="changing-priorities-influence-motivation-case-study-on-vigilance-in-meerkats">
+<h3>Changing priorities influence motivation: case study on vigilance in meerkats<a class="headerlink" href="#changing-priorities-influence-motivation-case-study-on-vigilance-in-meerkats" title="Permalink to this headline">¶</a></h3>
+<p><strong>Vigilant</strong>: Head raised at or above the horizontal plain and eyes open.</p>
+<p>Let’s watch <a class="reference external" href="https://vimeo.com/80600820">this two-minute video</a> of meerkats engaging in vigilance behaviors.</p>
+<hr class="docutils" />
+<blockquote>
+<div><p>⏳ 5 min</p>
+</div></blockquote>
+<p><em><strong>Q4: What function do you think vigilance could serve?</strong></em></p>
+<p><em><strong>Q5: What are other behaviors that the animal would not be able to do while vigilant?</strong></em></p>
+<p>⏸️ PAUSE here for class-wide discussion</p>
+<hr class="docutils" />
+<div class="admonition-complete-this-section-for-homework-and-bring-your-responses-to-next-class-in-a-format-that-you-can-turn-in-written-on-paper-printed-or-emailed-to-me-directly-are-all-fine-they-will-be-graded-cr-u admonition" id="activity-budget-assignment">
+<p class="admonition-title">Complete this section for homework and bring your responses to next class in a format that you can turn in (written on paper, printed, or emailed to me directly are all fine). They will be graded CR/U. </p>
+<p>You will test whether a function of vigilance is to avoid predation. The experiment to test this involves observing, quantifying, and analyzing meerkat behavior under different <em>predator</em> treatment conditions: no predator or terrestrial predator. The experimental manipulation has already been done for you and the behavior was filmed.</p>
+<p>You will quantify meerkat behavior under each predator treatment condition based on the following <em><strong>simplified ethogram</strong></em> including three behaviors:</p>
+<ol class="simple">
+<li><p><strong>vigilant</strong> (head raised at or above horizontal plain and eyes open)</p></li>
+<li><p><strong>not vigilant</strong> (eyes closed or head lower than horizontal plane)</p></li>
+<li><p><strong>out of sight</strong> (not visible by you, the researcher)</p></li>
+</ol>
+<p>At 15 second intervals, record the total number of meerkats you observe performing each behavior (do this seperately for each predator treatment condition). (Note: the resolution of the video can make it more tough to distinguish what each animal is doing in stillframe. Watching the video continuously helps with this.)</p>
+<p><em><strong>HQ1: What type of sampling method (from <a class="reference external" href="https://www.jstor.org/stable/4533591">Altman</a>) is this?</strong></em></p>
+<p>Now, watch each of the following videos and record your data for each predator treatment condition:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://vimeo.com/80600822">No predator</a></p></li>
+<li><p><a class="reference external" href="https://vimeo.com/71877438">Terrestrial predator</a></p></li>
+</ul>
+<!-- - [Aerial predator](https://vimeo.com/80600821) -->
+<p><em><strong>HQ2: Calculate the activity budget under each condition. <a class="reference external" href="https://forms.gle/1pt5pRq2zERe3vhQ7">Upload your results to this form</a>.</strong></em></p>
+<p><em><strong>HQ3: Plot your own results.</strong></em></p>
+<p><em><strong>HQ4: Use your results to present an argument for or against the hypothesis that “vigilance serves an anti-predator function.”</strong></em></p>
+<!-- ***HQ5: Use your results to present an argument for or against the hypothesis that "vigilance is more useful against terrestrial predators"*** -->
+<p><em><strong>HQ5: What is another function that your group hypothesized for vigilance (or that you can think of now)? How would you test that hypothesis?</strong></em></p>
+</div>
+<div class="section" id="class-data-from-analysis">
+<h4>Class data from analysis<a class="headerlink" href="#class-data-from-analysis" title="Permalink to this headline">¶</a></h4>
+<div class="margin sidebar">
+<p class="sidebar-title">single observer example</p>
+<img alt="../_images/meerkat_single_sample_example.png" src="../_images/meerkat_single_sample_example.png" />
+</div>
+<!-- TBD  -->
+<!-- Left: No Predator, Middle: Terrestrial Predator; Right: Aerial Predator -->
+<a class="reference internal image-reference" href="../_images/meerkat-vigilance_class-data-SP23.png"><img alt="../_images/meerkat-vigilance_class-data-SP23.png" src="../_images/meerkat-vigilance_class-data-SP23.png" style="width: 800px;" /></a>
+</div>
+</div>
+</div>
+<div class="section" id="data-analysis-action-sequences">
+<h2>Data Analysis: Action Sequences<a class="headerlink" href="#data-analysis-action-sequences" title="Permalink to this headline">¶</a></h2>
+<div class="admonition-why admonition">
+<p class="admonition-title">Why?</p>
+<p>If you smile at me, you are more likely to hug me than to hit me.</p>
+<p>Are behaviors independent of each other or are some behaviors more likely to follow each other? How behaviors are sequenced across time can be just as important as the behaviors themselves.</p>
+</div>
+<p id="index-0">For any sequence of non-independent events in the world, and where a limited number of outcomes can occur, <em>conditional probabilities</em> relate each outcome to one another. Examine the three representations of conditional probability in the following figure.</p>
+<div class="figure align-default" id="conditional-probability">
+<a class="bg-primary mb-1 reference internal image-reference" href="../_images/conditional-probability.png"><img alt="fishy" class="bg-primary mb-1" src="../_images/conditional-probability.png" style="width: 500px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 7 </span><span class="caption-text">Three representations for the logic of conditional probability ( <span class="math notranslate nohighlight">\(p\)</span> ).</span><a class="headerlink" href="#conditional-probability" title="Permalink to this image">¶</a></p>
+</div>
+<p>In this section, you will practice analyzing <strong>sequences</strong> of behavior. You will start by revisiting the poem from Dr Suess. Unlike behavior, language <em>must</em> be organized sequentially according to specific rules. So it is a good place to start for building intuition on the concept of conditional probability and learning to analyze it.</p>
+<hr class="docutils" />
+<blockquote>
+<div><p>⏳ 5 min</p>
+</div></blockquote>
+<blockquote class="epigraph">
+<div><p>One fish two fish red fish blue fish.</p>
+<p class="attribution">—Dr Suess</p>
+</div></blockquote>
+<p><em><strong>Q6: Make a square table (rows = columns = possible words in the poem). In the table, tally each time the word from each column follows the word in each row (ie. for each pair of sequential words, the rows represent the preceding word and the columns the succeeding word).</strong></em></p>
+<p><em><strong>Q7: Calculate conditional probabilities as <span class="math notranslate nohighlight">\(p = t/n\)</span>, where <span class="math notranslate nohighlight">\(t\)</span> is the number of transitions to the word and <span class="math notranslate nohighlight">\(n\)</span> is the total number of transitions from the preceding word observed (total of raw counts across the row). Write the conditional probability in each square of the table next to the raw count of occurrences (just leave all “zero” probabilities blank).</strong></em></p>
+<p>⏸️ PAUSE here for class-wide discussion</p>
+<hr class="docutils" />
+<p>You now have a <em><strong>model</strong></em> that describes (and <em>predicts</em>) how words are sequenced to create the Dr. Suess poem. It is a special kind of model called a <em>Markov model</em>. These types of models are often depicted by nodes and directional edges like in the following gif.</p>
+<div class="figure align-default" id="markdown-fig">
+<a class="bg-primary mb-1 reference internal image-reference" href="../_images/One-Fish-Two-Fish_Markov.gif"><img alt="fishy" class="bg-primary mb-1" src="../_images/One-Fish-Two-Fish_Markov.gif" style="width: 600px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 8 </span><span class="caption-text">Markov model of Dr Seuss’ fish poem. Top: conditional probabilities. Bottom: sequencing of the poem based on the model. …think about the poem that would be generated by using this model.</span><a class="headerlink" href="#markdown-fig" title="Permalink to this image">¶</a></p>
+</div>
+<hr class="docutils" />
+<blockquote>
+<div><p>⏳ 20 min</p>
+</div></blockquote>
+<p>Examine the following two tables of conditional probability for two sets of behaviors (A,B,C and X,Y,Z). Note that these tables are commonly referred to as <em>transition matrices</em>.</p>
+<p><strong>Table 1</strong>:</p>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="head"><p></p></th>
+<th class="head"><p>A</p></th>
+<th class="head"><p>B</p></th>
+<th class="head"><p>C</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>A</p></td>
+<td><p>0</p></td>
+<td><p>0.2</p></td>
+<td><p>0.8</p></td>
+</tr>
+<tr class="row-odd"><td><p>B</p></td>
+<td><p>0.9</p></td>
+<td><p>0</p></td>
+<td><p>0.1</p></td>
+</tr>
+<tr class="row-even"><td><p>C</p></td>
+<td><p>0.4</p></td>
+<td><p>0.6</p></td>
+<td><p>0</p></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Table 2</strong>:</p>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="head"><p></p></th>
+<th class="head"><p>X</p></th>
+<th class="head"><p>Y</p></th>
+<th class="head"><p>Z</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>X</p></td>
+<td><p>0.1</p></td>
+<td><p>0.7</p></td>
+<td><p>0.2</p></td>
+</tr>
+<tr class="row-odd"><td><p>Y</p></td>
+<td><p>0.1</p></td>
+<td><p>0.4</p></td>
+<td><p>0.5</p></td>
+</tr>
+<tr class="row-even"><td><p>Z</p></td>
+<td><p>0.8</p></td>
+<td><p>0.2</p></td>
+<td><p>0</p></td>
+</tr>
+</tbody>
+</table>
+<p><em><strong>Q8: The rows of the transition matrix must add to ________ (fill in the blank with a number).</strong></em></p>
+<p>Once we have a transition matrix (model of conditional probabilities) for an animal’s behavior, we can then use that model to generate predictions. In other words, we <em>read</em> a transition matrix to predict (and therefore understand) an animal’s behavior over time.</p>
+<p><em><strong>Q9: According to Table #1, what is the most likely behavioral sequence (of 5 elements) generated by this species?.</strong></em></p>
+<p><em><strong>Q10: According to Table #2, what is the least likely behavioral sequence (of 5 elements) generated by this species?</strong></em></p>
+<p><em><strong>Q11: Which of the two transition matrices was more likely calculated using continuous sampling methods? Which was more likely calculated using interval sampling methods? Why (what evidence do you have to support that conclusion)?</strong></em></p>
+<p>⏸️ PAUSE here for class-wide discussion</p>
+<hr class="docutils" />
+<p>These transition matrices can also be represented graphically with circles (behaviors) and arrows (conditional probabilities). Examine <a class="reference external" href="https://setosa.io/markov/index.html#%7B%22tm%22%3A%5B%5B0%2C0.2%2C0.8%5D%2C%5B0.9%2C0%2C0.1%5D%2C%5B0.4%2C0.6%2C0%5D%5D%7D">this animation of transition matrix number one</a> and <a class="reference external" href="https://setosa.io/markov/index.html#%7B%22tm%22%3A%5B%5B0.1%2C0.7%2C0.2%5D%2C%5B0.1%2C0.3%2C0.6%5D%2C%5B0.8%2C0.2%2C0%5D%5D%7D">this animation of transition matrix number two</a>. Note how the transition matrix is formatted at the top right of these animation windows.</p>
+<p>⏹️ STOP here for today</p>
+<div class="admonition-making-connections-optional admonition">
+<p class="admonition-title">Making Connections (optional)</p>
+<p><em><strong>Q: In the case of complex FAPs/behaviors involving a series of different movements, how do you think we can decide whether we are dealing with a single FAP/behavior or a series of different ones?</strong></em></p>
+<p><em><strong>Q: Create an ethogram for an animal you are interested in. Trade ethograms with someone else. Use the ethogram to create a transition matrix of behavior. Make sure to include what samping method you used. Show a table of your raw transition data and describe the calculation used to obtain probability. Use <a class="reference external" href="https://setosa.io/markov/index.html#%7B%22tm%22%3A%5B%5B0.5%2C0.5%5D%2C%5B0.5%2C0.5%5D%5D%7D">this url address</a> to create an animation of your transition matrix. Edit the transition matrix at the top right based on your results. Then copy the new url and provide the link in your answer.</strong></em></p>
+</div>
+</div>
+<div class="section" id="additional-resources">
+<h2>Additional Resources<a class="headerlink" href="#additional-resources" title="Permalink to this headline">¶</a></h2>
+<ul>
+<li><p><a class="reference external" href="https://setosa.io/blog/2014/07/26/markov-chains/index.html">Transition Matrices and Markov Chains</a></p></li>
+<li><p><a class="reference external" href="https://hackernoon.com/from-what-is-a-markov-model-to-here-is-how-markov-models-work-1ac5f4629b71">And extended description of the <em>One fish Two fish</em> example for building a markov model</a></p></li>
+<li><p>If you are interested in computer programming and Markov models for various applications beyond animal behavior, <a class="reference external" href="https://www.kaggle.com/code/nulldata/meaningful-random-headlines-by-markov-chain/notebook">this example notebook for analyzing markov models of text</a> might be of interest to you.</p></li>
+<li><p><a class="reference external" href="https://towardsdatascience.com/markov-models-and-markov-chains-explained-in-real-life-probabilistic-workout-routine-65e47b5c9a73">Markov models and Markov chains explained in real life: probabilistic workout routine</a></p></li>
+<li><p><a class="reference external" href="https://doi.org/10.1177/0272989x9301300409">Markov models in medical decision making: a practical guide</a></p></li>
+<li><div class="dropdown admonition">
+<p class="admonition-title">Some example Markov simulation code for Python</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>import numpy as np
+
+def make_pairs(corpus):
+    for i in range(len(corpus)-1):
+        yield (corpus[i], corpus[i+1])
+
+&lt;!-- # Trump&#39;s speeches here: https://github.com/ryanmcdermott/trump-speeches
+trump = open(&#39;/content/speeches.txt&#39;, encoding=&#39;utf8&#39;).read()
+
+corpus = trump.split()
+
+ --&gt;
+s = &#39;one fish two fish red fish blue fish &#39;
+corpus = s.split()
+
+pairs = make_pairs(corpus)
+
+word_dict = {}
+
+for word_1, word_2 in pairs:
+    if word_1 in word_dict.keys():
+        word_dict[word_1].append(word_2)
+    else:
+        word_dict[word_1] = [word_2]
+ 
+first_word = np.random.choice(corpus)
+
+while first_word.islower():
+    first_word = np.random.choice(corpus)
+
+chain = [first_word]
+
+n_words = 20
+
+for i in range(n_words):
+    chain.append(np.random.choice(word_dict[chain[-1]]))
+
+&#39; &#39;.join(chain)
+</pre></div>
+</div>
+</div>
+</li>
+</ul>
+<hr class="docutils" />
+<p>Some resources in this workshop compiled from:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://bookdown.org/denajane13/BIONB_2210_Summer_2021/field-lab-2-ethograms-and-activity-budgets.html#part-1.-build-an-ethogram-from-meerkat-observations">denajane13 bookdown</a></p></li>
+<li><p><a class="reference external" href="https://www.asab.org/s/EDU-ASAB-Vigilance-behaviour-in-meerkats-compressed.pdf">Hammond 2019, Vigilance behaviour in meerkats, ASAB Education</a></p></li>
+</ul>
+<hr class="footnotes docutils" />
+<dl class="footnote brackets">
+<dt class="label" id="ethogram-breadth"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
+<dd><p>On shorter timescales, researchers sometimes use ethograms that are constructed for a constrained subset of the animal’s behavior. For example, if you were studying social behavior you would likely use an ethgoram of social behavior rather than an ethogram of all behavior.</p>
+</dd>
+</dl>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./observation-and-analysis"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+            
+                <!-- Previous / next buttons -->
+<div class='prev-next-area'> 
+    <a class='left-prev' id="prev-link" href="observation.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">Observation</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="../levels-of-analysis/ultimate.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Ultimate</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
+</div>
+            
+        </div>
+    </div>
+    <footer class="footer">
+  <p>
+    
+      By Dr. Krista Perks<br/>
+    
+        &copy; Copyright 2022.<br/>
+  </p>
+</footer>
+</main>
+
+
+      </div>
+    </div>
+  
+  <script src="../_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+
+  </body>
+</html>

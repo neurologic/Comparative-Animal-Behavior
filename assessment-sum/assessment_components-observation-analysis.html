@@ -1,0 +1,682 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Components of Behavior, Observation, and Analysis &#8212; Comparative Animal Behavior</title>
+    
+  <link href="../_static/css/theme.css" rel="stylesheet">
+  <link href="../_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+
+    
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="../_static/js/index.be7d3bbb2ef33a8344ce.js">
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Phylogeny and Evolution" href="assessment_phylogeny-evolution.html" />
+    <link rel="prev" title="Example" href="assessment-example.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="../index.html">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="../_static/Moffett-ants.jpg" class="logo" alt="logo">
+      
+      
+      <h1 class="site-logo" id="site-title">Comparative Animal Behavior</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        <ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../welcome.html">
+   Welcome
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  General
+ </span>
+</p>
+<ul class="current nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../syllabus.html">
+   Syllabus
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../schedule.html">
+   Schedule
+  </a>
+ </li>
+ <li class="toctree-l1 current active has-children">
+  <a class="reference internal" href="summative-assessment.html">
+   Summative Assessment
+  </a>
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul class="current">
+   <li class="toctree-l2">
+    <a class="reference internal" href="assessment-example.html">
+     Example
+    </a>
+   </li>
+   <li class="toctree-l2 current active">
+    <a class="current reference internal" href="#">
+     Components of Behavior, Observation, and Analysis
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="assessment_phylogeny-evolution.html">
+     Phylogeny and Evolution
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="assessment_neural-hormonal-genetic-development.html">
+     Neural, Hormonal, Genetic, and Development
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="assessment_understanding-behavior.html">
+     Understanding Behavior
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="capstone.html">
+   Capstone
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../genindex.html">
+   Terms, Topics, Concepts
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../ethical-considerations.html">
+   Ethical Considerations for Animal Use
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Describing Behavior
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../observation-and-analysis/components.html">
+   Components
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../observation-and-analysis/observation.html">
+   Observation
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../observation-and-analysis/analysis.html">
+   Analysis
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Levels of Analysis
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../levels-of-analysis/ultimate.html">
+   Ultimate
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/phylogeny.html">
+     Phylogeny
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/evolution.html">
+     Evolution
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../levels-of-analysis/proximate.html">
+   Proximate
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/neural.html">
+     Neural Mechanisms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/hormonal.html">
+     Hormonal Mechanisms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/genetic.html">
+     Genetic Mechanisms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/endogenous-rhythms.html">
+     Endogenous Rhythms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/development.html">
+     Development
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Understanding Behavior
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../understanding-behavior/navigation.html">
+   Navigation
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../understanding-behavior/escape.html">
+   Escape
+  </a>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../understanding-behavior/communication.html">
+   Communication
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <label for="toctree-checkbox-4">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/communication_proximate.html">
+     Communication: Proximate
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/communication_ultimate.html">
+     Communication: Ultimate
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../understanding-behavior/social-spectrum.html">
+   Social Spectrum
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
+  <label for="toctree-checkbox-5">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/social-spectrum_cooperation.html">
+     Grouping and Cooperation
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/social-spectrum_eusociality.html">
+     Eusociality
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../understanding-behavior/family-life.html">
+   Family Life
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/>
+  <label for="toctree-checkbox-6">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/family-life_sexual-selection.html">
+     Sexual Selection
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/family-life_mating-systems.html">
+     Mating Systems
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/family-life_parental-care.html">
+     Parental Care
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+    </div>
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="topbar container-xl fixed-top">
+    <div class="topbar-contents row">
+        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
+        <div class="col pl-md-4 topbar-main">
+            
+            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+                <i class="fas fa-bars"></i>
+                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-arrow-up"></i>
+            </button>
+            
+            
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../_sources/assessment-sum/assessment_components-observation-analysis.md"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.md</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+            <!-- Source interaction buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
+    <div class="dropdown-buttons sourcebuttons">
+        <a class="repository-button"
+            href="https://github.com/neurologic/Comparative-Animal-Behavior/issues"><button type="button" class="btn btn-secondary topbarbtn"
+                data-toggle="tooltip" data-placement="left" title="Source repository"><i
+                    class="fab fa-github"></i>repository</button></a>
+        
+        
+    </div>
+</div>
+
+            <!-- Full screen (wrap in <a> to have style consistency -->
+
+<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+        title="Fullscreen mode"><i
+            class="fas fa-expand"></i></button></a>
+
+            <!-- Launch buttons -->
+
+        </div>
+
+        <!-- Table of contents -->
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
+            
+            <div class="tocsection onthispage pt-5 pb-3">
+                <i class="fas fa-list"></i> Contents
+            </div>
+            <nav id="bd-toc-nav" aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#section-1">
+   Section 1
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#section-2">
+   Section 2
+  </a>
+ </li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Components of Behavior, Observation, and Analysis</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#section-1">
+   Section 1
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#section-2">
+   Section 2
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            
+              <div>
+                
+  <div class="tex2jax_ignore mathjax_ignore section" id="components-of-behavior-observation-and-analysis">
+<h1>Components of Behavior, Observation, and Analysis<a class="headerlink" href="#components-of-behavior-observation-and-analysis" title="Permalink to this headline">¶</a></h1>
+<div class="admonition-deadline admonition">
+<p class="admonition-title">Deadline</p>
+<p>Due to Gradescope by 11pm on Friday February 24.</p>
+</div>
+<div class="admonition-honor-code admonition">
+<p class="admonition-title">Honor Code</p>
+<p>This exam is open note/book/web, but must be done independently. Do not consult any other people (regardless of whether they are in or out of this course) or artificial intelligence (AI) in answering the questions. Handing in responses to assignment for grading serves as your signature of the honor code.</p>
+</div>
+<p>Answer all questions either electronically or by hand on paper. Label each of your answers with the corresponding question number. Scan or convert your document to a good quality PDF. Upload to Gradescope by the deadline – make sure to tag all appropriate page(s) in your PDF for each question.</p>
+<p><strong>Please don’t hesitate to ask for clarifation on the wording of questions and/or expectations</strong>. Key expectations are highlighted with font style. For any multiple choice question that asks for an explanation of your reasoning: provide a correct answer selection as well as your reasoning for selecting that answer - the reasoning should logically (and unabiguously) explain for your answer selection. Not all multiple choice questions require for reasoning.</p>
+<div class="section" id="section-1">
+<h2>Section 1<a class="headerlink" href="#section-1" title="Permalink to this headline">¶</a></h2>
+<p>Bechard and Mason (2010) were the first to research the <em>parental care</em> and <em>developmental independence</em> of lab mice compared to wild mice. They used a novel lab housing system that allowed young, developing mice (pups) to choose between spending time in the home cage (HC) with the mother, or an identical distant cage (a ‘dispersal cage’: DC) which the mother could not access. They used live observation techniques rather than video recording (due to the ability of a live observer to move around and keep tracking animals when they go out of sight).</p>
+<p>The experimental ethogram curated for this study is shown in Table 1 (provided for context, but not necessary for answering the questions).</p>
+<a class="reference internal image-reference" href="../_images/bechard-mason-2010.png"><img alt="../_images/bechard-mason-2010.png" class="align-center" src="../_images/bechard-mason-2010.png" style="width: 700px;" /></a>
+<br>
+<p><strong>Q1: (2 points)</strong> The researchers knew they needed to calculate the activity budget of mouse pups, but they did not care about the action transition probabilities. Therefore, they could implement ___, which they would not have been able to do if they needed to calculate action transition probabilities.<br />
+<strong>Choose an option from below</strong> to fill in the blank.<br />
+<strong>a)</strong> continuous sampling<br />
+<strong>b)</strong> interval sampling<br />
+<strong>c)</strong> focal sampling</p>
+<p><strong>Q2: (4 points)</strong> <em>Pup independence</em> was defined as a preference for the DC over the HC. In the literature, a ‘preferred location’ is defined as a place where mice spend most of their inactive time (Blom et al., 1992). Therefore, the researchers chose to assess pup independence by calculating the pup activity budget (for <em>active</em> versus <em>inactive</em> actions) in each location. Specifically, they chose to calculate the activity budget using <em>percentage of pups</em> as their unit of measurement.<br />
+<em><strong>Which of the following data tables (1 or 2)</strong></em> is most likely an excerpt from the one the researchers collected?<br />
+<em><strong>Explain why</strong></em> you chose that answer and what sampling method was most likely used to construct the table.</p>
+<p><strong>Table 1</strong></p>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="text-align:center head"><p>behavior</p></th>
+<th class="text-align:center head"><p>location</p></th>
+<th class="text-align:center head"><p>time<br>(min)</p></th>
+<th class="text-align:center head"><p>duration<br>(min)</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td class="text-align:center"><p>active</p></td>
+<td class="text-align:center"><p>HC</p></td>
+<td class="text-align:center"><p>0:00</p></td>
+<td class="text-align:center"><p>N/A</p></td>
+</tr>
+<tr class="row-odd"><td class="text-align:center"><p>inactive</p></td>
+<td class="text-align:center"><p>HC</p></td>
+<td class="text-align:center"><p>1:10</p></td>
+<td class="text-align:center"><p>1:10</p></td>
+</tr>
+<tr class="row-even"><td class="text-align:center"><p>active</p></td>
+<td class="text-align:center"><p>DC</p></td>
+<td class="text-align:center"><p>1:30</p></td>
+<td class="text-align:center"><p>0:20</p></td>
+</tr>
+<tr class="row-odd"><td class="text-align:center"><p>active</p></td>
+<td class="text-align:center"><p>HC</p></td>
+<td class="text-align:center"><p>2:30</p></td>
+<td class="text-align:center"><p>1:00</p></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Table 2</strong></p>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="text-align:center head"><p>time<br>(min)</p></th>
+<th class="text-align:center head"><p>HC active<br>(# pups)</p></th>
+<th class="text-align:center head"><p>HC inactive<br>(# pups)</p></th>
+<th class="text-align:center head"><p>DC active<br>(# pups)</p></th>
+<th class="text-align:center head"><p>DC inactive<br>(# pups)</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td class="text-align:center"><p>0:00</p></td>
+<td class="text-align:center"><p>3</p></td>
+<td class="text-align:center"><p>2</p></td>
+<td class="text-align:center"><p>1</p></td>
+<td class="text-align:center"><p>0</p></td>
+</tr>
+<tr class="row-odd"><td class="text-align:center"><p>1:00</p></td>
+<td class="text-align:center"><p>2</p></td>
+<td class="text-align:center"><p>1</p></td>
+<td class="text-align:center"><p>2</p></td>
+<td class="text-align:center"><p>1</p></td>
+</tr>
+<tr class="row-even"><td class="text-align:center"><p>2:00</p></td>
+<td class="text-align:center"><p>3</p></td>
+<td class="text-align:center"><p>3</p></td>
+<td class="text-align:center"><p>0</p></td>
+<td class="text-align:center"><p>0</p></td>
+</tr>
+<tr class="row-odd"><td class="text-align:center"><p>3:00</p></td>
+<td class="text-align:center"><p>0</p></td>
+<td class="text-align:center"><p>0</p></td>
+<td class="text-align:center"><p>4</p></td>
+<td class="text-align:center"><p>2</p></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q3: (4 points)</strong> These researchers were also interested in determining if the parental care behavior of lab dams (mouse mothers) differed from wild dams. For this research question, it was important to quantify both the activity budget as well as action sequencing (ie action transition probabilities). Therefore, they needed to implement ___ to record behavioral data for dams.<br />
+<strong>Choose an option from below</strong> to fill in the blank.<br />
+<strong>Explain why you chose that answer</strong>.<br />
+<strong>a)</strong> continuous focal sampling<br />
+<strong>b)</strong> interval focal sampling<br />
+<strong>c)</strong> interval scan sampling</p>
+<p>The actions included in the data collection for dams were: R = resting with pups, GO = grooming on, GF = Grooming off, GP = grooming pups, N = nursing, L = licking pup, PR = pup retrieval.</p>
+<div class="admonition-the-following-sequence-of-actions-read-from-left-to-right-is-an-excerpt-of-the-data-observed-for-a-single-dam-refer-to-this-excerpt-for-q4-q8 admonition">
+<p class="admonition-title">The following sequence of actions (read from left to right) is <strong>an excerpt of the data observed for a single dam</strong> (refer to this excerpt for Q4-Q8)</p>
+<p><strong>GO, GF, GO, R, GF, GO, GP, N, GP, L, PR, N, GF, GO, R, N, GF, L, PR, L, GO, R, N, R, PR, R, PR, R, L, GO, GF</strong></p>
+</div>
+<p><strong>Q4: (2 points)</strong> I asked an Artificial Intelligence (<em>chatGPT</em>) to calculate the transition matrix from the excerpt of data shown. I could immediately tell that <em>chatGPT</em> had gotten it wrong (<em><strong>before</strong></em> even needing to count any action transitions or calculate any transition probabilites myself). The result from <em>chatGPT</em> is shown below.<br />
+<strong>What is the give-away that chatGPT was wrong?</strong></p>
+<a class="reference internal image-reference" href="../_images/chat-gpt_transition-matrix_wrong.png"><img alt="../_images/chat-gpt_transition-matrix_wrong.png" class="align-center" src="../_images/chat-gpt_transition-matrix_wrong.png" style="width: 700px;" /></a>
+<br> 
+<p><strong>Q5: (2 points)</strong> <strong>Calculate and show the transition probability matrix</strong> based on the excerpt of data shown.</p>
+<p><strong>Q6: (2 points)</strong> <strong>Calculate the null hypothesis</strong> for the <em>activity budget</em> based on the excerpt of data shown.</p>
+<p><strong>Q7: (2 points)</strong> <strong>Calculate the activity budget</strong> based on the excerpt of data shown (include the <em>appropriate units of measurement</em> in your answer).</p>
+<p><strong>Q8: (2 points)</strong> <strong>List the actions that the dam did <em>more</em> than expected</strong> based on the null hypothesis.</p>
+</div>
+<div class="section" id="section-2">
+<h2>Section 2<a class="headerlink" href="#section-2" title="Permalink to this headline">¶</a></h2>
+<p>Herring gull chicks need help obtaining food. They have a stereotyped “begging” behavior (FAP): they peck at their parents’ beak. The pecking then causes their parents to regurgitate partially-digested food for the chicks to eat (<a class="reference external" href="https://youtu.be/a-ek4225__I">though I guess the results are not guaranteed to please</a>).</p>
+<p>Tinbergen and Perdeck (1950) tested a wide variety of herring gull features to determine sign stimuli for the begging FAP<a class="footnote-reference brackets" href="#tinbergen-gulls-1950" id="id1">1</a>. Figure 1 shows the results of a small subset of their experiment for you to examine.</p>
+<a class="reference internal image-reference" href="../_images/tinbergen-expt-gulls-nonnorm.png"><img alt="../_images/tinbergen-expt-gulls-nonnorm.png" class="align-center" src="../_images/tinbergen-expt-gulls-nonnorm.png" style="width: 600px;" /></a>
+<p><strong>Figure 1:</strong> <em>Results from one of Tinbergen and Perdeck’s experiments on the begging FAP of herring gull chicks. Each of these three stimuli were presented to chicks 10 times. Tinbergen and Perdeck quantified the behavior by counting the number of pecks directed toward each stimulus during a 30 second period. They then calculated and reported the average peck rate (purple; pecks per minute) in response to each stimulus.</em></p>
+<p><strong>Q9: (4 points)</strong> Would you conclude that a normal head shape is a sign stimulus for pecking FAPs?<br />
+<strong>Answer <em>YES</em> or <em>NO</em></strong>.<br />
+<strong>Then support your conclusion with the correct quantitative comparisons</strong> from the reported experimental results.</p>
+<p><strong>Q10: (4 points)</strong> In the context of Lorenz’s model of behavior, which stimulus would you infer causes a larger increase in the action-specific potential for begging?<br />
+<strong>Choose one answer from below. Then explain why you chose that answer.</strong><br />
+<strong>a)</strong> stimulus 2<br />
+<strong>b)</strong> stimulus 3</p>
+<p><strong>Q11: (2 points)</strong> The hunger level of a chick can also effect the likelihood that it will exhibit begging behavior (ie. hunger increases the motivation to beg). In the context of Lorenz’s model of behavior, which of the following statements is correct?<br />
+<strong>Choose one answer from below.</strong><br />
+<strong>a)</strong> A hungry chick will peck more at stimulus 3 than a satiated chick because the behavioral threshold of the hungry chick is lower.<br />
+<strong>b)</strong> A hungry chick will peck more at stimulus 3 than at stimulus 2 because its stimulus threshold is lower than a satiated chick.<br />
+<strong>c)</strong> A satiated chick will peck less at all three stimuli than a hungry chick because its stimulus threshold is higher.<br />
+<strong>d)</strong> Hunger increases the stimulus threshold for begging.<br />
+<strong>e)</strong> Hunger reduces the behavioral threshold for begging.</p>
+<hr class="footnotes docutils" />
+<dl class="footnote brackets">
+<dt class="label" id="tinbergen-gulls-1950"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
+<dd><p>No need to read it to complete this exam, but here is the reference if you are interested:	<a class="reference external" href="http://www.jstor.org/stable/4532715">Tinbergen, N., &amp; Perdeck, A. C. (1950). On the Stimulus Situation Releasing the Begging Response in the Newly Hatched Herring Gull Chick (Larus Argentatus Argentatus Pont.). Behaviour, 3(1), 1–39</a></p>
+</dd>
+</dl>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./assessment-sum"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+            
+                <!-- Previous / next buttons -->
+<div class='prev-next-area'> 
+    <a class='left-prev' id="prev-link" href="assessment-example.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">Example</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="assessment_phylogeny-evolution.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Phylogeny and Evolution</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
+</div>
+            
+        </div>
+    </div>
+    <footer class="footer">
+  <p>
+    
+      By Dr. Krista Perks<br/>
+    
+        &copy; Copyright 2022.<br/>
+  </p>
+</footer>
+</main>
+
+
+      </div>
+    </div>
+  
+  <script src="../_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+
+  </body>
+</html>

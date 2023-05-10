@@ -1,0 +1,779 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Components &#8212; Comparative Animal Behavior</title>
+    
+  <link href="../_static/css/theme.css" rel="stylesheet">
+  <link href="../_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+
+    
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="../_static/js/index.be7d3bbb2ef33a8344ce.js">
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Observation" href="observation.html" />
+    <link rel="prev" title="Ethical Considerations for Animal Use" href="../ethical-considerations.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="../index.html">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="../_static/Moffett-ants.jpg" class="logo" alt="logo">
+      
+      
+      <h1 class="site-logo" id="site-title">Comparative Animal Behavior</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        <ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../welcome.html">
+   Welcome
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  General
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../syllabus.html">
+   Syllabus
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../schedule.html">
+   Schedule
+  </a>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../assessment-sum/summative-assessment.html">
+   Summative Assessment
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../assessment-sum/assessment-example.html">
+     Example
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../assessment-sum/assessment_components-observation-analysis.html">
+     Components of Behavior, Observation, and Analysis
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../assessment-sum/assessment_phylogeny-evolution.html">
+     Phylogeny and Evolution
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../assessment-sum/assessment_neural-hormonal-genetic-development.html">
+     Neural, Hormonal, Genetic, and Development
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../assessment-sum/assessment_understanding-behavior.html">
+     Understanding Behavior
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../assessment-sum/capstone.html">
+   Capstone
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../genindex.html">
+   Terms, Topics, Concepts
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../ethical-considerations.html">
+   Ethical Considerations for Animal Use
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Describing Behavior
+ </span>
+</p>
+<ul class="current nav bd-sidenav">
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   Components
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="observation.html">
+   Observation
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="analysis.html">
+   Analysis
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Levels of Analysis
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../levels-of-analysis/ultimate.html">
+   Ultimate
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/phylogeny.html">
+     Phylogeny
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/evolution.html">
+     Evolution
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../levels-of-analysis/proximate.html">
+   Proximate
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/neural.html">
+     Neural Mechanisms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/hormonal.html">
+     Hormonal Mechanisms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/genetic.html">
+     Genetic Mechanisms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/endogenous-rhythms.html">
+     Endogenous Rhythms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../levels-of-analysis/development.html">
+     Development
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Understanding Behavior
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../understanding-behavior/navigation.html">
+   Navigation
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../understanding-behavior/escape.html">
+   Escape
+  </a>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../understanding-behavior/communication.html">
+   Communication
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <label for="toctree-checkbox-4">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/communication_proximate.html">
+     Communication: Proximate
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/communication_ultimate.html">
+     Communication: Ultimate
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../understanding-behavior/social-spectrum.html">
+   Social Spectrum
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
+  <label for="toctree-checkbox-5">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/social-spectrum_cooperation.html">
+     Grouping and Cooperation
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/social-spectrum_eusociality.html">
+     Eusociality
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../understanding-behavior/family-life.html">
+   Family Life
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/>
+  <label for="toctree-checkbox-6">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/family-life_sexual-selection.html">
+     Sexual Selection
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/family-life_mating-systems.html">
+     Mating Systems
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../understanding-behavior/family-life_parental-care.html">
+     Parental Care
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+    </div>
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="topbar container-xl fixed-top">
+    <div class="topbar-contents row">
+        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
+        <div class="col pl-md-4 topbar-main">
+            
+            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+                <i class="fas fa-bars"></i>
+                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-arrow-up"></i>
+            </button>
+            
+            
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../_sources/observation-and-analysis/components.md"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.md</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+            <!-- Source interaction buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
+    <div class="dropdown-buttons sourcebuttons">
+        <a class="repository-button"
+            href="https://github.com/neurologic/Comparative-Animal-Behavior/issues"><button type="button" class="btn btn-secondary topbarbtn"
+                data-toggle="tooltip" data-placement="left" title="Source repository"><i
+                    class="fab fa-github"></i>repository</button></a>
+        
+        
+    </div>
+</div>
+
+            <!-- Full screen (wrap in <a> to have style consistency -->
+
+<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+        title="Fullscreen mode"><i
+            class="fas fa-expand"></i></button></a>
+
+            <!-- Launch buttons -->
+
+        </div>
+
+        <!-- Table of contents -->
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
+            
+            <div class="tocsection onthispage pt-5 pb-3">
+                <i class="fas fa-list"></i> Contents
+            </div>
+            <nav id="bd-toc-nav" aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#units-of-behavior">
+   Units of behavior
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#fundamental-units-of">
+     Fundamental units of …
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#movemes-actions-activities">
+     Movemes, Actions, Activities
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#fixed-action-patterns-fap-releasing-mechanisms-and-sign-stimuli">
+     Fixed Action Patterns (FAP), Releasing Mechanisms, and Sign Stimuli
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#action-specific-potential-asp-energy">
+   Action-Specific Potential (ASP; Energy)
+  </a>
+ </li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Components</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#units-of-behavior">
+   Units of behavior
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#fundamental-units-of">
+     Fundamental units of …
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#movemes-actions-activities">
+     Movemes, Actions, Activities
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#fixed-action-patterns-fap-releasing-mechanisms-and-sign-stimuli">
+     Fixed Action Patterns (FAP), Releasing Mechanisms, and Sign Stimuli
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#action-specific-potential-asp-energy">
+   Action-Specific Potential (ASP; Energy)
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            
+              <div>
+                
+  <div class="tex2jax_ignore mathjax_ignore section" id="components">
+<h1>Components<a class="headerlink" href="#components" title="Permalink to this headline">¶</a></h1>
+<div class="admonition-why admonition">
+<p class="admonition-title">Why?</p>
+<p>To ask <em>why</em> and <em>how</em>, we must define <em>what</em>. What is animal behavior? This workbook explores its composition and organisation.</p>
+</div>
+<p><a class="reference internal" href="#components-day1"><span class="std std-ref">Day 1</span></a>; <a class="reference external" href="https://docs.google.com/document/d/1FU3ytVqy8rNAnyBCht9hgRTbs49kfI16ygK5BXaqqYs/edit?usp=sharing">Responses template for use on computer if desired</a> (“Save a Copy to Drive” to edit and save your work)<br />
+<a class="reference internal" href="#components-day2"><span class="std std-ref">Day 2</span></a>; <a class="reference external" href="https://docs.google.com/document/d/1nUlvGj40X7bsjRR8JZgKMa_M3C_Cc4ZtRIFB9BSAMIk/edit?usp=sharing">Responses template for use on computer if desired</a> (“Save a Copy to Drive” to edit and save your work)</p>
+<!-- <hr>
+
+> {sub-ref}`wordcount-words` words | {sub-ref}`wordcount-minutes` min read
+
+<hr> -->
+<div class="section" id="units-of-behavior">
+<span id="components-day1"></span><h2>Units of behavior<a class="headerlink" href="#units-of-behavior" title="Permalink to this headline">¶</a></h2>
+<div class="admonition-why admonition">
+<p class="admonition-title">Why?</p>
+<p>Attention to the way we define behavior for a particular study must include considering the appropriate organizational level and timescales for our level of analysis and our question (ultimate versus proximate, neural versus genetic, etc).</p>
+</div>
+<hr class="docutils" />
+<blockquote>
+<div><p>⏳ Take 5 minutes to complete the next section</p>
+</div></blockquote>
+<div class="section" id="fundamental-units-of">
+<h3>Fundamental units of …<a class="headerlink" href="#fundamental-units-of" title="Permalink to this headline">¶</a></h3>
+<p>All living organisms are made up of cells.</p>
+<p><em><strong>Q1: What are several different types of cells can you think of?</strong></em></p>
+<p><em><strong>Q2: Organize the following terms according to a hierarchy of (nested levels of) composition: cells, organs, bodies, organ systems and tissues.</strong></em></p>
+<p>⏸️ PAUSE here for class-wide discussion</p>
+<hr class="docutils" />
+<blockquote>
+<div><p>⏳ 10 min</p>
+</div></blockquote>
+<p>Cells are considered the <em>fundamental unit</em> of life. You can use this model from biology to explore the analagous concept in the study of animal behavior.</p>
+<p><em><strong>Q3: What nested levels would you split behavior into? Create a name for, and describe, each level. It can help to think of an animal and some of its behavior to use as an example of your categorization and organization.</strong></em></p>
+<p><em><strong>Q4: In your model, what are the fundamental units of behavior? Provide some examples.</strong></em></p>
+<p><em><strong>Q5: What timescale do these fundamental units of behavior generally occur over?</strong></em></p>
+<p><em><strong>Q6: What is the timescale of behavior at the highest level you categorized?</strong></em></p>
+<p>⏸️ PAUSE here for class-wide discussion</p>
+</div>
+<hr class="docutils" />
+<div class="section" id="movemes-actions-activities">
+<h3>Movemes, Actions, Activities<a class="headerlink" href="#movemes-actions-activities" title="Permalink to this headline">¶</a></h3>
+<p>The nested levels of organization that you just explored are examples of <em>hierarchy</em>. The hierarchical nature of behavior seems clear, despite a lack of concensus for terminology used to describe its component parts<a class="footnote-reference brackets" href="#andersonperona2014" id="id1">1</a><a class="footnote-reference brackets" href="#datta2019" id="id2">2</a>.</p>
+<p>The following figure depicts and describes challenges that arise from the hierarchical nature of behavior that we need to grapple with when we study it.</p>
+<div class="figure align-default" id="dattabehaviorhierarchy">
+<a class="bg-primary mb-1 reference internal image-reference" href="../_images/Datta_2019-ChallengesOfDefiningBehavior.png"><img alt="fishy" class="bg-primary mb-1" src="../_images/Datta_2019-ChallengesOfDefiningBehavior.png" style="width: 700px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 2 </span><span class="caption-text">Center (mouse cartoons): A characteristic sequence of behaviors exhibited by a mouse in its home cage as it moves around the walls (<strong>thigmotaxis</strong>), approaches some food, eats, and then sleeps. Several key challenges facing any segmentation of continuous behavior into components are illustrated, including the following two points.<br />
+<strong>1)</strong> Behaviors need to be labeled, which raises the problem of <em>lumping</em> versus <em>splitting</em> (red); for example, mice engage in thigmotaxis (behaviors in which the mouse exhibits locomotion and turning behaviors that are deterministically sequenced to generate an action where the animal circumnavigates its cage). Is thigmotaxis a <em>singular</em> or unitary behavior (because its elements are deterministically linked during its expression), or it is a <em>sequence</em> of walking, turning, and walking behaviors?<br />
+<strong>2)</strong> Should behavior be considered at a single timescale that serially progresses or instead considered a hierarchical process organized at multiple timescales simultaneously (blue)? When the mouse is sniffing and running at the same time, is that a <em>compositional</em> behavior whose <em>basis set</em> includes <strong>run</strong> and <strong>sniff</strong>, or is <strong>running+sniffing</strong> a fundamentally new behavior (purple)?<a class="footnote-reference brackets" href="#datta2019" id="id3">2</a></span><a class="headerlink" href="#dattabehaviorhierarchy" title="Permalink to this image">¶</a></p>
+</div>
+<p>The following language, as defined by Anderson and Perona<a class="footnote-reference brackets" href="#andersonperona2014" id="id4">1</a>, provides a reasonable basis for discussion of the hierarchical nature of behavior.</p>
+<dl class="glossary simple">
+<dt id="term-Moveme">Moveme  <a class="headerlink" href="#term-Moveme" title="Permalink to this term">¶</a></dt><dd><p>The simplest meaningful pattern associated with a behavior. Typically involves a short, ballistic trajectory described by a verb, such as a <em>turn</em>, a <em>step</em>, or a <em>wing extension</em>, which cannot be further decomposed. It is analogous to a <em>phoneme</em> in language.</p>
+</dd>
+<dt id="term-Action">Action  <a class="headerlink" href="#term-Action" title="Permalink to this term">¶</a></dt><dd><p>A combination of movemes that always occurs in the same stereotypical sequence and that is also described by a verb. Examples of actions include <strong>walk</strong> (<em>step</em> + <em>step</em> + <em>step</em>), <strong>thigmotaxis</strong> (<em>walk</em> + <em>turn</em> + <em>walk</em>), etc. In language, it would be analogous to a <em>word</em> or to an idiomatic <em>expression</em>.</p>
+</dd>
+<dt id="term-Activity">Activity  <a class="headerlink" href="#term-Activity" title="Permalink to this term">¶</a></dt><dd><p>A species-characteristic concatenation of actions and movemes whose structure is typical, ranging from stereotyped to variable. Variability can be observed both in the structure or dynamics of the individual actions that comprise an activity, as well as in the timing and/or sequence of the actions. Examples of activities include <em>nest-building</em>, <em>parenting</em>, etc.</p>
+</dd>
+</dl>
+<hr class="docutils" />
+<blockquote>
+<div><p>⏳ 15 min</p>
+</div></blockquote>
+<p><em><strong>Q7: How would you define ‘hierarchy’ in the context of animal behavior?</strong></em></p>
+<p><em><strong>Q8: How do these categories defined by Anderson and Perona map onto the categories that you came up with earlier? Any thoughts?</strong></em></p>
+<p><em><strong>Q9: Pick an animal that you are familiar with (do not spend too much time deliberating over which animal to use). Make an example behavior hierarchy for that animal using either your group’s own hierarchical categories, or the “moveme, action, and activity” hierarchical categories. Do not include all behavior of the animal, just enough to make an example hierarchy of behavior. Diagram the behavior hierarchy and define each behavior that you included at each level. (Do not use any of the examples already given in the figure above).</strong></em></p>
+<p>⏸️ PAUSE here for class-wide discussion</p>
+<hr class="docutils" />
+<span class="target" id="index-0"></span></div>
+<div class="section" id="fixed-action-patterns-fap-releasing-mechanisms-and-sign-stimuli">
+<span id="faps-sign-stimuli"></span><span id="index-1"></span><h3>Fixed Action Patterns (FAP)<a class="footnote-reference brackets" href="#instinctive-motor-pattern" id="id5">3</a><a class="footnote-reference brackets" href="#fap" id="id6">4</a>, Releasing Mechanisms, and Sign Stimuli<a class="headerlink" href="#fixed-action-patterns-fap-releasing-mechanisms-and-sign-stimuli" title="Permalink to this headline">¶</a></h3>
+<div class="admonition-why admonition">
+<p class="admonition-title">Why?</p>
+<p>Once you have defined individual behaviors, you can determine what behavior an animal is doing at each moment in time. AND what that animal is <em>not</em> doing at that moment in time. Essentially, behaviors compete for expression and an animal’s motivation, its life history, and its external environment determine which wins. The Nobel laureate <a class="reference external" href="https://en.wikipedia.org/wiki/Konrad_Lorenz">Konrad Lorenz</a> laid the foundations for an approach to studying animal behavior and categorized behavior into <em>Fixed Action Pattern</em> components that are released by <em>Sign Stimuli</em>.</p>
+</div>
+<dl class="glossary simple">
+<dt id="term-Fixed-Action-Patterns-FAPs">Fixed Action Patterns (FAPs) <a class="headerlink" href="#term-Fixed-Action-Patterns-FAPs" title="Permalink to this term">¶</a></dt><dd><p>In a general sense, FAPs are identifiable behaviors. Historically, the term FAP has been used to mean <em>instinctive</em>, but that distinction may not be so necessary/useful<a class="footnote-reference brackets" href="#fapdefinition" id="id7">5</a>. At an extreme, FAPs are very <em>stereotyped</em>.</p>
+</dd>
+</dl>
+<p id="index-2"><em>Egg Rolling</em> is a common example of FAPs used in introductory animal behavior courses. Female gulls sit on their eggs in the nest to incubate them. Sometimes, the eggs roll out of the nest. The gull, noticing an egg outside of the nest, performs the <em>egg rolling</em> behavior in response. As a class, let’s watch these two videos of egg rolling:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://youtu.be/7PcteKRA3zs">egg rolling video 1</a></p></li>
+<li><p><a class="reference external" href="https://youtu.be/vUNZv-ByPkU">egg rolling video 2</a></p></li>
+</ul>
+<hr class="docutils" />
+<blockquote>
+<div><p>⏳ 10 min</p>
+</div></blockquote>
+<p><em><strong>Q10: Based on the video, define the gull ‘egg rolling’ behavior objectively.</strong></em></p>
+<p><em><strong>Q11: What do you think the function of egg rolling behavior is?</strong></em></p>
+<p><em><strong>Q12: What else do you notice in these example videos of egg rolling behavior? List comments and questions that you have.</strong></em></p>
+<p>⏹️ STOP here for today.</p>
+<hr class="docutils" />
+<span class="target" id="components-day2"></span><p id="index-3">Territorial <em>aggression behavior</em> in stickleback fish is another common “introductory animal behavior course” example of FAPs<a class="footnote-reference brackets" href="#intro-stickleback" id="id8">6</a>. During the breeding season, the male fish select a territory on which they build a nest. When a male stickleback spots another nearby male in his nesting territory, he will launch into FAP aggressive displays designed to scare off the stranger. However, males are not aggressive to nearby females in their territory.</p>
+<div class="figure align-default" id="stickleback-male-female">
+<a class="bg-primary mb-1 reference internal image-reference" href="../_images/stickleback-male-vs-female.jpg"><img alt="fishy" class="bg-primary mb-1" src="../_images/stickleback-male-vs-female.jpg" style="width: 500px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 3 </span><span class="caption-text">Stickleback fish appearance. Top: female. Bottom: male.</span><a class="headerlink" href="#stickleback-male-female" title="Permalink to this image">¶</a></p>
+</div>
+<hr class="docutils" />
+<blockquote>
+<div><p>⏳ 5 min</p>
+</div></blockquote>
+<p><em><strong>Q1: If aggressive FAPs should only be directed toward other males, what sensory cues could be used to appropriately trigger (or suppress) FAP expression?</strong></em></p>
+<p>To test what <em>stimulus</em> (sensory cues/features) triggers aggression FAPs, we need to quantify the behavior somehow. A <em>bite</em> is a component of aggression, and a commonly used measure of aggression is <em><strong>bite rate</strong></em>. For this study, let’s define a <em><strong>bite</strong></em> as <em>contact of the male’s mouth against an object</em>.</p>
+<p><em><strong>Q2: Mathematically define ‘bite rate’ (ie. how would you calculate it?).</strong></em></p>
+<p><em><strong>Q3: If bite rate was a good metric of aggression, would you predict that the bite rate of a male stickleback fish would be higher in the presence of another male or another female?</strong></em></p>
+<p>⏸️ PAUSE here for class-wide discussion</p>
+<hr class="docutils" />
+<p>As a class, let’s watch this <a class="reference external" href="https://youtu.be/ZfcGZCGdGVE">video of an experiment on stickleback aggression</a>. As you watch, take your own individual notes on what is happening throughout.</p>
+<hr class="docutils" />
+<blockquote>
+<div><p>⏳ 5 min</p>
+</div></blockquote>
+<p><em><strong>Q4: What was similar among the stimuli presented to the fish? What was different between the stimuli?</strong></em></p>
+<p><em><strong>Q5: Make a plan for how you would collect data from the video to calculate bite rate for each stimulus. (What data do you need to make that calculation? How will you measure and record that data?).</strong></em></p>
+<p>⏸️ PAUSE here for class-wide discussion</p>
+<hr class="docutils" />
+<div class="admonition-complete-this-section-for-homework-and-bring-your-responses-to-next-class admonition" id="stickleback-aggression-analysis">
+<p class="admonition-title">Complete this section for homework and bring your responses to next class</p>
+<p>On your own (or in groups is ok too), re-watch <a class="reference external" href="https://youtu.be/ZfcGZCGdGVE">the video</a> to collect the experimental data you just planned out with your group and complete the following four questions to bring to the next class:</p>
+<p><em><strong>HQ1: Summarize, in your own words, what you are testing and what the experimental design was (based on the video).</strong></em></p>
+<p><em><strong>HQ2: Based on the data you collected, make a graph of bite rate versus variation in each of two stimulus features.</strong></em></p>
+<p><em><strong>HQ3: Based on the data in your graphs, describe the relationship between each of the two independent features of the stimuli and aggressive behavior in male stickleback fish.</strong></em></p>
+<p><em><strong>HQ4: Based on the statement that ‘red coloration is a sign stimulus for stickleback aggression’, define ‘sign stimulus’ generally.</strong></em></p>
+</div>
+</div>
+</div>
+<div class="section" id="action-specific-potential-asp-energy">
+<h2>Action-Specific Potential (ASP; Energy)<a class="headerlink" href="#action-specific-potential-asp-energy" title="Permalink to this headline">¶</a></h2>
+<blockquote class="epigraph" id="index-4">
+<div><p>[The same principle] applies to virtually all basic behavior patterns. They will be performed spontaneously after an extensive resting period, but these spontaneous patterns will also respond to supplemental stimuli… Any given instinctive motor pattern has a specific releasing situation, which we call the <em>innate releasing mechanism</em>. If this situation fails to occur over an extended period of time, the instinctive motor pattern takes matters into its own hands, so to speak, through a lowering of the stimulus threshold, which can go so far that the motor pattern is performed in the absence of any observable stimulus… The internal spontaneous drive and the external releasing stimulus [(<em>sign</em> stimulus)] are <em>summated</em>.</p>
+<p class="attribution">—Here am I, where are you? pg 83-84, Konrad Lorenz</p>
+</div></blockquote>
+<hr class="docutils" />
+<blockquote>
+<div><p>⏳ 15 min</p>
+</div></blockquote>
+<p>Examine the following representation of a theoretical model for behavior posed by Lorenz.</p>
+<div class="figure align-default" id="action-specific-potential">
+<a class="bg-primary mb-1 reference internal image-reference" href="../_images/action-specific-potential.png"><img alt="fishy" class="bg-primary mb-1" src="../_images/action-specific-potential.png" style="width: 700px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 4 </span><span class="caption-text">Lorenz’s model of behavior in terms of FAPs and their expression/“release”. A <em><strong>sign stimulus</strong></em> is presented at time = 7.5au.</span><a class="headerlink" href="#action-specific-potential" title="Permalink to this image">¶</a></p>
+</div>
+<p><em><strong>Q6: What three variables are represented in Lorenz’ model of behavior?</strong></em></p>
+<p><em><strong>Q7: What data is being depicted in the top 2-D plot?</strong></em></p>
+<p><em><strong>Q8: What data is being depicted in the bottom 1-D plot?</strong></em></p>
+<p><em><strong>Q9: According to the data in the figure, what is the rate at which action-specific potential increases in the absence of any sign stimulus?</strong></em></p>
+<p><em><strong>Q10: How does the data in the bottom plot relate to the data in the top plot?</strong></em></p>
+<p><em><strong>Q11: How would you define the green horizontal line in the top plot using any or all of the following terms: action specific energy, time, and/or FAP expression?</strong></em></p>
+<p><em><strong>Q12: In the top plot, what is different about the black line that starts at time=6au from the black lines that start at 0, 3, and 7.5?</strong></em></p>
+<p><em><strong>Q13: In the bottom plot, what is different about the third FAP observed compared to the first, second, and fourth?</strong></em></p>
+<p><em><strong>Q14: Based on the information given in the model and your work so far, how would you define the term “sign stimulus”?</strong></em></p>
+<p>Note that FAP’s expressed in the absence of a <em>sign stimulus</em> are called <em>spontaneous</em>.</p>
+<p>⏸️ PAUSE here for class-wide discussion</p>
+<hr class="docutils" />
+<p id="index-5">We can think of action-specific energy as the <em>motivation</em> for a particular behavior (FAP). Both internal drive and external stimuli contribute to this motivation. The <em>strength</em> of a stimulus is defined in terms of how much it changes the action specific potential for a FAP.</p>
+<p>As an analogy, let’s consider eating behavior. The liklihood that you will eat a food can depend on the properties of the food itself (food preferences effect eating behavior).</p>
+<div class="figure align-default" id="stimulus-strength-food">
+<a class="bg-primary mb-1 reference internal image-reference" href="../_images/stimulus-strength-food.png"><img alt="fishy" class="bg-primary mb-1" src="../_images/stimulus-strength-food.png" style="width: 400px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 5 </span><span class="caption-text">Relationship between variation in food taste and desire to eat food.</span><a class="headerlink" href="#stimulus-strength-food" title="Permalink to this image">¶</a></p>
+</div>
+<p>Think about your own food preferences and whether a sweet food be a strong or weak stimulus for eating. Then, imagine you are are really really really hungry (ie. increased <em>internal drive</em> to eat), would you be more or less likely to eat in response to a weak food stimulus compared to when you are full?<br />
+Why (in terms of Lorenz’s model)?</p>
+<hr class="docutils" />
+<blockquote>
+<div><p>⏳ 10 min</p>
+</div></blockquote>
+<p><em><strong>Q15: Complete this sentence by selecting one of the options: The more motivated an animal is toward a specific FAP, the ( higher / lower ) the action specific potential for that FAP.</strong></em></p>
+<p><em><strong>Q16: Complete this sentence by selecting one of the options: The more motivated an animal is toward a specific FAP, the ( stronger / weaker ) the stimulus needs to be to elicit the FAP.</strong></em></p>
+<dl class="glossary simple">
+<dt id="term-stimulus-threshold">stimulus threshold<a class="headerlink" href="#term-stimulus-threshold" title="Permalink to this term">¶</a></dt><dd><p>the minimum stimulus strength needed to trigger/evoke the behavior</p>
+</dd>
+</dl>
+<p><em><strong>Q17: Complete the following plot to demonstrate your current understanding of the relationship between stimulus threshold and current action specific potential for an FAP.</strong></em></p>
+<div class="figure align-default" id="stimulus-threshold">
+<a class="bg-primary mb-1 reference internal image-reference" href="../_images/stimulus-threshold.png"><img alt="fishy" class="bg-primary mb-1" src="../_images/stimulus-threshold.png" style="width: 400px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 6 </span><span class="caption-text">Relationship between stimulus threshold and the current action specific potential.</span><a class="headerlink" href="#stimulus-threshold" title="Permalink to this image">¶</a></p>
+</div>
+<div class="admonition-complete-this-question-for-homework-and-bring-your-response-to-next-class admonition" id="stickleback-aggression-lorenz-model">
+<p class="admonition-title">Complete this question for homework and bring your response to next class</p>
+<p><em><strong>HQ5: In <a class="reference external" href="https://www.jstor.org/stable/10.2307/24944080">the curious behavior of stickleback fish</a>, Lorenz writes “Sticklebacks will respond to our stimuli only when they are in breeding condition.” Relate this statement to Lorenz’s model of behavior (… What does breeding condition do for action specific potential? How does breeding condition affect the stimulus threshold for eliciting a behavior? etc…)</strong></em></p>
+</div>
+<p>⏹️ STOP here for today</p>
+<hr class="footnotes docutils" />
+<dl class="footnote brackets">
+<dt class="label" id="andersonperona2014"><span class="brackets">1</span><span class="fn-backref">(<a href="#id1">1</a>,<a href="#id4">2</a>)</span></dt>
+<dd><p>David J.Anderson and Pietro Perona <a class="reference external" href="https://doi.org/10.1016/j.neuron.2014.09.005">Toward a Science of Computational Ethology</a>. Neuron 84:1 (2014).</p>
+</dd>
+<dt class="label" id="datta2019"><span class="brackets">2</span><span class="fn-backref">(<a href="#id2">1</a>,<a href="#id3">2</a>)</span></dt>
+<dd><p>Datta SR, Anderson DJ, Branson K, Perona P, Leifer A <a class="reference external" href="https://doi.org/10.1016/j.neuron.2019.09.038">Computational Neuroethology: A Call to Action</a>. Neuron 104:11-24 (2019).</p>
+</dd>
+<dt class="label" id="instinctive-motor-pattern"><span class="brackets"><a class="fn-backref" href="#id5">3</a></span></dt>
+<dd><p>In <em>Here am I. Where are You?</em> (1988), Lorenz uses the term ‘instinctive motor pattern’ instead.</p>
+</dd>
+<dt class="label" id="fap"><span class="brackets"><a class="fn-backref" href="#id6">4</a></span></dt>
+<dd><p><a class="reference external" href="https://en.wikipedia.org/wiki/Fixed_action_pattern">wiki</a></p>
+</dd>
+<dt class="label" id="fapdefinition"><span class="brackets"><a class="fn-backref" href="#id7">5</a></span></dt>
+<dd><p>Historically, behaviors are considered FAPs when they are <em>instinctual</em> (ie. genetically-determined and <em>pre-programmed</em>). Lorenz used the German word ‘Erbkoordination’ which translates literally as ‘inherited co-ordination’ to describe them. In a more contemporary mindset, we can think of <em>behavioral patterns</em> that need not be purely <em>pre-programmed</em> (as you will learn in this course if you have not already… no behavior truly is).</p>
+</dd>
+<dt class="label" id="intro-stickleback"><span class="brackets"><a class="fn-backref" href="#id8">6</a></span></dt>
+<dd><p>For example, see the landing page for ‘innate behavior’ from <a class="reference external" href="https://www.khanacademy.org/science/ap-biology/ecology-ap/responses-to-the-environment/a/innate-behaviors">Kahn Academy</a>. However, note that the reference for this result is a textbook, not <a class="reference external" href="https://psycnet.apa.org/record/1938-03659-001">the original article</a>. The data from the <a class="reference external" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0310.1937.tb01422.x">publication in German</a> is not available. Based on replications of the original experiments, it turns out that <a class="reference external" href="https://www.jstor.org/stable/4534445#metadata_info_tab_contents">Tinbergen’s results from the 1937 paper may be less clear</a>.</p>
+</dd>
+</dl>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./observation-and-analysis"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+            
+                <!-- Previous / next buttons -->
+<div class='prev-next-area'> 
+    <a class='left-prev' id="prev-link" href="../ethical-considerations.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">Ethical Considerations for Animal Use</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="observation.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Observation</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
+</div>
+            
+        </div>
+    </div>
+    <footer class="footer">
+  <p>
+    
+      By Dr. Krista Perks<br/>
+    
+        &copy; Copyright 2022.<br/>
+  </p>
+</footer>
+</main>
+
+
+      </div>
+    </div>
+  
+  <script src="../_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+
+  </body>
+</html>
