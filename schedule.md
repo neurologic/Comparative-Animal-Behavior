@@ -47,7 +47,7 @@ Group work assessments provided via [this link](https://forms.gle/heoNQ9mdmXWdkz
 | **May 8** | Bring your capstone drafts to class | [](../assessment-sum/capstone) |
 | May 10 | Bring your capstone drafts to class | [](../assessment-sum/capstone) |
 | May 10 | **Exam DUE** | Part 4 (Understanding Behavior) Due by 11pm  | [](../assessment-sum/summative-assessment) |
-| May 19 | **Capstone DUE** |  | [](../assessment-sum/capstone) |
+| May 16 | **Capstone DUE** |  | [](../assessment-sum/capstone) |
 
 
 May 11-**15** Reading Period
